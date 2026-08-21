@@ -1,6 +1,6 @@
 {
   "_comment": "캐릭터 고정 묘사. 2026-08-21 전면 개정 — 공식 3D 모델링 마스터 시트와 새 1화 대본에 맞춰 다시 썼다. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 고정 묘사에는 표정과 포즈를 넣지 않는다 — 그건 각 컷이 정한다. origin/power/note는 연출 참고용이며 프롬프트에 직접 들어가지 않는다.",
-  "style_tag": "3D Pixar/DreamWorks style animated film still, soft studio lighting, high detail fur and scale texture, warm color grading, family animation movie quality, 16:9 cinematic composition",
+  "style_tag": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition",
   "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human",
   "fragments": {
     "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각.",
