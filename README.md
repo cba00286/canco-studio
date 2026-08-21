@@ -7,7 +7,9 @@ AI로 애니메이션 영상을 제작하는 작업 저장소. 「쿵쿵이와 �
 
 ```
 canco-studio/
-├── scripts/pipeline.py    # 전 화 공용 제작 파이프라인
+├── scripts/
+│   ├── pipeline.py            # 저장소 구조를 쓰는 제작 파이프라인
+│   └── kungkung_generator.py  # 프롬프트 내장 단일 파일 버전 (윈도우용)
 ├── requirements.txt
 └── episodes/
     └── ep1/               # 1화 「안녕, 나는 쿵쿵이야!」
@@ -18,7 +20,21 @@ canco-studio/
         └── README.md      # 1화 상세 실행 가이드
 ```
 
-## 빠른 시작
+## 두 가지 실행 방법
+
+**① 파일 하나짜리 (윈도우·초보자용)** — `scripts/kungkung_generator.py`
+프롬프트가 전부 파일 안에 들어있어 이 파일 하나만 있으면 됩니다. 압축도 폴더 구조도 필요 없습니다.
+
+```cmd
+pip install gradio_client imageio-ffmpeg
+set HF_TOKEN=발급받은_토큰
+python kungkung_generator.py all
+```
+
+**② 저장소 구조 그대로 (여러 화 관리용)** — `scripts/pipeline.py`
+프롬프트를 `episodes/<화>/prompts/`의 JSON으로 관리합니다. 화가 늘어나면 이쪽이 편합니다.
+
+## 빠른 시작 (②번 방식)
 
 ```bash
 pip install -r requirements.txt
