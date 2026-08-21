@@ -1,62 +1,61 @@
 {
-  "_comment": "캐릭터 고정 묘사. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 주인공 쿵쿵은 전체 묘사, 배경 친구들은 축약 묘사를 써서 프롬프트가 200단어를 넘지 않게 한다. 쿵쿵 묘사는 사용자가 제공한 공식 레퍼런스 이미지(reference/kungkung_official_reference.png)에 맞춰 보정됨. origin/power는 대본·연출 참고용 설정이며 프롬프트에는 직접 들어가지 않는다.",
+  "_comment": "캐릭터 고정 묘사. 2026-08-21 전면 개정 — 공식 3D 모델링 마스터 시트와 새 1화 대본에 맞춰 다시 썼다. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 고정 묘사에는 표정과 포즈를 넣지 않는다 — 그건 각 컷이 정한다. origin/power/note는 연출 참고용이며 프롬프트에 직접 들어가지 않는다.",
   "style_tag": "3D Pixar/DreamWorks style animated film still, soft studio lighting, high detail fur and scale texture, warm color grading, family animation movie quality, 16:9 cinematic composition",
   "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human",
+  "fragments": {
+    "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각.",
+    "쿵쿵_파워": "golden-teal aurora light surging along his three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck",
+    "오로라빛": "shimmering golden-teal aurora light"
+  },
   "characters": {
     "쿵쿵": {
       "id": "kungkung",
-      "role": "주인공",
+      "role": "주인공 · 아기 트리케라톱스",
       "seed": 12001,
-      "desc": "a baby triceratops named Kung-Kung, soft pastel mint-green scaly skin with a cream-colored belly and muzzle, three small peach-colored horns (two above the eyes, one on the snout), a low beige neck frill with softly rounded scallops, very large sparkling green-hazel eyes with bright catchlights, blush pink cheeks, an ivory bandana scarf with a colorful tropical floral pattern tied around the neck, chubby rounded body, short stubby legs",
-      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing in a confident signature pose with both front paws on hips, three-quarter front view, cheerful open smile",
+      "desc": "Kung-Kung, a chubby baby triceratops with soft pastel mint-green skin and a pale cream belly and muzzle, three peach-colored horns (two above the eyes and one on the snout), a low beige neck frill with rounded scallops, a row of small peach scutes running down his back and tail, very large sparkling green eyes with bright catchlights, blush pink cheeks, an ivory bandana with a colorful tropical floral pattern tied around his neck, short stubby legs",
       "desc_short": "Kung-Kung the mint-green baby triceratops with three peach horns and a floral ivory bandana",
-      "origin": "남극에 떨어진 유성의 충격으로 파인 크레이터, 그 얼음 벽 속에 얼어 있던 알에서 태어났다. 유성이 퍼뜨린 빛의 파장이 알에 스며들어 잠들어 있던 생명을 깨웠고, 그 파장의 흔적이 쿵쿵의 힘으로 남았다. 유성열에 갈라진 빙하 조각이 알을 품은 채 바다로 떠내려가 긴 표류 끝에 숲속 강까지 닿았다.",
-      "power": "앞발로 땅을 내리치면 진동 파동이 퍼진다. 작게는 나무를 흔들어 열매를 떨어뜨리고 크게는 통나무나 바위를 움직여 물길을 바꾼다. 발동할 때 뿔과 목 프릴이 유성빛으로 잠깐 빛난다. 1화 시점에는 아직 제어하지 못해 넘어지거나 감정이 북받칠 때 저절로 터진다. 이 '쿵!' 소리가 이름의 유래이자, 친구들을 지키는 방식이 된다."
+      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing in a confident signature pose with both front paws on his hips, three-quarter front view, cheerful open smile",
+      "origin": "먼 북쪽 얼음의 땅에 떨어진 유성의 금빛-청록 파장을 머금은 알에서 태어났다. 폭풍우가 지나간 뒤 얼음째 강가로 떠내려왔고, 친구들이 밤새 체온으로 녹여준 새벽에 깨어났다.",
+      "power": "앞발로 땅을 찍으면 뿔에서 금빛-청록 오로라 파장이 일어나 충격파가 퍼진다. 통나무를 옮겨 물길을 막을 만큼 강하지만 1화 시점에는 통제가 서툴러 저절로 발동한다. 경험하며 점점 능숙해진다. 이 '쿵!' 소리가 이름의 유래다."
     },
     "루카": {
       "id": "luca",
-      "role": "가장 친한 친구",
+      "role": "가장 친한 친구 · 활발한 아기 호랑이",
       "seed": 12002,
-      "desc": "a baby tiger cub named Luca, bright orange fur with dark brown stripes, cream-colored face and belly, brown aviator goggles pushed up on the forehead, blue denim overalls, energetic wide grin",
-      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing with one paw waving, three-quarter front view",
-      "desc_short": "Luca the orange baby tiger cub in denim overalls with aviator goggles on his forehead"
+      "desc": "Luca, an energetic baby tiger cub with bright orange fur and dark brown stripes, a cream-colored muzzle, chest and belly, brown aviator goggles pushed up on his forehead, blue denim overalls with metal buttons, a long striped tail",
+      "desc_short": "Luca the orange baby tiger cub in blue denim overalls with aviator goggles on his forehead",
+      "note": "쿵쿵에게 이름을 지어주는 캐릭터. 고글을 내리는 동작이 시그니처."
     },
-    "몽이": {
-      "id": "mongi",
-      "role": "몽상가",
+    "후안": {
+      "id": "juan",
+      "role": "명랑한 펭귄",
       "seed": 12003,
-      "desc": "a baby penguin named Mong-i, glossy black and white feathers, a red beanie hat with a small propeller, tiny flippers, dreamy wide eyes",
-      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing with flippers slightly spread, three-quarter front view",
-      "desc_short": "Mong-i the baby penguin in a red beanie hat"
+      "desc": "Juan, a cheerful baby penguin with a navy-blue back and flippers and a soft white face and belly, a red knitted beanie with a white pompom, an orange bandana with a small pattern tied at his neck, a small orange beak and orange webbed feet, round dark eyes with bright catchlights, blush cheeks",
+      "desc_short": "Juan the navy baby penguin in a red pompom beanie and orange bandana"
     },
-    "소미": {
-      "id": "somi",
-      "role": "다정한 막내",
+    "미미": {
+      "id": "mimi",
+      "role": "호기심 많은 코알라",
       "seed": 12004,
-      "desc": "a baby rabbit named Somi, pale pink fur, long soft ears, a tiny pink neckerchief, holding a small sparkly trinket wand, gentle shy expression",
-      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing while holding the sparkly trinket, three-quarter front view",
-      "desc_short": "Somi the pale pink baby rabbit with long ears holding a sparkly trinket"
+      "desc": "Mimi, a curious baby koala with soft gray fur and a pale cream chest, large fluffy round ears with pink inner fur, a big dark nose, round gold wire-rimmed glasses, a violet-purple vest and a floral-patterned neckerchief, big gray-green eyes",
+      "desc_short": "Mimi the gray baby koala in round gold glasses and a purple vest",
+      "note": "관찰하고 분석하는 역할. 안경을 고쳐 쓰는 동작이 시그니처."
     },
-    "두리": {
-      "id": "duri",
-      "role": "박식한 관찰자",
+    "티니": {
+      "id": "tini",
+      "role": "사랑스러운 강아지",
       "seed": 12005,
-      "desc": "a baby koala named Duri, soft gray fur with a cream chest, round wire glasses, a small satchel over one shoulder, calm composed expression",
-      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing calmly adjusting the glasses, three-quarter front view",
-      "desc_short": "Duri the gray baby koala with round glasses"
+      "desc": "Tini, a small golden retriever puppy with fluffy golden-tan fur, a cream muzzle and chest, long floppy ears, a dark button nose, warm brown eyes, and a floral-patterned bandana tied at his neck",
+      "desc_short": "Tini the fluffy golden retriever puppy in a floral bandana",
+      "note": "공식 시트의 부제는 '사랑스러운 테디 베어'지만 모델은 골든 리트리버 강아지이고 대본 대사도 '멍멍!'이다. 강아지로 확정하고 진행 — 부제 수정 필요."
     },
-    "초코": {
-      "id": "choco",
-      "role": "장난꾸러기",
+    "루비": {
+      "id": "ruby",
+      "role": "쾌활한 토끼",
       "seed": 12006,
-      "desc": "a baby golden retriever puppy named Choco, golden-tan fluffy fur, wearing a small brown bandana, floppy ears, fluffy wagging tail",
-      "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, cheerful sniffing pose, three-quarter front view",
-      "desc_short": "Choco the golden-tan baby retriever puppy in a brown bandana"
+      "desc": "Ruby, a cheerful baby rabbit with pale pink fluffy fur, long upright ears with a small pink ribbon bow on one ear, a pink bow tie at her neck, large violet eyes with bright catchlights, rosy blush cheeks, holding a small wooden wand topped with a sparkling star",
+      "desc_short": "Ruby the pale pink baby rabbit with a ribbon on her ear and a little star wand",
+      "note": "S#4에서 물살에 휩쓸리는 캐릭터. 이전 대본의 '소미'를 대체한다."
     }
-  },
-  "fragments": {
-    "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각. 씬 프롬프트에서 {이름}으로 치환된다.",
-    "쿵쿵_파워": "his three horns and neck frill flaring with faint golden-teal meteor light while a visible shockwave ripple spreads outward from where his front paws strike the ground",
-    "유성빛": "faint golden-teal meteor light, the same hue as the aurora"
   }
 }
