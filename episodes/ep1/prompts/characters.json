@@ -1,5 +1,5 @@
 {
-  "_comment": "캐릭터 고정 묘사. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사)로 치환된다. 주인공 쿵쿵은 전체 묘사, 배경 친구들은 축약 묘사를 써서 프롬프트가 200단어를 넘지 않게 한다. 쿵쿵 묘사는 사용자가 제공한 공식 레퍼런스 이미지(reference/kungkung_official_reference.png)에 맞춰 보정됨.",
+  "_comment": "캐릭터 고정 묘사. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 주인공 쿵쿵은 전체 묘사, 배경 친구들은 축약 묘사를 써서 프롬프트가 200단어를 넘지 않게 한다. 쿵쿵 묘사는 사용자가 제공한 공식 레퍼런스 이미지(reference/kungkung_official_reference.png)에 맞춰 보정됨. origin/power는 대본·연출 참고용 설정이며 프롬프트에는 직접 들어가지 않는다.",
   "style_tag": "3D Pixar/DreamWorks style animated film still, soft studio lighting, high detail fur and scale texture, warm color grading, family animation movie quality, 16:9 cinematic composition",
   "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human",
   "characters": {
@@ -9,7 +9,9 @@
       "seed": 12001,
       "desc": "a baby triceratops named Kung-Kung, soft pastel mint-green scaly skin with a cream-colored belly and muzzle, three small peach-colored horns (two above the eyes, one on the snout), a low beige neck frill with softly rounded scallops, very large sparkling green-hazel eyes with bright catchlights, blush pink cheeks, an ivory bandana scarf with a colorful tropical floral pattern tied around the neck, chubby rounded body, short stubby legs, cheerful open smile",
       "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, standing in a confident signature pose with both front paws on hips, three-quarter front view",
-      "desc_short": "Kung-Kung the mint-green baby triceratops with three peach horns and a floral ivory bandana"
+      "desc_short": "Kung-Kung the mint-green baby triceratops with three peach horns and a floral ivory bandana",
+      "origin": "남극에 떨어진 유성의 충격으로 파인 크레이터, 그 얼음 벽 속에 얼어 있던 알에서 태어났다. 유성이 퍼뜨린 빛의 파장이 알에 스며들어 잠들어 있던 생명을 깨웠고, 그 파장의 흔적이 쿵쿵의 힘으로 남았다. 유성열에 갈라진 빙하 조각이 알을 품은 채 바다로 떠내려가 긴 표류 끝에 숲속 강까지 닿았다.",
+      "power": "앞발로 땅을 내리치면 진동 파동이 퍼진다. 작게는 나무를 흔들어 열매를 떨어뜨리고 크게는 통나무나 바위를 움직여 물길을 바꾼다. 발동할 때 뿔과 목 프릴이 유성빛으로 잠깐 빛난다. 1화 시점에는 아직 제어하지 못해 넘어지거나 감정이 북받칠 때 저절로 터진다. 이 '쿵!' 소리가 이름의 유래이자, 친구들을 지키는 방식이 된다."
     },
     "루카": {
       "id": "luca",
@@ -51,5 +53,10 @@
       "ref_prompt": "full-body character reference sheet on a soft neutral pastel background, cheerful sniffing pose, three-quarter front view",
       "desc_short": "Choco the golden-tan baby retriever puppy in a brown bandana"
     }
+  },
+  "fragments": {
+    "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각. 씬 프롬프트에서 {이름}으로 치환된다.",
+    "쿵쿵_파워": "his three horns and neck frill flaring with faint golden-teal meteor light while a visible shockwave ripple spreads outward from where his front paws strike the ground",
+    "유성빛": "faint golden-teal meteor light, the same hue as the aurora"
   }
 }

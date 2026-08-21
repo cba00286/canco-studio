@@ -73,12 +73,20 @@ def expand(template: str, chars: dict) -> str:
 
     등장인물이 많은 씬에서 전체 묘사를 6번 반복하면 프롬프트가 200단어를 넘어
     핵심 연출이 희석된다. 주인공만 전체 묘사, 나머지는 축약 묘사를 쓴다.
+
+    캐릭터가 아닌 이름은 fragments에서 찾는다({쿵쿵_파워}처럼 여러 씬에
+    동일하게 등장해야 하는 연출 조각을 한 곳에서 관리한다).
     """
     def lookup(name: str, key: str) -> str:
         entry = chars["characters"].get(name)
-        if entry is None:
-            raise KeyError(f"characters.json에 없는 캐릭터: {name}")
-        return entry.get(key) or entry["desc"]
+        if entry is not None:
+            return entry.get(key) or entry["desc"]
+        # 캐릭터가 아니면 공용 묘사 조각(fragments)에서 찾는다.
+        # 능력 발동 연출처럼 여러 씬에 똑같이 나와야 하는 표현을 한 곳에서 관리하기 위함이다.
+        fragment = chars.get("fragments", {}).get(name)
+        if fragment is None:
+            raise KeyError(f"characters.json의 characters/fragments 어디에도 없는 이름: {name}")
+        return fragment
 
     template = re.sub(r"\{([^{}]+)\}", lambda m: lookup(m.group(1), "desc"), template)
     return re.sub(r"\[([^\[\]]+)\]", lambda m: lookup(m.group(1), "desc_short"), template)
