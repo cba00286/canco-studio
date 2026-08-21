@@ -1,0 +1,1300 @@
+{
+  "_comment": "1화 「안녕, 나는 쿵쿵이야!」 전체 컷 리스트. 확정 대본(docs/02_1화_대본.md)을 4~5초 단위 숏으로 분해한 것. {이름}은 전체 묘사, [이름]은 축약 묘사, characters에 없는 이름은 fragments로 치환된다. dialogue는 TTS 더빙과 자막용이며 이미지 프롬프트에는 들어가지 않는다. scenes.json(12컷 요약본)과 달리 이쪽이 정식 1화 분량이다.",
+  "total_shots": 128,
+  "total_seconds": 553,
+  "sections": {
+    "T": "오프닝 타이틀",
+    "S1": "Act 1 · S#1 숲속 공터 — 평화로운 일상",
+    "S2": "Act 1 · S#2 강물 위, 거대한 얼음덩어리",
+    "S3": "Act 1 · S#3 얼음 속에서 발견한 알",
+    "S4": "Act 1 · S#4 몸으로 얼음을 녹여주는 밤",
+    "S5": "Act 1 · S#5 새벽, 알이 깨어나는 순간",
+    "S6": "Act 2 · S#6 둥지 — 이름을 받다",
+    "S7": "Act 2 · S#7 공터 — 친구들과 정식 인사",
+    "S8": "Act 3 · S#8 개울가 — 첫 위기",
+    "S9": "Act 3 · S#9 무사히 구조",
+    "E": "엔딩 · 노을 지는 언덕"
+  },
+  "shots": [
+    {
+      "id": "T-01",
+      "section": "T",
+      "shot": "타이틀",
+      "duration": 4,
+      "seed": 30000,
+      "dialogue": "",
+      "image": "a warm sunlit forest valley seen from above at dawn, mist drifting between trees, a winding river far below, storybook opening shot, wide aerial view",
+      "motion": "Slow aerial push forward over the misty forest valley, sunbeams breaking through, birds crossing the frame"
+    },
+    {
+      "id": "T-02",
+      "section": "T",
+      "shot": "타이틀",
+      "duration": 4,
+      "seed": 30007,
+      "dialogue": "",
+      "image": "the series title card over a soft green forest background with wildflowers, gentle bokeh, warm morning light, empty center space for a title",
+      "motion": "Gentle parallax drift across the flower field, light particles floating, soft focus breathing"
+    },
+    {
+      "id": "S1-01",
+      "section": "S1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30014,
+      "dialogue": "",
+      "image": "a sunny forest clearing with lush grass and wildflowers, dappled afternoon light through tall trees, peaceful and inviting, no characters yet, cinematic wide shot",
+      "motion": "Camera pans slowly right across the empty clearing, grass swaying, leaves drifting down"
+    },
+    {
+      "id": "S1-02",
+      "section": "S1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30021,
+      "dialogue": "소미: 잡아봐, 못 잡을걸!",
+      "image": "[소미] running through tall grass laughing over her shoulder, ears streaming behind her, warm afternoon backlight, dynamic medium shot",
+      "motion": "The rabbit bounds forward toward camera laughing, ears bouncing, grass parting around her"
+    },
+    {
+      "id": "S1-03",
+      "section": "S1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30028,
+      "dialogue": "루카: 어림없지!",
+      "image": "[루카] chasing at full speed with a wide grin, goggles bouncing on his forehead, dust puffing from his paws, warm afternoon light, dynamic medium shot",
+      "motion": "The tiger cub sprints after her, paws kicking up dust, goggles bouncing, camera tracking sideways"
+    },
+    {
+      "id": "S1-04",
+      "section": "S1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30035,
+      "dialogue": "",
+      "image": "close-up of [초코] mid-leap with tongue out and ears flying, pure joy on his face, sunlit forest background blurred behind",
+      "motion": "The puppy leaps across frame in slow motion, ears and tongue flapping, sunlight flaring"
+    },
+    {
+      "id": "S1-05",
+      "section": "S1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30042,
+      "dialogue": "",
+      "image": "[루카], [소미], [초코] and [몽이] playing tag in a wide circle across the sunny clearing while [두리] watches from a mossy rock, joyful chaos, cinematic wide shot",
+      "motion": "Camera arcs around the group as they chase each other in a circle, everyone laughing, grass and petals stirred up"
+    },
+    {
+      "id": "S1-06",
+      "section": "S1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30049,
+      "dialogue": "",
+      "image": "[몽이] waddling as fast as he can with flippers spread, comically slow, his red beanie slipping over one eye, sunny clearing",
+      "motion": "The penguin waddles frantically, beanie sliding down over his eye, he pushes it back up and keeps going"
+    },
+    {
+      "id": "S1-07",
+      "section": "S1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30056,
+      "dialogue": "",
+      "image": "[두리] sitting on a mossy rock reading a small leaf-bound notebook, glasses glinting, unbothered by the chaos behind him, warm afternoon light",
+      "motion": "The koala turns a page calmly while blurred figures rush past behind him, he adjusts his glasses"
+    },
+    {
+      "id": "S1-08",
+      "section": "S1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30063,
+      "dialogue": "",
+      "image": "close-up of [소미] tagging [루카] on the shoulder with a delighted grin, both mid-motion, sun flare between them",
+      "motion": "The rabbit's paw taps the tiger's shoulder, both freeze in surprise then burst out laughing"
+    },
+    {
+      "id": "S1-09",
+      "section": "S1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30070,
+      "dialogue": "",
+      "image": "the five friends collapsing into the grass together in a tangled laughing pile, exhausted and happy, wildflowers around them, warm golden afternoon",
+      "motion": "The group tumbles into the grass together, chests heaving with laughter, petals drifting down over them"
+    },
+    {
+      "id": "S1-10",
+      "section": "S1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30077,
+      "dialogue": "",
+      "image": "close-up of five pairs of paws and flippers lying side by side in the grass, gently rising and falling, warm sunlight, tender detail shot",
+      "motion": "The paws rise and fall with breathing, a butterfly lands on one and flutters away"
+    },
+    {
+      "id": "S1-11",
+      "section": "S1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30084,
+      "dialogue": "",
+      "image": "the five friends lying in a circle in the grass looking up at a bright blue sky, contented smiles, viewed from directly above",
+      "motion": "Top-down view slowly rotating as the friends lie still, clouds drifting overhead reflected in their eyes"
+    },
+    {
+      "id": "S1-12",
+      "section": "S1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30091,
+      "dialogue": "",
+      "image": "the sunny forest clearing as the first shadow of a cloud slides across the grass, the light dimming slightly, subtle unease entering a peaceful scene",
+      "motion": "A cloud shadow sweeps across the clearing, the warm light draining to cool grey, the friends' ears perking up"
+    },
+    {
+      "id": "S2-01",
+      "section": "S2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30098,
+      "dialogue": "",
+      "image": "dark storm clouds boiling in over the forest treetops, the sky turning slate grey, wind bending the branches, ominous wide shot",
+      "motion": "Storm clouds roll in fast across the sky, treetops thrashing, the light dropping rapidly"
+    },
+    {
+      "id": "S2-02",
+      "section": "S2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30105,
+      "dialogue": "",
+      "image": "the five friends scrambling to their feet in the clearing as the first heavy raindrops hit, ears flattened, looking up at the darkening sky",
+      "motion": "The friends jump up, raindrops splashing on their fur, they shield their eyes and look up"
+    },
+    {
+      "id": "S2-03",
+      "section": "S2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30112,
+      "dialogue": "",
+      "image": "close-up of a single fat raindrop striking a broad green leaf and bursting apart, then more and more drops hammering down",
+      "motion": "One raindrop hits the leaf in slow motion and shatters, then the rain accelerates into a downpour"
+    },
+    {
+      "id": "S2-04",
+      "section": "S2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30119,
+      "dialogue": "",
+      "image": "heavy rain lashing the forest river, the water swollen and churning brown, branches tumbling in the current, dramatic storm lighting",
+      "motion": "The camera pushes low over the churning river, rain hammering the surface, debris sweeping past"
+    },
+    {
+      "id": "S2-05",
+      "section": "S2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30126,
+      "dialogue": "",
+      "image": "the five friends huddled together on the riverbank under a broad leaf, soaked and wide-eyed, watching the river rise",
+      "motion": "The friends huddle closer under the leaf, rain streaming off its edges, they flinch at a thunderclap"
+    },
+    {
+      "id": "S2-06",
+      "section": "S2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30133,
+      "dialogue": "",
+      "image": "a lightning flash illuminating the storm-dark river, and in that instant a massive pale ice block visible far upstream, dramatic silhouette",
+      "motion": "A lightning flash whites out the frame and reveals the distant ice block, then darkness returns"
+    },
+    {
+      "id": "S2-07",
+      "section": "S2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30140,
+      "dialogue": "두리: 저게... 뭐야?!",
+      "image": "close-up of [두리] with rain running down his glasses, mouth open in astonishment, one paw raised pointing off-screen",
+      "motion": "The koala's eyes go wide behind rain-streaked glasses, his paw slowly rises to point"
+    },
+    {
+      "id": "S2-08",
+      "section": "S2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30147,
+      "dialogue": "두리: 얼음이 떠내려와!",
+      "image": "a massive ice block the size of a small house drifting down the swollen river toward camera, something faintly luminous deep inside it, heavy rain, dramatic storm lighting",
+      "motion": "The ice block drifts closer and closer, rain bouncing off its surface, a faint glow pulsing somewhere within"
+    },
+    {
+      "id": "S2-09",
+      "section": "S2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30154,
+      "dialogue": "",
+      "image": "the five friends running along the muddy riverbank keeping pace with the drifting ice block, slipping and splashing, urgent motion",
+      "motion": "The friends run along the bank through mud and puddles, camera tracking alongside them"
+    },
+    {
+      "id": "S2-10",
+      "section": "S2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30161,
+      "dialogue": "",
+      "image": "close-up of the ice block's surface streaming with rain, deep frost patterns inside, a soft light somewhere in its depths",
+      "motion": "Rain sheets down the ice surface, the interior light pulses once, slowly, like a breath"
+    },
+    {
+      "id": "S2-11",
+      "section": "S2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30168,
+      "dialogue": "",
+      "image": "[루카] skidding to a halt at the water's edge with one paw out to hold the others back, protective and alert, rain pouring",
+      "motion": "The tiger cub slides to a stop and throws out a paw to stop the others, all of them breathing hard"
+    },
+    {
+      "id": "S2-12",
+      "section": "S2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30175,
+      "dialogue": "",
+      "image": "the huge ice block swinging in the current and grinding to a halt against a cluster of boulders at the riverbank, spray flying, heavy rain",
+      "motion": "The ice block turns in the current and slams into the boulders with a shudder, spray bursting up, then it settles"
+    },
+    {
+      "id": "S2-13",
+      "section": "S2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30182,
+      "dialogue": "",
+      "image": "the five friends standing in the rain staring at the lodged ice block, small against its bulk, awed and hesitant",
+      "motion": "The friends stand frozen in the rain looking up at the ice block, camera slowly craning up to show its size"
+    },
+    {
+      "id": "S3-01",
+      "section": "S3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30189,
+      "dialogue": "",
+      "image": "the five friends edging cautiously toward the lodged ice block through the rain, [루카] leading, everyone tense",
+      "motion": "The friends creep forward step by step, rain streaming, [루카] motioning them to stay behind him"
+    },
+    {
+      "id": "S3-02",
+      "section": "S3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30196,
+      "dialogue": "",
+      "image": "close-up of [루카]'s paw pressing flat against the frosted ice surface, water running over his fur, curiosity and courage",
+      "motion": "The tiger's paw presses against the ice, frost clearing under his warmth, revealing a glow beneath"
+    },
+    {
+      "id": "S3-03",
+      "section": "S3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30203,
+      "dialogue": "",
+      "image": "extreme close-up through frosted translucent ice revealing the curved shell of a large pale egg glowing faintly from within, mysterious and beautiful",
+      "motion": "The camera drifts through the frost as it clears, the egg's shape resolving, its glow pulsing slowly"
+    },
+    {
+      "id": "S3-04",
+      "section": "S3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30210,
+      "dialogue": "소미: 얼음 속에... 알이 있어!",
+      "image": "[소미] pressed against the ice with both paws and her cheek, eyes enormous with wonder, rain dripping from her ears",
+      "motion": "The rabbit presses her face to the ice, her breath fogging it, eyes going wide with amazement"
+    },
+    {
+      "id": "S3-05",
+      "section": "S3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30217,
+      "dialogue": "소미: 흔들리고 있어, 살아있나 봐!",
+      "image": "extreme close-up of the egg inside the ice, its surface trembling almost imperceptibly, a heartbeat glow answering from within",
+      "motion": "The egg's surface shivers once, then again, the inner light pulsing in the same rhythm like a heartbeat"
+    },
+    {
+      "id": "S3-06",
+      "section": "S3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30224,
+      "dialogue": "",
+      "image": "the five friends crowding around the ice block, faces lit from below by the egg's soft glow against the storm-dark rain",
+      "motion": "The friends press in around the ice, their faces lit by the pulsing glow, rain still falling around them"
+    },
+    {
+      "id": "S3-07",
+      "section": "S3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30231,
+      "dialogue": "두리: 저 멀리 얼음의 땅에서 떠내려온 것 같아.",
+      "image": "[두리] studying the ice block closely, wiping his rain-streaked glasses, thoughtful and certain, the glowing egg behind him",
+      "motion": "The koala wipes his glasses, leans in to study the ice, then looks up at the others with a serious expression"
+    },
+    {
+      "id": "S3-08",
+      "section": "S3",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30238,
+      "dialogue": "",
+      "image": "a brief imagined vision of a vast pale frozen land under a shimmering aurora, endless ice cliffs meeting a dark sea, cold and awe-inspiring, storybook memory tone",
+      "motion": "Slow drift across the frozen wasteland, aurora rippling overhead, wind blowing snow across the ice"
+    },
+    {
+      "id": "S3-09",
+      "section": "S3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30245,
+      "dialogue": "두리: 이대로 두면 계속 얼어 있을 거야.",
+      "image": "close-up of [두리] turning to the others, rain on his glasses, quiet worry in his eyes",
+      "motion": "The koala turns to face the others, his expression turning grave, rain dripping from his chin"
+    },
+    {
+      "id": "S3-10",
+      "section": "S3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30252,
+      "dialogue": "",
+      "image": "the five friends exchanging silent looks in the rain, a decision passing between them without words, glowing egg behind",
+      "motion": "The friends look at each other one by one around the circle, each nodding, resolve building"
+    },
+    {
+      "id": "S3-11",
+      "section": "S3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30259,
+      "dialogue": "루카: 우리가 녹여주자!",
+      "image": "close-up of [루카] with rain running down his face, jaw set with determination, pushing his goggles up, brave and warm",
+      "motion": "The tiger cub pushes his goggles up, sets his jaw, and steps forward with fierce determination"
+    },
+    {
+      "id": "S3-12",
+      "section": "S3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30266,
+      "dialogue": "루카: 다 같이 따뜻하게 해주는 거야!",
+      "image": "the five friends moving in together and pressing themselves against the huge ice block from all sides, small bodies against cold blue mass, rain pouring",
+      "motion": "The friends step in together and press against the ice from every side, wrapping their arms around it"
+    },
+    {
+      "id": "S4-01",
+      "section": "S4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30273,
+      "dialogue": "",
+      "image": "night falling over the riverbank, the storm still blowing, the ice block a pale shape in the dark with five small figures clinging to it, moonlight through torn clouds",
+      "motion": "Time-lapse of dusk falling into night, clouds racing, the ice glowing faintly in the darkness"
+    },
+    {
+      "id": "S4-02",
+      "section": "S4",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30280,
+      "dialogue": "루카: 조금만 버텨!",
+      "image": "close-up of [루카] with his cheek pressed against the ice, eyes squeezed shut, fur soaked and flattened, willing his warmth into it",
+      "motion": "The tiger presses his cheek harder against the ice, breath fogging, water running down his face"
+    },
+    {
+      "id": "S4-03",
+      "section": "S4",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30287,
+      "dialogue": "루카: 우리가 따뜻하게 해줄게!",
+      "image": "close-up of small paws and flippers pressed flat against the frosted ice, tiny circles of meltwater forming under each one",
+      "motion": "Meltwater beads and trickles down from under each paw, the frost retreating in small warm circles"
+    },
+    {
+      "id": "S4-04",
+      "section": "S4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30294,
+      "dialogue": "",
+      "image": "[소미] shivering violently against the ice but refusing to let go, teeth chattering, eyes shut tight with effort",
+      "motion": "The rabbit shivers hard, her ears trembling, but she presses in tighter instead of pulling away"
+    },
+    {
+      "id": "S4-05",
+      "section": "S4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30301,
+      "dialogue": "",
+      "image": "[초코] curled against the base of the ice block with [몽이] tucked under his chin, sharing warmth, rain easing off",
+      "motion": "The puppy curls tighter around the penguin, both shivering, their breath rising in small clouds"
+    },
+    {
+      "id": "S4-06",
+      "section": "S4",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30308,
+      "dialogue": "",
+      "image": "the storm finally breaking, clouds tearing open to reveal a bright moon over the riverbank, the ice block half-melted with five sleeping figures around it",
+      "motion": "The clouds part and moonlight floods the scene, rain fading to a drizzle then stopping, everything going still"
+    },
+    {
+      "id": "S4-07",
+      "section": "S4",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30315,
+      "dialogue": "",
+      "image": "close-up of meltwater dripping steadily from the shrinking ice block into a puddle, each drop catching the moonlight",
+      "motion": "Water drips steadily from the ice, each drop falling and rippling the moonlit puddle below"
+    },
+    {
+      "id": "S4-08",
+      "section": "S4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30322,
+      "dialogue": "",
+      "image": "the five friends asleep in a tight huddle against the much smaller ice block, exhausted, moonlight and drifting mist, tender night scene",
+      "motion": "The sleeping friends breathe slowly in unison, mist drifting past, moonlight shifting across them"
+    },
+    {
+      "id": "S4-09",
+      "section": "S4",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30329,
+      "dialogue": "",
+      "image": "close-up of the egg now nearly free of ice, sitting silent and still in the moonlight, its glow gone dim and faint",
+      "motion": "The egg sits utterly still, its inner light so faint it seems to be fading, no movement at all"
+    },
+    {
+      "id": "S4-10",
+      "section": "S4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30336,
+      "dialogue": "",
+      "image": "[루카] stirring awake for a moment, lifting his head to check the egg, worry crossing his face before he settles again",
+      "motion": "The tiger raises his head, looks anxiously at the motionless egg, then lowers his head and closes his eyes"
+    },
+    {
+      "id": "S4-11",
+      "section": "S4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30343,
+      "dialogue": "",
+      "image": "the deep quiet of the night riverbank, sleeping friends and the silent egg, stars wheeling slowly overhead, a held moment of uncertainty",
+      "motion": "Long slow time-lapse of stars wheeling above the sleeping group, nothing else moving at all"
+    },
+    {
+      "id": "S4-12",
+      "section": "S4",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30350,
+      "dialogue": "",
+      "image": "extreme close-up of the egg's dark surface in the last blue moments before dawn, absolutely motionless",
+      "motion": "The egg remains perfectly still as the light shifts from cold blue toward the first faint warmth"
+    },
+    {
+      "id": "S5-01",
+      "section": "S5",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30357,
+      "dialogue": "",
+      "image": "the first light of dawn breaking through the torn storm clouds over the river valley, gold spilling across the wet forest, breathtaking sunrise",
+      "motion": "The sun's edge clears the horizon and golden light sweeps across the valley, mist igniting gold"
+    },
+    {
+      "id": "S5-02",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30364,
+      "dialogue": "",
+      "image": "close-up of a shaft of sunrise light striking the remaining ice, the frost flaring brilliant gold",
+      "motion": "A beam of sunlight lands on the ice and travels across it, the frost blazing gold where it touches"
+    },
+    {
+      "id": "S5-03",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30371,
+      "dialogue": "",
+      "image": "extreme close-up of a crack racing across the melting ice with a sharp sound, fissures spreading like lightning",
+      "motion": "A crack shoots across the ice surface, then another and another, branching rapidly"
+    },
+    {
+      "id": "S5-04",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30378,
+      "dialogue": "",
+      "image": "the ice shell splitting apart and falling away in glittering shards, revealing the pale egg standing free in the golden dawn light",
+      "motion": "The ice splits and falls away in shining pieces, the egg revealed standing free and gleaming"
+    },
+    {
+      "id": "S5-05",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30385,
+      "dialogue": "",
+      "image": "the five friends jolting awake at the sound, eyes flying open, scrambling upright in the dawn light",
+      "motion": "The friends startle awake all at once, heads snapping up, scrambling to their feet"
+    },
+    {
+      "id": "S5-06",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30392,
+      "dialogue": "",
+      "image": "extreme close-up of a single crack appearing on the egg's shell with a sharp snap, then spreading",
+      "motion": "A crack snaps open across the eggshell, then spiders outward, pieces beginning to shift"
+    },
+    {
+      "id": "S5-07",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30399,
+      "dialogue": "",
+      "image": "the five friends frozen in place staring at the cracking egg, hardly daring to breathe, dawn light on their faces",
+      "motion": "The friends stand utterly still, eyes wide, one of them clutching another's paw without looking"
+    },
+    {
+      "id": "S5-08",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30406,
+      "dialogue": "",
+      "image": "the eggshell bursting open in a shower of fragments as a small green snout pushes through into the golden light",
+      "motion": "The shell bursts apart and a small snout pushes out into the sunlight, shell fragments tumbling away"
+    },
+    {
+      "id": "S5-09",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30413,
+      "dialogue": "",
+      "image": "{쿵쿵} emerging from the broken shell for the first time, blinking in the sunrise, damp and wobbly and brand new",
+      "motion": "The baby triceratops pushes out of the shell, blinks against the light, shakes his head and looks around"
+    },
+    {
+      "id": "S5-10",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30420,
+      "dialogue": "",
+      "image": "extreme close-up of {쿵쿵}'s huge green-hazel eyes opening fully for the first time, the sunrise reflected in them",
+      "motion": "The eyes open wide, pupils adjusting, the golden sunrise blooming in the reflection"
+    },
+    {
+      "id": "S5-11",
+      "section": "S5",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30427,
+      "dialogue": "쿵쿵: 우와아아아!!",
+      "image": "{쿵쿵} standing in the broken shell with his head thrown back and mouth wide open in a joyful first cry, golden sunrise backlight rimming him in light, five friends watching in awe",
+      "motion": "The baby triceratops throws his head back and cries out to the sky, birds scattering, golden light flaring"
+    },
+    {
+      "id": "S5-12",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30434,
+      "dialogue": "",
+      "image": "{쿵쿵} trying to stand and immediately collapsing sideways into the shell fragments, legs splayed",
+      "motion": "The baby wobbles upright then his legs slide out from under him and he flops down with a puff of shell dust"
+    },
+    {
+      "id": "S5-13",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30441,
+      "dialogue": "",
+      "image": "{쿵쿵} pushing himself up again with enormous effort, trembling on three legs before toppling over the other way",
+      "motion": "He pushes up shaking, holds for a second, then tips over sideways again"
+    },
+    {
+      "id": "S5-14",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30448,
+      "dialogue": "",
+      "image": "close-up of the friends watching breathlessly, [소미] with both paws over her mouth, [루카] leaning forward",
+      "motion": "The friends lean in together, [소미] covering her mouth, nobody daring to speak"
+    },
+    {
+      "id": "S5-15",
+      "section": "S5",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30455,
+      "dialogue": "",
+      "image": "{쿵쿵} planting both front paws firmly on the wet ground and pushing himself upright with fierce determination, third attempt",
+      "motion": "He plants both front paws, strains upward, legs shaking violently, and slowly rises"
+    },
+    {
+      "id": "S5-16",
+      "section": "S5",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30462,
+      "dialogue": "",
+      "image": "{쿵쿵} standing at last, his front foot coming down solidly on the earth and sending a ring of dust and water rippling outward, morning light blazing behind him",
+      "motion": "His foot lands with weight, a ring of dust and water ripples outward across the ground, leaves shivering on nearby branches"
+    },
+    {
+      "id": "S5-17",
+      "section": "S5",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30469,
+      "dialogue": "쿵쿵: 나 일어났다! 짜잔!",
+      "image": "close-up of {쿵쿵} beaming with enormous pride, chest puffed out, still wobbling slightly, dawn light on his face",
+      "motion": "The baby beams and puffs out his chest proudly, wobbling a little, tail wagging"
+    },
+    {
+      "id": "S5-18",
+      "section": "S5",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30476,
+      "dialogue": "",
+      "image": "the five friends erupting in cheers around {쿵쿵}, leaping and hugging each other in the golden sunrise, pure joy after a long night",
+      "motion": "The friends erupt cheering, leaping into the air and grabbing each other, [초코] spinning in circles"
+    },
+    {
+      "id": "S6-01",
+      "section": "S6",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30483,
+      "dialogue": "",
+      "image": "the riverbank in bright clear morning light after the storm, everything washed and glittering, the broken shell and the group gathered around",
+      "motion": "Camera drifts slowly across the sunlit riverbank, steam rising from wet stones, water sparkling"
+    },
+    {
+      "id": "S6-02",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30490,
+      "dialogue": "",
+      "image": "{쿵쿵} craning his neck around to inspect his own body, twisting to look at his tail with enormous curiosity",
+      "motion": "The baby twists around trying to see his own tail, turning in a small circle chasing it"
+    },
+    {
+      "id": "S6-03",
+      "section": "S6",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30497,
+      "dialogue": "",
+      "image": "close-up of {쿵쿵} going cross-eyed trying to look at the horn on his own snout, comically focused",
+      "motion": "His eyes cross as he strains to see his own snout horn, then he gives up and shakes his head"
+    },
+    {
+      "id": "S6-04",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30504,
+      "dialogue": "",
+      "image": "the five friends gathering in a ring around {쿵쿵}, leaning in with fascination, morning sun behind them",
+      "motion": "The friends close in around him in a circle, heads tilting curiously, all leaning in together"
+    },
+    {
+      "id": "S6-05",
+      "section": "S6",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30511,
+      "dialogue": "루카: 우와, 진짜 태어났네!",
+      "image": "close-up of [루카] pushing his goggles down over his eyes to inspect the newborn, delighted grin",
+      "motion": "The tiger cub slides his goggles down over his eyes and leans in close, grinning hugely"
+    },
+    {
+      "id": "S6-06",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30518,
+      "dialogue": "루카: 근데... 넌 이름이 뭐야?",
+      "image": "[루카] tilting his head at {쿵쿵} with a friendly questioning expression, morning light between them, warm two-shot",
+      "motion": "The tiger tilts his head questioningly, ears forward, waiting for an answer"
+    },
+    {
+      "id": "S6-07",
+      "section": "S6",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30525,
+      "dialogue": "쿵쿵: 이름...? 나는... 나는...",
+      "image": "close-up of {쿵쿵} looking utterly lost, eyes searching, mouth opening and closing without an answer",
+      "motion": "The baby's mouth opens and closes, eyes darting side to side, his expression falling into confusion"
+    },
+    {
+      "id": "S6-08",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30532,
+      "dialogue": "",
+      "image": "{쿵쿵} taking a wobbly step forward to hide his confusion, legs splaying, about to fall",
+      "motion": "He takes an unsteady step forward, legs sliding apart, arms windmilling for balance"
+    },
+    {
+      "id": "S6-09",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30539,
+      "dialogue": "",
+      "image": "{쿵쿵} tipping over and landing flat on his belly with a heavy thump, dust puffing outward in a ring",
+      "motion": "He tips forward and lands flat with a heavy thump, a ring of dust puffing out around him"
+    },
+    {
+      "id": "S6-10",
+      "section": "S6",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30546,
+      "dialogue": "",
+      "image": "close-up of {쿵쿵}'s foot coming down heavily on the earth, small stones and water droplets jumping at the impact",
+      "motion": "The foot lands and the ground shudders, pebbles and droplets bouncing up from the impact"
+    },
+    {
+      "id": "S6-11",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30553,
+      "dialogue": "",
+      "image": "{쿵쿵} getting up and taking three more heavy determined steps, each landing with a solid thump, dust rings blooming",
+      "motion": "He rises and stomps forward three times, each step landing heavily and puffing dust outward"
+    },
+    {
+      "id": "S6-12",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30560,
+      "dialogue": "",
+      "image": "[루카] doubled over laughing with delight at the thumping sound, holding his sides, the other friends starting to laugh too",
+      "motion": "The tiger cub doubles over laughing, slapping the ground, the others catching the laughter one by one"
+    },
+    {
+      "id": "S6-13",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30567,
+      "dialogue": "루카: 이름이 없으면 내가 지어줄게. 너 발소리가 딱 '쿵쿵'이잖아!",
+      "image": "[루카] straightening up with a bright idea lighting his face, one paw raised, pointing at {쿵쿵} warmly",
+      "motion": "The tiger straightens up with a sudden bright idea, raising one paw, eyes shining"
+    },
+    {
+      "id": "S6-14",
+      "section": "S6",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30574,
+      "dialogue": "루카: 게다가 태어날 때도 땅이 '쿵' 울렸다고!",
+      "image": "[루카] gesturing at the ground where the newborn first stood, the others nodding in recognition, warm morning light",
+      "motion": "The tiger gestures at the ground, the others look and nod, remembering, smiles spreading"
+    },
+    {
+      "id": "S6-15",
+      "section": "S6",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30581,
+      "dialogue": "쿵쿵: 쿵쿵! 나 쿵쿵이야!",
+      "image": "close-up of {쿵쿵} lighting up with the biggest joyful smile of his life, hearing his own name for the first time",
+      "motion": "The baby's whole face lights up, he beams and bounces on his front paws with excitement"
+    },
+    {
+      "id": "S6-16",
+      "section": "S6",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30588,
+      "dialogue": "",
+      "image": "the group cheering and clapping around {쿵쿵} in the bright morning sun, celebration of a name, warm wide shot",
+      "motion": "The friends cheer and clap around him, [초코] running circles, everyone laughing in the sunlight"
+    },
+    {
+      "id": "S7-01",
+      "section": "S7",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30595,
+      "dialogue": "",
+      "image": "the sunny forest clearing again, now with six friends walking in together, {쿵쿵} in the middle wobbling slightly, morning light",
+      "motion": "The group walks into the clearing together, the newborn wobbling in the middle, everyone matching his slow pace"
+    },
+    {
+      "id": "S7-02",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30602,
+      "dialogue": "몽이: 우와, 아기 공룡이다!",
+      "image": "[몽이] gazing up at {쿵쿵} with enormous dreamy eyes, flippers clasped together in wonder, sunlight behind them",
+      "motion": "The penguin gazes up in wonder, flippers clasped, rocking slightly on his feet"
+    },
+    {
+      "id": "S7-03",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30609,
+      "dialogue": "몽이: 나도 날개가 있었으면 저렇게 컸을까?",
+      "image": "[몽이] stretching his tiny flippers out wide and looking up at the sky wistfully, dreaming of flight",
+      "motion": "The penguin stretches his flippers wide and flaps hopefully, looking up at the sky, then droops a little"
+    },
+    {
+      "id": "S7-04",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30616,
+      "dialogue": "소미: 너무 귀여워! 우리 같이 놀자!",
+      "image": "[소미] bouncing up to {쿵쿵} and taking his front paw in both of hers, sparkling with delight",
+      "motion": "The rabbit bounces over and grabs his paw with both of hers, shaking it happily, ears bobbing"
+    },
+    {
+      "id": "S7-05",
+      "section": "S7",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30623,
+      "dialogue": "두리: ...음, 뿔이 세 개네. 특이하다.",
+      "image": "close-up of [두리] adjusting his glasses while studying {쿵쿵}'s three horns with scholarly seriousness",
+      "motion": "The koala pushes his glasses up his nose, leans in to examine the horns, and makes a thoughtful note"
+    },
+    {
+      "id": "S7-06",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30630,
+      "dialogue": "초코: 냄새가 좋은데? 흙냄새랑 비슷해!",
+      "image": "[초코] snuffling energetically around {쿵쿵}'s feet, tail wagging furiously, nose twitching",
+      "motion": "The puppy snuffles around his feet enthusiastically, tail wagging hard, then sneezes and shakes his head"
+    },
+    {
+      "id": "S7-07",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30637,
+      "dialogue": "",
+      "image": "{쿵쿵} looking around at all five new faces, overwhelmed and happy, morning sun on his face",
+      "motion": "The baby turns his head to look at each friend in turn, his smile growing wider with each one"
+    },
+    {
+      "id": "S7-08",
+      "section": "S7",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30644,
+      "dialogue": "",
+      "image": "the six friends together in the sunny clearing, a group portrait moment, wildflowers and warm light, the new family complete",
+      "motion": "The six gather together and settle into a group, [초코] leaping into frame at the last second, everyone laughing"
+    },
+    {
+      "id": "S7-09",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30651,
+      "dialogue": "",
+      "image": "the friends teaching {쿵쿵} to walk properly, [루카] demonstrating exaggerated careful steps while the baby copies him",
+      "motion": "The tiger demonstrates a slow careful step, the baby copies it clumsily and nearly topples, both laugh"
+    },
+    {
+      "id": "S7-10",
+      "section": "S7",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30658,
+      "dialogue": "",
+      "image": "{쿵쿵} managing several steady steps in a row while the friends cheer him on from both sides",
+      "motion": "He walks several steps steadily as the friends cheer from either side, wobbling but staying up"
+    },
+    {
+      "id": "S7-11",
+      "section": "S7",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30665,
+      "dialogue": "",
+      "image": "the six friends heading off together toward a stream visible through the trees, midday sun high and bright",
+      "motion": "The group walks off together toward the stream, camera following behind them through dappled light"
+    },
+    {
+      "id": "S8-01",
+      "section": "S8",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30672,
+      "dialogue": "",
+      "image": "a clear stream running bright over rounded stones in the midday sun, deceptively strong current in the middle channel, inviting and beautiful",
+      "motion": "Camera glides low over the sparkling stream, sunlight fracturing on the water, current running fast in the center"
+    },
+    {
+      "id": "S8-02",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30679,
+      "dialogue": "",
+      "image": "the six friends splashing and playing in the shallows at the stream edge, water flying, pure summer joy",
+      "motion": "The friends splash each other in the shallows, water droplets flying and catching the light"
+    },
+    {
+      "id": "S8-03",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30686,
+      "dialogue": "",
+      "image": "[소미] hopping from stone to stone out toward the middle of the stream, delighted with her own daring",
+      "motion": "The rabbit hops stone to stone getting further out, laughing, growing bolder with each jump"
+    },
+    {
+      "id": "S8-04",
+      "section": "S8",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30693,
+      "dialogue": "",
+      "image": "close-up of [소미]'s foot slipping on a wet mossy stone, her balance breaking",
+      "motion": "Her foot slides off the slick moss, her arms fly out, and she pitches sideways toward the water"
+    },
+    {
+      "id": "S8-05",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30700,
+      "dialogue": "소미: 꺄악! 도와줘!",
+      "image": "[소미] falling into the fast current and being swept away downstream, arms flailing, panic on her face",
+      "motion": "The rabbit hits the water and is instantly swept downstream, head bobbing, arms thrashing"
+    },
+    {
+      "id": "S8-06",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30707,
+      "dialogue": "",
+      "image": "the friends on the bank frozen in shock for a heartbeat, then breaking into panic, [루카] shouting",
+      "motion": "The friends freeze for one beat then explode into motion, shouting and running along the bank"
+    },
+    {
+      "id": "S8-07",
+      "section": "S8",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30714,
+      "dialogue": "",
+      "image": "close-up of {쿵쿵}'s face changing from confusion to fierce resolve in an instant, eyes locking on the stream",
+      "motion": "The baby's confused expression hardens into determination, his eyes narrowing on the water"
+    },
+    {
+      "id": "S8-08",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30721,
+      "dialogue": "",
+      "image": "{쿵쿵} charging past the others and leaping off the bank into the stream without hesitation, huge splash",
+      "motion": "The baby charges past the others and launches off the bank into the water, a huge splash erupting"
+    },
+    {
+      "id": "S8-09",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30728,
+      "dialogue": "",
+      "image": "{쿵쿵} floundering badly in the current, head barely above water, paddling clumsily but pushing forward",
+      "motion": "He flounders and goes under briefly, resurfaces spluttering, and paddles determinedly onward"
+    },
+    {
+      "id": "S8-10",
+      "section": "S8",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30735,
+      "dialogue": "",
+      "image": "close-up of {쿵쿵}'s face half underwater, eyes fixed ahead with absolute stubbornness, water streaming over him",
+      "motion": "Water washes over his face but his eyes stay locked forward, jaw set, refusing to stop"
+    },
+    {
+      "id": "S8-11",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30742,
+      "dialogue": "",
+      "image": "a fallen branch floating in the current between {쿵쿵} and [소미], the obvious lifeline",
+      "motion": "The branch turns slowly in the current, sunlight flashing off the wet bark, drifting between them"
+    },
+    {
+      "id": "S8-12",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30749,
+      "dialogue": "쿵쿵: 내가... 지켜줄게!",
+      "image": "{쿵쿵} hooking the floating branch with his snout horn and shoving it hard toward [소미], straining with everything he has",
+      "motion": "He catches the branch on his horn and drives it forward through the water toward the rabbit, straining hard"
+    },
+    {
+      "id": "S8-13",
+      "section": "S8",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30756,
+      "dialogue": "",
+      "image": "close-up of [소미]'s paws catching the branch and gripping it tight, relief flooding her face",
+      "motion": "Her paws slap onto the branch and clamp tight, her head coming up out of the water, gasping"
+    },
+    {
+      "id": "S8-14",
+      "section": "S8",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30763,
+      "dialogue": "",
+      "image": "[소미] clinging to the branch while {쿵쿵} pushes from behind, both bobbing in the current",
+      "motion": "The rabbit clings to the branch as the baby shoves from behind, both of them turning slowly in the current"
+    },
+    {
+      "id": "S9-01",
+      "section": "S9",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30770,
+      "dialogue": "",
+      "image": "[루카] and [초코] wading out from the bank into the shallows, reaching for the branch, teamwork",
+      "motion": "The tiger and puppy wade in fast, arms outstretched, grabbing for the branch as it comes near"
+    },
+    {
+      "id": "S9-02",
+      "section": "S9",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30777,
+      "dialogue": "",
+      "image": "the group hauling [소미] and {쿵쿵} up onto the pebbled bank, everyone soaked and gasping",
+      "motion": "They haul both of them up onto the stones, everyone collapsing down, water streaming off their fur"
+    },
+    {
+      "id": "S9-03",
+      "section": "S9",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30784,
+      "dialogue": "",
+      "image": "the six friends sitting soaked on the sunny bank catching their breath, water dripping everywhere, relief settling in",
+      "motion": "The friends sit dripping in the sun, chests heaving, slowly beginning to laugh with relief"
+    },
+    {
+      "id": "S9-04",
+      "section": "S9",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 30791,
+      "dialogue": "",
+      "image": "close-up of [초코] shaking himself violently and spraying everyone with water, comic relief",
+      "motion": "The puppy shakes himself hard, spraying water over everyone, the others recoiling and laughing"
+    },
+    {
+      "id": "S9-05",
+      "section": "S9",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30798,
+      "dialogue": "소미: 쿵쿵아, 고마워! 진짜 용감했어.",
+      "image": "[소미] taking {쿵쿵}'s paw with both of hers, soaked and grateful, looking straight into his eyes",
+      "motion": "The rabbit takes his paw in both of hers, still dripping, and looks up at him with shining eyes"
+    },
+    {
+      "id": "S9-06",
+      "section": "S9",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 30805,
+      "dialogue": "쿵쿵: 헤헤, 사실 나도 무서웠어...",
+      "image": "close-up of {쿵쿵} ducking his head bashfully, cheeks flushed pink, embarrassed little smile",
+      "motion": "The baby ducks his head shyly, scuffing one foot, cheeks going pink, smiling awkwardly"
+    },
+    {
+      "id": "S9-07",
+      "section": "S9",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30812,
+      "dialogue": "루카: 무서운데도 뛰어드는 게 진짜 용기지.",
+      "image": "[루카] crouching down to {쿵쿵}'s eye level with a warm proud grin, one paw on his shoulder",
+      "motion": "The tiger crouches to eye level and puts a paw on the baby's shoulder, grinning warmly"
+    },
+    {
+      "id": "S9-08",
+      "section": "S9",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30819,
+      "dialogue": "루카: 태어날 때 폭풍 속에서도 씩씩하게 나왔잖아!",
+      "image": "[루카] gesturing back toward the river valley where the storm had been, the others nodding in agreement",
+      "motion": "The tiger gestures back toward the valley, the others nodding, and the baby's face slowly lights up"
+    },
+    {
+      "id": "S9-09",
+      "section": "S9",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30826,
+      "dialogue": "",
+      "image": "the six friends in a wet happy tangle on the sunny stream bank, afternoon light warming them dry",
+      "motion": "The friends pile together laughing in the sun, steam rising faintly from their drying fur"
+    },
+    {
+      "id": "E-01",
+      "section": "E",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30833,
+      "dialogue": "",
+      "image": "a grassy hilltop above the forest at sunset, the whole valley spread out below in orange light, six small figures walking up the slope",
+      "motion": "The six climb the hill in silhouette against the sunset, grass rippling, camera craning up with them"
+    },
+    {
+      "id": "E-02",
+      "section": "E",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 30840,
+      "dialogue": "",
+      "image": "the six friends settling down in a row on the hilltop grass, shoulder to shoulder, facing the sunset",
+      "motion": "They settle down one by one in a row, shuffling closer together, all facing the same direction"
+    },
+    {
+      "id": "E-03",
+      "section": "E",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30847,
+      "dialogue": "쿵쿵: 나 오늘 태어났는데...",
+      "image": "{쿵쿵} sitting among the friends looking out at the orange sunset, thoughtful and content, warm rim light on his face",
+      "motion": "The baby gazes at the sunset, blinking slowly, the warm light glowing along his outline"
+    },
+    {
+      "id": "E-04",
+      "section": "E",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30854,
+      "dialogue": "쿵쿵: 벌써 친구가 다섯 명이나 생겼어!",
+      "image": "{쿵쿵} turning to look down the row at all five friends with an enormous happy smile, sunset behind them",
+      "motion": "He turns to look down the row at each friend, his smile spreading, the others turning to look back"
+    },
+    {
+      "id": "E-05",
+      "section": "E",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30861,
+      "dialogue": "전원: 우리 앞으로도 계속 같이 놀자!",
+      "image": "the six friends throwing their arms up together in a joyful cheer on the hilltop against the blazing sunset, silhouette composition",
+      "motion": "All six throw their arms up cheering together, silhouetted against the sunset, birds scattering above"
+    },
+    {
+      "id": "E-06",
+      "section": "E",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 30868,
+      "dialogue": "쿵쿵: 내가 지켜줄게! 쿵쿵!",
+      "image": "{쿵쿵} standing up and planting both front paws on his hips in his signature confident pose, chest out, sunset blazing behind him",
+      "motion": "He stands, plants his paws on his hips proudly, and his foot stamps down sending a ring of dust into the golden light"
+    },
+    {
+      "id": "E-07",
+      "section": "E",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 30875,
+      "dialogue": "",
+      "image": "wide silhouette of the six friends on the hilltop against a deep orange and violet sunset sky, the valley dark below, heartwarming finale",
+      "motion": "Camera pulls back and rises, the six silhouetted small against the enormous sunset sky, wind moving the grass"
+    },
+    {
+      "id": "E-08",
+      "section": "E",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 30882,
+      "dialogue": "",
+      "image": "the sunset sky deepening to violet with the first stars appearing over the darkened forest valley, peaceful close of day",
+      "motion": "The sky deepens as stars emerge one by one, the last light draining from the horizon"
+    },
+    {
+      "id": "E-09",
+      "section": "E",
+      "shot": "타이틀",
+      "duration": 5,
+      "seed": 30889,
+      "dialogue": "[엔드카드] 쿵쿵이의 대모험이 시작된다!",
+      "image": "an end card illustration of {쿵쿵} in his signature pose on a hilltop with the five friends behind him, warm sunset palette, empty space at the bottom for text",
+      "motion": "Gentle push in on the end card illustration, light sparkles drifting, everything settling into stillness"
+    }
+  ]
+}

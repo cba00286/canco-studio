@@ -10,6 +10,7 @@ Hugging Face Space(Gradio) API를 호출해 캐릭터 레퍼런스 → 씬 키�
     python3 scripts/pipeline.py scenes --only S5 S6
     python3 scripts/pipeline.py chars --dry-run          # 네트워크 없이 프롬프트만 확인
     python3 scripts/pipeline.py all --episode ep2        # 다른 화 작업
+    python3 scripts/pipeline.py all --shots shots.json   # 정식 1화 전체(128컷)
 
 Space의 Gradio 파라미터명은 업데이트로 바뀔 수 있으므로, 이 스크립트는 호출 직전
 view_api()로 실제 엔드포인트/파라미터를 읽어 존재하는 인자만 전달한다.
@@ -62,9 +63,32 @@ BACKOFF = [2, 4, 8, 16]
 
 # ---------------------------------------------------------------- 프롬프트 조립
 
-def load_prompts() -> tuple[dict, dict]:
+def load_prompts(shots_file: str = "scenes.json") -> tuple[dict, dict]:
+    """캐릭터 묘사와 컷 목록을 읽는다.
+
+    컷 목록은 두 종류다. scenes.json은 12컷짜리 요약본(프로토타입·티저용),
+    shots.json은 확정 대본을 4~5초 단위로 분해한 128컷 정식 1화 분량이다.
+    두 파일의 항목 구조가 조금 달라 여기서 하나로 맞춘다.
+    """
     chars = json.loads((PROMPTS / "characters.json").read_text(encoding="utf-8"))
-    scenes = json.loads((PROMPTS / "scenes.json").read_text(encoding="utf-8"))
+    data = json.loads((PROMPTS / shots_file).read_text(encoding="utf-8"))
+
+    if "shots" in data:
+        sections = data.get("sections", {})
+        scenes = {"scenes": [
+            {
+                "id": shot["id"],
+                "title": f'{sections.get(shot.get("section"), "")} {shot.get("shot", "")}'.strip(),
+                "seed": shot["seed"],
+                "duration": shot["duration"],
+                "image": shot["image"],
+                "motion": shot["motion"],
+                "dialogue": shot.get("dialogue", ""),
+            }
+            for shot in data["shots"]
+        ]}
+    else:
+        scenes = data
     return chars, scenes
 
 
@@ -398,6 +422,8 @@ def main() -> int:
     ap.add_argument("--steps", type=int, default=8, help="이미지 추론 스텝")
     ap.add_argument("--video-steps", type=int, default=6, help="영상 추론 스텝")
     ap.add_argument("--theme", default=None, help="배경음악 mp3 경로")
+    ap.add_argument("--shots", default="scenes.json",
+                    help="컷 목록 파일 (기본 scenes.json 12컷 요약본, 정식 1화는 shots.json 128컷)")
     ap.add_argument("--episode", default=DEFAULT_EPISODE,
                     help=f"작업할 화 (episodes/ 아래 디렉터리명, 기본 {DEFAULT_EPISODE})")
     args = ap.parse_args()
@@ -408,7 +434,8 @@ def main() -> int:
         return 1
     print(f"작업 대상: episodes/{args.episode}")
 
-    chars, scenes = load_prompts()
+    chars, scenes = load_prompts(args.shots)
+    print(f"컷 목록: {args.shots} ({len(scenes['scenes'])}컷)")
     steps = ["chars", "scenes", "videos", "assemble"] if args.step == "all" else [args.step]
     for name in steps:
         print(f"\n=== {name} ===")
