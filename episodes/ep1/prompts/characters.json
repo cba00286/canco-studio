@@ -18,7 +18,8 @@
       "origin": "먼 북쪽 얼음의 땅에 떨어진 유성의 금빛-청록 파장을 머금은 알에서 태어났다. 폭풍우가 지나간 뒤 얼음째 강가로 떠내려왔고, 친구들이 밤새 체온으로 녹여준 새벽에 깨어났다.",
       "power": "앞발로 땅을 찍으면 뿔에서 금빛-청록 오로라 파장이 일어나 충격파가 퍼진다. 통나무를 옮겨 물길을 막을 만큼 강하지만 1화 시점에는 통제가 서툴러 저절로 발동한다. 경험하며 점점 능숙해진다. 이 '쿵!' 소리가 이름의 유래다.",
       "ref_tag": "Kung-Kung the baby triceratops",
-      "sheet": "reference/sheets/kungkung_turnaround.png"
+      "sheet": "reference/sheets/kungkung_turnaround.png",
+      "trigger": ""
     },
     "루카": {
       "id": "luca",
@@ -28,7 +29,8 @@
       "desc_short": "Luca the orange baby tiger cub in blue denim overalls with aviator goggles on his forehead",
       "note": "쿵쿵에게 이름을 지어주는 캐릭터. 고글을 내리는 동작이 시그니처.",
       "ref_tag": "Luca the tiger cub",
-      "sheet": "reference/sheets/luca_turnaround.png"
+      "sheet": "reference/sheets/luca_turnaround.png",
+      "trigger": ""
     },
     "후안": {
       "id": "juan",
@@ -37,7 +39,8 @@
       "desc": "Juan, a cheerful baby penguin with a navy-blue back and flippers and a soft white face and belly, a red knitted beanie with a white pompom, an orange bandana with a small pattern tied at his neck, a small orange beak and orange webbed feet, round dark eyes with bright catchlights, blush cheeks",
       "desc_short": "Juan the navy baby penguin in a red pompom beanie and orange bandana",
       "ref_tag": "Juan the penguin",
-      "sheet": "reference/sheets/juan_turnaround.png"
+      "sheet": "reference/sheets/juan_turnaround.png",
+      "trigger": ""
     },
     "미미": {
       "id": "mimi",
@@ -47,7 +50,8 @@
       "desc_short": "Mimi the gray baby koala in round gold glasses and a purple vest",
       "note": "관찰하고 분석하는 역할. 안경을 고쳐 쓰는 동작이 시그니처.",
       "ref_tag": "Mimi the koala",
-      "sheet": "reference/sheets/mimi_turnaround.png"
+      "sheet": "reference/sheets/mimi_turnaround.png",
+      "trigger": ""
     },
     "티니": {
       "id": "tini",
@@ -57,7 +61,8 @@
       "desc_short": "Tini the fluffy golden retriever puppy in a floral bandana",
       "note": "공식 시트의 부제는 '사랑스러운 테디 베어'지만 모델은 골든 리트리버 강아지이고 대본 대사도 '멍멍!'이다. 강아지로 확정하고 진행 — 부제 수정 필요.",
       "ref_tag": "Tini the puppy",
-      "sheet": "reference/sheets/tini_turnaround.png"
+      "sheet": "reference/sheets/tini_turnaround.png",
+      "trigger": ""
     },
     "루비": {
       "id": "ruby",
@@ -67,7 +72,8 @@
       "desc_short": "Ruby the pale pink baby rabbit with a ribbon on her ear and a little star wand",
       "note": "S#4에서 물살에 휩쓸리는 캐릭터. 이전 대본의 '소미'를 대체한다.",
       "ref_tag": "Ruby the rabbit",
-      "sheet": "reference/sheets/ruby_turnaround.png"
+      "sheet": "reference/sheets/ruby_turnaround.png",
+      "trigger": ""
     }
   },
   "consistency_tag": "Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
@@ -75,5 +81,6 @@
     "_comment": "레퍼런스 마스터 시트를 만드는 프롬프트. 기존 공식 3D 시트 1장을 레퍼런스로 붙이고 nano-banana-2(image2image)로 생성한다. 이 두 장이 이후 모든 컷의 고정축이 된다.",
     "turnaround": "character turnaround sheet of the character in the reference image: front view, three-quarter front view, side profile and back view, standing in a neutral relaxed pose, full body, identical character design in all four views, evenly lit on a plain light gray background, no text, no labels",
     "expressions": "expression sheet of the character in the reference image: six head-and-shoulders portraits in a grid — neutral, big joyful smile, surprised, scared, determined, laughing — identical character design in every portrait, evenly lit on a plain light gray background, no text"
-  }
+  },
+  "_trigger_comment": "OpenArt Characters에 등록한 트리거 워드를 각 캐릭터의 trigger에 넣고 scripts/build_ref_prompts.py를 실행하면 60컷 프롬프트가 트리거 워드로 바뀐다. 비어 있으면 ref_tag(마스터 시트 첨부 전제)로 생성된다."
 }

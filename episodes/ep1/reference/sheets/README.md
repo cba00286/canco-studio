@@ -12,5 +12,6 @@
 | 티니 | `tini_turnaround.png` | `tini_expressions.png` |
 | 루비 | `ruby_turnaround.png` | `ruby_expressions.png` |
 
-아직 비어 있다. 기존 공식 3D 시트를 레퍼런스로 Nano Banana 2에서 생성한 뒤 여기에 넣는다.
+아직 비어 있다. OpenArt Characters에 캐릭터를 등록했다면(방법 A) 이 폴더는 비워 둬도 된다. 등록하지 않았거나
+재등록이 필요할 때만 기존 공식 3D 시트를 레퍼런스로 Nano Banana 2에서 생성해 여기에 넣는다.
 원본과 조금이라도 다르면 채택하지 말 것 — 이 12장이 어긋나면 60컷 전부가 어긋난다.
