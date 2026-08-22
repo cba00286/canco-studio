@@ -29,12 +29,13 @@
       "seed": 12002,
       "desc": "Luca, an energetic baby tiger cub with bright orange fur and dark brown stripes, a cream-colored muzzle, chest and belly, blue denim overalls with metal buttons, a long striped tail",
       "desc_short": "Luca the orange baby tiger cub in blue denim overalls",
-      "note": "쿵쿵에게 이름을 지어주는 캐릭터. 공식 모델에 비행 고글은 없다 — 대본의 고글 동작은 삭제했다.",
+      "note": "쿵쿵에게 이름을 지어주는 캐릭터. 고글은 주머니에서 꺼내 쓰는 소품이다(prop 참고).",
       "ref_tag": "Luca the tiger cub",
       "sheet": "reference/sheets/luca_turnaround.png",
       "trigger": "루카",
       "height": 160,
-      "master_sheet": true
+      "master_sheet": true,
+      "prop": "비행 고글은 상시 착용이 아니라 오버올 앞주머니에 넣고 다니는 소품이다. 필요할 때 꺼내 쓴다. 1화에서는 SC2-06에서만 꺼내 쓰고, 다른 컷에는 넣지 않는다 — 등록된 캐릭터에 고글이 없으므로 여러 컷에 걸쳐 그리면 반드시 흔들린다."
     },
     "후안": {
       "id": "juan",

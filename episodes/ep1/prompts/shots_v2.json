@@ -246,15 +246,17 @@
       "seed": 40091,
       "speaker": "루카",
       "dialogue": "우와! 이것 좀 봐! 얼음 안에 진짜 커다란 알이 있어!",
-      "ko": "루카 클로즈업. 얼굴과 두 앞발을 햇빛 든 얼음에 바짝 붙이고 최대한 가까이 들여다본다. 신나고 놀란 얼굴.",
-      "ko_motion": "호랑이가 얼굴과 두 앞발을 얼음에 딱 붙이고 들여다보며 눈이 커진다.",
+      "ko": "루카 클로즈업. 오버올 앞주머니에서 비행 고글을 꺼내 눈에 쓰고, 햇빛 든 얼음 쪽으로 몸을 기울인다. 신나고 놀란 얼굴.",
+      "ko_motion": "호랑이가 주머니에서 고글을 꺼내 척 쓰고 얼음에 바짝 붙는다. 렌즈 너머로 눈이 커진다.",
       "shot_ko": "클로즈업",
       "cast": [
         "루카"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 pressing his face and both paws right up against the sunlit ice, leaning in as close as he can get, thrilled and amazed. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
-      "image": "close-up of [루카] pressing his face and both paws right up against the sunlit ice, leaning in as close as he can get, thrilled and amazed",
-      "motion": "The tiger cub presses his face and both paws flat against the ice, eyes going wide"
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 pulling a pair of brown aviator goggles out of the front pocket of his denim overalls and fitting them over his eyes, then leaning in toward the sunlit ice, thrilled and amazed. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them. The goggles are a prop he takes out of his pocket in this shot only — everything else about him stays exactly as the registered design.",
+      "image": "close-up of [루카] pulling a pair of brown aviator goggles out of the front pocket of his denim overalls and fitting them over his eyes, then leaning in toward the sunlit ice, thrilled and amazed",
+      "motion": "The tiger cub digs the goggles out of his overall pocket, snaps them on over his eyes, and presses close to the ice, eyes going wide behind the lenses",
+      "prop_note": "이 컷에서만 고글이 등장한다. 앞뒤 컷에는 넣지 않는다.",
+      "image_suffix": "The goggles are a prop he takes out of his pocket in this shot only — everything else about him stays exactly as the registered design."
     },
     {
       "id": "SC2-07",

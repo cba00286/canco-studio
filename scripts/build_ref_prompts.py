@@ -70,7 +70,11 @@ def ref_prompt(chars: dict, shot: dict, cast: list[str]) -> str:
         return out
     # 등록된 캐릭터를 부르는 경우와 시트를 첨부하는 경우는 고정 지시문이 다르다.
     key = "consistency_tag_trigger" if chars["characters"][cast[0]].get("trigger") else "consistency_tag_sheet"
-    return out + ". " + chars[key]
+    out += ". " + chars[key]
+    # 소품을 더하는 컷은 "의상 그대로" 지시와 부딪히므로 예외를 명시한다.
+    if shot.get("image_suffix"):
+        out += " " + shot["image_suffix"]
+    return out
 
 
 def main() -> None:
