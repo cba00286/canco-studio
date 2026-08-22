@@ -19,7 +19,9 @@
       "power": "앞발로 땅을 찍으면 뿔에서 금빛-청록 오로라 파장이 일어나 충격파가 퍼진다. 통나무를 옮겨 물길을 막을 만큼 강하지만 1화 시점에는 통제가 서툴러 저절로 발동한다. 경험하며 점점 능숙해진다. 이 '쿵!' 소리가 이름의 유래다.",
       "ref_tag": "Kung-Kung the baby triceratops",
       "sheet": "reference/sheets/kungkung_turnaround.png",
-      "trigger": "쿵쿵"
+      "trigger": "쿵쿵",
+      "height": 140,
+      "master_sheet": true
     },
     "루카": {
       "id": "luca",
@@ -30,17 +32,22 @@
       "note": "쿵쿵에게 이름을 지어주는 캐릭터. 고글을 내리는 동작이 시그니처.",
       "ref_tag": "Luca the tiger cub",
       "sheet": "reference/sheets/luca_turnaround.png",
-      "trigger": "루카"
+      "trigger": "루카",
+      "height": 160,
+      "master_sheet": true,
+      "conflict": "공식 마스터 시트에 비행 고글이 없다. 대본에서는 고글을 내리고 올리는 동작이 루카의 시그니처다(SC2-06 · SC3-16). 확인 전까지 프롬프트는 고글이 있는 상태로 둔다."
     },
     "후안": {
       "id": "juan",
       "role": "명랑한 펭귄",
       "seed": 12003,
-      "desc": "Juan, a cheerful baby penguin with a navy-blue back and flippers and a soft white face and belly, a red knitted beanie with a white pompom, an orange bandana with a small pattern tied at his neck, a small orange beak and orange webbed feet, round dark eyes with bright catchlights, blush cheeks",
+      "desc": "Juan, a cheerful baby penguin with a navy-blue back and flippers and a soft white face and belly, a red knitted beanie with a white pompom, an orange bandana with a small pattern tied at his neck, a small orange beak and orange webbed feet, round blue eyes with bright catchlights, blush cheeks",
       "desc_short": "Juan the navy baby penguin in a red pompom beanie and orange bandana",
       "ref_tag": "Juan the penguin",
       "sheet": "reference/sheets/juan_turnaround.png",
-      "trigger": "후안"
+      "trigger": "후안",
+      "height": 100,
+      "master_sheet": true
     },
     "미미": {
       "id": "mimi",
@@ -51,7 +58,9 @@
       "note": "관찰하고 분석하는 역할. 안경을 고쳐 쓰는 동작이 시그니처.",
       "ref_tag": "Mimi the koala",
       "sheet": "reference/sheets/mimi_turnaround.png",
-      "trigger": "미미"
+      "trigger": "미미",
+      "height": 105,
+      "master_sheet": true
     },
     "티니": {
       "id": "tini",
@@ -59,10 +68,12 @@
       "seed": 12005,
       "desc": "Tini, a small golden retriever puppy with fluffy golden-tan fur, a cream muzzle and chest, long floppy ears, a dark button nose, warm brown eyes, and a floral-patterned bandana tied at his neck",
       "desc_short": "Tini the fluffy golden retriever puppy in a floral bandana",
-      "note": "공식 시트의 부제는 '사랑스러운 테디 베어'지만 모델은 골든 리트리버 강아지이고 대본 대사도 '멍멍!'이다. 강아지로 확정하고 진행 — 부제 수정 필요.",
       "ref_tag": "Tini the puppy",
       "sheet": "reference/sheets/tini_turnaround.png",
-      "trigger": "티니"
+      "trigger": "티니",
+      "height": 110,
+      "master_sheet": true,
+      "note": "공식 시트 부제는 «사랑스러운 테디 베어»지만 모델은 골든 리트리버 강아지이고 대사도 «멍멍!»이다. 강아지로 확정하고 진행한다."
     },
     "루비": {
       "id": "ruby",
@@ -73,7 +84,10 @@
       "note": "S#4에서 물살에 휩쓸리는 캐릭터. 이전 대본의 '소미'를 대체한다.",
       "ref_tag": "Ruby the rabbit",
       "sheet": "reference/sheets/ruby_turnaround.png",
-      "trigger": "루비"
+      "trigger": "루비",
+      "height": 120,
+      "master_sheet": true,
+      "conflict": "개별 마스터 시트에는 70cm로 적혀 있으나 키 도감은 120cm다. 여러 캐릭터가 함께 나오는 컷의 크기 관계는 키 도감(120cm)을 따른다."
     }
   },
   "master_sheet_prompts": {
@@ -83,5 +97,7 @@
   },
   "_trigger_comment": "OpenArt Characters에 등록한 트리거 워드가 각 캐릭터의 trigger에 들어 있다. 값을 바꾼 뒤 scripts/build_ref_prompts.py를 실행하면 60컷 프롬프트가 따라온다. 비우면 ref_tag(마스터 시트 첨부 전제)로 되돌아간다.",
   "consistency_tag_sheet": "Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
-  "consistency_tag_trigger": "Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them."
+  "consistency_tag_trigger": "Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+  "_scale_comment": "「쿵쿵이와 친구들 캐릭터 키 도감」의 공식 키. 한 화면에 여러 캐릭터가 있는 컷의 크기 관계 기준이다. 루카 160 > 쿵쿵 140 > 루비 120 > 티니 110 > 미미 105 > 후안 100. 쿵쿵은 갓 태어났지만 루카 다음으로 크고, 후안이 가장 작다. 개별 마스터 시트의 눈금과 어긋나면 이 도감을 따른다.",
+  "_sheet_comment": "6종 전원 공식 3D 마스터 시트 보유 — 정면·좌우측면·후면·상하면·클로즈업·와이어프레임·부위별 토폴로지. OpenArt Characters 등록/재등록 시 이 여러 장을 함께 넣으면 정면 한 장으로 등록했을 때보다 훨씬 정확해진다."
 }
