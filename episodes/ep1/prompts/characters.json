@@ -1,7 +1,7 @@
 {
   "_comment": "캐릭터 고정 묘사. 2026-08-21 전면 개정 — 공식 3D 모델링 마스터 시트와 새 1화 대본에 맞춰 다시 썼다. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 고정 묘사에는 표정과 포즈를 넣지 않는다 — 그건 각 컷이 정한다. origin/power/note는 연출 참고용이며 프롬프트에 직접 들어가지 않는다.",
   "style_tag": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition",
-  "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human, off-model character, redesigned character, changed face, different proportions, inconsistent character design, different outfit",
+  "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human, off-model character, redesigned character, changed face, different proportions, inconsistent character design, different outfit, cave, cave interior, enclosed underground space, indoor",
   "fragments": {
     "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각.",
     "쿵쿵_파워": "golden-teal aurora light surging along his three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck",
@@ -27,15 +27,14 @@
       "id": "luca",
       "role": "가장 친한 친구 · 활발한 아기 호랑이",
       "seed": 12002,
-      "desc": "Luca, an energetic baby tiger cub with bright orange fur and dark brown stripes, a cream-colored muzzle, chest and belly, brown aviator goggles pushed up on his forehead, blue denim overalls with metal buttons, a long striped tail",
-      "desc_short": "Luca the orange baby tiger cub in blue denim overalls with aviator goggles on his forehead",
-      "note": "쿵쿵에게 이름을 지어주는 캐릭터. 고글을 내리는 동작이 시그니처.",
+      "desc": "Luca, an energetic baby tiger cub with bright orange fur and dark brown stripes, a cream-colored muzzle, chest and belly, blue denim overalls with metal buttons, a long striped tail",
+      "desc_short": "Luca the orange baby tiger cub in blue denim overalls",
+      "note": "쿵쿵에게 이름을 지어주는 캐릭터. 공식 모델에 비행 고글은 없다 — 대본의 고글 동작은 삭제했다.",
       "ref_tag": "Luca the tiger cub",
       "sheet": "reference/sheets/luca_turnaround.png",
       "trigger": "루카",
       "height": 160,
-      "master_sheet": true,
-      "conflict": "공식 마스터 시트에 비행 고글이 없다. 대본에서는 고글을 내리고 올리는 동작이 루카의 시그니처다(SC2-06 · SC3-16). 확인 전까지 프롬프트는 고글이 있는 상태로 둔다."
+      "master_sheet": true
     },
     "후안": {
       "id": "juan",
