@@ -315,12 +315,16 @@ def step_scenes(args, chars, scenes):
         prompt = scene_prompt(chars, scene, use_ref=not args.no_ref)
         sheets = cast_sheets(chars, scene)
         cast = scene.get("cast", [])
-        missing = [n for n in cast] if not sheets else []
+        # 트리거 워드가 있으면 플랫폼이 캐릭터를 고정하므로 시트 첨부가 필요 없다.
+        by_trigger = bool(cast) and all(chars["characters"].get(n, {}).get("trigger") for n in cast)
+        missing = [] if (sheets or by_trigger or not cast) else cast
         label = f"cast={','.join(cast)}" if cast else "배경"
         print(f"  → {scene['id']} {scene['title']} seed={scene['seed']} {label}")
         if cast and missing:
             print(f"     ! 마스터 시트가 없어 레퍼런스 없이 생성됩니다 — 얼굴이 컷마다 달라집니다."
                   f" reference/sheets/ 를 먼저 채우세요 (docs/07 참고)")
+        elif by_trigger:
+            print(f"     트리거 워드로 지정: {', '.join(chars['characters'][n]['trigger'] for n in cast)}")
         elif sheets:
             print(f"     레퍼런스 {len(sheets)}장: {', '.join(s.name for s in sheets)}")
         if args.dry_run:

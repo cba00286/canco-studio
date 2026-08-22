@@ -172,7 +172,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Luca the tiger cub, Juan the penguin, Ruby the rabbit, Mimi the koala and Tini the puppy walking out of the treeline onto the sunlit riverbank together, splashing through puddles, cheerful morning mood. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 후안, 루비, 미미 and 티니 walking out of the treeline onto the sunlit riverbank together, splashing through puddles, cheerful morning mood. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루카], [후안], [루비], [미미] and [티니] walking out of the treeline onto the sunlit riverbank together, splashing through puddles, cheerful morning mood",
       "motion": "The five friends come out of the trees splashing through puddles, looking around at the storm damage"
     },
@@ -190,7 +190,7 @@
       "cast": [
         "티니"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Tini the puppy bounding ahead along the riverbank with his nose to the ground, tail wagging hard, sniffing at the debris. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 bounding ahead along the riverbank with his nose to the ground, tail wagging hard, sniffing at the debris. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[티니] bounding ahead along the riverbank with his nose to the ground, tail wagging hard, sniffing at the debris",
       "motion": "The puppy bounds ahead sniffing the ground, tail whipping, then freezes and lifts his head sharply"
     },
@@ -212,7 +212,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a huge block of ice lodged against the rocks at the river's edge, sunlight blazing through it, something enormous and pale visible deep inside, the friends small beside it. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a huge block of ice lodged against the rocks at the river's edge, sunlight blazing through it, something enormous and pale visible deep inside, 루카, 후안, 미미, 티니, 루비 small beside it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "a huge block of ice lodged against the rocks at the river's edge, sunlight blazing through it, something enormous and pale visible deep inside, the friends small beside it",
       "motion": "Camera pushes in past the friends toward the ice block, sunlight refracting through it, water rushing around its base"
     },
@@ -234,7 +234,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit stopping dead and staring up at the ice block, mouths open, Luca the tiger cub holding out an arm to keep the others back. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 후안, 미미, 티니, 루비 stopping dead and staring up at the ice block, mouths open, 루카 holding out an arm to keep the others back. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the five friends stopping dead and staring up at the ice block, mouths open, [루카] holding out an arm to keep the others back",
       "motion": "The friends stop short and stare upward, [루카] flinging out an arm to hold them back"
     },
@@ -252,7 +252,7 @@
       "cast": [
         "루카"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of Luca the tiger cub pulling his aviator goggles down over his eyes and leaning in toward the ice, thrilled and amazed. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 pulling his aviator goggles down over his eyes and leaning in toward the ice, thrilled and amazed. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of [루카] pulling his aviator goggles down over his eyes and leaning in toward the ice, thrilled and amazed",
       "motion": "The tiger cub yanks his goggles down over his eyes and presses close to the ice, eyes going wide"
     },
@@ -286,7 +286,7 @@
       "cast": [
         "미미"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Mimi the koala adjusting her round glasses as she studies the ice closely, the teal glow reflecting in her lenses, thoughtful and fascinated. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 adjusting her round glasses as she studies the ice closely, the teal glow reflecting in her lenses, thoughtful and fascinated. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[미미] adjusting her round glasses as she studies the ice closely, the teal glow reflecting in her lenses, thoughtful and fascinated",
       "motion": "The koala pushes her glasses up and leans in, the teal glow moving across her lenses as she studies it"
     },
@@ -304,7 +304,7 @@
       "cast": [
         "후안"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Juan the penguin waddling right up to the ice and pressing both flippers and his cheek against it, then flinching back from the cold. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 후안 waddling right up to the ice and pressing both flippers and his cheek against it, then flinching back from the cold. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[후안] waddling right up to the ice and pressing both flippers and his cheek against it, then flinching back from the cold",
       "motion": "The penguin presses his flippers and cheek to the ice, then jerks back with a shiver and shakes himself"
     },
@@ -322,7 +322,7 @@
       "cast": [
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Ruby the rabbit standing close to the ice with both paws pressed against it, her star wand tucked under one arm, warm concern on her face. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 standing close to the ice with both paws pressed against it, her star wand tucked under one arm, warm concern on her face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루비] standing close to the ice with both paws pressed against it, her star wand tucked under one arm, warm concern on her face",
       "motion": "The rabbit presses both paws to the ice and turns to the others with a determined, gentle look"
     },
@@ -344,7 +344,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit looking at each other around the ice block, nodding one by one, a decision passing between them. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 후안, 미미, 티니, 루비 looking at each other around the ice block, nodding one by one, a decision passing between them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the five friends looking at each other around the ice block, nodding one by one, a decision passing between them",
       "motion": "The friends exchange looks around the circle, each nodding in turn, resolve building"
     },
@@ -366,7 +366,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit moving in and pressing themselves against the huge ice block from every side, arms and flippers spread wide across it, sunlight warm on their backs. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 후안, 미미, 티니, 루비 moving in and pressing themselves against the huge ice block from every side, arms and flippers spread wide across it, sunlight warm on their backs. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the five friends moving in and pressing themselves against the huge ice block from every side, arms and flippers spread wide across it, sunlight warm on their backs",
       "motion": "The friends step in together and wrap themselves against the ice from all sides, hugging it tight"
     },
@@ -388,7 +388,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the riverbank at night, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit curled asleep in a ring around the shrinking ice block, moonlight and drifting mist, peaceful and tender. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the riverbank at night, 루카, 후안, 미미, 티니, 루비 curled asleep in a ring around the shrinking ice block, moonlight and drifting mist, peaceful and tender. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the riverbank at night, the five friends curled asleep in a ring around the shrinking ice block, moonlight and drifting mist, peaceful and tender",
       "motion": "The sleeping friends breathe slowly together, mist drifting past, meltwater trickling from the ice"
     },
@@ -458,7 +458,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit jolting awake in the dawn light, heads snapping up, scrambling to their feet. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 후안, 미미, 티니, 루비 jolting awake in the dawn light, heads snapping up, scrambling to their feet. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the five friends jolting awake in the dawn light, heads snapping up, scrambling to their feet",
       "motion": "The friends startle awake all at once, heads snapping up, scrambling upright"
     },
@@ -492,7 +492,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the eggshell bursting open as Kung-Kung the baby triceratops pushes his head out into the dawn light for the very first time, damp and blinking and brand new. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the eggshell bursting open as 쿵쿵 pushes his head out into the dawn light for the very first time, damp and blinking and brand new. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the eggshell bursting open as {쿵쿵} pushes his head out into the dawn light for the very first time, damp and blinking and brand new",
       "motion": "The shell bursts apart and the baby triceratops pushes his head out, blinking hard against the light"
     },
@@ -510,7 +510,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of Kung-Kung the baby triceratops's huge green eyes opening fully for the first time, the golden sunrise reflected in them. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 쿵쿵's huge green eyes opening fully for the first time, the golden sunrise reflected in them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "extreme close-up of {쿵쿵}'s huge green eyes opening fully for the first time, the golden sunrise reflected in them",
       "motion": "The eyes open wide, pupils adjusting, the sunrise blooming in the reflection"
     },
@@ -533,7 +533,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops standing in the broken shell with his head thrown back and mouth wide open in a joyful first cry, golden sunrise rimming him with light, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit watching in awe. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 standing in the broken shell with his head thrown back and mouth wide open in a joyful first cry, golden sunrise rimming him with light, 루카, 후안, 미미, 티니, 루비 watching in awe. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} standing in the broken shell with his head thrown back and mouth wide open in a joyful first cry, golden sunrise rimming him with light, the five friends watching in awe",
       "motion": "The baby throws his head back and cries out at the sky, birds scattering from the trees, golden light flaring"
     },
@@ -551,7 +551,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops trying to push himself upright out of the shell, legs trembling and splaying under him. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 trying to push himself upright out of the shell, legs trembling and splaying under him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} trying to push himself upright out of the shell, legs trembling and splaying under him",
       "motion": "He strains upward, legs shaking and sliding out from under him, wobbling badly"
     },
@@ -569,7 +569,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops losing his balance and slamming both front paws down hard onto the wet ground to catch himself. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 losing his balance and slamming both front paws down hard onto the wet ground to catch himself. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} losing his balance and slamming both front paws down hard onto the wet ground to catch himself",
       "motion": "He pitches forward and slams both front paws down hard to stop his fall, the ground shuddering"
     },
@@ -587,7 +587,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of Kung-Kung the baby triceratops's three horns as golden-teal aurora light surges along them, brilliant and alive. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 쿵쿵's three horns as golden-teal aurora light surges along them, brilliant and alive. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "extreme close-up of {쿵쿵}'s three horns as golden-teal aurora light surges along them, brilliant and alive",
       "motion": "Light races up the horns and blazes at their tips, aurora colors swirling through them"
     },
@@ -605,7 +605,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a visible ring of golden-teal light bursting outward across the ground from Kung-Kung the baby triceratops's front paws, sweeping over grass and stones and past the astonished friends. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a visible ring of golden-teal light bursting outward across the ground from 쿵쿵's front paws, sweeping over grass and stones and past the astonished friends. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "a visible ring of golden-teal light bursting outward across the ground from {쿵쿵}'s front paws, sweeping over grass and stones and past the astonished friends",
       "motion": "A ring of golden-teal light races outward across the ground, grass flattening and springing back as it passes"
     },
@@ -641,7 +641,7 @@
         "미미",
         "티니"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Tini the puppy tumbled onto his back on the grass with all four paws in the air, delighted rather than hurt, Juan the penguin and Mimi the koala steadying themselves behind him. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 tumbled onto his back on the grass with all four paws in the air, delighted rather than hurt, 후안 and 미미 steadying themselves behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[티니] tumbled onto his back on the grass with all four paws in the air, delighted rather than hurt, [후안] and [미미] steadying themselves behind him",
       "motion": "The puppy rolls onto his back with paws in the air, barking happily, the others catching their balance behind him"
     },
@@ -660,7 +660,7 @@
         "쿵쿵",
         "루카"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Luca the tiger cub stepping forward with his goggles pushed back up and one paw raised, beaming at Kung-Kung the baby triceratops, morning light between them. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 stepping forward with his goggles pushed back up and one paw raised, beaming at 쿵쿵, morning light between them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루카] stepping forward with his goggles pushed back up and one paw raised, beaming at {쿵쿵}, morning light between them",
       "motion": "The tiger cub pushes his goggles up, steps forward and raises a paw, grinning hugely as he speaks"
     },
@@ -678,7 +678,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of Kung-Kung the baby triceratops lighting up with the biggest joyful smile of his life, hearing his own name for the first time. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 lighting up with the biggest joyful smile of his life, hearing his own name for the first time. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} lighting up with the biggest joyful smile of his life, hearing his own name for the first time",
       "motion": "The baby's whole face lights up and he bounces on his front paws with excitement"
     },
@@ -701,7 +701,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit together on the sunlit riverbank cheering around Kung-Kung the baby triceratops, broken shell pieces scattered at their feet, warm morning light. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵, 루카, 후안, 미미, 티니, 루비 together on the sunlit riverbank cheering around 쿵쿵, broken shell pieces scattered at their feet, warm morning light. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the six friends together on the sunlit riverbank cheering around {쿵쿵}, broken shell pieces scattered at their feet, warm morning light",
       "motion": "The friends erupt cheering and crowd around him, [티니] running circles, everyone laughing in the morning sun"
     },
@@ -740,7 +740,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit playing along the stream bank in bright daylight, Kung-Kung the baby triceratops in the middle still walking unsteadily. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵, 루카, 후안, 미미, 티니, 루비 playing along the stream bank in bright daylight, 쿵쿵 in the middle still walking unsteadily. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the six friends playing along the stream bank in bright daylight, {쿵쿵} in the middle still walking unsteadily",
       "motion": "The friends move along the bank playing, the baby triceratops wobbling along in the middle"
     },
@@ -758,7 +758,7 @@
       "cast": [
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Ruby the rabbit standing near the water's edge waving her star wand, unaware the soft earth beneath her is giving way. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 standing near the water's edge waving her star wand, unaware the soft earth beneath her is giving way. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루비] standing near the water's edge waving her star wand, unaware the soft earth beneath her is giving way",
       "motion": "The rabbit waves her wand happily as the wet earth under her feet begins to crack and sag"
     },
@@ -776,7 +776,7 @@
       "cast": [
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the muddy bank collapsing away under Ruby the rabbit's feet, clods of earth dropping into the rushing water. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the muddy bank collapsing away under 루비's feet, clods of earth dropping into the rushing water. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of the muddy bank collapsing away under [루비]'s feet, clods of earth dropping into the rushing water",
       "motion": "The bank gives way and slabs of mud drop into the water, her footing vanishing"
     },
@@ -794,7 +794,7 @@
       "cast": [
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Ruby the rabbit swept into the fast brown current and carried downstream, ears streaming back, one paw reaching up, panic on her face. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 swept into the fast brown current and carried downstream, ears streaming back, one paw reaching up, panic on her face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루비] swept into the fast brown current and carried downstream, ears streaming back, one paw reaching up, panic on her face",
       "motion": "The rabbit is swept into the current and carried downstream fast, thrashing and reaching upward"
     },
@@ -817,7 +817,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the friends on the bank frozen in shock for a heartbeat, then breaking into panic and running along the water. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵, 루카, 후안, 미미, 티니, 루비 on the bank frozen in shock for a heartbeat, then breaking into panic and running along the water. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the friends on the bank frozen in shock for a heartbeat, then breaking into panic and running along the water",
       "motion": "The friends freeze for one beat then break into a run along the bank, shouting"
     },
@@ -835,7 +835,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of Kung-Kung the baby triceratops's face hardening from fear into fierce determination, eyes locked on the water. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵's face hardening from fear into fierce determination, eyes locked on the water. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵}'s face hardening from fear into fierce determination, eyes locked on the water",
       "motion": "His frightened expression sets hard into determination, eyes narrowing on the stream"
     },
@@ -853,7 +853,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops charging down the bank on unsteady legs, faster than he has ever moved, mud flying behind him. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 charging down the bank on unsteady legs, faster than he has ever moved, mud flying behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} charging down the bank on unsteady legs, faster than he has ever moved, mud flying behind him",
       "motion": "The baby charges along the bank, legs pounding unsteadily, mud kicking up behind him"
     },
@@ -871,7 +871,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops skidding to a stop at the water's edge and slamming both front paws down onto the ground with everything he has. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 skidding to a stop at the water's edge and slamming both front paws down onto the ground with everything he has. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} skidding to a stop at the water's edge and slamming both front paws down onto the ground with everything he has",
       "motion": "He skids to a halt and drives both front paws down into the earth, the ground buckling under the blow"
     },
@@ -889,7 +889,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of Kung-Kung the baby triceratops's horns erupting with brilliant golden-teal aurora light, brighter than before. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 쿵쿵's horns erupting with brilliant golden-teal aurora light, brighter than before. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "extreme close-up of {쿵쿵}'s horns erupting with brilliant golden-teal aurora light, brighter than before",
       "motion": "Light explodes along the horns, blazing brighter and wilder than the first time"
     },
@@ -907,7 +907,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, golden-teal aurora light surging along Kung-Kung the baby triceratops's three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck, the ring of light racing across the ground and into a fallen log at the water's edge. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, golden-teal aurora light surging along 쿵쿵's three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck, the ring of light racing across the ground and into a fallen log at the water's edge. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵_파워}, the ring of light racing across the ground and into a fallen log at the water's edge",
       "motion": "The ring of light races out across the ground and strikes the fallen log, which shudders and begins to move"
     },
@@ -941,7 +941,7 @@
       "cast": [
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Ruby the rabbit sweeping downstream into the log and catching hold of it with both paws, hauling herself against it, safe. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 sweeping downstream into the log and catching hold of it with both paws, hauling herself against it, safe. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루비] sweeping downstream into the log and catching hold of it with both paws, hauling herself against it, safe",
       "motion": "The rabbit is swept into the log and grabs on with both paws, pulling herself up against it, gasping"
     },
@@ -960,7 +960,7 @@
         "쿵쿵",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Ruby the rabbit soaked and safe on the bank holding Kung-Kung the baby triceratops's paw with both of hers, looking up at his horns with wonder, the others crowding around. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 soaked and safe on the bank holding 쿵쿵's paw with both of hers, looking up at his horns with wonder, the others crowding around. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "[루비] soaked and safe on the bank holding {쿵쿵}'s paw with both of hers, looking up at his horns with wonder, the others crowding around",
       "motion": "The soaked rabbit takes his paw in both of hers and looks up at his horns, the others crowding in around them"
     },
@@ -978,7 +978,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of Kung-Kung the baby triceratops ducking his head bashfully with pink cheeks, then breaking into a proud smile, warm afternoon light. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 ducking his head bashfully with pink cheeks, then breaking into a proud smile, warm afternoon light. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} ducking his head bashfully with pink cheeks, then breaking into a proud smile, warm afternoon light",
       "motion": "The baby ducks his head shyly, scuffs one foot, then looks up with a growing proud smile"
     },
@@ -1001,7 +1001,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit laughing together on the sunlit stream bank, soaked and happy, steam rising faintly from their fur. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵, 루카, 후안, 미미, 티니, 루비 laughing together on the sunlit stream bank, soaked and happy, steam rising faintly from their fur. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the six friends laughing together on the sunlit stream bank, soaked and happy, steam rising faintly from their fur",
       "motion": "The friends laugh together in the sun, [티니] shaking water over everyone, all of them recoiling and laughing"
     },
@@ -1024,7 +1024,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit walking together along a sunlit forest path toward home, seen from behind, long warm afternoon shadows stretching ahead of them. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵, 루카, 후안, 미미, 티니, 루비 walking together along a sunlit forest path toward home, seen from behind, long warm afternoon shadows stretching ahead of them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the six friends walking together along a sunlit forest path toward home, seen from behind, long warm afternoon shadows stretching ahead of them",
       "motion": "The six walk away together down the sunlit path, shadows stretching ahead, leaves drifting down around them"
     },
@@ -1042,7 +1042,7 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, Kung-Kung the baby triceratops stopping and turning back with both front paws planted on his hips in his signature confident pose, chest out, golden afternoon light behind him. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 stopping and turning back with both front paws planted on his hips in his signature confident pose, chest out, golden afternoon light behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} stopping and turning back with both front paws planted on his hips in his signature confident pose, chest out, golden afternoon light behind him",
       "motion": "He stops, turns back and plants both paws on his hips proudly, his foot stamping down and puffing a small ring of dust"
     },
@@ -1065,7 +1065,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of Kung-Kung the baby triceratops, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit small on the forest path beneath an enormous warm afternoon sky, the whole green valley spread around them. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 쿵쿵, 루카, 후안, 미미, 티니, 루비 small on the forest path beneath an enormous warm afternoon sky, the whole green valley spread around them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of the six friends small on the forest path beneath an enormous warm afternoon sky, the whole green valley spread around them",
       "motion": "Camera cranes up and back, the friends shrinking on the path as the vast green valley opens out around them"
     },
@@ -1088,7 +1088,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the camera high above the forest valley, Kung-Kung the baby triceratops, Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit now tiny specks on the path far below, distant blue mountains along the horizon. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the camera high above the forest valley, 쿵쿵, 루카, 후안, 미미, 티니, 루비 now tiny specks on the path far below, distant blue mountains along the horizon. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the camera high above the forest valley, the six friends now tiny specks on the path far below, distant blue mountains along the horizon",
       "motion": "The camera keeps rising above the forest, the friends becoming specks, the far mountains coming into view"
     },
@@ -1127,7 +1127,7 @@
         "티니",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, an end card illustration of Kung-Kung the baby triceratops in his signature pose on a sunlit hilltop with Luca the tiger cub, Juan the penguin, Mimi the koala, Tini the puppy, Ruby the rabbit behind him, warm afternoon palette, clear empty space at the bottom for a title. Use the attached reference sheets for every character in this shot: keep each character's face, head shape, proportions, colors, markings and outfit exactly as shown in the reference. Do not redesign, restyle or age the characters.",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, an end card illustration of 쿵쿵 in his signature pose on a sunlit hilltop with 루카, 후안, 미미, 티니, 루비 behind him, warm afternoon palette, clear empty space at the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "an end card illustration of {쿵쿵} in his signature pose on a sunlit hilltop with the five friends behind him, warm afternoon palette, clear empty space at the bottom for a title",
       "motion": "Gentle push in on the end card, light sparkles drifting, everything settling into stillness"
     }

@@ -59,10 +59,18 @@ def ref_prompt(chars: dict, shot: dict, cast: list[str]) -> str:
             text = text.replace("{%s}" % frag, value).replace("[%s]" % frag, value)
     # 능력 조각은 "his three horns"로 시작해 주어가 없다. 쿵쿵을 명시한다.
     text = text.replace("along his three horns", "along %s's three horns" % name_of(chars, "쿵쿵"))
+    # 그룹 지칭은 전원의 이름으로 펼친다. 이름이 있어야 등록된 캐릭터가 적용된다.
+    # "the five/six friends"를 먼저 바꾼 뒤 남은 "the friends"를 cast 기준으로 처리한다.
     for group, members in (("the five friends", FIVE), ("the six friends", SIX)):
         text = text.replace(group, ", ".join(name_of(chars, m) for m in members))
+    if "the friends" in text and cast:
+        text = text.replace("the friends", ", ".join(name_of(chars, m) for m in cast))
     out = chars["style_tag"] + ", " + text
-    return out + ". " + chars["consistency_tag"] if cast else out
+    if not cast:
+        return out
+    # 등록된 캐릭터를 부르는 경우와 시트를 첨부하는 경우는 고정 지시문이 다르다.
+    key = "consistency_tag_trigger" if chars["characters"][cast[0]].get("trigger") else "consistency_tag_sheet"
+    return out + ". " + chars[key]
 
 
 def main() -> None:
