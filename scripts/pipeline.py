@@ -82,6 +82,8 @@ def load_prompts(shots_file: str = "scenes.json") -> tuple[dict, dict]:
                 "seed": shot["seed"],
                 "duration": shot["duration"],
                 "image": shot["image"],
+                "image_ref": shot.get("image_ref", ""),
+                "cast": shot.get("cast", []),
                 "motion": shot["motion"],
                 "dialogue": shot.get("dialogue", ""),
             }
@@ -121,8 +123,31 @@ def character_prompt(chars: dict, name: str) -> str:
     return f'{chars["style_tag"]}, {entry["ref_prompt"]}, {entry["desc"]}'
 
 
-def scene_prompt(chars: dict, scene: dict) -> str:
+def scene_prompt(chars: dict, scene: dict, use_ref: bool = True) -> str:
+    """컷 프롬프트를 만든다.
+
+    기본은 레퍼런스 모드다. 캐릭터 마스터 시트를 첨부해 생성하는 것을 전제로,
+    외모 서술을 빼고 이름으로만 부르는 image_ref를 쓴다. 레퍼런스를 붙였는데
+    외모를 글로 또 쓰면 모델이 글을 따라 캐릭터를 새로 그려 버리기 때문이다.
+    (docs/07_캐릭터_일관성_가이드.md)
+
+    --no-ref 로 끄면 외모 서술을 펼친 구 프롬프트를 쓴다. 레퍼런스 첨부가
+    불가능한 환경의 폴백이며, 이때 얼굴 일관성은 보장되지 않는다.
+    """
+    if use_ref and scene.get("image_ref"):
+        return scene["image_ref"]
     return f'{chars["style_tag"]}, {expand(scene["image"], chars)}'
+
+
+def cast_sheets(chars: dict, scene: dict) -> list[Path]:
+    """이 컷에 첨부할 캐릭터 마스터 시트 경로. 없는 파일은 걸러낸다."""
+    sheets = []
+    for name in scene.get("cast", []):
+        entry = chars["characters"].get(name, {})
+        rel = entry.get("sheet")
+        if rel and (EP_ROOT / rel).exists():
+            sheets.append(EP_ROOT / rel)
+    return sheets
 
 
 # ------------------------------------------------------------ Gradio 호출 유틸
@@ -287,8 +312,17 @@ def step_scenes(args, chars, scenes):
         if dest.exists() and not args.force:
             print(f"  = {scene['id']}: 이미 존재, 건너뜀")
             continue
-        prompt = scene_prompt(chars, scene)
-        print(f"  → {scene['id']} {scene['title']} seed={scene['seed']}")
+        prompt = scene_prompt(chars, scene, use_ref=not args.no_ref)
+        sheets = cast_sheets(chars, scene)
+        cast = scene.get("cast", [])
+        missing = [n for n in cast] if not sheets else []
+        label = f"cast={','.join(cast)}" if cast else "배경"
+        print(f"  → {scene['id']} {scene['title']} seed={scene['seed']} {label}")
+        if cast and missing:
+            print(f"     ! 마스터 시트가 없어 레퍼런스 없이 생성됩니다 — 얼굴이 컷마다 달라집니다."
+                  f" reference/sheets/ 를 먼저 채우세요 (docs/07 참고)")
+        elif sheets:
+            print(f"     레퍼런스 {len(sheets)}장: {', '.join(s.name for s in sheets)}")
         if args.dry_run:
             print(f"     {prompt}\n")
             continue
@@ -416,6 +450,8 @@ def main() -> int:
     ap.add_argument("--only", nargs="*", default=None, help="특정 캐릭터명/씬 ID만 실행 (예: --only S5 S6)")
     ap.add_argument("--force", action="store_true", help="이미 있는 결과물도 다시 생성")
     ap.add_argument("--dry-run", action="store_true", help="네트워크 호출 없이 최종 프롬프트만 출력")
+    ap.add_argument("--no-ref", action="store_true",
+                    help="레퍼런스 모드를 끄고 외모 서술을 펼친 구 프롬프트를 쓴다. 얼굴 일관성은 보장되지 않는다.")
     ap.add_argument("--image-space", default=SPACE_IMAGE_FAST,
                     help=f"이미지 Space (기본 {SPACE_IMAGE_FAST}, 고품질 {SPACE_IMAGE_HQ}, 대안 {SPACE_IMAGE_ALT})")
     ap.add_argument("--video-space", default=SPACE_VIDEO, help=f"영상 Space (기본 {SPACE_VIDEO})")
