@@ -1,0 +1,22 @@
+{
+  "_comment": "시리즈 전체 에피소드 규격. 시즌·화 구분 없이 모두 이 규격을 따른다. scripts/check_episode.py 가 이 파일로 검사한다.",
+  "runtime_sec": { "min": 180, "max": 300, "target": 270 },
+  "cuts": { "min": 45, "max": 70, "target": 60 },
+  "clip_sec": { "min": 4, "max": 5 },
+  "shot_mix_pct": {
+    "풀샷": { "min": 28, "max": 42 },
+    "미디엄샷": { "min": 32, "max": 48 },
+    "클로즈업": { "min": 16, "max": 28 }
+  },
+  "dialogue": {
+    "narration": { "min": 8, "max": 16 },
+    "character": { "min": 8, "max": 18 },
+    "silent_character_warn": true
+  },
+  "structure": {
+    "acts": 4,
+    "ending_cuts_max": 10,
+    "title_card": 1,
+    "next_episode_hook": 1
+  }
+}

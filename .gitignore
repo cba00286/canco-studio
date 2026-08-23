@@ -8,3 +8,4 @@ episodes/**/assets/*.mp3
 
 __pycache__/
 *.pyc
+site/dist/
