@@ -40,10 +40,10 @@ D = {"chars": chars,
 e = lambda s: html.escape(str(s), quote=True)
 HUE = {'쿵쿵':'kung','루카':'luca','후안':'juan','미미':'mimi','티니':'tini','루비':'ruby'}
 
-def field(label, value, cls=''):
+def field(label, key, value):
     return ('<div class="f"><div class="fl">%s</div>'
-            '<div class="fv ed %s" contenteditable="plaintext-only">%s</div></div>'
-            % (e(label), cls, e(value)))
+            '<div class="fv ed" data-field="%s" contenteditable="plaintext-only">%s</div></div>'
+            % (e(label), e(key), e(value)))
 
 # ---------- 캐릭터 ----------
 cards = []
@@ -51,27 +51,27 @@ for c in D['chars']:
     cards.append('''
   <article class="card c-%s" data-key="%s">
     <header class="ch">
-      <h3><span class="ed nm" contenteditable="plaintext-only">%s</span><span class="en">%s</span></h3>
+      <h3><span class="ed nm" data-field="ko" contenteditable="plaintext-only">%s</span><span class="en">%s</span></h3>
       <div class="tags">
-        <span class="tag hue ed" contenteditable="plaintext-only">%s</span>
-        <span class="tag ed" contenteditable="plaintext-only">%s</span>
-        <span class="tag ed" contenteditable="plaintext-only">%scm</span>
-        <span class="tag ed" contenteditable="plaintext-only">%s</span>
+        <span class="tag hue ed" data-field="mbti" contenteditable="plaintext-only">%s</span>
+        <span class="tag ed" data-field="mbti_ko" contenteditable="plaintext-only">%s</span>
+        <span class="tag ed" data-field="height" contenteditable="plaintext-only">%scm</span>
+        <span class="tag ed" data-field="role" contenteditable="plaintext-only">%s</span>
       </div>
     </header>
     <div class="fields">%s%s%s%s%s%s%s%s</div>
     <div class="home">
-      <div class="hh"><span class="hn ed" contenteditable="plaintext-only">%s</span>
-        <span class="hs ed" contenteditable="plaintext-only">%s · %s</span></div>
-      <p class="ed" contenteditable="plaintext-only">%s</p>
-      <p class="tie ed" contenteditable="plaintext-only">%s</p>
+      <div class="hh"><span class="hn ed" data-field="home.name" contenteditable="plaintext-only">%s</span>
+        <span class="hs ed" data-field="home.enSize" contenteditable="plaintext-only">%s · %s</span></div>
+      <p class="ed" data-field="home.desc" contenteditable="plaintext-only">%s</p>
+      <p class="tie ed" data-field="home.tie" contenteditable="plaintext-only">%s</p>
     </div>
   </article>''' % (HUE[c['key']], e(c['key']), e(c['ko']), e(c['en']),
      e(c['mbti']), e(c['mbtiko']), c['h'], e(c['role']),
-     field('모습', c['look']), field('성격', c['personality']), field('목소리', c['voice']),
-     field('꿈', c['dream']), field('무서워하는 것', c['fear']),
-     field('좋아하는 것', c['likes']), field('싫어하는 것', c['dislikes']),
-     field('버릇 · 시그니처', c['habit']),
+     field('모습', 'look', c['look']), field('성격', 'personality', c['personality']),
+     field('목소리', 'voice', c['voice']), field('꿈', 'dream', c['dream']),
+     field('무서워하는 것', 'fear', c['fear']), field('좋아하는 것', 'likes', c['likes']),
+     field('싫어하는 것', 'dislikes', c['dislikes']), field('버릇 · 시그니처', 'habit', c['habit']),
      e(c['home']['name']), e(c['home']['en']), e(c['home']['size']),
      e(c['home']['desc']), e(c['home']['tie'])))
 
@@ -249,13 +249,13 @@ BODY = '''<title>쿵쿵이와 친구들 제작 자료실</title>
   <h2>에피소드</h2>
   <div id="eplist" style="display:flex;flex-direction:column;gap:20px">
     <article class="epi" data-key="ep1">
-      <h3><span class="no ed" contenteditable="plaintext-only">%s</span><span class="ed" contenteditable="plaintext-only">%s</span></h3>
+      <h3><span class="no ed" data-field="no" contenteditable="plaintext-only">%s</span><span class="ed" data-field="title" contenteditable="plaintext-only">%s</span></h3>
       <div class="stats">
-        <span class="tag ed" contenteditable="plaintext-only">%s</span>
-        <span class="tag ed" contenteditable="plaintext-only">%d컷</span>
-        <span class="tag ed" contenteditable="plaintext-only">%s</span>
+        <span class="tag ed" data-field="runtime" contenteditable="plaintext-only">%s</span>
+        <span class="tag" data-field="cuts">%d컷</span>
+        <span class="tag ed" data-field="status" contenteditable="plaintext-only">%s</span>
       </div>
-      <p class="log ed" contenteditable="plaintext-only">%s</p>
+      <p class="log ed" data-field="logline" contenteditable="plaintext-only">%s</p>
       <div class="tablewrap"><table>
         <thead><tr><th>구성</th><th>컷</th><th>길이</th></tr></thead>
         <tbody artifact-sync>%s</tbody>

@@ -34,19 +34,25 @@
 
 ```bash
 python3 scripts/build_ref_prompts.py --episode ep1   # 프롬프트 재생성
-python3 scripts/check_episode.py ep1                 # 규격 검사
+python3 scripts/check_episode.py ep1                 # 규격 검사 (생성 전 필수)
 python3 site/build.py ep1                            # 사이트 3페이지 → site/dist/
+python3 scripts/sync_from_page.py <page.html>        # 페이지 편집 → JSON 되돌리기
 python3 scripts/pipeline.py scenes --episode ep1 --shots shots_v2.json --dry-run
 ```
+
+세션이 시작되면 `.claude/hooks/session-start.sh` 가 진행 상황·규격 검사·미결정 사항을
+자동으로 띄운다. 물어보지 말고 그것부터 읽으면 된다.
 
 ## 구조
 
 ```
+CLAUDE.md                       이 파일 — 새 세션은 여기부터
+.claude/hooks/session-start.sh  세션 시작 시 진행 상황·규격 검사·미결정 사항 출력
 format.json                     시리즈 공통 에피소드 규격
-CLAUDE.md                       이 파일
 scripts/
   build_ref_prompts.py          image → cast + image_ref
   check_episode.py              format.json 대조 검사
+  sync_from_page.py             페이지에서 고친 내용 → JSON
   pipeline.py                   생성 파이프라인 (chars/scenes/videos/assemble)
 site/
   build.py                      세 페이지 전부 빌드
@@ -74,8 +80,16 @@ episodes/ep1/
 | 컷 시트 | https://claude.ai/code/artifact/1e318145-bd9a-4ef9-8a69-bd6a53e605e7 |
 
 제작 자료실은 `capabilities: {"artifact": {}}`로 배포한다 — 편집 권한이 있는 사람이 페이지에서
-직접 고칠 수 있다. 페이지에서 고친 내용은 저장소에 자동으로 돌아오지 않으므로,
-반영하려면 JSON을 같이 고쳐야 한다.
+직접 고칠 수 있다.
+
+**페이지에서 고친 내용은 저장소로 자동으로 돌아오지 않는다.** 되돌리는 절차:
+
+1. Artifact 도구 `action: "read"` 로 배포된 페이지의 현재 HTML을 받아 파일로 저장
+2. `python3 scripts/sync_from_page.py 받은파일.html` — 무엇이 바뀌었는지 먼저 본다
+3. `--write` 를 붙여 반영한 뒤 `build_ref_prompts.py` 와 `site/build.py` 를 다시 돌린다
+
+`data-field` 이름표가 붙은 칸만 되돌아온다. 표(집·대사·구성)와 페이지에서 새로 만든
+에피소드 카드는 사람이 판단해야 하므로 자동 반영하지 않고 알려만 준다.
 
 ## 아직 안 정해진 것
 
