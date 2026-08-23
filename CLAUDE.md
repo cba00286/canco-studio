@@ -35,6 +35,7 @@
 ```bash
 python3 scripts/build_ref_prompts.py --episode ep1   # 프롬프트 재생성
 python3 scripts/check_episode.py ep1                 # 규격 검사 (생성 전 필수)
+python3 scripts/check_ost.py ep1                     # OST 확보 현황
 python3 site/build.py ep1                            # 사이트 3페이지 → site/dist/
 python3 scripts/sync_from_page.py <page.html>        # 페이지 편집 → JSON 되돌리기
 python3 scripts/pipeline.py scenes --episode ep1 --shots shots_v2.json --dry-run
@@ -52,6 +53,7 @@ format.json                     시리즈 공통 에피소드 규격
 scripts/
   build_ref_prompts.py          image → cast + image_ref
   check_episode.py              format.json 대조 검사
+  check_ost.py                  OST 확보 현황
   sync_from_page.py             페이지에서 고친 내용 → JSON
   pipeline.py                   생성 파이프라인 (chars/scenes/videos/assemble)
 site/
@@ -66,6 +68,7 @@ episodes/ep1/
   prompts/characters.json       캐릭터 — 외모·트리거·프로필·집
   prompts/looks.json            한국어 외모 서술 (사이트용, 프롬프트 아님)
   prompts/shots_v2.json         60컷
+  assets/ost/                   음원 (파일명 자유) + ost.json
   docs/                         대본·컷리스트·가이드·바이블·포맷
 ```
 
@@ -96,4 +99,6 @@ episodes/ep1/
 - **쿵쿵이 능력 규칙** — 발동 조건·한계·대가·성장 곡선. 없으면 매화 편의대로 세지고 약해진다
 - **월드 지도** — 집 6채 배치, 남극과 숲의 거리
 - **후안 대사** — 1화 18컷 등장에 0줄. 무언 캐릭터로 갈지 결정 필요
-- 유튜브 채널 규격 · 사운드 · 아동 안전 가이드
+- **메인 테마 사양** — 파일을 받아야 ost.json 의 길이·조성을 채운다
+- **엔딩곡 가사**
+- 유튜브 채널 규격 · 아동 안전 가이드

@@ -1,0 +1,56 @@
+{
+  "_comment": "OST 목록. 파일은 이 폴더에 아무 이름으로나 넣으면 된다 — slug 또는 제목이 파일명에 들어 있으면 찾는다. 자세한 것은 docs/10_OST_바이블.md.",
+  "tracks": [
+    {
+      "slug": "main-theme",
+      "title": "쿵쿵이와 친구들 메인 테마",
+      "use": "시리즈 대표곡. 예고편·채널 아트·특별편에 쓴다",
+      "length_sec": null,
+      "status": "보유",
+      "note": "이미 만들어져 있음. 파일을 이 폴더에 넣으면 된다"
+    },
+    {
+      "slug": "opening",
+      "title": "쿵! 쿵! 쿵쿵이",
+      "use": "매 화 맨 앞. 본편 앞에 붙는다",
+      "length_sec": 24,
+      "status": "가사 완성 · 생성 대기",
+      "note": "가사와 생성 프롬프트는 docs/10_OST_바이블.md"
+    },
+    {
+      "slug": "ending",
+      "title": "또 만나 내일",
+      "use": "매 화 맨 뒤. 엔딩 카드 위에 깔린다",
+      "length_sec": 20,
+      "status": "미착수"
+    },
+    {
+      "slug": "cue-power",
+      "title": "쿵쿵 파워",
+      "use": "쿵쿵이 능력 발동 (SC3-12·13·14, SC4-10·11)",
+      "length_sec": 6,
+      "status": "미착수"
+    },
+    {
+      "slug": "cue-wonder",
+      "title": "신비",
+      "use": "유성·알·오로라 빛 (SC1 전체, SC2-04·07, SC3-06)",
+      "length_sec": 20,
+      "status": "미착수"
+    },
+    {
+      "slug": "cue-danger",
+      "title": "위기",
+      "use": "급류·구조 (SC4-03~09)",
+      "length_sec": 25,
+      "status": "미착수"
+    },
+    {
+      "slug": "cue-warm",
+      "title": "따뜻한 하루",
+      "use": "평온한 일상·우정 (SC2-01·02, SC3-01, EN-02·03)",
+      "length_sec": 30,
+      "status": "미착수"
+    }
+  ]
+}

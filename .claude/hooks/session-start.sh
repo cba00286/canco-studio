@@ -29,6 +29,10 @@ echo "── 1화 규격 검사 ────────────────
 python3 scripts/check_episode.py ep1 2>&1 | tail -22 || true
 echo
 
+echo "── OST ──────────────────────────────────────────────────────"
+python3 scripts/check_ost.py ep1 2>&1 | tail -n +2 | sed '/^$/d' | tail -12 || true
+echo
+
 echo "── 아직 안 정해진 것 (사용자 결정 필요) ──────────────────────"
 sed -n '/## 아직 안 정해진 것/,$p' CLAUDE.md | tail -n +2 | sed '/^$/d' || true
 echo
