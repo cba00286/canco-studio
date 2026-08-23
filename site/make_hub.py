@@ -7,6 +7,9 @@
 """
 import html, json, pathlib, sys
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import refs
+
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
 EP = sys.argv[1] if len(sys.argv) > 1 else "ep1"
@@ -29,6 +32,26 @@ for n in ORDER:
         "personality": p["personality"], "voice": p["voice"], "dream": p["dream"],
         "fear": p["fear"], "likes": p["likes"], "dislikes": p["dislikes"],
         "habit": p["habit"], "arc": p["arc"], "home": h})
+SHEETS = ROOT / "episodes" / EP / "reference" / "sheets"
+HOMES = ROOT / "episodes" / EP / "reference" / "homes"
+_bytes = 0
+for c in chars:
+    for slot, folder in (("sheetimg", SHEETS), ("homeimg", HOMES)):
+        f = refs.find(folder, c["key"])
+        if f:
+            uri, n = refs.data_uri(f)
+            c[slot] = uri; _bytes += n
+        else:
+            c[slot] = ""
+_chart = refs.find_chart(SHEETS)
+CHART = ""
+if _chart:
+    CHART, n = refs.data_uri(_chart, max_w=1800); _bytes += n
+_n, _rep = refs.report(SHEETS, HOMES, ORDER)
+print("레퍼런스 이미지 %d장 / 13장  %.1fMB" % (_n, _bytes / 1e6), file=sys.stderr)
+if _n < 13:
+    print(_rep, file=sys.stderr)
+
 EPMETA = json.loads((ROOT / "episodes" / EP / "episode.json").read_text(encoding="utf-8"))
 D = {"chars": chars,
   "lines": [{"id": s["id"], "who": s["speaker"], "text": s["dialogue"]} for s in SHOTS["shots"] if s["dialogue"]],
@@ -39,6 +62,14 @@ D = {"chars": chars,
 
 e = lambda s: html.escape(str(s), quote=True)
 HUE = {'쿵쿵':'kung','루카':'luca','후안':'juan','미미':'mimi','티니':'tini','루비':'ruby'}
+
+def img(uri, alt):
+    """레퍼런스 이미지. 없으면 아무것도 넣지 않는다 — 빈 자리를 만들지 않는다."""
+    if not uri:
+        return ""
+    return ('<figure class="ref"><img src="%s" alt="%s" loading="lazy">'
+            '<figcaption>%s</figcaption></figure>' % (uri, e(alt), e(alt)))
+
 
 def field(label, key, value):
     return ('<div class="f"><div class="fl">%s</div>'
@@ -59,21 +90,25 @@ for c in D['chars']:
         <span class="tag ed" data-field="role" contenteditable="plaintext-only">%s</span>
       </div>
     </header>
+    %s
     <div class="fields">%s%s%s%s%s%s%s%s</div>
     <div class="home">
       <div class="hh"><span class="hn ed" data-field="home.name" contenteditable="plaintext-only">%s</span>
         <span class="hs ed" data-field="home.enSize" contenteditable="plaintext-only">%s · %s</span></div>
       <p class="ed" data-field="home.desc" contenteditable="plaintext-only">%s</p>
       <p class="tie ed" data-field="home.tie" contenteditable="plaintext-only">%s</p>
+      %s
     </div>
   </article>''' % (HUE[c['key']], e(c['key']), e(c['ko']), e(c['en']),
      e(c['mbti']), e(c['mbtiko']), c['h'], e(c['role']),
+     img(c['sheetimg'], '%s 3D 마스터 시트' % c['ko']),
      field('모습', 'look', c['look']), field('성격', 'personality', c['personality']),
      field('목소리', 'voice', c['voice']), field('꿈', 'dream', c['dream']),
      field('무서워하는 것', 'fear', c['fear']), field('좋아하는 것', 'likes', c['likes']),
      field('싫어하는 것', 'dislikes', c['dislikes']), field('버릇 · 시그니처', 'habit', c['habit']),
      e(c['home']['name']), e(c['home']['en']), e(c['home']['size']),
-     e(c['home']['desc']), e(c['home']['tie'])))
+     e(c['home']['desc']), e(c['home']['tie']),
+     img(c['homeimg'], '%s — %s 마스터 시트' % (c['ko'], c['home']['name']))))
 
 # ---------- 집 ----------
 homes = []
@@ -167,6 +202,9 @@ body[data-local-tab="eps"]   #p-eps{display:flex}
 .hs{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--faint)}
 .home p{margin:0;font-size:14.5px;line-height:1.75}
 .home .tie{padding-left:11px;border-left:2px solid var(--hue);color:var(--muted);font-size:14px}
+.ref{margin:0;display:flex;flex-direction:column;gap:7px}
+.ref img{width:100%;height:auto;display:block;border-radius:10px;border:1px solid var(--line);background:var(--surface-2)}
+.ref figcaption{font-size:12px;color:var(--faint);font-family:"IBM Plex Mono",monospace}
 .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
 table{border-collapse:collapse;width:100%;min-width:520px;font-size:14.5px}
 th,td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line);vertical-align:baseline}
@@ -238,6 +276,7 @@ BODY = '''<title>쿵쿵이와 친구들 제작 자료실</title>
 
 <section class="panel" id="p-homes">
   <h2>집 — 최고의 안식처</h2>
+  %s
   <p class="hint">여섯 집 모두 안쪽 구성이 같습니다 — 작업 공방 · 식량 저장고 · 아늑한 침대 · 탐험가의 기록실.</p>
   <div class="tablewrap"><table>
     <thead><tr><th>캐릭터</th><th>집</th><th>크기</th><th>설명</th></tr></thead>
@@ -339,8 +378,9 @@ BODY = '''<title>쿵쿵이와 친구들 제작 자료실</title>
 </script>
 '''
 
+CHARTFIG = img(CHART, "쿵쿵이와 친구들 캐릭터 키 도감")
 out = DIST / "kungkung_hub.html"
 out.write_text(BODY % (CSS, ''.join(cards), ''.join(homes),
-    e(ep['no']), e(ep['title']), e(ep['runtime']), ep['cuts'], e(ep['status']),
+    CHARTFIG, e(ep['no']), e(ep['title']), e(ep['runtime']), ep['cuts'], e(ep['status']),
     e(ep['logline']), secs, lines), encoding='utf-8')
 print('작성:', out, out.stat().st_size // 1024, 'KB')

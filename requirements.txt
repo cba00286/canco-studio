@@ -1,3 +1,4 @@
 gradio_client>=1.0
 huggingface_hub>=0.25
 imageio-ffmpeg>=0.5   # ffmpeg가 시스템에 없을 때 쓰는 정적 바이너리 폴백
+Pillow>=10.0          # 레퍼런스 이미지를 페이지에 넣을 때 크기를 줄인다 (없으면 원본 그대로)
