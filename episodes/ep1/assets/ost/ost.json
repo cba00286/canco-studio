@@ -5,9 +5,12 @@
       "slug": "main-theme",
       "title": "쿵쿵이와 친구들 메인 테마",
       "use": "시리즈 대표곡. 예고편·채널 아트·특별편에 쓴다",
-      "length_sec": null,
-      "status": "보유",
-      "note": "이미 만들어져 있음. 파일을 이 폴더에 넣으면 된다"
+      "length_sec": 73,
+      "status": "확보",
+      "note": "앨범아트 포함. 73초라 오프닝(24초)을 이 곡에서 파생시키면 두 곡이 형제로 들린다",
+      "file": "쿵쿵이와 친구들 메인 테마송.mp3",
+      "format": "MP3 VBR 평균 194 kbps · 48 kHz 스테레오",
+      "source": "Suno (2026-08-21)"
     },
     {
       "slug": "opening",
