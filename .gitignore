@@ -9,3 +9,7 @@ episodes/**/assets/*.mp3
 __pycache__/
 *.pyc
 site/dist/
+
+# 렌더 작업 파일 (실측 길이·concat 목록·중간 mp4). 자막 파일 자체는 커밋한다.
+episodes/**/render/
+episodes/ep*/ep*.mp4

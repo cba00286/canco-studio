@@ -30,6 +30,14 @@
 | 이미지 모델 | Nano Banana 2 (얼굴 중요 컷은 Pro), 16:9 |
 | 영상 모델 | MiniMax H3, 컷에 적힌 초 |
 
+## 편집은 OpenArt 밖에서
+
+OpenArt는 **생성만** 쓴다. 이어붙이기·자막·음악·최종 출력은 ffmpeg 로 한다 —
+크레딧 0, 워터마크 0. OpenArt 자막 기능에는 테두리 색 지정이 없고 폰트가 4개뿐이며
+그중 `Inter` 는 한글 글리프가 없다. 자세한 것은 `docs/12_자막과_렌더.md`.
+
+컷마다 자막을 굽지 말 것. 오타 하나에 컷을 재생성하게 되고 크레딧이 샌다.
+
 ## 명령
 
 ```bash
@@ -39,6 +47,9 @@ python3 scripts/check_ost.py ep1                     # OST 확보 현황
 python3 site/build.py ep1                            # 사이트 3페이지 → site/dist/
 python3 scripts/sync_from_page.py <page.html>        # 페이지 편집 → JSON 되돌리기
 python3 scripts/pipeline.py scenes --episode ep1 --shots shots_v2.json --dry-run
+
+python3 scripts/build_subtitles.py --episode episodes/ep1              # 자막 .ass + .srt
+python3 scripts/render_episode.py --episode episodes/ep1 --clips <폴더> # 이어붙이기 + 자막 굽기
 ```
 
 세션이 시작되면 `.claude/hooks/session-start.sh` 가 진행 상황·규격 검사·미결정 사항을
