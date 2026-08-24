@@ -21,6 +21,7 @@ ALIAS = {
     "미미": ["미미", "mimi"],
     "티니": ["티니", "tini"],
     "루비": ["루비", "ruby"],
+    "노을": ["노을", "noeul", "no-eul"],
 }
 CHART = ["도감", "키 비교", "height", "chart", "scale"]
 
