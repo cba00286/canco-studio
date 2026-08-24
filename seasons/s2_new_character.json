@@ -1,16 +1,16 @@
 {
-  "_comment": "시즌 2 신규 캐릭터. 시즌 1에는 등장하지 않는다. 시즌 2 제작을 시작할 때 episodes/<ep>/prompts/characters.json 으로 옮긴다.",
+  "_comment": "시즌 2 신규 캐릭터. 11화부터 40화까지 전 화에 등장한다. 시즌 2 제작을 시작할 때 episodes/<ep>/prompts/characters.json 으로 옮긴다.",
   "debut": "시즌 2 1화",
   "characters": {
-    "여울": {
-      "id": "yeoul",
+    "노을": {
+      "id": "noeul",
       "role": "새로 온 아이 · 붉은여우",
       "seed": 12007,
       "height": 130,
       "trigger": "",
-      "ref_tag": "Yeoul the fox",
-      "desc": "Yeoul, a young red fox with warm russet fur, a cream muzzle, chest and belly, black stockings on all four legs, a large bushy tail with a white tip, tall pointed ears with dark edges, sharp amber eyes, wearing a dark green hooded cape with a wooden toggle",
-      "desc_short": "Yeoul the red fox in a dark green hooded cape",
+      "ref_tag": "Noeul the fox",
+      "desc": "Noeul, a young red fox with warm russet fur, a cream muzzle, chest and belly, black stockings on all four legs, a large bushy tail with a white tip, tall pointed ears with dark edges, sharp amber eyes, wearing a dark green hooded cape with a wooden toggle",
+      "desc_short": "Noeul the red fox in a dark green hooded cape",
       "note": "시즌 2에 새로 온 아이. 처음에는 무리에 끼지 않는다.",
       "profile": {
         "mbti": "INTJ",
@@ -33,7 +33,9 @@
         "zone": "마을이 다 내려다보이는 북쪽 언덕 — 마을 안이지만 가장자리",
         "desc": "마을 북쪽 언덕에 파인 굴. 입구가 좁고 안쪽은 생각보다 넓다. 벽에 직접 그린 지도와 표식이 빼곡하다.",
         "tie": "마을 안에 있지만 가장자리이고, 모두가 내려다보이는 높은 곳이다. 끼고 싶으면서도 거리를 두는 위치 그대로다."
-      }
+      },
+      "name_note": "붉은 털이 노을빛이라 「노을」로 지었다. 혼자 있는 저녁의 이미지와도 맞는다. 기존 여섯(쿵쿵·루카·후안·미미·티니·루비)과 첫소리가 겹치지 않아 부를 때 헷갈리지 않는다. 대안 — 단풍 / 모리 / 하루 / 여름."
     }
-  }
+  },
+  "appears": "11~40화 전 화"
 }
