@@ -6,6 +6,8 @@
     python3 site/make_sheet.py
 """
 import json, pathlib, sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent / 'scripts'))
+import bible          # 캐릭터 바이블은 40화 공용 (bible/)
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
@@ -14,7 +16,7 @@ PROMPTS = ROOT / "episodes" / EP / "prompts"
 DIST = HERE / "dist"
 DIST.mkdir(parents=True, exist_ok=True)
 
-CHARS = json.loads((PROMPTS / "characters.json").read_text(encoding="utf-8"))
+CHARS = json.loads(bible.chars_path(PROMPTS).read_text(encoding="utf-8"))
 SHOTS = json.loads((PROMPTS / "shots_v2.json").read_text(encoding="utf-8"))
 ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비"]
 

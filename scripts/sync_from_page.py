@@ -14,6 +14,7 @@ JSON으로 돌아오지 않으면 다음 빌드에서 되돌아가 버린다.
 새로 만든 에피소드 카드는 사람이 판단해야 하므로 건드리지 않고 알려만 준다.
 """
 import argparse, html, json, pathlib, re, sys
+import bible
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 FIELDS = ["ko", "mbti", "mbti_ko", "height", "role", "look",
@@ -47,8 +48,8 @@ def main():
 
     page = pathlib.Path(a.page).read_text(encoding="utf-8")
     P = ROOT / "episodes" / a.episode / "prompts"
-    C = json.loads((P / "characters.json").read_text(encoding="utf-8"))
-    L = json.loads((P / "looks.json").read_text(encoding="utf-8"))
+    C = json.loads(bible.chars_path(P).read_text(encoding="utf-8"))
+    L = json.loads(bible.looks_path(P).read_text(encoding="utf-8"))
     EPF = ROOT / "episodes" / a.episode / "episode.json"
     E = json.loads(EPF.read_text(encoding="utf-8"))
 
@@ -92,8 +93,8 @@ def main():
         print("  episodes/<ep>/ 를 직접 만들고 episode.json 과 shots_v2.json 을 채우세요.")
     if not a.write:
         print("\n미리보기입니다. 반영하려면 --write 를 붙이세요. (%d건)" % len(changes)); return
-    (P / "characters.json").write_text(json.dumps(C, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    (P / "looks.json").write_text(json.dumps(L, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    bible.chars_path(P).write_text(json.dumps(C, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    bible.looks_path(P).write_text(json.dumps(L, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     EPF.write_text(json.dumps(E, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print("\n%d건 반영했습니다. build_ref_prompts.py 와 site/build.py 를 다시 돌리세요." % len(changes))
 

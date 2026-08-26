@@ -23,6 +23,7 @@ import argparse
 import json
 import re
 from pathlib import Path
+import bible
 
 ROOT = Path(__file__).resolve().parent.parent
 FIVE = ["루카", "후안", "미미", "티니", "루비"]
@@ -34,7 +35,7 @@ def name_of(chars: dict, key: str) -> str:
     return entry.get("trigger") or entry["ref_tag"]
 
 
-def cast_of(shot: dict) -> list[str]:
+def cast_of(shot: dict, episode_cast: list[str] | None = None) -> list[str]:
     text = shot["image"] + " " + shot["motion"]
     names = [n for n in re.findall(r"[{\[]([^}\]]+)[}\]]", text) if n in SIX]
     if "쿵쿵_파워" in text:                       # 능력 연출 조각은 쿵쿵이 주어다
@@ -45,7 +46,9 @@ def cast_of(shot: dict) -> list[str]:
     elif "five friends" in low:
         names += FIVE
     elif "the friends" in low:                    # 인원수가 안 적힌 그룹 컷
-        names += SIX if shot["section"] in ("SC4", "EN") else FIVE
+        # 화마다 나오는 인원이 다르다. shots_v2.json의 episode_cast를 쓰고,
+        # 없으면 1화 기준(후반부는 여섯 전원)으로 되돌아간다.
+        names += episode_cast or (SIX if shot["section"] in ("SC4", "EN") else FIVE)
     return [n for n in SIX if n in names]         # 항상 같은 순서로
 
 
@@ -84,7 +87,7 @@ def main() -> None:
     args = ap.parse_args()
 
     prompts = ROOT / "episodes" / args.episode / "prompts"
-    chars = json.loads((prompts / "characters.json").read_text(encoding="utf-8"))
+    chars = json.loads(bible.chars_path(prompts).read_text(encoding="utf-8"))
     path = prompts / args.shots
     data = json.loads(path.read_text(encoding="utf-8"))
 
@@ -95,8 +98,14 @@ def main() -> None:
         print("  characters.json의 trigger에 채우고 다시 실행하면 프롬프트가 트리거 워드로 바뀝니다.")
         print("  지금은 ref_tag(마스터 시트 첨부 전제)로 생성합니다.\n")
 
+    episode_cast = data.get("episode_cast")
+    if episode_cast:
+        unknown = [n for n in episode_cast if n not in SIX]
+        if unknown:
+            raise SystemExit("episode_cast에 모르는 이름: %s" % ", ".join(unknown))
+
     for shot in data["shots"]:
-        cast = cast_of(shot)
+        cast = cast_of(shot, episode_cast)
         shot["cast"] = cast
         shot["image_ref"] = ref_prompt(chars, shot, cast)
 

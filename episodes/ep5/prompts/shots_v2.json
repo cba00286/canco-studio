@@ -1,0 +1,1083 @@
+{
+  "_comment": "5화 「미미의 엉뚱한 발명품」 컷 리스트. 쿵쿵의 능력은 SC3-03~05 한 번뿐이고, 그것도 실패한다 (열매가 떨어져 터진다). 능력이 문제를 푸는 게 아니라 미미에게 '겹친 고리' 힌트를 줄 뿐이다. 해결하는 건 미미의 네 번째 시도다.",
+  "episode_cast": [
+    "미미",
+    "루카",
+    "티니",
+    "쿵쿵"
+  ],
+  "total_shots": 60,
+  "total_seconds": 270,
+  "sections": {
+    "SC1": "Act 1 · SC#1 미미의 작업실 — 세 번째 실패",
+    "SC2": "Act 2 · SC#2 과수원 — 높은 가지, 위험한 순간",
+    "SC3": "Act 3 · SC#3 과수원 — 쿵쿵의 파장에서 얻은 힌트",
+    "SC4": "Act 4 · SC#4 작업실 밤 → 과수원 아침 — 완성",
+    "EN": "엔딩 · 포기하지 않는 마음"
+  },
+  "shots": [
+    {
+      "id": "SC1-01",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44000,
+      "speaker": "나레이션",
+      "dialogue": "숲속마을 한구석에는 늘 뚝딱뚝딱 소리가 나는 집이 있어요.",
+      "ko": "미미의 작업실 외경. 굴뚝에서 하얀 김이 오르고 창문으로 노란 불빛이 새어 나온다.",
+      "ko_motion": "굴뚝의 김이 천천히 피어오르고 창문 불빛이 깜빡인다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the exterior of a cluttered little workshop cottage in the forest village, white steam curling from the chimney, warm yellow light spilling from the windows",
+      "image": "the exterior of a cluttered little workshop cottage in the forest village, white steam curling from the chimney, warm yellow light spilling from the windows",
+      "motion": "Steam curls up from the chimney, the window light flickering"
+    },
+    {
+      "id": "SC1-02",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44007,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "작업실 안. 벽마다 도구와 설계도, 바닥엔 부품과 톱밥이 널려 있다.",
+      "ko_motion": "톱밥이 빛기둥 속에 떠다니고 매달린 도구들이 살짝 흔들린다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, inside the workshop, tools and blueprints covering every wall, gears and wood shavings scattered across the floor, dust in the shafts of light",
+      "image": "inside the workshop, tools and blueprints covering every wall, gears and wood shavings scattered across the floor, dust in the shafts of light",
+      "motion": "Shavings drift in the light, hanging tools swaying slightly"
+    },
+    {
+      "id": "SC1-03",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44014,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 작업대 앞에서 이상하게 생긴 기계에 나사를 조이고 있다.",
+      "ko_motion": "코알라가 드라이버를 돌리고 안경이 조금씩 흘러내린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 at her workbench tightening a screw on a strange contraption of poles and levers, her glasses slipping down her nose. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} at her workbench tightening a screw on a strange contraption of poles and levers, her glasses slipping down her nose",
+      "motion": "The koala turns the screwdriver, glasses sliding down"
+    },
+    {
+      "id": "SC1-04",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44021,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "기계 클로즈업. 긴 막대 끝에 집게가 달려 있고 도르래가 여럿 연결돼 있다.",
+      "ko_motion": "카메라가 기계 구조를 따라 천천히 훑는다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the contraption, a long pole ending in a mechanical claw with several pulleys strung along it",
+      "image": "extreme close-up of the contraption, a long pole ending in a mechanical claw with several pulleys strung along it",
+      "motion": "The camera tracks slowly along the machine's linkages"
+    },
+    {
+      "id": "SC1-05",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44028,
+      "speaker": "미미",
+      "dialogue": "이번엔 진짜 될 거야. 세 번째니까.",
+      "ko": "미미가 기계를 들어 올려 스위치를 누른다.",
+      "ko_motion": "코알라가 기계를 세우고 손가락으로 스위치를 누른다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 standing the contraption upright and pressing a switch on its handle. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} standing the contraption upright and pressing a switch on its handle",
+      "motion": "She stands the machine up and thumbs the switch"
+    },
+    {
+      "id": "SC1-06",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44035,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "집게가 덜컹거리다 멈춘다. 나사 하나가 툭 떨어진다.",
+      "ko_motion": "집게가 두어 번 덜컹이고 나사가 바닥으로 떨어진다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the mechanical claw juddering twice and freezing, a single screw dropping away from it",
+      "image": "close-up of the mechanical claw juddering twice and freezing, a single screw dropping away from it",
+      "motion": "The claw judders, stops, and a screw falls loose"
+    },
+    {
+      "id": "SC1-07",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44042,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "기계가 그대로 옆으로 쓰러진다. 부품이 사방으로 흩어진다.",
+      "ko_motion": "기계가 기울어 넘어지고 부품이 바닥에 흩어진다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the whole contraption toppling sideways in the workshop, parts scattering across the floor",
+      "image": "the whole contraption toppling sideways in the workshop, parts scattering across the floor",
+      "motion": "The machine keels over, parts skittering across the floor"
+    },
+    {
+      "id": "SC1-08",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44049,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 바닥에 흩어진 부품을 내려다본다. 안경알에 비친다.",
+      "ko_motion": "코알라의 시선이 부품 위를 훑고 어깨가 내려간다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 looking down at the scattered parts, the mess reflected in her glasses. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {미미} looking down at the scattered parts, the mess reflected in her glasses",
+      "motion": "Her eyes travel over the wreckage, shoulders dropping"
+    },
+    {
+      "id": "SC1-09",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44056,
+      "speaker": "나레이션",
+      "dialogue": "미미의 발명품은 벌써 세 번째로 실패했어요.",
+      "ko": "미미가 벽에 붙은 설계도 위에 X 표를 그린다.",
+      "ko_motion": "코알라가 연필로 설계도 위에 크게 X를 긋는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 drawing a large X across a blueprint pinned to the wall with a pencil. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} drawing a large X across a blueprint pinned to the wall with a pencil",
+      "motion": "She scores a big X across the blueprint"
+    },
+    {
+      "id": "SC1-10",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44063,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "문이 열리고 루카, 티니, 쿵쿵이 들어온다.",
+      "ko_motion": "셋이 문틈으로 고개를 들이밀고 안을 살핀다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the workshop door opening as 루카, 티니 and 쿵쿵 peer in around it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "the workshop door opening as {루카}, {티니} and {쿵쿵} peer in around it",
+      "motion": "The door swings and three heads lean in"
+    },
+    {
+      "id": "SC1-11",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44070,
+      "speaker": "루카",
+      "dialogue": "또 실패했어? 그냥 손으로 따면 되잖아.",
+      "ko": "루카가 넘어진 기계를 툭툭 건드려본다.",
+      "ko_motion": "호랑이가 발끝으로 기계를 툭툭 건드린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 nudging the fallen contraption with one foot. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} nudging the fallen contraption with one foot",
+      "motion": "He prods the fallen machine with his foot"
+    },
+    {
+      "id": "SC1-12",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44077,
+      "speaker": "미미",
+      "dialogue": "높은 가지는 위험하니까. 그래서 만드는 거야.",
+      "ko": "미미가 부품을 주워 담으며 담담하게 대답한다.",
+      "ko_motion": "코알라가 몸을 굽혀 부품을 하나씩 주워 담는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 calmly gathering the scattered parts back into a box one by one. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} calmly gathering the scattered parts back into a box one by one",
+      "motion": "She stoops and collects the parts steadily"
+    },
+    {
+      "id": "SC1-13",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 44084,
+      "speaker": "쿵쿵",
+      "dialogue": "미미 누나, 안 힘들어? 쿵쿵!",
+      "ko": "쿵쿵이 고개를 갸웃하며 미미를 올려다본다.",
+      "ko_motion": "아기 공룡이 고개를 기울이며 눈을 깜빡인다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 tilting his head up at her, blinking. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} tilting his head up at her, blinking",
+      "motion": "The baby dinosaur tips his head and blinks"
+    },
+    {
+      "id": "SC1-14",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44091,
+      "speaker": "미미",
+      "dialogue": "힘들지. 그래도 네 번째가 남았잖아.",
+      "ko": "미미가 안경을 고쳐 쓰며 살짝 웃는다.",
+      "ko_motion": "코알라가 안경을 밀어 올리고 입가에 미소를 띤다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 pushing her glasses up with a small determined smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} pushing her glasses up with a small determined smile",
+      "motion": "She nudges her glasses and smiles faintly"
+    },
+    {
+      "id": "SC2-01",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44098,
+      "speaker": "나레이션",
+      "dialogue": "이튿날 넷은 마을 과수원으로 갔어요.",
+      "ko": "과수원 전경. 줄지어 선 나무마다 붉은 열매가 가득하다.",
+      "ko_motion": "나뭇잎이 아침 바람에 흔들리고 열매가 흔들린다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a village orchard in the morning, neat rows of trees heavy with red fruit, leaves stirring in the breeze",
+      "image": "a village orchard in the morning, neat rows of trees heavy with red fruit, leaves stirring in the breeze",
+      "motion": "Leaves and fruit sway in the morning breeze"
+    },
+    {
+      "id": "SC2-02",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44105,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 바구니를 들고 나무 사이를 걷는다.",
+      "ko_motion": "넷이 바구니를 흔들며 나무 사이로 걸어간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 루카, 티니 and 쿵쿵 walking between the fruit trees carrying woven baskets. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {루카}, {티니} and {쿵쿵} walking between the fruit trees carrying woven baskets",
+      "motion": "The four walk between the rows swinging their baskets"
+    },
+    {
+      "id": "SC2-03",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44112,
+      "speaker": "나레이션",
+      "dialogue": "낮은 가지의 열매는 손만 뻗으면 닿았어요.",
+      "ko": "티니가 낮은 가지의 열매를 앞발로 톡 건드린다.",
+      "ko_motion": "강아지가 앞발로 열매를 톡 치자 열매가 흔들린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 batting at a low-hanging fruit with her paw, making it swing. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} batting at a low-hanging fruit with her paw, making it swing",
+      "motion": "The puppy taps a low fruit and sets it swinging"
+    },
+    {
+      "id": "SC2-04",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44119,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "낮은 가지의 열매는 금세 다 땄다. 바구니 세 개가 채워진다.",
+      "ko_motion": "넷이 낮은 가지를 훑고 바구니에 열매가 쌓인다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the four stripping the low branches quickly, three baskets filling up with red fruit",
+      "image": "the four stripping the low branches quickly, three baskets filling up with red fruit",
+      "motion": "They clear the low branches, baskets filling fast"
+    },
+    {
+      "id": "SC2-05",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44126,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "그런데 가장 크고 붉은 열매는 나무 꼭대기에 달려 있다.",
+      "ko_motion": "카메라가 위로 올라가며 꼭대기의 큰 열매를 잡는다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up looking up at the biggest, reddest fruit hanging right at the very top of the tallest tree",
+      "image": "close-up looking up at the biggest, reddest fruit hanging right at the very top of the tallest tree",
+      "motion": "The camera tilts up to the largest fruit at the crown"
+    },
+    {
+      "id": "SC2-06",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44133,
+      "speaker": "루카",
+      "dialogue": "저건 내가 딸게! 나 나무 잘 타잖아.",
+      "ko": "루카가 소매를 걷어붙이고 나무를 올려다본다.",
+      "ko_motion": "호랑이가 팔을 걷고 나무 밑동에 손을 얹는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 rolling up his sleeves and putting a paw on the trunk, looking up. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} rolling up his sleeves and putting a paw on the trunk, looking up",
+      "motion": "He rolls his sleeves and sizes up the trunk"
+    },
+    {
+      "id": "SC2-07",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44140,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 나무를 타고 오른다. 가지가 점점 가늘어진다.",
+      "ko_motion": "호랑이가 가지를 옮겨 잡으며 위로 올라간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 climbing up the tall fruit tree, the branches growing thinner as he goes higher. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} climbing up the tall fruit tree, the branches growing thinner as he goes higher",
+      "motion": "He climbs branch to branch, the limbs thinning above him"
+    },
+    {
+      "id": "SC2-08",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44147,
+      "speaker": "미미",
+      "dialogue": "루카, 거기까진 위험해! 가지가 얇아!",
+      "ko": "미미가 나무 아래에서 두 손을 모으고 올려다본다.",
+      "ko_motion": "코알라가 앞발을 가슴에 모으고 고개를 한껏 젖힌다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 at the base of the tree with her paws clasped, craning her head back anxiously. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} at the base of the tree with her paws clasped, craning her head back anxiously",
+      "motion": "She clasps her paws and cranes upward, worried"
+    },
+    {
+      "id": "SC2-09",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44154,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 발밑 가지에 금이 가기 시작한다.",
+      "ko_motion": "가지에 실금이 번지며 나무껍질이 벗겨진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of a thin branch under 루카's foot beginning to split, bark peeling along the crack. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of a thin branch under {루카}'s foot beginning to split, bark peeling along the crack",
+      "motion": "A crack spreads along the branch under his foot"
+    },
+    {
+      "id": "SC2-10",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44161,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "우지끈! 가지가 부러지고 루카가 균형을 잃는다.",
+      "ko_motion": "가지가 부러지며 루카의 몸이 기울어진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the branch snapping under 루카, his body tipping off balance high in the tree. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "the branch snapping under {루카}, his body tipping off balance high in the tree",
+      "motion": "The branch gives way and he pitches sideways"
+    },
+    {
+      "id": "SC2-11",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44168,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 다른 가지를 간신히 붙잡는다. 발이 허공에 떠 있다.",
+      "ko_motion": "손이 가지를 붙잡고 몸이 대롱대롱 매달린다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's paws catching another branch just in time, his feet swinging in empty air. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카}'s paws catching another branch just in time, his feet swinging in empty air",
+      "motion": "His paws catch a branch, legs swinging free below"
+    },
+    {
+      "id": "SC2-12",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44175,
+      "speaker": "티니",
+      "dialogue": "루카 오빠!",
+      "ko": "티니가 나무 밑에서 펄쩍 뛰며 짖는다.",
+      "ko_motion": "강아지가 앞발을 들고 뛰어오르며 짖는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 leaping up on her hind legs below the tree, barking in alarm. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} leaping up on her hind legs below the tree, barking in alarm",
+      "motion": "The puppy rears up, barking"
+    },
+    {
+      "id": "SC2-13",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44182,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 가지를 타고 조심조심 내려온다. 열매는 그대로 남았다.",
+      "ko_motion": "호랑이가 천천히 내려오고 꼭대기 열매는 그대로 흔들린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 carefully lowering himself back down the tree, the big fruit still hanging untouched at the top. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} carefully lowering himself back down the tree, the big fruit still hanging untouched at the top",
+      "motion": "He climbs down carefully, the top fruit still swaying above"
+    },
+    {
+      "id": "SC2-14",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44189,
+      "speaker": "루카",
+      "dialogue": "...미미 말이 맞았어. 저긴 안 되겠어.",
+      "ko": "루카가 땅에 내려서서 손바닥의 상처를 본다.",
+      "ko_motion": "호랑이가 땅에 내려서며 손바닥을 펴 본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 dropping to the ground and turning his scraped paw over to look at it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} dropping to the ground and turning his scraped paw over to look at it",
+      "motion": "He lands and opens his paw to inspect the scrape"
+    },
+    {
+      "id": "SC2-15",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44196,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 나무 꼭대기를 오래 올려다본다.",
+      "ko_motion": "코알라가 고개를 든 채 움직이지 않는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 standing still and staring up at the top of the tree for a long moment. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} standing still and staring up at the top of the tree for a long moment",
+      "motion": "She stares upward, motionless"
+    },
+    {
+      "id": "SC2-16",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 44203,
+      "speaker": "미미",
+      "dialogue": "...방법이 있을 거야. 분명히.",
+      "ko": "미미의 안경알에 나무 꼭대기가 비친다. 눈빛이 단단하다.",
+      "ko_motion": "안경알에 비친 나무가 흔들리고 눈빛이 굳어진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미, the treetop reflected in her glasses, her gaze hardening with resolve. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {미미}, the treetop reflected in her glasses, her gaze hardening with resolve",
+      "motion": "The tree sways in the reflection as her eyes firm up"
+    },
+    {
+      "id": "SC3-01",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44210,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 나무 아래로 걸어 나온다.",
+      "ko_motion": "아기 공룡이 뒤뚱뒤뚱 나무 아래로 걸어간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 waddling out to stand under the tall fruit tree. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} waddling out to stand under the tall fruit tree",
+      "motion": "The baby dinosaur toddles out beneath the tree"
+    },
+    {
+      "id": "SC3-02",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44217,
+      "speaker": "쿵쿵",
+      "dialogue": "내가 흔들어볼게, 쿵쿵!",
+      "ko": "쿵쿵이 발을 단단히 딛고 자세를 잡는다.",
+      "ko_motion": "아기 공룡이 발로 흙을 다지며 자세를 낮춘다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 planting his feet and settling into a low stance under the tree. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} planting his feet and settling into a low stance under the tree",
+      "motion": "He works his feet into the soil and crouches"
+    },
+    {
+      "id": "SC3-03",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44224,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵! 앞발이 과수원 땅을 내리찍는다.",
+      "ko_motion": "앞발이 땅을 강타하고 흙먼지가 원형으로 퍼진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 slamming both front paws into the orchard soil, dust bursting outward in a ring. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} slamming both front paws into the orchard soil, dust bursting outward in a ring",
+      "motion": "The paws strike and dust bursts outward in a ring"
+    },
+    {
+      "id": "SC3-04",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44231,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵의 뿔을 따라 금빛 청록 오로라 빛이 흐르고 앞발 자리에서 충격파 링이 퍼진다.",
+      "ko_motion": "빛이 뿔을 타고 오르고 땅 위로 빛 고리가 번진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of golden-teal aurora light surging along 쿵쿵's three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵_파워}",
+      "motion": "Light races up the horns as a glowing ring spreads outward"
+    },
+    {
+      "id": "SC3-05",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44238,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "충격파 링이 여러 겹으로 퍼져나가며 나무를 흔든다. 열매 몇 개가 떨어진다.",
+      "ko_motion": "빛 고리가 겹겹이 퍼지고 나뭇가지가 흔들리며 열매가 떨어진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, concentric rings of glowing light spreading out from 쿵쿵 across the orchard floor, the trees shaking as a few fruits drop. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "concentric rings of glowing light spreading out from {쿵쿵} across the orchard floor, the trees shaking as a few fruits drop",
+      "motion": "Ring after ring spreads out, branches shaking, fruit falling"
+    },
+    {
+      "id": "SC3-06",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44245,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "그런데 떨어진 열매가 땅에 부딪혀 터진다.",
+      "ko_motion": "열매가 땅에 떨어져 짓뭉개진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a fallen fruit hitting the orchard ground and splitting open, juice spreading into the soil",
+      "image": "a fallen fruit hitting the orchard ground and splitting open, juice spreading into the soil",
+      "motion": "The fruit hits the ground and bursts open"
+    },
+    {
+      "id": "SC3-07",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 44252,
+      "speaker": "미미",
+      "dialogue": "안 돼, 떨어뜨리면 다 터져버려.",
+      "ko": "미미가 터진 열매 앞에 쭈그려 앉는다.",
+      "ko_motion": "코알라가 몸을 낮춰 터진 열매를 들여다본다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 crouching over the burst fruit, examining the damage. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {미미} crouching over the burst fruit, examining the damage",
+      "motion": "She crouches low over the ruined fruit"
+    },
+    {
+      "id": "SC3-08",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44259,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 고개를 든다. 아직 퍼져나가는 빛 고리가 눈에 들어온다.",
+      "ko_motion": "코알라의 고개가 들리고 시선이 빛 고리를 따라간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 lifting her head, her eyes catching the glowing rings still spreading across the ground. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} lifting her head, her eyes catching the glowing rings still spreading across the ground",
+      "motion": "Her head comes up, eyes following the spreading rings"
+    },
+    {
+      "id": "SC3-09",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 44266,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "안경알 가득 겹겹의 빛 고리가 비친다. 동공이 커진다.",
+      "ko_motion": "안경에 비친 고리들이 커지고 눈이 크게 떠진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 미미's glasses filled with the reflection of the concentric light rings, her pupils widening. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of {미미}'s glasses filled with the reflection of the concentric light rings, her pupils widening",
+      "motion": "The rings expand in the reflection, her pupils dilating"
+    },
+    {
+      "id": "SC3-10",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44273,
+      "speaker": "미미",
+      "dialogue": "고리... 고리를 겹치면?",
+      "ko": "미미가 손가락으로 허공에 동그라미를 겹쳐 그린다.",
+      "ko_motion": "코알라가 허공에 손가락으로 원을 겹쳐 그린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 tracing overlapping circles in the air with one finger, thinking hard. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} tracing overlapping circles in the air with one finger, thinking hard",
+      "motion": "She draws overlapping circles in the air"
+    },
+    {
+      "id": "SC3-11",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44280,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 바구니를 뒤집어 들고 나무 아래로 달려간다.",
+      "ko_motion": "코알라가 바구니를 뒤집어 들고 달린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 running under the tree holding a woven basket upside down above her head. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} running under the tree holding a woven basket upside down above her head",
+      "motion": "She runs with the basket held upturned overhead"
+    },
+    {
+      "id": "SC3-12",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44287,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "떨어지는 열매가 뒤집힌 바구니 안으로 들어와 튕기며 멈춘다.",
+      "ko_motion": "열매가 바구니 안에서 두어 번 튕기다 멈춘다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a falling fruit dropping into the upturned basket, bouncing twice inside and settling safely",
+      "image": "a falling fruit dropping into the upturned basket, bouncing twice inside and settling safely",
+      "motion": "The fruit drops in, bounces twice and settles"
+    },
+    {
+      "id": "SC3-13",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 44294,
+      "speaker": "미미",
+      "dialogue": "이거야! 떨어뜨리는 게 아니라 받는 거였어!",
+      "ko": "미미가 바구니 속 온전한 열매를 들어 보인다. 얼굴이 환하다.",
+      "ko_motion": "코알라가 열매를 들어 올리고 활짝 웃는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 holding up the undamaged fruit from the basket, her face lighting up. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {미미} holding up the undamaged fruit from the basket, her face lighting up",
+      "motion": "She lifts the perfect fruit, her face breaking into a grin"
+    },
+    {
+      "id": "SC3-14",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44301,
+      "speaker": "나레이션",
+      "dialogue": "루카와 티니는 무슨 영문인지 알 수 없었어요.",
+      "ko": "루카가 어리둥절한 얼굴로 다가온다.",
+      "ko_motion": "호랑이가 고개를 갸웃하며 다가온다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 walking over with a puzzled look, head tilted. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} walking over with a puzzled look, head tilted",
+      "motion": "He approaches, tilting his head in confusion"
+    },
+    {
+      "id": "SC3-15",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44308,
+      "speaker": "미미",
+      "dialogue": "오늘 밤이면 알게 될 거야. 넷째 번이야!",
+      "ko": "미미가 바구니를 안고 과수원 밖으로 달려나간다.",
+      "ko_motion": "코알라가 바구니를 안고 힘차게 달려나간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 running out of the orchard clutching the basket to her chest. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} running out of the orchard clutching the basket to her chest",
+      "motion": "She sprints away from the orchard, basket in her arms"
+    },
+    {
+      "id": "SC4-01",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44315,
+      "speaker": "나레이션",
+      "dialogue": "그날 밤, 작업실의 불은 꺼지지 않았어요.",
+      "ko": "밤의 작업실 외경. 창문 하나만 환하다.",
+      "ko_motion": "창문 너머로 그림자가 바쁘게 움직인다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the workshop at night from outside, one window glowing bright in the dark forest",
+      "image": "the workshop at night from outside, one window glowing bright in the dark forest",
+      "motion": "A busy silhouette moves behind the lit window"
+    },
+    {
+      "id": "SC4-02",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44322,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 설계도를 새로 그린다. 겹친 고리 모양이 그려진다.",
+      "ko_motion": "연필이 종이 위에 겹친 원들을 빠르게 그려나간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 sketching a new blueprint at her bench, drawing a series of overlapping rings on the paper. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} sketching a new blueprint at her bench, drawing a series of overlapping rings on the paper",
+      "motion": "The pencil sweeps out overlapping rings on the page"
+    },
+    {
+      "id": "SC4-03",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44329,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "천을 오리고 테를 구부려 고리 모양 그물을 만든다.",
+      "ko_motion": "손이 천을 자르고 철사를 둥글게 구부린다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of paws cutting cloth and bending wire hoops into rings on the workbench",
+      "image": "close-up of paws cutting cloth and bending wire hoops into rings on the workbench",
+      "motion": "Paws cut cloth and bend wire into circles"
+    },
+    {
+      "id": "SC4-04",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44336,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "완성된 기계. 긴 장대 끝에 겹친 고리 그물이 우산처럼 펼쳐진다.",
+      "ko_motion": "장대 끝의 고리 그물이 우산처럼 활짝 펼쳐진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the finished device on the bench, a long pole topped with layered ring-shaped netting that opens out like an umbrella",
+      "image": "the finished device on the bench, a long pole topped with layered ring-shaped netting that opens out like an umbrella",
+      "motion": "The layered net unfurls at the top of the pole like an umbrella"
+    },
+    {
+      "id": "SC4-05",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 44343,
+      "speaker": "나레이션",
+      "dialogue": "그리고 다음 날 아침 과수원에서,",
+      "ko": "아침 과수원. 미미가 새 기계를 들고 나무 아래 선다.",
+      "ko_motion": "아침 햇살이 과수원에 퍼지고 미미가 장대를 세운다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the orchard at morning, 미미 standing under the tall tree holding up her new pole device. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "the orchard at morning, {미미} standing under the tall tree holding up her new pole device",
+      "motion": "Morning light spreads as she raises the pole"
+    },
+    {
+      "id": "SC4-06",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44350,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 장대를 뻗어 꼭대기 열매 아래에 고리 그물을 펼친다.",
+      "ko_motion": "고리 그물이 열매 밑에서 활짝 펼쳐진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 extending the pole up under the topmost fruit and spreading the ring net open beneath it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} extending the pole up under the topmost fruit and spreading the ring net open beneath it",
+      "motion": "The net opens wide beneath the high fruit"
+    },
+    {
+      "id": "SC4-07",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44357,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "가장 큰 열매가 그물 안으로 부드럽게 내려앉는다. 상처 하나 없다.",
+      "ko_motion": "열매가 그물 층을 지나며 속도가 줄고 곱게 안착한다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the big red fruit sinking gently through the layers of netting and coming to rest unbruised",
+      "image": "extreme close-up of the big red fruit sinking gently through the layers of netting and coming to rest unbruised",
+      "motion": "The fruit sinks softly through the layers and settles perfectly"
+    },
+    {
+      "id": "SC4-08",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44364,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 환호한다. 미미가 온전한 열매를 높이 들어 올린다.",
+      "ko_motion": "미미가 열매를 들어 올리고 셋이 팔을 들며 환호한다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 holding the perfect fruit high while 루카, 티니 and 쿵쿵 cheer with their arms up. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} holding the perfect fruit high while {루카}, {티니} and {쿵쿵} cheer with their arms up",
+      "motion": "She raises the fruit as the others throw their arms up cheering"
+    },
+    {
+      "id": "EN-01",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 44371,
+      "speaker": "쿵쿵",
+      "dialogue": "끝까지 포기하지 않는 미미를 지켜줄게, 쿵쿵!",
+      "ko": "쿵쿵이 클로즈업. 가슴을 내밀고 자랑스럽게 웃는다.",
+      "ko_motion": "아기 공룡이 가슴을 펴고 활짝 웃는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a proud beaming smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile",
+      "motion": "The baby dinosaur puffs up and beams"
+    },
+    {
+      "id": "EN-02",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 44378,
+      "speaker": "루카",
+      "dialogue": "미미야, 네 번째로 성공했네. 대단하다!",
+      "ko": "루카가 미미의 어깨를 툭 친다.",
+      "ko_motion": "호랑이가 코알라의 어깨를 가볍게 친다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 clapping 미미 on the shoulder with a grin. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} clapping {미미} on the shoulder with a grin",
+      "motion": "He gives her shoulder a friendly clap"
+    },
+    {
+      "id": "EN-03",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44385,
+      "speaker": "미미",
+      "dialogue": "세 번 실패한 덕분이야. 안 그랬으면 몰랐을걸.",
+      "ko": "미미가 안경을 고쳐 쓰며 웃는다.",
+      "ko_motion": "코알라가 안경을 밀어 올리며 미소 짓는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 nudging her glasses up with a modest smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} nudging her glasses up with a modest smile",
+      "motion": "She pushes her glasses up and smiles"
+    },
+    {
+      "id": "EN-04",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44392,
+      "speaker": "나레이션",
+      "dialogue": "실패한 설계도 세 장은 작업실 벽에 그대로 붙어 있었어요.",
+      "ko": "작업실 벽. X 표시가 그려진 설계도 세 장 옆에 네 번째 설계도가 붙는다.",
+      "ko_motion": "네 번째 설계도가 벽에 붙고 종이가 살짝 흔들린다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the workshop wall with three X-marked blueprints pinned in a row, a fourth clean blueprint being pinned up beside them",
+      "image": "the workshop wall with three X-marked blueprints pinned in a row, a fourth clean blueprint being pinned up beside them",
+      "motion": "The fourth blueprint goes up, its edge fluttering"
+    },
+    {
+      "id": "EN-05",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 44399,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 과수원 나무 아래 앉아 열매를 나눠 먹는다.",
+      "ko_motion": "넷이 둘러앉아 열매를 베어 문다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 루카, 티니 and 쿵쿵 sitting together under the orchard tree sharing the fruit. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {루카}, {티니} and {쿵쿵} sitting together under the orchard tree sharing the fruit",
+      "motion": "The four sit in a ring, biting into the fruit"
+    },
+    {
+      "id": "EN-06",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 44406,
+      "speaker": "나레이션",
+      "dialogue": "네 번째는 언제나 세 번의 실패 다음에 오는 법이니까요.",
+      "ko": "과수원 전경. 오후 햇살이 나무 사이로 길게 든다.",
+      "ko_motion": "빛줄기가 나무 사이로 길게 뻗고 잎이 흔들린다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the orchard in long afternoon light, sunbeams stretching between the rows of trees",
+      "image": "wide shot of the orchard in long afternoon light, sunbeams stretching between the rows of trees",
+      "motion": "Sunbeams stretch between the trees, leaves stirring"
+    },
+    {
+      "id": "EN-07",
+      "section": "EN",
+      "shot": "타이틀",
+      "duration": 4,
+      "seed": 44413,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "엔딩 카드. 과수원 나무 아래 넷이 나란히 서 있고 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "잎사귀가 천천히 흔들리고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 미미, 루카, 티니 and 쿵쿵 standing together under the orchard tree, warm golden green colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "end card composition, {미미}, {루카}, {티니} and {쿵쿵} standing together under the orchard tree, warm golden green colours, clean empty space along the bottom for a title",
+      "motion": "Leaves sway gently as the camera eases back"
+    }
+  ]
+}

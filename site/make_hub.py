@@ -6,6 +6,8 @@
     python3 site/make_hub.py
 """
 import html, json, pathlib, sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent / 'scripts'))
+import bible          # 캐릭터 바이블은 40화 공용 (bible/)
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import refs
@@ -17,13 +19,13 @@ PROMPTS = ROOT / "episodes" / EP / "prompts"
 DIST = HERE / "dist"
 DIST.mkdir(parents=True, exist_ok=True)
 
-CHARS = json.loads((PROMPTS / "characters.json").read_text(encoding="utf-8"))
+CHARS = json.loads(bible.chars_path(PROMPTS).read_text(encoding="utf-8"))
 SHOTS = json.loads((PROMPTS / "shots_v2.json").read_text(encoding="utf-8"))
 ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비"]
 
 FULL = {n: ("쿵쿵이" if n == "쿵쿵" else n) for n in ORDER}
 EN = {"쿵쿵":"Kung-Kung","루카":"Luca","후안":"Juan","미미":"Mimi","티니":"Tini","루비":"Ruby"}
-LOOK = json.loads((PROMPTS / "looks.json").read_text(encoding="utf-8"))
+LOOK = json.loads(bible.looks_path(PROMPTS).read_text(encoding="utf-8"))
 chars = []
 for n in ORDER:
     c = CHARS["characters"][n]; p = c["profile"]; h = c["home"]

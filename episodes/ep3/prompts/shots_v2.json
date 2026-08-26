@@ -1,0 +1,1120 @@
+{
+  "_comment": "3화 「루비의 노랫소리가 사라졌어」 컷 리스트. 루비는 SC2-07부터 EN-04까지 소리를 내지 못한다 — 그 구간 대사는 speaker/dialogue를 비우고 몸짓으로만 연기한다. 쿵쿵의 능력은 SC3-05~08 한 번, '치료'가 아니라 '온기'다. 목소리는 능력으로 돌아오지 않는다.",
+  "episode_cast": [
+    "루카",
+    "미미",
+    "티니",
+    "루비",
+    "쿵쿵"
+  ],
+  "total_shots": 60,
+  "total_seconds": 270,
+  "sections": {
+    "SC1": "Act 1 · SC#1 꽃밭 아침 — 루비의 노래",
+    "SC2": "Act 2 · SC#2 다음 날 꽃밭 — 사라진 목소리",
+    "SC3": "Act 3 · SC#3 언덕 벤치 — 쿵쿵의 따뜻한 빛",
+    "SC4": "Act 4 · SC#4 언덕 벤치 — 친구들이 대신 부르는 노래",
+    "EN": "엔딩 · 마음은 소리 없이도 전해진다"
+  },
+  "shots": [
+    {
+      "id": "SC1-01",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42000,
+      "speaker": "나레이션",
+      "dialogue": "숲속마을 꽃밭에는 아침마다 노랫소리가 들려왔어요.",
+      "ko": "이른 아침의 꽃밭. 분홍과 노랑 들꽃이 언덕까지 이어지고 이슬이 맺혀 있다.",
+      "ko_motion": "꽃들이 아침 바람에 물결치고 이슬이 반짝인다. 카메라가 낮게 스쳐 지나간다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a wide meadow of pink and yellow wildflowers stretching up a hillside at early morning, dew beading on the petals",
+      "image": "a wide meadow of pink and yellow wildflowers stretching up a hillside at early morning, dew beading on the petals",
+      "motion": "The flowers ripple in the morning breeze, dew glinting, camera skimming low across them"
+    },
+    {
+      "id": "SC1-02",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42007,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "꽃밭 한가운데 루비가 서서 꽃을 한 송이씩 바구니에 담고 있다.",
+      "ko_motion": "루비가 몸을 굽혀 꽃을 따고 바구니에 담는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 standing in the middle of the flower meadow, bending to pick a blossom and place it in a woven basket. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} standing in the middle of the flower meadow, bending to pick a blossom and place it in a woven basket",
+      "motion": "She bends, picks a flower and sets it in the basket"
+    },
+    {
+      "id": "SC1-03",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42014,
+      "speaker": "루비",
+      "dialogue": "라라라~ 오늘도 좋은 아침이야!",
+      "ko": "루비 클로즈업. 눈을 감고 환하게 웃으며 노래한다.",
+      "ko_motion": "루비가 고개를 젖히고 노래하고 귀가 리듬에 맞춰 살랑인다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 singing with her eyes closed and a bright open smile, head tilted back. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} singing with her eyes closed and a bright open smile, head tilted back",
+      "motion": "She sings with her head back, ears swaying to the rhythm"
+    },
+    {
+      "id": "SC1-04",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42021,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "노랫소리를 따라 루카, 미미, 티니, 쿵쿵이 언덕을 넘어온다.",
+      "ko_motion": "넷이 언덕 능선 위로 차례로 모습을 드러낸다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 coming over the crest of the hill toward the meadow one after another. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카}, {미미}, {티니} and {쿵쿵} coming over the crest of the hill toward the meadow one after another",
+      "motion": "The four appear over the ridge, drawn toward the singing"
+    },
+    {
+      "id": "SC1-05",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42028,
+      "speaker": "티니",
+      "dialogue": "루비 언니 노래는 언제 들어도 좋아!",
+      "ko": "티니가 꽃밭에 털썩 앉아 귀를 쫑긋 세운다.",
+      "ko_motion": "강아지가 자리에 앉으며 귀를 세우고 꼬리를 살랑인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 flopping down among the flowers with her ears perked up, listening happily. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} flopping down among the flowers with her ears perked up, listening happily",
+      "motion": "The puppy settles into the flowers, ears lifting, tail swishing"
+    },
+    {
+      "id": "SC1-06",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42035,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 루비 옆에 다가와 앉는다. 노래를 따라 몸을 흔든다.",
+      "ko_motion": "아기 공룡이 뒤뚱뒤뚱 다가와 앉고 몸을 좌우로 흔든다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 waddling over to sit beside 루비, swaying side to side in time with her song. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} waddling over to sit beside {루비}, swaying side to side in time with her song",
+      "motion": "The baby dinosaur toddles over, sits, and rocks side to side"
+    },
+    {
+      "id": "SC1-07",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42042,
+      "speaker": "쿵쿵",
+      "dialogue": "루비 누나 노래 좋아, 쿵쿵!",
+      "ko": "쿵쿵이 클로즈업. 눈을 반달로 접고 웃는다.",
+      "ko_motion": "아기 공룡이 눈을 가늘게 접으며 함박웃음을 짓는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 smiling wide with his eyes crinkled into happy crescents. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} smiling wide with his eyes crinkled into happy crescents",
+      "motion": "The baby dinosaur's eyes fold into crescents as he beams"
+    },
+    {
+      "id": "SC1-08",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42049,
+      "speaker": "미미",
+      "dialogue": "루비 목소리는 우리 마을에서 제일 예뻐.",
+      "ko": "미미가 안경을 고쳐 쓰며 조용히 웃는다.",
+      "ko_motion": "코알라가 안경을 밀어 올리고 미소를 짓는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 pushing up her glasses with a quiet, fond smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} pushing up her glasses with a quiet, fond smile",
+      "motion": "The koala nudges her glasses and smiles softly"
+    },
+    {
+      "id": "SC1-09",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42056,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "여럿이 꽃밭에 둘러앉아 노래를 듣는다. 아침 햇살이 비스듬히 든다.",
+      "ko_motion": "다섯이 둘러앉고 햇살 속에 꽃가루가 떠다닌다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 루비 singing while 루카, 미미, 티니 and 쿵쿵 sit around her in the sunlit meadow. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "wide shot of {루비} singing while {루카}, {미미}, {티니} and {쿵쿵} sit around her in the sunlit meadow",
+      "motion": "The five sit together, pollen drifting through the slanted light"
+    },
+    {
+      "id": "SC1-10",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42063,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "하늘 한쪽에서 잿빛 구름이 밀려오고 바람이 차가워진다.",
+      "ko_motion": "구름 그림자가 꽃밭 위를 빠르게 훑고 지나간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, grey clouds sliding in over the meadow, the light dimming as a cold wind moves through the flowers",
+      "image": "grey clouds sliding in over the meadow, the light dimming as a cold wind moves through the flowers",
+      "motion": "A cloud shadow sweeps quickly across the meadow"
+    },
+    {
+      "id": "SC1-11",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42070,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 노래를 멈추고 목을 살짝 감싼다. 표정이 흐려진다.",
+      "ko_motion": "루비가 앞발을 목에 대고 작게 기침한다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 stopping mid-song, one paw going to her throat, a small cough shaking her. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} stopping mid-song, one paw going to her throat, a small cough shaking her",
+      "motion": "She stops singing, a paw rising to her throat as she coughs"
+    },
+    {
+      "id": "SC1-12",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42077,
+      "speaker": "루카",
+      "dialogue": "루비야, 괜찮아? 바람이 찬데.",
+      "ko": "루카가 걱정스러운 얼굴로 다가온다.",
+      "ko_motion": "호랑이가 걸음을 빨리해 다가와 몸을 숙인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 hurrying over and leaning down toward 루비 with a worried face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} hurrying over and leaning down toward {루비} with a worried face",
+      "motion": "The tiger cub steps in quickly and bends toward her"
+    },
+    {
+      "id": "SC1-13",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42084,
+      "speaker": "루비",
+      "dialogue": "괜찮아! 조금 쌀쌀해서 그런가 봐.",
+      "ko": "루비가 손을 저으며 웃어 보인다. 그러나 목소리가 살짝 잠겨 있다.",
+      "ko_motion": "루비가 앞발을 흔들며 밝게 웃지만 어깨가 살짝 움츠러든다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 waving a paw dismissively with a bright smile, though her shoulders draw in slightly against the cold. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} waving a paw dismissively with a bright smile, though her shoulders draw in slightly against the cold",
+      "motion": "She waves it off with a smile, shoulders hunching a little"
+    },
+    {
+      "id": "SC1-14",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 42091,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "바구니에 담긴 꽃 위로 첫 빗방울이 떨어진다.",
+      "ko_motion": "빗방울 하나가 꽃잎에 부딪혀 튕긴다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the first raindrop striking a flower petal in the basket and bouncing off",
+      "image": "extreme close-up of the first raindrop striking a flower petal in the basket and bouncing off",
+      "motion": "A single raindrop hits a petal and scatters"
+    },
+    {
+      "id": "SC2-01",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42098,
+      "speaker": "나레이션",
+      "dialogue": "그런데 다음 날 아침, 꽃밭은 아주 조용했어요.",
+      "ko": "다음 날 아침 꽃밭. 비에 젖은 꽃들이 고개를 숙였고 노랫소리가 없다.",
+      "ko_motion": "젖은 꽃들이 무겁게 흔들리고 물방울이 떨어진다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the same flower meadow the next morning, blossoms heavy and bowed with rain, completely silent and empty",
+      "image": "the same flower meadow the next morning, blossoms heavy and bowed with rain, completely silent and empty",
+      "motion": "The wet flowers sway heavily, drops falling from the petals"
+    },
+    {
+      "id": "SC2-02",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42105,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 꽃밭에 서서 두리번거린다. 루비가 없다.",
+      "ko_motion": "넷이 고개를 돌리며 주위를 살핀다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 standing in the empty meadow looking around for someone. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카}, {미미}, {티니} and {쿵쿵} standing in the empty meadow looking around for someone",
+      "motion": "The four turn their heads, searching the empty meadow"
+    },
+    {
+      "id": "SC2-03",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42112,
+      "speaker": "티니",
+      "dialogue": "루비 언니가 안 왔어. 한 번도 안 빠졌는데.",
+      "ko": "티니의 귀가 축 처지고 꼬리도 내려간다.",
+      "ko_motion": "강아지의 귀와 꼬리가 동시에 아래로 내려간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 with her long ears and tail drooping, looking around anxiously. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} with her long ears and tail drooping, looking around anxiously",
+      "motion": "The puppy's ears and tail sink together"
+    },
+    {
+      "id": "SC2-04",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42119,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 젖은 길을 따라 루비의 집 쪽으로 달려간다.",
+      "ko_motion": "넷이 물웅덩이를 튀기며 달린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 running along a wet path, splashing through puddles. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카}, {미미}, {티니} and {쿵쿵} running along a wet path, splashing through puddles",
+      "motion": "The four run, splashing water up from the puddles"
+    },
+    {
+      "id": "SC2-05",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42126,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 집 앞 계단에 담요를 두르고 앉아 있다.",
+      "ko_motion": "루비가 담요 속에서 고개를 들어 친구들을 본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 sitting on her front steps wrapped in a blanket, lifting her head as the others arrive. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} sitting on her front steps wrapped in a blanket, lifting her head as the others arrive",
+      "motion": "She looks up from under the blanket as they arrive"
+    },
+    {
+      "id": "SC2-06",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42133,
+      "speaker": "루카",
+      "dialogue": "루비야! 왜 안 왔어?",
+      "ko": "루카가 계단 앞에 멈춰 선다.",
+      "ko_motion": "호랑이가 급히 멈춰 서며 몸을 앞으로 기울인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 pulling up short in front of the steps and leaning forward. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} pulling up short in front of the steps and leaning forward",
+      "motion": "The tiger cub skids to a stop and leans in"
+    },
+    {
+      "id": "SC2-07",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42140,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 입을 벌린다. 그런데 아무 소리도 나오지 않는다.",
+      "ko_motion": "루비의 입이 움직이지만 소리가 없다. 눈이 커진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 루비 opening her mouth to speak, her lips moving but no sound coming, her eyes widening in alarm. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of {루비} opening her mouth to speak, her lips moving but no sound coming, her eyes widening in alarm",
+      "motion": "Her mouth moves silently, eyes widening"
+    },
+    {
+      "id": "SC2-08",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 42147,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 다시 시도한다. 목을 감싸쥐고 애를 쓰지만 소용없다.",
+      "ko_motion": "루비가 목을 붙잡고 다시 입을 벌렸다 닫는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 clutching her throat with both paws and trying again, mouth opening and closing with nothing. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} clutching her throat with both paws and trying again, mouth opening and closing with nothing",
+      "motion": "She grips her throat, mouth opening and closing uselessly"
+    },
+    {
+      "id": "SC2-09",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42154,
+      "speaker": "미미",
+      "dialogue": "감기에 걸렸구나. 목소리가 안 나오는 거야.",
+      "ko": "미미가 루비 앞에 무릎을 굽히고 이마에 앞발을 대본다.",
+      "ko_motion": "코알라가 몸을 낮추고 앞발을 이마에 가만히 얹는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 crouching in front of 루비 and gently laying a paw on her forehead. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} crouching in front of {루비} and gently laying a paw on her forehead",
+      "motion": "The koala kneels and rests a paw on her forehead"
+    },
+    {
+      "id": "SC2-10",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42161,
+      "speaker": "나레이션",
+      "dialogue": "루비는 감기에 걸려 목소리를 잃어버렸어요.",
+      "ko": "다섯이 계단 앞에 모여 있다. 하늘은 여전히 흐리다.",
+      "ko_motion": "다섯이 조용히 서 있고 구름이 천천히 흘러간다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the five gathered quietly at the front steps under a grey overcast sky",
+      "image": "wide shot of the five gathered quietly at the front steps under a grey overcast sky",
+      "motion": "They stand quietly, clouds drifting slowly overhead"
+    },
+    {
+      "id": "SC2-11",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42168,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비의 눈에 눈물이 고인다. 고개를 숙인다.",
+      "ko_motion": "눈가에 눈물이 차오르고 한 방울이 떨어진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비's eyes filling with tears, one spilling over as she lowers her head. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비}'s eyes filling with tears, one spilling over as she lowers her head",
+      "motion": "Tears gather and one runs down as her head drops"
+    },
+    {
+      "id": "SC2-12",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42175,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 루비 앞으로 다가가 올려다본다.",
+      "ko_motion": "아기 공룡이 조심스레 다가가 고개를 들어 올려다본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 stepping carefully up to 루비 and looking up into her face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} stepping carefully up to {루비} and looking up into her face",
+      "motion": "The baby dinosaur edges close and looks up at her"
+    },
+    {
+      "id": "SC2-13",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42182,
+      "speaker": "쿵쿵",
+      "dialogue": "울지 마, 루비 누나. 쿵쿵!",
+      "ko": "쿵쿵이 앞발로 루비의 무릎을 톡톡 두드린다.",
+      "ko_motion": "아기 공룡이 앞발로 무릎을 가만히 두드린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 patting 루비's knee gently with one front paw. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} patting {루비}'s knee gently with one front paw",
+      "motion": "The baby dinosaur pats her knee softly"
+    },
+    {
+      "id": "SC2-14",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42189,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 손짓한다. 다섯이 언덕 위 벤치 쪽으로 함께 걸어간다.",
+      "ko_motion": "다섯이 담요를 두른 루비를 가운데 두고 천천히 걸어간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니, 쿵쿵 and 루비 walking slowly together up a path toward a hilltop bench, 루비 wrapped in her blanket in the middle. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카}, {미미}, {티니}, {쿵쿵} and {루비} walking slowly together up a path toward a hilltop bench, {루비} wrapped in her blanket in the middle",
+      "motion": "The five walk slowly up the path together"
+    },
+    {
+      "id": "SC2-15",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42196,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "언덕 위 나무 벤치. 마을이 저 아래로 내려다보인다.",
+      "ko_motion": "구름 사이로 빛줄기가 마을 위로 내려앉는다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a weathered wooden bench on a hilltop overlooking the whole village below, a shaft of light breaking through the clouds",
+      "image": "a weathered wooden bench on a hilltop overlooking the whole village below, a shaft of light breaking through the clouds",
+      "motion": "A beam of light opens through the clouds onto the village"
+    },
+    {
+      "id": "SC2-16",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 42203,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 벤치에 앉아 무릎에 얼굴을 묻는다.",
+      "ko_motion": "루비가 담요를 끌어당기며 얼굴을 무릎에 묻는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 sitting on the bench and pressing her face into her knees, pulling the blanket tighter. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} sitting on the bench and pressing her face into her knees, pulling the blanket tighter",
+      "motion": "She hugs the blanket close and buries her face"
+    },
+    {
+      "id": "SC3-01",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42210,
+      "speaker": "루카",
+      "dialogue": "우리가 뭐라도 해주고 싶은데...",
+      "ko": "루카가 벤치 옆에 서서 주먹을 쥐었다 편다. 답답한 표정.",
+      "ko_motion": "호랑이가 손을 쥐었다 펴며 발끝으로 땅을 문지른다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 standing beside the bench, opening and closing his paws in frustration, scuffing the ground with one foot. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} standing beside the bench, opening and closing his paws in frustration, scuffing the ground with one foot",
+      "motion": "He clenches and unclenches his paws, scuffing the ground"
+    },
+    {
+      "id": "SC3-02",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42217,
+      "speaker": "미미",
+      "dialogue": "약도 먹었고 따뜻하게도 했는데.",
+      "ko": "미미가 안경을 벗어 닦으며 한숨을 쉰다.",
+      "ko_motion": "코알라가 안경을 벗어 스카프로 닦는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 taking off her glasses and polishing them on her scarf with a small sigh. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} taking off her glasses and polishing them on her scarf with a small sigh",
+      "motion": "The koala removes her glasses and wipes them on her scarf"
+    },
+    {
+      "id": "SC3-03",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42224,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 벤치 위 루비를 가만히 올려다본다. 눈에 생각이 스친다.",
+      "ko_motion": "아기 공룡이 눈을 크게 뜨고 무언가 떠올린 표정을 짓는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 gazing up at 루비 on the bench, his eyes brightening as an idea comes to him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} gazing up at {루비} on the bench, his eyes brightening as an idea comes to him",
+      "motion": "The baby dinosaur's eyes brighten with a sudden idea"
+    },
+    {
+      "id": "SC3-04",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42231,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 벤치 앞으로 나가 자리를 잡고 선다.",
+      "ko_motion": "아기 공룡이 자리를 잡고 발을 단단히 딛는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 planting himself firmly on the grass in front of the bench. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} planting himself firmly on the grass in front of the bench",
+      "motion": "The baby dinosaur sets his feet firmly on the grass"
+    },
+    {
+      "id": "SC3-05",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42238,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 눈을 감고 숨을 크게 들이쉰다. 주변 공기가 잔잔해진다.",
+      "ko_motion": "풀잎이 잠시 멈춘 듯 고요해지고 쿵쿵의 가슴이 부풀어 오른다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 standing on the hilltop with his eyes closed, taking a deep breath, the grass around him going oddly still. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} standing on the hilltop with his eyes closed, taking a deep breath, the grass around him going oddly still",
+      "motion": "The grass goes still as his chest swells with a deep breath"
+    },
+    {
+      "id": "SC3-06",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 42245,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵의 뿔 세 개를 따라 은은한 금빛 청록 빛이 천천히 차오른다.",
+      "ko_motion": "빛이 뿔 아래에서 위로 부드럽게 번져 오른다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of soft golden-teal aurora light slowly welling up along 쿵쿵's three horns, gentle and warm rather than sharp. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of soft golden-teal aurora light slowly welling up along {쿵쿵}'s three horns, gentle and warm rather than sharp",
+      "motion": "The light rises softly from the base of the horns to the tips"
+    },
+    {
+      "id": "SC3-07",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42252,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "빛이 파장이 되어 천천히 퍼지며 벤치와 루비를 감싼다.",
+      "ko_motion": "따뜻한 빛의 물결이 잔디를 타고 번져 루비를 감싼다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a slow warm wave of golden-teal light spreading out from 쿵쿵 across the grass and wrapping softly around 루비 and the bench. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "a slow warm wave of golden-teal light spreading out from {쿵쿵} across the grass and wrapping softly around {루비} and the bench",
+      "motion": "The warm wave spreads across the grass and folds around her"
+    },
+    {
+      "id": "SC3-08",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42259,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "담요와 루비의 털 위로 빛이 은은하게 내려앉는다.",
+      "ko_motion": "빛 입자가 담요 결을 따라 천천히 내려앉는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the soft light settling over 루비's blanket and fur like warm dust. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of the soft light settling over {루비}'s blanket and fur like warm dust",
+      "motion": "Motes of light drift down and settle along the blanket"
+    },
+    {
+      "id": "SC3-09",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42266,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 고개를 든다. 볼에 혈색이 돌고 눈물이 마른다.",
+      "ko_motion": "루비의 얼굴이 천천히 들리고 표정이 풀린다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 lifting her face, colour returning to her cheeks, her expression softening. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} lifting her face, colour returning to her cheeks, her expression softening",
+      "motion": "Her face lifts slowly, the tension easing out of it"
+    },
+    {
+      "id": "SC3-10",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42273,
+      "speaker": "티니",
+      "dialogue": "루비 언니 얼굴이 따뜻해졌어!",
+      "ko": "티니가 벤치로 뛰어올라 루비에게 바짝 붙는다.",
+      "ko_motion": "강아지가 벤치에 뛰어올라 옆구리에 몸을 붙인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 jumping up onto the bench and pressing herself against 루비's side. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} jumping up onto the bench and pressing herself against {루비}'s side",
+      "motion": "The puppy leaps onto the bench and snuggles into her side"
+    },
+    {
+      "id": "SC3-11",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42280,
+      "speaker": "나레이션",
+      "dialogue": "쿵쿵이의 빛은 목소리를 돌려주지는 못했어요.",
+      "ko": "언덕 위 다섯. 빛이 서서히 잦아든다.",
+      "ko_motion": "빛의 물결이 천천히 옅어지며 잔디 색이 돌아온다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the five on the hilltop as the golden-teal light slowly fades away from the grass",
+      "image": "wide shot of the five on the hilltop as the golden-teal light slowly fades away from the grass",
+      "motion": "The light thins out and the ordinary colours return"
+    },
+    {
+      "id": "SC3-12",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42287,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 다시 입을 벌려본다. 여전히 소리가 없다.",
+      "ko_motion": "루비가 입을 움직였다가 조용히 다문다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 opening her mouth to try again, then closing it quietly when nothing comes. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} opening her mouth to try again, then closing it quietly when nothing comes",
+      "motion": "She tries once more, then closes her mouth quietly"
+    },
+    {
+      "id": "SC3-13",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42294,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "그런데 루비의 표정은 아까와 다르다. 슬픔 대신 잔잔한 미소.",
+      "ko_motion": "루비의 입꼬리가 천천히 올라간다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비's face, no longer sad but wearing a calm, quiet smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비}'s face, no longer sad but wearing a calm, quiet smile",
+      "motion": "The corners of her mouth rise slowly"
+    },
+    {
+      "id": "SC3-14",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42301,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 앞발을 가슴에 얹고 친구들을 향해 고개를 숙인다.",
+      "ko_motion": "루비가 가슴에 손을 얹고 천천히 고개를 숙인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 laying one paw over her chest and bowing her head toward her friends. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} laying one paw over her chest and bowing her head toward her friends",
+      "motion": "She presses a paw to her chest and bows her head"
+    },
+    {
+      "id": "SC3-15",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42308,
+      "speaker": "미미",
+      "dialogue": "말 안 해도 알겠어. 고맙다는 거지?",
+      "ko": "미미가 웃으며 고개를 끄덕인다.",
+      "ko_motion": "코알라가 고개를 끄덕이고 눈이 반달이 된다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 nodding with a warm smile, her eyes softening behind her glasses. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} nodding with a warm smile, her eyes softening behind her glasses",
+      "motion": "The koala nods, her eyes crinkling behind the lenses"
+    },
+    {
+      "id": "SC4-01",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42315,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 벌떡 일어나 벤치 앞에 선다. 무언가 결심한 얼굴.",
+      "ko_motion": "호랑이가 벤치 앞으로 뛰어나가 두 팔을 벌린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 springing up and planting himself in front of the bench with his arms spread wide. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} springing up and planting himself in front of the bench with his arms spread wide",
+      "motion": "The tiger cub jumps up and throws his arms wide"
+    },
+    {
+      "id": "SC4-02",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42322,
+      "speaker": "루카",
+      "dialogue": "그럼 오늘은 우리가 대신 불러줄게!",
+      "ko": "루카가 크게 숨을 들이쉬고 노래를 시작한다. 음정이 조금 어긋난다.",
+      "ko_motion": "호랑이가 목청껏 노래하고 몸을 좌우로 흔든다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 taking a big breath and belting out a song, swaying side to side, slightly off-key. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} taking a big breath and belting out a song, swaying side to side, slightly off-key",
+      "motion": "He sings loudly and a little out of tune, swaying"
+    },
+    {
+      "id": "SC4-03",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42329,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 벤치 위에서 꼬리로 박자를 맞춘다.",
+      "ko_motion": "강아지의 꼬리가 벤치를 톡톡 두드리며 박자를 낸다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 on the bench beating time against the wood with her tail. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} on the bench beating time against the wood with her tail",
+      "motion": "Her tail taps the bench in rhythm"
+    },
+    {
+      "id": "SC4-04",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42336,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 안경을 고쳐 쓰고 조용히 화음을 넣는다.",
+      "ko_motion": "코알라가 입을 작게 벌리고 부드럽게 화음을 얹는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 singing a soft harmony, mouth just slightly open, glasses catching the light. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {미미} singing a soft harmony, mouth just slightly open, glasses catching the light",
+      "motion": "She hums a gentle harmony, light catching her glasses"
+    },
+    {
+      "id": "SC4-05",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 42343,
+      "speaker": "쿵쿵",
+      "dialogue": "라라라~ 쿵쿵!",
+      "ko": "쿵쿵이 박자를 놓치면서도 신나게 따라 부른다.",
+      "ko_motion": "아기 공룡이 몸을 통통 튀기며 목청껏 따라 한다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 bouncing and singing along enthusiastically, completely off the beat. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} bouncing and singing along enthusiastically, completely off the beat",
+      "motion": "The baby dinosaur bounces and sings, cheerfully off-rhythm"
+    },
+    {
+      "id": "SC4-06",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 42350,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 소리 없이 입을 움직이며 함께 부른다. 눈이 웃는다.",
+      "ko_motion": "루비의 입이 노래를 따라 움직이고 눈가가 접힌다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 mouthing the words silently along with them, her eyes smiling. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} mouthing the words silently along with them, her eyes smiling",
+      "motion": "Her lips move silently with the song, her eyes creasing with joy"
+    },
+    {
+      "id": "SC4-07",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42357,
+      "speaker": "나레이션",
+      "dialogue": "누구도 루비에게 노래하라고 하지 않았어요.",
+      "ko": "언덕 위 다섯이 함께 노래한다. 구름이 걷히고 빛이 쏟아진다.",
+      "ko_motion": "구름이 갈라지며 언덕 위로 햇빛이 넓게 퍼진다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of all five singing together on the hilltop as the clouds break open and sunlight floods across the grass",
+      "image": "wide shot of all five singing together on the hilltop as the clouds break open and sunlight floods across the grass",
+      "motion": "The clouds part and light spills wide over the hill"
+    },
+    {
+      "id": "SC4-08",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42364,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 친구들을 하나씩 끌어안는다.",
+      "ko_motion": "루비가 팔을 벌려 친구들을 차례로 안는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 opening her arms and hugging each of her friends in turn. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} opening her arms and hugging each of her friends in turn",
+      "motion": "She gathers each friend into a hug, one by one"
+    },
+    {
+      "id": "EN-01",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 42371,
+      "speaker": "쿵쿵",
+      "dialogue": "목소리가 안 나와도 마음은 다 전해지는 거야, 쿵쿵!",
+      "ko": "쿵쿵이 클로즈업. 가슴을 내밀고 자랑스럽게 웃는다.",
+      "ko_motion": "아기 공룡이 가슴을 쭉 펴고 환하게 웃는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a proud, warm smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} puffing out his chest with a proud, warm smile",
+      "motion": "The baby dinosaur puffs up his chest and beams"
+    },
+    {
+      "id": "EN-02",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42378,
+      "speaker": "나레이션",
+      "dialogue": "그날 루비는 한마디도 하지 못했지만,",
+      "ko": "다섯이 벤치에 나란히 앉아 마을을 내려다본다.",
+      "ko_motion": "다섯의 어깨가 나란히 붙어 있고 바람이 털을 스친다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비, 루카, 미미, 티니 and 쿵쿵 sitting in a row on the bench looking out over the village. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비}, {루카}, {미미}, {티니} and {쿵쿵} sitting in a row on the bench looking out over the village",
+      "motion": "They sit shoulder to shoulder, the wind stirring their fur"
+    },
+    {
+      "id": "EN-03",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 42385,
+      "speaker": "나레이션",
+      "dialogue": "친구들은 루비가 무슨 말을 하는지 다 알아들었답니다.",
+      "ko": "언덕 위 벤치를 멀리서 잡은 와이드 컷. 오후 빛이 든다.",
+      "ko_motion": "카메라가 천천히 뒤로 물러나며 언덕 전체가 드러난다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the bench small on the hilltop with the five sitting together, warm afternoon light across the whole hill",
+      "image": "wide shot of the bench small on the hilltop with the five sitting together, warm afternoon light across the whole hill",
+      "motion": "The camera pulls slowly back to reveal the whole hillside"
+    },
+    {
+      "id": "EN-04",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 42392,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "다음 날 아침 꽃밭. 루비가 다시 꽃을 딴다.",
+      "ko_motion": "루비가 바구니를 들고 꽃 사이를 걷는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 back in the flower meadow the next morning with her basket, walking among the blossoms. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} back in the flower meadow the next morning with her basket, walking among the blossoms",
+      "motion": "She moves through the flowers with her basket"
+    },
+    {
+      "id": "EN-05",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 42399,
+      "speaker": "루비",
+      "dialogue": "라...라...",
+      "ko": "루비 클로즈업. 아주 작게, 쉰 목소리로 첫 음이 나온다. 눈이 커진다.",
+      "ko_motion": "루비의 입에서 아주 작은 소리가 새어 나오고 눈이 동그래진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비 as a tiny hoarse note finally escapes her, her eyes going wide with surprise and joy. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비} as a tiny hoarse note finally escapes her, her eyes going wide with surprise and joy",
+      "motion": "A faint sound escapes her and her eyes fly open"
+    },
+    {
+      "id": "EN-06",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 42406,
+      "speaker": "나레이션",
+      "dialogue": "목소리는 며칠 뒤에 조금씩 돌아왔어요.",
+      "ko": "아침 꽃밭 전경. 루비 뒤로 친구들이 언덕을 넘어온다.",
+      "ko_motion": "친구들이 언덕 위로 올라오고 꽃밭에 햇살이 퍼진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the sunlit flower meadow, 루비 in the middle and the others coming over the hill behind her. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "wide shot of the sunlit flower meadow, {루비} in the middle and the others coming over the hill behind her",
+      "motion": "The friends crest the hill as sunlight spreads over the meadow"
+    },
+    {
+      "id": "EN-07",
+      "section": "EN",
+      "shot": "타이틀",
+      "duration": 4,
+      "seed": 42413,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "엔딩 카드. 꽃밭 위 다섯이 나란히 서 있고 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "꽃들이 천천히 흔들리고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 루비, 루카, 미미, 티니 and 쿵쿵 standing together in the sunlit flower meadow, soft pastel colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "end card composition, {루비}, {루카}, {미미}, {티니} and {쿵쿵} standing together in the sunlit flower meadow, soft pastel colours, clean empty space along the bottom for a title",
+      "motion": "The flowers sway gently as the camera eases back"
+    }
+  ]
+}

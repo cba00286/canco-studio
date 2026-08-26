@@ -27,6 +27,7 @@ import subprocess
 import sys
 import time
 from pathlib import Path
+import bible
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_EPISODE = "ep1"
@@ -70,7 +71,7 @@ def load_prompts(shots_file: str = "scenes.json") -> tuple[dict, dict]:
     shots.json은 확정 대본을 4~5초 단위로 분해한 128컷 정식 1화 분량이다.
     두 파일의 항목 구조가 조금 달라 여기서 하나로 맞춘다.
     """
-    chars = json.loads((PROMPTS / "characters.json").read_text(encoding="utf-8"))
+    chars = json.loads(bible.chars_path(PROMPTS).read_text(encoding="utf-8"))
     data = json.loads((PROMPTS / shots_file).read_text(encoding="utf-8"))
 
     if "shots" in data:
