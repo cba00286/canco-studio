@@ -460,6 +460,6 @@ render();
 </script>
 '''
 
-out = DIST / "kungkung_ep1_sheet.html"
+out = DIST / ("kungkung_%s_sheet.html" % EP)
 out.write_text(HTML.replace("__DATA__", json.dumps(data, ensure_ascii=False)), encoding='utf-8')
 print("작성:", out, out.stat().st_size // 1024, "KB")

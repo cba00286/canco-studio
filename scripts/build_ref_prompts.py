@@ -38,7 +38,7 @@ def name_of(chars: dict, key: str) -> str:
 def cast_of(shot: dict, episode_cast: list[str] | None = None) -> list[str]:
     text = shot["image"] + " " + shot["motion"]
     names = [n for n in re.findall(r"[{\[]([^}\]]+)[}\]]", text) if n in SIX]
-    if "쿵쿵_파워" in text:                       # 능력 연출 조각은 쿵쿵이 주어다
+    if "쿵쿵_" in text:                           # 능력 연출 조각은 모두 쿵쿵이 주어다
         names.append("쿵쿵")
     low = text.lower()
     if "six friends" in low or "five friends behind him" in low:
@@ -62,6 +62,8 @@ def ref_prompt(chars: dict, shot: dict, cast: list[str]) -> str:
             text = text.replace("{%s}" % frag, value).replace("[%s]" % frag, value)
     # 능력 조각은 "his three horns"로 시작해 주어가 없다. 쿵쿵을 명시한다.
     text = text.replace("along his three horns", "along %s's three horns" % name_of(chars, "쿵쿵"))
+    text = text.replace("from his front paws", "from %s's front paws" % name_of(chars, "쿵쿵"))
+    text = text.replace("the air around him", "the air around %s" % name_of(chars, "쿵쿵"))
     # 그룹 지칭은 전원의 이름으로 펼친다. 이름이 있어야 등록된 캐릭터가 적용된다.
     # "the five/six friends"를 먼저 바꾼 뒤 남은 "the friends"를 cast 기준으로 처리한다.
     for group, members in (("the five friends", FIVE), ("the six friends", SIX)):

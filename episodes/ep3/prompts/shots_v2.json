@@ -672,8 +672,8 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of soft golden-teal aurora light slowly welling up along 쿵쿵's three horns, gentle and warm rather than sharp. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
-      "image": "extreme close-up of soft golden-teal aurora light slowly welling up along {쿵쿵}'s three horns, gentle and warm rather than sharp",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of soft golden-teal aurora light welling gently up along 쿵쿵's three horns and spreading outward in a slow warm wave that settles over everything around him like warm dust. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of {쿵쿵_온기}",
       "motion": "The light rises softly from the base of the horns to the tips"
     },
     {

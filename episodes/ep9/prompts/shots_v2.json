@@ -1,0 +1,1109 @@
+{
+  "_comment": "9화 「약속을 지켜요」 컷 리스트. 이 화에도 쿵쿵의 능력이 나오지 않는다 — 의도된 것이다. 시간을 되돌릴 수 없어야 약속을 어긴 무게가 남는다. 쿵쿵은 SC2-13에서 알려주고 SC3-11에서 묻기만 한다. 8화와 9화가 연달아 능력 없는 화다.",
+  "episode_cast": [
+    "루카",
+    "미미",
+    "티니",
+    "루비",
+    "쿵쿵"
+  ],
+  "total_shots": 60,
+  "total_seconds": 270,
+  "sections": {
+    "SC1": "Act 1 · SC#1 루카의 집 앞 아침 — 세 시에 만나기로",
+    "SC2": "Act 2 · SC#2 루카의 방 / 꽃밭 — 만화책과 기다림",
+    "SC3": "Act 3 · SC#3 해 질 녘 꽃밭 — 아무도 없는 자리",
+    "SC4": "Act 4 · SC#4 다음 날 아침 — 사과",
+    "EN": "엔딩 · 시간 약속은 신뢰"
+  },
+  "shots": [
+    {
+      "id": "SC1-01",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48000,
+      "speaker": "나레이션",
+      "dialogue": "숲속마을의 봄, 언덕 꽃밭에 꽃이 활짝 피었어요.",
+      "ko": "봄날 아침의 숲속마을. 언덕 위 꽃밭이 분홍빛으로 물들어 있다.",
+      "ko_motion": "꽃잎이 바람에 흩날리고 언덕이 분홍으로 일렁인다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a forest village on a spring morning, a hilltop meadow above it covered in pink blossom",
+      "image": "a forest village on a spring morning, a hilltop meadow above it covered in pink blossom",
+      "motion": "Petals drift on the breeze as the hillside ripples pink"
+    },
+    {
+      "id": "SC1-02",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48007,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 집 앞. 넷이 모여 있다.",
+      "ko_motion": "넷이 문 앞에 둘러서서 이야기한다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 루비 standing together outside 루카's front door. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카}, {미미}, {티니} and {루비} standing together outside {루카}'s front door",
+      "motion": "The four stand talking outside the door"
+    },
+    {
+      "id": "SC1-03",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48014,
+      "speaker": "미미",
+      "dialogue": "오늘 세 시에 언덕 꽃밭에서 보는 거야.",
+      "ko": "미미가 손가락 세 개를 펴 보인다.",
+      "ko_motion": "코알라가 앞발을 들어 손가락 세 개를 펴 보인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 holding up three fingers to make the time clear. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} holding up three fingers to make the time clear",
+      "motion": "She raises three fingers"
+    },
+    {
+      "id": "SC1-04",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48021,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 지팡이 끝으로 땅에 '3'을 그린다.",
+      "ko_motion": "지팡이 끝이 흙 위에 숫자를 그린다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루비's staff drawing the number three in the dirt. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루비}'s staff drawing the number three in the dirt",
+      "motion": "The staff tip scratches a three into the soil"
+    },
+    {
+      "id": "SC1-05",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48028,
+      "speaker": "루카",
+      "dialogue": "알았어, 세 시! 절대 안 늦어.",
+      "ko": "루카가 가슴을 두드리며 자신 있게 웃는다.",
+      "ko_motion": "호랑이가 가슴을 툭툭 치며 웃는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 thumping his own chest confidently with a grin. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} thumping his own chest confidently with a grin",
+      "motion": "He thumps his chest, grinning"
+    },
+    {
+      "id": "SC1-06",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48035,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "셋이 손을 흔들며 각자 집으로 흩어진다.",
+      "ko_motion": "셋이 손을 흔들며 다른 길로 흩어진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 티니 and 루비 waving and heading off down three different paths. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {티니} and {루비} waving and heading off down three different paths",
+      "motion": "The three wave and scatter down separate paths"
+    },
+    {
+      "id": "SC1-07",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48042,
+      "speaker": "쿵쿵",
+      "dialogue": "루카 형, 세 시가 언제야? 쿵쿵!",
+      "ko": "쿵쿵이 루카를 올려다보며 묻는다.",
+      "ko_motion": "아기 공룡이 고개를 들고 눈을 깜빡인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 looking up at 루카 and blinking with a question. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} looking up at {루카} and blinking with a question",
+      "motion": "The baby dinosaur looks up, blinking"
+    },
+    {
+      "id": "SC1-08",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48049,
+      "speaker": "루카",
+      "dialogue": "해가 저쯤 왔을 때. 걱정 마, 내가 챙길게.",
+      "ko": "루카가 하늘의 한 지점을 가리킨다.",
+      "ko_motion": "호랑이가 하늘 한 곳을 손가락으로 가리킨다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 pointing up at a spot in the sky to show where the sun will be. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} pointing up at a spot in the sky to show where the sun will be",
+      "motion": "He points to a place in the sky"
+    },
+    {
+      "id": "SC1-09",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48056,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 집으로 들어간다. 문이 닫힌다.",
+      "ko_motion": "문이 닫히고 마당이 조용해진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 going inside and the front door swinging shut behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} going inside and the front door swinging shut behind him",
+      "motion": "The door closes and the yard falls quiet"
+    },
+    {
+      "id": "SC1-10",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48063,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "현관 옆 우편함에 새 만화책 한 권이 꽂혀 있다.",
+      "ko_motion": "만화책 표지가 빛을 받아 반짝인다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of a brand new comic book sticking out of the mailbox beside the door",
+      "image": "close-up of a brand new comic book sticking out of the mailbox beside the door",
+      "motion": "The glossy cover catches the light"
+    },
+    {
+      "id": "SC1-11",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48070,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 다시 나와 만화책을 발견한다. 눈이 커진다.",
+      "ko_motion": "호랑이가 만화책을 뽑아 들고 눈이 커진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 coming back out, spotting the comic and pulling it free, his eyes going wide. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} coming back out, spotting the comic and pulling it free, his eyes going wide",
+      "motion": "He snatches the comic out, eyes widening"
+    },
+    {
+      "id": "SC1-12",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48077,
+      "speaker": "루카",
+      "dialogue": "이거 나왔다! 새로 나온 거야!",
+      "ko": "루카가 만화책 표지를 코앞까지 들어 올린다.",
+      "ko_motion": "호랑이가 표지를 얼굴 가까이 들어 올린다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 holding the comic cover right up in front of his face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카} holding the comic cover right up in front of his face",
+      "motion": "He holds the cover inches from his nose"
+    },
+    {
+      "id": "SC1-13",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48084,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 만화책을 안고 방으로 뛰어 들어간다.",
+      "ko_motion": "호랑이가 만화책을 안고 계단을 뛰어 올라간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 running back inside clutching the comic to his chest. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} running back inside clutching the comic to his chest",
+      "motion": "He bolts inside hugging the comic"
+    },
+    {
+      "id": "SC1-14",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48091,
+      "speaker": "나레이션",
+      "dialogue": "그리고 루카는 만화책을 펼쳤어요.",
+      "ko": "루카의 방. 침대에 엎드려 만화책을 편다.",
+      "ko_motion": "호랑이가 침대에 엎드려 첫 장을 넘긴다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 sprawled on his bed in his room, opening the comic to the first page. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} sprawled on his bed in his room, opening the comic to the first page",
+      "motion": "He flops onto the bed and turns to page one"
+    },
+    {
+      "id": "SC2-01",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48098,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "만화책 페이지가 빠르게 넘어간다.",
+      "ko_motion": "손가락이 페이지를 연달아 넘긴다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of comic pages turning quickly one after another",
+      "image": "close-up of comic pages turning quickly one after another",
+      "motion": "Pages flip past in quick succession"
+    },
+    {
+      "id": "SC2-02",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48105,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 얼굴. 완전히 빠져들어 있다.",
+      "ko_motion": "호랑이의 눈이 좌우로 빠르게 움직인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 completely absorbed, his eyes darting back and forth across the page. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} completely absorbed, his eyes darting back and forth across the page",
+      "motion": "His eyes race across the panels"
+    },
+    {
+      "id": "SC2-03",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48112,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "창밖. 해가 조금씩 기울어간다.",
+      "ko_motion": "창밖 그림자가 방바닥을 가로질러 천천히 이동한다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the window of the room, a shadow creeping slowly across the floor as the sun moves",
+      "image": "the window of the room, a shadow creeping slowly across the floor as the sun moves",
+      "motion": "A shadow slides slowly across the floorboards"
+    },
+    {
+      "id": "SC2-04",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48119,
+      "speaker": "나레이션",
+      "dialogue": "한편 언덕 꽃밭에서는,",
+      "ko": "언덕 꽃밭. 셋이 도착해 자리를 잡는다.",
+      "ko_motion": "셋이 꽃밭에 돗자리를 펴고 앉는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 티니 and 루비 arriving at the blossom meadow and spreading out a picnic mat. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {티니} and {루비} arriving at the blossom meadow and spreading out a picnic mat",
+      "motion": "They lay out a mat among the flowers"
+    },
+    {
+      "id": "SC2-05",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48126,
+      "speaker": "티니",
+      "dialogue": "루카 오빠는 어디 있어?",
+      "ko": "티니가 언덕 아래 길을 내려다본다.",
+      "ko_motion": "강아지가 언덕 끝에서 길 아래를 내려다본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 standing at the edge of the hill looking down the path below. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} standing at the edge of the hill looking down the path below",
+      "motion": "She peers down the empty path"
+    },
+    {
+      "id": "SC2-06",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48133,
+      "speaker": "나레이션",
+      "dialogue": "셋은 세 시부터 그 자리에 앉아 기다렸어요.",
+      "ko": "미미가 바구니에서 도시락을 꺼낸다.",
+      "ko_motion": "코알라가 바구니를 열어 도시락을 꺼낸다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 opening a basket and taking out a packed lunch. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} opening a basket and taking out a packed lunch",
+      "motion": "She opens the basket and lifts out lunch"
+    },
+    {
+      "id": "SC2-07",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48140,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 방. 침대 옆에 다 읽은 만화책이 쌓여간다.",
+      "ko_motion": "만화책이 한 권씩 옆으로 쌓인다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of finished comics stacking up beside the bed one on top of another",
+      "image": "close-up of finished comics stacking up beside the bed one on top of another",
+      "motion": "The pile of read comics grows higher"
+    },
+    {
+      "id": "SC2-08",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48147,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "꽃밭. 도시락이 비었고 셋은 여전히 기다린다.",
+      "ko_motion": "빈 도시락 통 옆에서 셋이 길 쪽을 본다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the meadow with the empty lunch boxes, the three still sitting and watching the path",
+      "image": "the meadow with the empty lunch boxes, the three still sitting and watching the path",
+      "motion": "The empty boxes sit as the three keep watching"
+    },
+    {
+      "id": "SC2-09",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48154,
+      "speaker": "루비",
+      "dialogue": "우리 노래라도 부를까?",
+      "ko": "루비가 억지로 밝게 웃으며 지팡이를 든다.",
+      "ko_motion": "루비가 지팡이를 들어 올리며 웃어 보인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 raising her staff with a deliberately cheerful smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} raising her staff with a deliberately cheerful smile",
+      "motion": "She lifts her staff, forcing brightness"
+    },
+    {
+      "id": "SC2-10",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48161,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "셋이 꽃밭에서 노래하며 시간을 보낸다. 그림자가 길어진다.",
+      "ko_motion": "셋이 노래하고 꽃밭 위 그림자가 길어진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 티니 and 루비 singing together among the blossoms, their shadows stretching longer. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {티니} and {루비} singing together among the blossoms, their shadows stretching longer",
+      "motion": "They sing as the shadows draw out longer"
+    },
+    {
+      "id": "SC2-11",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48168,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 방. 창으로 드는 빛이 주황빛으로 바뀌어 있다.",
+      "ko_motion": "빛이 하얀색에서 주황색으로 물든다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the light through 루카's window turning from white to deep orange. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of the light through {루카}'s window turning from white to deep orange",
+      "motion": "The light warms from white through gold to orange"
+    },
+    {
+      "id": "SC2-12",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48175,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 방문을 열고 들어온다.",
+      "ko_motion": "아기 공룡이 문을 밀고 들어와 방 안을 본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 pushing open the bedroom door and looking inside. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} pushing open the bedroom door and looking inside",
+      "motion": "The door swings and he looks in"
+    },
+    {
+      "id": "SC2-13",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48182,
+      "speaker": "쿵쿵",
+      "dialogue": "루카 형, 해가 넘어가고 있어. 쿵쿵!",
+      "ko": "쿵쿵이 창문을 앞발로 가리킨다.",
+      "ko_motion": "아기 공룡이 앞발로 창밖을 가리킨다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 pointing a front paw urgently toward the window. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} pointing a front paw urgently toward the window",
+      "motion": "He points hard toward the window"
+    },
+    {
+      "id": "SC2-14",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48189,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 고개를 든다. 창밖의 붉은 하늘이 눈에 들어온다.",
+      "ko_motion": "호랑이의 고개가 들리고 눈이 커진다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 lifting his head from the comic, the red evening sky reflected in his widening eyes. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카} lifting his head from the comic, the red evening sky reflected in his widening eyes",
+      "motion": "His head snaps up, the red sky filling his eyes"
+    },
+    {
+      "id": "SC2-15",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48196,
+      "speaker": "루카",
+      "dialogue": "...세 시! 아, 약속!",
+      "ko": "루카가 만화책을 던지고 벌떡 일어난다.",
+      "ko_motion": "호랑이가 만화책을 던지며 튀어 일어난다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 flinging the comic aside and leaping to his feet. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} flinging the comic aside and leaping to his feet",
+      "motion": "He hurls the comic away and springs up"
+    },
+    {
+      "id": "SC2-16",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48203,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 문을 박차고 언덕을 향해 달린다.",
+      "ko_motion": "호랑이가 문을 열어젖히고 전력으로 달려나간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 bursting out of the house and sprinting up the path toward the hill. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} bursting out of the house and sprinting up the path toward the hill",
+      "motion": "He crashes out the door and tears up the path"
+    },
+    {
+      "id": "SC3-01",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48210,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "언덕길. 루카가 숨이 턱에 차도록 달린다.",
+      "ko_motion": "호랑이가 헐떡이며 언덕길을 뛰어 오른다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 running up the hill path, chest heaving, the sky deep orange above. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} running up the hill path, chest heaving, the sky deep orange above",
+      "motion": "He pounds up the slope, breathing hard"
+    },
+    {
+      "id": "SC3-02",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48217,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 발이 흙길을 차며 달린다.",
+      "ko_motion": "발이 흙을 박차고 먼지가 인다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's feet pounding the dirt path, dust kicking up behind. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카}'s feet pounding the dirt path, dust kicking up behind",
+      "motion": "His feet hammer the path, dust flying"
+    },
+    {
+      "id": "SC3-03",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48224,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 언덕 꼭대기에 올라선다. 그리고 멈춰 선다.",
+      "ko_motion": "호랑이가 꼭대기에 올라서고 몸이 그대로 굳는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 cresting the hilltop and stopping dead. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} cresting the hilltop and stopping dead",
+      "motion": "He reaches the top and freezes"
+    },
+    {
+      "id": "SC3-04",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48231,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "꽃밭에 아무도 없다. 노을만 붉게 남아 있다.",
+      "ko_motion": "빈 꽃밭 위로 노을이 붉게 타고 꽃잎이 날린다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the blossom meadow completely empty, only the burning red sunset and drifting petals",
+      "image": "the blossom meadow completely empty, only the burning red sunset and drifting petals",
+      "motion": "Petals drift across the empty meadow under a red sky"
+    },
+    {
+      "id": "SC3-05",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48238,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "풀밭에 눌린 자국 세 개가 남아 있다.",
+      "ko_motion": "카메라가 눌린 풀 자국 위를 천천히 지나간다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of three flattened patches in the grass where they had been sitting",
+      "image": "close-up of three flattened patches in the grass where they had been sitting",
+      "motion": "The camera drifts over the three flattened patches"
+    },
+    {
+      "id": "SC3-06",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48245,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 그 자리에 무릎을 꿇는다.",
+      "ko_motion": "호랑이가 천천히 무릎을 꿇고 앉는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 sinking down onto his knees in the empty meadow. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} sinking down onto his knees in the empty meadow",
+      "motion": "He drops slowly to his knees"
+    },
+    {
+      "id": "SC3-07",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48252,
+      "speaker": "루카",
+      "dialogue": "...늦었구나.",
+      "ko": "루카의 얼굴. 숨이 아직 가쁘고 눈에 후회가 가득하다.",
+      "ko_motion": "호랑이가 거친 숨을 몰아쉬며 눈을 감는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 still panting, his face filling with regret as his eyes close. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카} still panting, his face filling with regret as his eyes close",
+      "motion": "He gasps for breath, eyes closing in regret"
+    },
+    {
+      "id": "SC3-08",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48259,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 뒤늦게 언덕에 올라와 옆에 선다.",
+      "ko_motion": "아기 공룡이 헐떡이며 올라와 옆에 선다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 arriving at the hilltop out of breath and stopping beside 루카. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} arriving at the hilltop out of breath and stopping beside {루카}",
+      "motion": "He arrives panting and halts at his side"
+    },
+    {
+      "id": "SC3-09",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48266,
+      "speaker": "나레이션",
+      "dialogue": "친구들은 해가 다 질 때까지 기다리다 돌아갔어요.",
+      "ko": "언덕 아래 마을 길. 셋의 뒷모습이 저 멀리 작게 보인다.",
+      "ko_motion": "셋의 실루엣이 마을 쪽으로 멀어진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the village path far below, the small silhouettes of 미미, 티니 and 루비 walking home in the dusk. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "the village path far below, the small silhouettes of {미미}, {티니} and {루비} walking home in the dusk",
+      "motion": "Three small silhouettes recede toward the village"
+    },
+    {
+      "id": "SC3-10",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48273,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 그 뒷모습을 바라본다.",
+      "ko_motion": "호랑이의 시선이 멀어지는 실루엣을 따라간다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 watching the distant figures walking away. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카} watching the distant figures walking away",
+      "motion": "His gaze follows the shrinking figures"
+    },
+    {
+      "id": "SC3-11",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48280,
+      "speaker": "쿵쿵",
+      "dialogue": "루카 형, 왜 안 왔어? 쿵쿵.",
+      "ko": "쿵쿵이 조용히 묻는다. 나무라는 기색은 없다.",
+      "ko_motion": "아기 공룡이 고개를 들어 조용히 바라본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 looking up quietly, asking without accusation. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} looking up quietly, asking without accusation",
+      "motion": "He looks up quietly, no blame in his face"
+    },
+    {
+      "id": "SC3-12",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48287,
+      "speaker": "루카",
+      "dialogue": "...만화책 보느라. 재미있어서, 시간 가는 줄 몰랐어.",
+      "ko": "루카가 고개를 숙인다.",
+      "ko_motion": "호랑이의 고개가 천천히 숙여진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 lowering his head, unable to look up. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} lowering his head, unable to look up",
+      "motion": "His head sinks down"
+    },
+    {
+      "id": "SC3-13",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48294,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 손이 풀밭의 눌린 자국을 쓸어본다.",
+      "ko_motion": "손바닥이 눌린 풀을 천천히 쓸어 넘긴다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's paw brushing slowly over the flattened grass. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {루카}'s paw brushing slowly over the flattened grass",
+      "motion": "His paw sweeps slowly across the pressed grass"
+    },
+    {
+      "id": "SC3-14",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48301,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "노을이 완전히 사라지고 별이 하나둘 뜬다.",
+      "ko_motion": "하늘이 어두워지며 별이 하나씩 나타난다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the last of the sunset fading from the meadow as the first stars appear",
+      "image": "the last of the sunset fading from the meadow as the first stars appear",
+      "motion": "The red drains away and stars begin to show"
+    },
+    {
+      "id": "SC3-15",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48308,
+      "speaker": "루카",
+      "dialogue": "...내일. 내일 제일 먼저 사과할 거야.",
+      "ko": "루카가 일어서서 주먹을 쥔다.",
+      "ko_motion": "호랑이가 몸을 일으키며 주먹을 쥔다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 getting to his feet and closing his paw into a determined fist. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} getting to his feet and closing his paw into a determined fist",
+      "motion": "He rises, fist tightening with resolve"
+    },
+    {
+      "id": "SC4-01",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48315,
+      "speaker": "나레이션",
+      "dialogue": "다음 날 아침, 루카는 해가 뜨기도 전에 집을 나섰어요.",
+      "ko": "새벽. 아직 어스름한 마을 길을 루카가 걸어간다.",
+      "ko_motion": "어스름 속에서 호랑이가 혼자 길을 걷는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 walking alone down the village path in the pale light before sunrise. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} walking alone down the village path in the pale light before sunrise",
+      "motion": "He walks the dim path alone before dawn"
+    },
+    {
+      "id": "SC4-02",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48322,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 미미의 집 앞에서 기다린다. 손에 종이 세 장을 들고 있다.",
+      "ko_motion": "호랑이가 문 앞에 서서 종이를 만지작거린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 waiting outside 미미's door, fidgeting with three folded papers in his paws. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} waiting outside {미미}'s door, fidgeting with three folded papers in his paws",
+      "motion": "He waits, turning the folded papers over"
+    },
+    {
+      "id": "SC4-03",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 48329,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "문이 열리고 미미가 나온다. 루카를 보고 멈춘다.",
+      "ko_motion": "문이 열리고 코알라가 나오다 멈춰 선다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카",
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the door opening and 미미 stepping out, stopping when she sees 루카. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "the door opening and {미미} stepping out, stopping when she sees {루카}",
+      "motion": "She steps out and halts at the sight of him"
+    },
+    {
+      "id": "SC4-04",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 48336,
+      "speaker": "루카",
+      "dialogue": "미안해. 정말 미안해. 내가 약속을 잊었어.",
+      "ko": "루카가 허리를 깊이 숙인다.",
+      "ko_motion": "호랑이가 허리를 깊이 숙여 인사한다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 bowing deeply from the waist. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} bowing deeply from the waist",
+      "motion": "He bends into a deep bow"
+    },
+    {
+      "id": "SC4-05",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48343,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니와 루비도 길 저쪽에서 걸어온다.",
+      "ko_motion": "둘이 길을 따라 걸어와 멈춘다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 and 루비 coming up the path and stopping nearby. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} and {루비} coming up the path and stopping nearby",
+      "motion": "The two come up the path and stop"
+    },
+    {
+      "id": "SC4-06",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 48350,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 종이 세 장을 펼친다. 어제 꽃밭 풍경을 그린 그림이다.",
+      "ko_motion": "종이가 펼쳐지고 크레용으로 그린 꽃밭이 드러난다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of three folded papers opening to show crayon drawings of the blossom meadow",
+      "image": "close-up of three folded papers opening to show crayon drawings of the blossom meadow",
+      "motion": "The papers unfold to reveal crayon meadows"
+    },
+    {
+      "id": "SC4-07",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48357,
+      "speaker": "나레이션",
+      "dialogue": "그림에는 어제 저녁의 꽃밭이 그려져 있었어요.",
+      "ko": "루비가 그림을 받아 든다.",
+      "ko_motion": "루비가 그림을 받아 들고 들여다본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 taking one of the drawings and looking down at it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} taking one of the drawings and looking down at it",
+      "motion": "She takes a drawing and studies it"
+    },
+    {
+      "id": "SC4-08",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48364,
+      "speaker": "미미",
+      "dialogue": "오늘 세 시. 다시 하자.",
+      "ko": "미미가 손가락 세 개를 다시 펴 보인다. 넷이 마주 본다.",
+      "ko_motion": "코알라가 손가락 세 개를 펴 보이고 넷이 서로를 본다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 holding up three fingers again as 루카, 티니 and 루비 look at each other. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} holding up three fingers again as {루카}, {티니} and {루비} look at each other",
+      "motion": "She raises three fingers again and they exchange looks"
+    },
+    {
+      "id": "EN-01",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 48371,
+      "speaker": "루카",
+      "dialogue": "이번엔 진짜 제일 먼저 가 있을게.",
+      "ko": "루카가 고개를 힘차게 끄덕인다.",
+      "ko_motion": "호랑이가 고개를 크게 끄덕인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 nodding firmly, meeting their eyes this time. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} nodding firmly, meeting their eyes this time",
+      "motion": "He nods hard, holding their gaze"
+    },
+    {
+      "id": "EN-02",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48378,
+      "speaker": "나레이션",
+      "dialogue": "그날 오후 세 시, 꽃밭에는 루카가 제일 먼저 와 있었어요.",
+      "ko": "오후 꽃밭. 루카가 혼자 돗자리를 펴고 앉아 기다린다.",
+      "ko_motion": "호랑이가 돗자리 위에 앉아 길 쪽을 본다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 sitting alone on a picnic mat in the blossom meadow, watching the path and waiting. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루카} sitting alone on a picnic mat in the blossom meadow, watching the path and waiting",
+      "motion": "He sits waiting, eyes on the path"
+    },
+    {
+      "id": "EN-03",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48385,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카의 발밑에 어제 그 만화책이 덮인 채 놓여 있다.",
+      "ko_motion": "만화책이 덮인 채 놓여 있고 꽃잎이 그 위에 떨어진다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the comic book lying closed beside him, a petal drifting down onto its cover",
+      "image": "close-up of the comic book lying closed beside him, a petal drifting down onto its cover",
+      "motion": "A petal settles onto the closed comic"
+    },
+    {
+      "id": "EN-04",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48392,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "셋이 언덕을 올라온다. 루카가 벌떡 일어나 손을 흔든다.",
+      "ko_motion": "셋이 언덕을 넘어오고 호랑이가 일어나 손을 흔든다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 티니 and 루비 coming over the hill as 루카 jumps up and waves both arms. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {티니} and {루비} coming over the hill as {루카} jumps up and waves both arms",
+      "motion": "They crest the hill as he leaps up waving"
+    },
+    {
+      "id": "EN-05",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 48399,
+      "speaker": "쿵쿵",
+      "dialogue": "시간 약속은 친구 사이의 가장 소중한 신뢰야! 다음부터는 꼭 지키기로 하자!",
+      "ko": "쿵쿵이 클로즈업. 가슴을 내밀고 자랑스럽게 웃는다.",
+      "ko_motion": "아기 공룡이 가슴을 펴고 활짝 웃는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a proud beaming smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile",
+      "motion": "The baby dinosaur puffs up and beams"
+    },
+    {
+      "id": "EN-06",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 48406,
+      "speaker": "나레이션",
+      "dialogue": "꽃은 아직 지지 않고 남아 있었답니다.",
+      "ko": "꽃밭 전경. 다섯이 돗자리에 둘러앉아 웃는다.",
+      "ko_motion": "꽃잎이 흩날리고 다섯이 함께 웃는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 루카, 미미, 티니, 루비 and 쿵쿵 sitting together on the mat in the blossom meadow, petals drifting around them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "wide shot of {루카}, {미미}, {티니}, {루비} and {쿵쿵} sitting together on the mat in the blossom meadow, petals drifting around them",
+      "motion": "Petals drift as the five laugh together"
+    },
+    {
+      "id": "EN-07",
+      "section": "EN",
+      "shot": "타이틀",
+      "duration": 4,
+      "seed": 48413,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "엔딩 카드. 꽃밭 위 다섯이 나란히 서 있고 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "꽃잎이 천천히 날리고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 루카, 미미, 티니, 루비 and 쿵쿵 standing together in the blossom meadow, soft pink and gold colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "end card composition, {루카}, {미미}, {티니}, {루비} and {쿵쿵} standing together in the blossom meadow, soft pink and gold colours, clean empty space along the bottom for a title",
+      "motion": "Petals drift gently as the camera eases back"
+    }
+  ]
+}

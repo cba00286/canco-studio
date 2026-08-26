@@ -1,0 +1,1121 @@
+{
+  "_comment": "8화 「쓱싹쓱싹 양치 대작전」 컷 리스트. 이 화에는 쿵쿵의 능력이 나오지 않는다 — 의도된 것이다. 양치는 능력으로 대신해 줄 수 없고, 쿵쿵이 하는 일은 옆 발판에 같이 올라서는 것뿐이다. 9화도 마찬가지로 능력이 없다.",
+  "episode_cast": [
+    "티니",
+    "미미",
+    "루비",
+    "쿵쿵"
+  ],
+  "total_shots": 60,
+  "total_seconds": 270,
+  "sections": {
+    "SC1": "Act 1 · SC#1 세면대 앞 아침 — 도망치는 티니",
+    "SC2": "Act 2 · SC#2 마당 — 시린 이, 못 먹는 사과",
+    "SC3": "Act 3 · SC#3 세면대 앞 — 둘이 나란히 쓱싹쓱싹",
+    "SC4": "Act 4 · SC#4 마당 — 아삭!",
+    "EN": "엔딩 · 매일 아침 두 번씩"
+  },
+  "shots": [
+    {
+      "id": "SC1-01",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47000,
+      "speaker": "나레이션",
+      "dialogue": "아침이면 티니네 집에서는 늘 소동이 벌어져요.",
+      "ko": "티니의 집 세면대 앞. 낮은 발판과 컵, 칫솔 두 개가 놓여 있다.",
+      "ko_motion": "수도꼭지에서 물방울이 똑 떨어지고 창으로 아침 빛이 든다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a small bathroom sink with a low wooden step stool, a cup and two toothbrushes, morning light through the window",
+      "image": "a small bathroom sink with a low wooden step stool, a cup and two toothbrushes, morning light through the window",
+      "motion": "A drop falls from the tap as morning light crosses the sink"
+    },
+    {
+      "id": "SC1-02",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47007,
+      "speaker": "미미",
+      "dialogue": "티니야, 양치할 시간이야.",
+      "ko": "미미가 칫솔에 치약을 짜며 부른다.",
+      "ko_motion": "코알라가 치약을 짜고 고개를 돌려 부른다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 squeezing toothpaste onto a brush and calling over her shoulder. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} squeezing toothpaste onto a brush and calling over her shoulder",
+      "motion": "She squeezes the tube and turns her head to call"
+    },
+    {
+      "id": "SC1-03",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47014,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "복도 끝에서 티니가 벌써 반대쪽으로 달아나고 있다.",
+      "ko_motion": "강아지가 복도를 미끄러지듯 달아난다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 already bolting away down the hallway in the opposite direction, paws skidding. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} already bolting away down the hallway in the opposite direction, paws skidding",
+      "motion": "The puppy scrambles away down the corridor"
+    },
+    {
+      "id": "SC1-04",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47021,
+      "speaker": "티니",
+      "dialogue": "싫어! 양치 안 할 거야!",
+      "ko": "티니가 소파 뒤로 몸을 숨긴다.",
+      "ko_motion": "강아지가 소파 뒤로 쏙 들어가 웅크린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 diving behind a sofa and curling up out of sight. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} diving behind a sofa and curling up out of sight",
+      "motion": "She dives behind the sofa and tucks herself in"
+    },
+    {
+      "id": "SC1-05",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47028,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "소파 뒤. 티니가 앞발로 입을 가리고 있다.",
+      "ko_motion": "강아지가 앞발로 주둥이를 꽉 감싼다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up behind the sofa, 티니 clamping both front paws over her muzzle. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up behind the sofa, {티니} clamping both front paws over her muzzle",
+      "motion": "She clamps her paws tightly over her muzzle"
+    },
+    {
+      "id": "SC1-06",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47035,
+      "speaker": "루비",
+      "dialogue": "왜 그렇게 싫어해?",
+      "ko": "루비가 소파 뒤를 들여다본다.",
+      "ko_motion": "루비가 지팡이를 짚고 소파 뒤를 들여다본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 leaning around the sofa with her staff to peer at her. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} leaning around the sofa with her staff to peer at her",
+      "motion": "She leans past the sofa arm to look"
+    },
+    {
+      "id": "SC1-07",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47042,
+      "speaker": "티니",
+      "dialogue": "입에 이상한 거 넣는 거 싫단 말이야.",
+      "ko": "티니가 코를 찡그린다.",
+      "ko_motion": "강아지가 코를 찡그리며 고개를 젓는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 scrunching up her nose and shaking her head. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} scrunching up her nose and shaking her head",
+      "motion": "She wrinkles her nose and shakes her head"
+    },
+    {
+      "id": "SC1-08",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 47049,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 칫솔을 든 채 한숨을 쉰다. 쿵쿵이 옆에서 지켜본다.",
+      "ko_motion": "코알라가 어깨를 늘어뜨리고 아기 공룡이 고개를 갸웃한다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 standing with the toothbrush and sighing, 쿵쿵 watching from beside her with his head tilted. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} standing with the toothbrush and sighing, {쿵쿵} watching from beside her with his head tilted",
+      "motion": "She sags with the brush in hand as he tilts his head"
+    },
+    {
+      "id": "SC1-09",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47056,
+      "speaker": "나레이션",
+      "dialogue": "티니는 벌써 며칠째 양치를 하지 않았어요.",
+      "ko": "달력. 날짜마다 빈칸이 이어져 있다.",
+      "ko_motion": "카메라가 빈칸이 이어진 달력을 훑고 지나간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a wall calendar where several days in a row have been left blank and unmarked",
+      "image": "a wall calendar where several days in a row have been left blank and unmarked",
+      "motion": "The camera drifts across the row of unmarked days"
+    },
+    {
+      "id": "SC1-10",
+      "section": "SC1",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47063,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 소파 뒤에서 살짝 고개를 내민다.",
+      "ko_motion": "강아지가 소파 뒤에서 눈만 빼꼼 내민다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 peeking just her eyes out from behind the sofa. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} peeking just her eyes out from behind the sofa",
+      "motion": "Only her eyes appear around the sofa edge"
+    },
+    {
+      "id": "SC1-11",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47070,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 칫솔을 컵에 도로 꽂고 나간다.",
+      "ko_motion": "코알라가 칫솔을 컵에 꽂고 돌아선다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 putting the toothbrush back in the cup and turning to leave the bathroom. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} putting the toothbrush back in the cup and turning to leave the bathroom",
+      "motion": "She sets the brush back and turns away"
+    },
+    {
+      "id": "SC1-12",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 47077,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 소파 뒤에서 나와 안도의 한숨을 쉰다.",
+      "ko_motion": "강아지가 기어 나와 크게 숨을 내쉰다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 crawling out from behind the sofa and letting out a big relieved breath. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} crawling out from behind the sofa and letting out a big relieved breath",
+      "motion": "She creeps out and exhales in relief"
+    },
+    {
+      "id": "SC1-13",
+      "section": "SC1",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47084,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니의 이빨 클로즈업. 누렇게 얼룩이 져 있다.",
+      "ko_motion": "입이 벌어지며 얼룩진 이가 드러난다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 티니's teeth as she yawns, dull and stained yellowish. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of {티니}'s teeth as she yawns, dull and stained yellowish",
+      "motion": "Her mouth opens in a yawn revealing dull stained teeth"
+    },
+    {
+      "id": "SC1-14",
+      "section": "SC1",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 47091,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 신나게 마당으로 달려 나간다.",
+      "ko_motion": "강아지가 문을 밀고 마당으로 뛰어나간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 bounding happily out the door into the sunny yard. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} bounding happily out the door into the sunny yard",
+      "motion": "She shoulders the door open and bounds outside"
+    },
+    {
+      "id": "SC2-01",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47098,
+      "speaker": "나레이션",
+      "dialogue": "그런데 며칠 뒤, 마당에서 이런 일이 있었어요.",
+      "ko": "며칠 뒤의 마당. 사과나무 아래 넷이 모여 있다.",
+      "ko_motion": "사과나무 잎이 흔들리고 붉은 사과가 매달려 있다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a sunny yard a few days later, 티니, 미미, 루비 and 쿵쿵 gathered under an apple tree heavy with red fruit. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "a sunny yard a few days later, {티니}, {미미}, {루비} and {쿵쿵} gathered under an apple tree heavy with red fruit",
+      "motion": "Leaves shift as the red apples sway above them"
+    },
+    {
+      "id": "SC2-02",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47105,
+      "speaker": "루비",
+      "dialogue": "사과 하나씩 먹자!",
+      "ko": "루비가 지팡이로 낮은 가지를 톡 친다. 사과가 떨어진다.",
+      "ko_motion": "지팡이가 가지를 치고 사과 몇 개가 떨어진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 tapping a low branch with her staff, apples dropping into the grass. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} tapping a low branch with her staff, apples dropping into the grass",
+      "motion": "The staff knocks the branch and apples tumble down"
+    },
+    {
+      "id": "SC2-03",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47112,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 사과를 하나씩 주워 든다.",
+      "ko_motion": "넷이 몸을 굽혀 사과를 줍는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니, 미미, 루비 and 쿵쿵 each picking up an apple from the grass. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니}, {미미}, {루비} and {쿵쿵} each picking up an apple from the grass",
+      "motion": "The four stoop and collect an apple each"
+    },
+    {
+      "id": "SC2-04",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 47119,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 사과를 크게 베어 물려고 입을 벌린다.",
+      "ko_motion": "강아지가 입을 크게 벌리고 사과를 가져간다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 opening her mouth wide and bringing the apple toward it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} opening her mouth wide and bringing the apple toward it",
+      "motion": "Her jaws open wide as the apple comes in"
+    },
+    {
+      "id": "SC2-05",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47126,
+      "speaker": "티니",
+      "dialogue": "아야!",
+      "ko": "이가 사과에 닿는 순간 티니가 움찔하며 물러난다.",
+      "ko_motion": "강아지가 사과에서 입을 떼고 고개를 홱 젖힌다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 flinching sharply and jerking her head back from the apple. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} flinching sharply and jerking her head back from the apple",
+      "motion": "She recoils, snapping her head away from the apple"
+    },
+    {
+      "id": "SC2-06",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47133,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 앞발로 볼을 감싼다. 사과가 손에서 떨어진다.",
+      "ko_motion": "사과가 풀밭에 떨어지고 강아지가 볼을 감싼다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 clutching her cheek with both paws, the apple falling into the grass. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} clutching her cheek with both paws, the apple falling into the grass",
+      "motion": "The apple drops as she cradles her cheek"
+    },
+    {
+      "id": "SC2-07",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47140,
+      "speaker": "미미",
+      "dialogue": "이가 시린 거야?",
+      "ko": "미미가 걱정스럽게 다가온다.",
+      "ko_motion": "코알라가 서둘러 다가와 몸을 낮춘다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 hurrying over and crouching down in concern. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} hurrying over and crouching down in concern",
+      "motion": "She hurries over and drops to a crouch"
+    },
+    {
+      "id": "SC2-08",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 47147,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 고개를 끄덕인다. 눈에 눈물이 고인다.",
+      "ko_motion": "강아지가 고개를 끄덕이고 눈가가 젖는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 nodding, her eyes welling up. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} nodding, her eyes welling up",
+      "motion": "She nods, tears gathering"
+    },
+    {
+      "id": "SC2-09",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 47154,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 사과를 그대로 두고 그늘로 물러난다.",
+      "ko_motion": "강아지가 풀밭의 사과를 두고 그늘로 걸어간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 walking away into the shade, leaving her apple lying in the grass. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} walking away into the shade, leaving her apple lying in the grass",
+      "motion": "She retreats into the shade, the apple left behind"
+    },
+    {
+      "id": "SC2-10",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47161,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "셋은 사과를 아삭아삭 씹어 먹는다. 티니만 보고 있다.",
+      "ko_motion": "셋이 사과를 베어 물고 티니는 멀리서 지켜본다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 루비 and 쿵쿵 crunching into their apples while 티니 watches from the shade. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미}, {루비} and {쿵쿵} crunching into their apples while {티니} watches from the shade",
+      "motion": "The three bite into their apples as she watches"
+    },
+    {
+      "id": "SC2-11",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47168,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니의 표정. 부럽고 서럽다.",
+      "ko_motion": "강아지가 침을 삼키며 시선을 떨군다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 swallowing and lowering her gaze, envious and miserable. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} swallowing and lowering her gaze, envious and miserable",
+      "motion": "She swallows and drops her eyes"
+    },
+    {
+      "id": "SC2-12",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47175,
+      "speaker": "나레이션",
+      "dialogue": "좋아하는 사과를 먹을 수 없게 된 거예요.",
+      "ko": "티니가 앞발 사이에 얼굴을 묻는다.",
+      "ko_motion": "강아지가 앞발 위에 턱을 얹고 엎드린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 lying down and resting her chin on her front paws in the shade. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} lying down and resting her chin on her front paws in the shade",
+      "motion": "She lies down, chin sinking onto her paws"
+    },
+    {
+      "id": "SC2-13",
+      "section": "SC2",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47182,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 사과를 손에 든 채 티니 옆으로 걸어간다.",
+      "ko_motion": "아기 공룡이 사과를 들고 뒤뚱뒤뚱 걸어간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 carrying his apple and waddling over to sit beside 티니. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} carrying his apple and waddling over to sit beside {티니}",
+      "motion": "He toddles over with his apple and settles beside her"
+    },
+    {
+      "id": "SC2-14",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47189,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 자기 사과를 티니 앞에 내려놓는다.",
+      "ko_motion": "아기 공룡이 사과를 앞에 살며시 내려놓는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 setting his own apple down gently in front of 티니. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} setting his own apple down gently in front of {티니}",
+      "motion": "He places his apple carefully in front of her"
+    },
+    {
+      "id": "SC2-15",
+      "section": "SC2",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47196,
+      "speaker": "티니",
+      "dialogue": "못 먹어... 아파서.",
+      "ko": "티니가 사과를 밀어낸다. 목소리가 잠긴다.",
+      "ko_motion": "강아지가 앞발로 사과를 살짝 밀어낸다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 nudging the apple away with a paw, her voice small. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} nudging the apple away with a paw, her voice small",
+      "motion": "She pushes the apple away weakly"
+    },
+    {
+      "id": "SC2-16",
+      "section": "SC2",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47203,
+      "speaker": "쿵쿵",
+      "dialogue": "그럼 같이 고치자, 쿵쿵!",
+      "ko": "쿵쿵이 벌떡 일어나 집 쪽을 가리킨다.",
+      "ko_motion": "아기 공룡이 일어서서 앞발로 집을 가리킨다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 standing up and pointing a front paw toward the house. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} standing up and pointing a front paw toward the house",
+      "motion": "He gets up and points toward the house"
+    },
+    {
+      "id": "SC3-01",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47210,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "세면대 앞. 쿵쿵이 발판을 끌어와 나란히 두 개 놓는다.",
+      "ko_motion": "아기 공룡이 발판을 끌어와 나란히 붙인다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 dragging a second step stool over and setting it beside the first at the bathroom sink. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} dragging a second step stool over and setting it beside the first at the bathroom sink",
+      "motion": "He hauls a second stool over and sets it alongside"
+    },
+    {
+      "id": "SC3-02",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47217,
+      "speaker": "쿵쿵",
+      "dialogue": "나도 같이 할 거야. 혼자 아니야, 쿵쿵!",
+      "ko": "쿵쿵이 발판에 올라서서 칫솔을 든다.",
+      "ko_motion": "아기 공룡이 발판에 올라 칫솔을 집는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 climbing onto one stool and picking up a toothbrush. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} climbing onto one stool and picking up a toothbrush",
+      "motion": "He climbs up and takes hold of a brush"
+    },
+    {
+      "id": "SC3-03",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47224,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 문가에서 머뭇거리다 천천히 다가온다.",
+      "ko_motion": "강아지가 문가에서 한 발씩 조심스레 다가온다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 hesitating in the doorway, then padding slowly toward the sink. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} hesitating in the doorway, then padding slowly toward the sink",
+      "motion": "She lingers at the door, then edges forward"
+    },
+    {
+      "id": "SC3-04",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47231,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 옆 발판에 올라선다. 둘이 거울 앞에 나란히 선다.",
+      "ko_motion": "둘이 나란히 발판 위에 올라서고 거울에 함께 비친다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 stepping up onto the second stool so that she and 쿵쿵 stand side by side facing the mirror. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} stepping up onto the second stool so that she and {쿵쿵} stand side by side facing the mirror",
+      "motion": "She climbs up beside him, both reflected in the mirror"
+    },
+    {
+      "id": "SC3-05",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47238,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 두 칫솔에 치약을 조금씩 짜준다.",
+      "ko_motion": "치약이 두 칫솔 위로 짜여 나온다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 squeezing a small line of toothpaste onto each of the two brushes. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {미미} squeezing a small line of toothpaste onto each of the two brushes",
+      "motion": "Toothpaste curls onto each brush in turn"
+    },
+    {
+      "id": "SC3-06",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47245,
+      "speaker": "미미",
+      "dialogue": "조금만. 아프면 바로 멈춰도 돼.",
+      "ko": "미미가 티니의 등을 가볍게 두드린다.",
+      "ko_motion": "코알라가 강아지의 등을 토닥인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 patting 티니's back reassuringly. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} patting {티니}'s back reassuringly",
+      "motion": "She pats the puppy's back gently"
+    },
+    {
+      "id": "SC3-07",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47252,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 칫솔을 입에 넣는다. 눈을 질끈 감는다.",
+      "ko_motion": "강아지가 칫솔을 입에 넣고 눈을 꽉 감는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 putting the brush into her mouth and squeezing her eyes shut. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} putting the brush into her mouth and squeezing her eyes shut",
+      "motion": "The brush goes in and her eyes clamp shut"
+    },
+    {
+      "id": "SC3-08",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47259,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이 옆에서 과장되게 쓱싹쓱싹 닦아 보인다.",
+      "ko_motion": "아기 공룡이 큰 동작으로 칫솔을 좌우로 움직인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 brushing beside her with big exaggerated back-and-forth strokes to show her how. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{쿵쿵} brushing beside her with big exaggerated back-and-forth strokes to show her how",
+      "motion": "He brushes in big showy strokes beside her"
+    },
+    {
+      "id": "SC3-09",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47266,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 실눈을 뜨고 옆을 본다. 쿵쿵의 입에 거품이 잔뜩이다.",
+      "ko_motion": "강아지가 눈을 살짝 뜨고 옆을 흘깃 본다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 cracking one eye open to glance sideways at 쿵쿵, whose mouth is full of foam. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} cracking one eye open to glance sideways at {쿵쿵}, whose mouth is full of foam",
+      "motion": "She peeks sideways at his foam-filled grin"
+    },
+    {
+      "id": "SC3-10",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47273,
+      "speaker": "루비",
+      "dialogue": "위에서 아래로, 쓱싹쓱싹!",
+      "ko": "루비가 지팡이로 박자를 맞추며 문가에서 응원한다.",
+      "ko_motion": "루비가 지팡이로 바닥을 톡톡 두드리며 박자를 낸다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 tapping her staff on the floor in rhythm from the doorway, cheering them on. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} tapping her staff on the floor in rhythm from the doorway, cheering them on",
+      "motion": "The staff taps out a rhythm as she cheers"
+    },
+    {
+      "id": "SC3-11",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47280,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "둘이 거울을 보며 나란히 박자에 맞춰 닦는다.",
+      "ko_motion": "둘이 같은 박자로 몸을 좌우로 흔들며 닦는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 티니 and 쿵쿵 brushing side by side at the mirror, swaying together in rhythm. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "wide shot of {티니} and {쿵쿵} brushing side by side at the mirror, swaying together in rhythm",
+      "motion": "The two brush in time, swaying side to side"
+    },
+    {
+      "id": "SC3-12",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 47287,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "거품이 잔뜩 인다. 이 사이의 얼룩이 조금씩 옅어진다.",
+      "ko_motion": "거품이 부풀고 이 표면이 조금씩 밝아진다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of foam building up over teeth, the dull stains slowly lifting away",
+      "image": "extreme close-up of foam building up over teeth, the dull stains slowly lifting away",
+      "motion": "Foam builds as the staining gradually lifts"
+    },
+    {
+      "id": "SC3-13",
+      "section": "SC3",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47294,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "둘이 컵의 물로 입을 헹군다. 티니의 표정이 밝다.",
+      "ko_motion": "둘이 컵을 들어 입을 헹구고 뱉는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 and 쿵쿵 rinsing their mouths from the cup and spitting into the sink together. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} and {쿵쿵} rinsing their mouths from the cup and spitting into the sink together",
+      "motion": "They rinse and spit together into the basin"
+    },
+    {
+      "id": "SC3-14",
+      "section": "SC3",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 47301,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 거울에 대고 입을 벌려본다. 이가 하얗다.",
+      "ko_motion": "강아지가 거울 앞에서 입을 크게 벌린다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 baring her teeth at the mirror, now clean and white. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} baring her teeth at the mirror, now clean and white",
+      "motion": "She grins at her reflection, teeth clean and bright"
+    },
+    {
+      "id": "SC3-15",
+      "section": "SC3",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47308,
+      "speaker": "나레이션",
+      "dialogue": "그날부터 티니는 아침저녁으로 꼭 양치를 했어요.",
+      "ko": "달력. 빈칸마다 하나씩 동그라미가 채워진다.",
+      "ko_motion": "동그라미가 하나씩 달력 칸에 그려진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the wall calendar, circles now being drawn into each of the previously blank days",
+      "image": "the wall calendar, circles now being drawn into each of the previously blank days",
+      "motion": "Circles fill in one by one across the calendar"
+    },
+    {
+      "id": "SC4-01",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 47315,
+      "speaker": "나레이션",
+      "dialogue": "일주일 뒤, 다시 사과나무 아래에서.",
+      "ko": "일주일 뒤 마당. 사과나무 아래 넷이 모여 있다.",
+      "ko_motion": "사과가 흔들리고 넷이 나무 아래 모인다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the sunny yard a week later, 티니, 미미, 루비 and 쿵쿵 gathered under the apple tree again. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "the sunny yard a week later, {티니}, {미미}, {루비} and {쿵쿵} gathered under the apple tree again",
+      "motion": "The apples sway as the four gather beneath"
+    },
+    {
+      "id": "SC4-02",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 47322,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 사과를 티니에게 건넨다.",
+      "ko_motion": "루비가 사과를 내밀고 강아지가 받아 든다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 holding an apple out to 티니, who takes it in both paws. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{루비} holding an apple out to {티니}, who takes it in both paws",
+      "motion": "The apple passes from one to the other"
+    },
+    {
+      "id": "SC4-03",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47329,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 사과를 들고 잠시 망설인다.",
+      "ko_motion": "강아지가 사과를 든 채 눈을 깜빡인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 holding the apple, hesitating for a moment. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니} holding the apple, hesitating for a moment",
+      "motion": "She pauses, blinking at the apple"
+    },
+    {
+      "id": "SC4-04",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47336,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 크게 입을 벌려 사과를 문다. 아삭!",
+      "ko_motion": "이가 사과를 파고들며 즙이 튄다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 티니's clean white teeth sinking into the red apple, juice spraying. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "extreme close-up of {티니}'s clean white teeth sinking into the red apple, juice spraying",
+      "motion": "The teeth break the skin, juice spraying out"
+    },
+    {
+      "id": "SC4-05",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47343,
+      "speaker": "티니",
+      "dialogue": "안 아파! 하나도 안 아파!",
+      "ko": "티니가 사과를 씹으며 펄쩍펄쩍 뛴다.",
+      "ko_motion": "강아지가 사과를 씹으며 제자리에서 뛴다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 bouncing on the spot while chewing, overjoyed. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} bouncing on the spot while chewing, overjoyed",
+      "motion": "She bounces in place, chewing happily"
+    },
+    {
+      "id": "SC4-06",
+      "section": "SC4",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47350,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "넷이 사과를 아삭아삭 함께 먹는다.",
+      "ko_motion": "넷이 나란히 앉아 사과를 베어 문다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니, 미미, 루비 and 쿵쿵 sitting in a row under the tree crunching their apples together. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니}, {미미}, {루비} and {쿵쿵} sitting in a row under the tree crunching their apples together",
+      "motion": "The four sit in a row biting into their apples"
+    },
+    {
+      "id": "SC4-07",
+      "section": "SC4",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47357,
+      "speaker": "미미",
+      "dialogue": "이 봐, 반짝반짝하잖아.",
+      "ko": "미미가 티니의 입가를 가리키며 웃는다.",
+      "ko_motion": "코알라가 앞발로 가리키며 웃는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 pointing at 티니's smile with a grin. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{미미} pointing at {티니}'s smile with a grin",
+      "motion": "She points at the smile, laughing"
+    },
+    {
+      "id": "SC4-08",
+      "section": "SC4",
+      "shot": "CU",
+      "duration": 5,
+      "seed": 47364,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "햇빛에 티니의 하얀 이가 반짝인다.",
+      "ko_motion": "이가 햇빛을 받아 환하게 빛난다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니's white teeth catching the sunlight in a wide happy smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {티니}'s white teeth catching the sunlight in a wide happy smile",
+      "motion": "Sunlight glints across her bright smile"
+    },
+    {
+      "id": "EN-01",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 47371,
+      "speaker": "쿵쿵",
+      "dialogue": "하얗고 깨끗한 이빨을 지켜줄게, 쿵쿵!",
+      "ko": "쿵쿵이 클로즈업. 가슴을 내밀고 자랑스럽게 웃는다.",
+      "ko_motion": "아기 공룡이 가슴을 펴고 활짝 웃는다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a proud beaming smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile",
+      "motion": "The baby dinosaur puffs up and beams"
+    },
+    {
+      "id": "EN-02",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47378,
+      "speaker": "나레이션",
+      "dialogue": "그 뒤로 세면대 발판은 늘 두 개였어요.",
+      "ko": "세면대 앞. 발판 두 개가 나란히 놓여 있고 칫솔도 두 개다.",
+      "ko_motion": "아침 빛이 두 발판과 두 칫솔을 비춘다.",
+      "shot_ko": "풀샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the bathroom sink with two step stools side by side and two toothbrushes in the cup, morning light across them",
+      "image": "the bathroom sink with two step stools side by side and two toothbrushes in the cup, morning light across them",
+      "motion": "Morning light falls across the two stools and two brushes"
+    },
+    {
+      "id": "EN-03",
+      "section": "EN",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 47385,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니와 쿵쿵이 나란히 서서 아침 양치를 한다.",
+      "ko_motion": "둘이 나란히 서서 같은 박자로 칫솔질을 한다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 and 쿵쿵 standing side by side brushing their teeth in the morning. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} and {쿵쿵} standing side by side brushing their teeth in the morning",
+      "motion": "The two brush together in the same rhythm"
+    },
+    {
+      "id": "EN-04",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47392,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "둘이 거울을 보며 서로 이를 드러내 보인다.",
+      "ko_motion": "둘이 거울 속 서로를 보며 이를 활짝 드러낸다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 and 쿵쿵 baring their clean teeth at each other in the mirror. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "{티니} and {쿵쿵} baring their clean teeth at each other in the mirror",
+      "motion": "They grin at each other's reflections"
+    },
+    {
+      "id": "EN-05",
+      "section": "EN",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 47399,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "거울에 비친 두 개의 하얀 미소.",
+      "ko_motion": "거울 속 두 미소가 나란히 빛난다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the mirror holding two bright clean smiles side by side",
+      "image": "close-up of the mirror holding two bright clean smiles side by side",
+      "motion": "Two bright smiles sit side by side in the glass"
+    },
+    {
+      "id": "EN-06",
+      "section": "EN",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 47406,
+      "speaker": "나레이션",
+      "dialogue": "아침에 한 번, 저녁에 한 번. 그것뿐이었답니다.",
+      "ko": "마당 전경. 넷이 사과나무 아래에서 웃고 있다.",
+      "ko_motion": "햇살이 마당에 퍼지고 넷이 웃는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the sunny yard, 티니, 미미, 루비 and 쿵쿵 laughing together under the apple tree. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "wide shot of the sunny yard, {티니}, {미미}, {루비} and {쿵쿵} laughing together under the apple tree",
+      "motion": "Sunlight spreads across the yard as they laugh"
+    },
+    {
+      "id": "EN-07",
+      "section": "EN",
+      "shot": "타이틀",
+      "duration": 4,
+      "seed": 47413,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "엔딩 카드. 사과나무 아래 넷이 나란히 서 있고 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "잎사귀가 흔들리고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [
+        "쿵쿵",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 티니, 미미, 루비 and 쿵쿵 standing together under the apple tree, fresh green and red colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "end card composition, {티니}, {미미}, {루비} and {쿵쿵} standing together under the apple tree, fresh green and red colours, clean empty space along the bottom for a title",
+      "motion": "Leaves sway as the camera eases back"
+    }
+  ]
+}
