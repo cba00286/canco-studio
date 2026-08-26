@@ -380,9 +380,51 @@ BODY = '''<title>쿵쿵이와 친구들 제작 자료실</title>
 </script>
 '''
 
+def season_index():
+    """저장소에 있는 모든 에피소드를 훑어 시즌 목록표를 만든다.
+
+    아래 에피소드 카드는 한 화만 자세히 보여주므로, 어느 화가 어디까지 됐는지
+    한눈에 보려면 목록이 따로 필요하다. 파생 정보라 편집 대상이 아니다.
+    """
+    POWERS = ("쿵쿵_파워", "쿵쿵_온기", "쿵쿵_바람", "쿵쿵_자장가", "쿵쿵_방어막")
+    LABEL = {"쿵쿵_파워": "충격파", "쿵쿵_온기": "온기", "쿵쿵_바람": "바람",
+             "쿵쿵_자장가": "자장가", "쿵쿵_방어막": "방어막"}
+    rows, seasons = [], {}
+    for d in sorted((ROOT / "episodes").glob("ep*"),
+                    key=lambda x: int(x.name[2:]) if x.name[2:].isdigit() else 999):
+        meta_f, shots_f = d / "episode.json", d / "prompts" / "shots_v2.json"
+        if not (meta_f.exists() and shots_f.exists()):
+            continue
+        m = json.loads(meta_f.read_text(encoding="utf-8"))
+        S = json.loads(shots_f.read_text(encoding="utf-8"))
+        sh = S["shots"]
+        total = sum(x["duration"] for x in sh)
+        cast = S.get("episode_cast") or sorted({c for x in sh for c in x["cast"]})
+        used = sorted({k for x in sh for k in POWERS if k in x["image"]},
+                      key=lambda k: POWERS.index(k))
+        power = " · ".join(LABEL[k] for k in used) if used else "—"
+        no = int(d.name[2:]) if d.name[2:].isdigit() else 0
+        seasons.setdefault(1 if no <= 10 else (no - 1) // 10 + 1, []).append(no)
+        rows.append(
+            "<tr><td class='mono'>%s</td><td>%s</td><td>%d컷 · %d:%02d</td>"
+            "<td>%s</td><td>%s</td><td>%s</td></tr>"
+            % (e(m["no"]), e(m["title"]), len(sh), total // 60, total % 60,
+               e(", ".join(cast)), e(power), e(m.get("status", ""))))
+    if not rows:
+        return ""
+    done = sum(len(v) for v in seasons.values())
+    return ("<p class='log'>확정된 에피소드 %d화. 능력 열은 그 화에서 쿵쿵이 쓴 "
+            "능력이고, — 는 능력이 나오지 않는 화다.</p>"
+            "<div class='tablewrap'><table><thead><tr>"
+            "<th>화</th><th>제목</th><th>분량</th><th>등장</th><th>능력</th><th>상태</th>"
+            "</tr></thead><tbody>%s</tbody></table></div>" % (done, "".join(rows)))
+
+
 CHARTFIG = img(CHART, "쿵쿵이와 친구들 캐릭터 키 도감")
 out = DIST / "kungkung_hub.html"
-out.write_text(BODY % (CSS, ''.join(cards), ''.join(homes),
+page = BODY % (CSS, ''.join(cards), ''.join(homes),
     CHARTFIG, e(ep['no']), e(ep['title']), e(ep['runtime']), ep['cuts'], e(ep['status']),
-    e(ep['logline']), secs, lines), encoding='utf-8')
+    e(ep['logline']), secs, lines)
+page = page.replace("<h2>에피소드</h2>", "<h2>에피소드</h2>" + season_index(), 1)
+out.write_text(page, encoding='utf-8')
 print('작성:', out, out.stat().st_size // 1024, 'KB')

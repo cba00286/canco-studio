@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""1화 컷 시트 — 컷별 한국어 설명과 영문 프롬프트.
+"""컷 시트 — 컷별 한국어 설명과 영문 프롬프트. 어느 화든 인자로 받는다.
 
 저장소 데이터(episodes/<ep>/prompts/*.json)에서 직접 읽어 site/dist/ 에 HTML을 만든다.
     python3 site/build.py            # 세 페이지 전부
@@ -31,7 +31,7 @@ data = {
       "img": s["image_ref"], "mo": s["motion"]} for s in SHOTS["shots"]],
 }
 
-HTML = '''<title>쿵쿵이 1화 컷 시트</title>
+HTML = '''<title>쿵쿵이 __NO__ 컷 시트</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -249,9 +249,9 @@ footer{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);color:v
 
 <div class="wrap">
 <header class="top">
-  <p class="eyebrow">쿵쿵이와 친구들 · 시즌 1</p>
-  <h1>1화 「안녕, 나는 쿵쿵이야!」 컷 시트</h1>
-  <p class="sub">2차 개정 대본(유성 기원 · 쿵쿵 파워)을 60컷으로 분해한 작업 시트입니다. 컷 내용은 한국어로 읽고, 붙여넣을 영문 프롬프트는 버튼 한 번으로 복사하세요. 완료한 컷을 체크해 두면 진행 상황이 이 브라우저에 저장됩니다.</p>
+  <p class="eyebrow">쿵쿵이와 친구들 · 시즌 __SEASON__</p>
+  <h1>__NO__ 「__TITLE__」 컷 시트</h1>
+  <p class="sub">대본을 __CUTS__컷으로 분해한 작업 시트입니다. 컷 내용은 한국어로 읽고, 붙여넣을 영문 프롬프트는 버튼 한 번으로 복사하세요. 완료한 컷을 체크해 두면 진행 상황이 이 브라우저에 저장됩니다.</p>
 
   <div class="guide">
     <h2>OpenArt 작업 순서</h2>
@@ -309,10 +309,10 @@ footer{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);color:v
       <strong>영문 프롬프트 복사</strong> 버튼을 쓰면 영어를 읽을 일이 없습니다. 확인하고 싶을 때만 <strong>영문 프롬프트 보기</strong>를 펼치세요.
     </p>
     <details class="script">
-      <summary>1화 대사 전체 보기 &mdash; 나레이션 12 · 캐릭터 대사 12</summary>
+      <summary>__NO__ 대사 전체 보기 &mdash; 나레이션 __NARR__ · 캐릭터 대사 __CHAR__</summary>
       <p class="scriptnote">
         녹음용입니다. <strong>나레이션</strong>은 화면 밖 목소리라 립싱크가 필요 없고,
-        <strong>캐릭터 대사</strong>만 입을 맞춰야 합니다. 컷 번호 순서 그대로 읽으면 1화 전체가 됩니다.
+        <strong>캐릭터 대사</strong>만 입을 맞춰야 합니다. 컷 번호 순서 그대로 읽으면 __NO__ 전체가 됩니다.
       </p>
       <ol id="scriptlist"></ol>
     </details>
@@ -460,6 +460,17 @@ render();
 </script>
 '''
 
+EPMETA = json.loads((ROOT / "episodes" / EP / "episode.json").read_text(encoding="utf-8"))
+_n = int(EP[2:]) if EP[2:].isdigit() else 1
+_narr = sum(1 for s in SHOTS["shots"] if s["dialogue"] and s["speaker"] == "나레이션")
+_char = sum(1 for s in SHOTS["shots"] if s["dialogue"] and s["speaker"] != "나레이션")
+page = HTML.replace("__DATA__", json.dumps(data, ensure_ascii=False))
+for token, value in (("__NO__", EPMETA["no"]), ("__TITLE__", EPMETA["title"]),
+                     ("__SEASON__", str((_n - 1) // 10 + 1)),
+                     ("__CUTS__", str(len(SHOTS["shots"]))),
+                     ("__NARR__", str(_narr)), ("__CHAR__", str(_char))):
+    page = page.replace(token, value)
+
 out = DIST / ("kungkung_%s_sheet.html" % EP)
-out.write_text(HTML.replace("__DATA__", json.dumps(data, ensure_ascii=False)), encoding='utf-8')
+out.write_text(page, encoding='utf-8')
 print("작성:", out, out.stat().st_size // 1024, "KB")
