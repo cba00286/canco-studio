@@ -30,7 +30,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a wooden treehouse hideout built high in a huge oak in a forest village at sunrise, warm morning light streaming through the leaves, rope ladder hanging down, cozy and inviting",
       "image": "a wooden treehouse hideout built high in a huge oak in a forest village at sunrise, warm morning light streaming through the leaves, rope ladder hanging down, cozy and inviting",
-      "motion": "Light beams shift between the swaying leaves, camera slowly craning up toward the treehouse"
+      "motion": "Light beams shift between the swaying leaves, camera slowly craning up toward the treehouse, ending held on the treehouse with the rope ladder swaying",
+      "link": "전환",
+      "link_ko": "2화 첫 컷. 검은 화면에서 아침 빛이 차오른다."
     },
     {
       "id": "SC1-02",
@@ -46,7 +48,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, inside the treehouse hideout, wooden crates and coils of rope, old faded maps pinned to the plank walls, morning light through a small window",
       "image": "inside the treehouse hideout, wooden crates and coils of rope, old faded maps pinned to the plank walls, morning light through a small window",
-      "motion": "Dust motes drift and sparkle slowly in the shaft of light"
+      "motion": "Dust motes drift and sparkle slowly in the shaft of light, ending settled on the crates in the corner",
+      "link": "연속",
+      "link_ko": "앞 컷에서 올라간 카메라가 그대로 창문을 통과해 안으로 들어간다."
     },
     {
       "id": "SC1-03",
@@ -64,7 +68,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 rummaging through a wooden crate in the treehouse, rope and tin cans tumbling out onto the floor around him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} rummaging through a wooden crate in the treehouse, rope and tin cans tumbling out onto the floor around him",
-      "motion": "The tiger cub digs through the crate, sending rope and cans tumbling out"
+      "motion": "The tiger cub digs through the crate, sending rope and cans tumbling out, ending with him elbow-deep in the crate, going still",
+      "link": "컷",
+      "link_ko": "그 상자를 루카가 뒤지고 있다."
     },
     {
       "id": "SC1-04",
@@ -82,7 +88,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's paw pulling a yellowed folded sheet of paper from the bottom of the crate. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카}'s paw pulling a yellowed folded sheet of paper from the bottom of the crate",
-      "motion": "The paw lifts the paper slowly, the old folds opening"
+      "motion": "The paw lifts the paper slowly, the old folds opening, ending with the folded paper clear of the crate",
+      "link": "연속",
+      "link_ko": "뒤지던 손이 이 컷에서 무언가를 잡는다."
     },
     {
       "id": "SC1-05",
@@ -100,7 +108,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 springing to his feet and holding the old map up over his head with both paws, eyes shining with excitement. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} springing to his feet and holding the old map up over his head with both paws, eyes shining with excitement",
-      "motion": "The tiger cub jumps up, raising the map triumphantly over his head"
+      "motion": "The tiger cub jumps up, raising the map triumphantly over his head, ending with the map held high above his head",
+      "link": "연속",
+      "link_ko": "잡은 종이를 그대로 들어 올린다."
     },
     {
       "id": "SC1-06",
@@ -116,7 +126,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the old treasure map, a hand-drawn rocky ravine and a hill, a faded red X marked under a big tree on the hilltop",
       "image": "extreme close-up of the old treasure map, a hand-drawn rocky ravine and a hill, a faded red X marked under a big tree on the hilltop",
-      "motion": "The camera drifts across the map and settles on the red X"
+      "motion": "The camera drifts across the map and settles on the red X, ending held on the red X",
+      "link": "컷",
+      "link_ko": "들어 올린 그 지도로 들어간다."
     },
     {
       "id": "SC1-07",
@@ -136,7 +148,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵, 미미 and 티니 climbing up through the floor hatch of the treehouse one after another, poking their heads through. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵}, {미미} and {티니} climbing up through the floor hatch of the treehouse one after another, poking their heads through",
-      "motion": "The three of them climb up through the hatch, heads popping into the room one by one"
+      "motion": "The three of them climb up through the hatch, heads popping into the room one by one, ending with all three fully up through the hatch",
+      "link": "컷",
+      "link_ko": "지도를 본 뒤 문 쪽 소리로 돌아본다."
     },
     {
       "id": "SC1-08",
@@ -154,7 +168,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 pushing her glasses up with one paw and stepping closer to look at the map, calm but very curious. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} pushing her glasses up with one paw and stepping closer to look at the map, calm but very curious",
-      "motion": "The koala nudges her glasses up and walks over toward the map"
+      "motion": "The koala nudges her glasses up and walks over toward the map, ending with her paw reaching for the map",
+      "link": "컷",
+      "link_ko": "올라온 셋 중 미미가 앞으로 나온다."
     },
     {
       "id": "SC1-09",
@@ -172,7 +188,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 holding the map right up to her face, the map reflected in her round glasses. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {미미} holding the map right up to her face, the map reflected in her round glasses",
-      "motion": "Her eyes track left and right behind the lenses as she reads the map"
+      "motion": "Her eyes track left and right behind the lenses as she reads the map, ending with her eyes stopping on one point",
+      "link": "연속",
+      "link_ko": "뻗은 손이 이 컷에서 지도를 받아 든다."
     },
     {
       "id": "SC1-10",
@@ -190,7 +208,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 tapping a spot on the map with her paw and looking up at the others. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} tapping a spot on the map with her paw and looking up at the others",
-      "motion": "The koala taps the marked spot twice and lifts her head toward her friends"
+      "motion": "The koala taps the marked spot twice and lifts her head toward her friends, ending with her looking up from the map at the others",
+      "link": "연속",
+      "link_ko": "살피던 시선이 멈춘 그 지점을 짚는다."
     },
     {
       "id": "SC1-11",
@@ -208,7 +228,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 bouncing on the spot with her tail wagging so fast it blurs, thrilled. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} bouncing on the spot with her tail wagging so fast it blurs, thrilled",
-      "motion": "The puppy hops up and down, tail wagging in a blur"
+      "motion": "The puppy hops up and down, tail wagging in a blur, ending mid-bounce with her tail still blurring",
+      "link": "컷",
+      "link_ko": "미미의 말에 티니가 반응한다."
     },
     {
       "id": "SC1-12",
@@ -226,7 +248,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 tilting his head to one side, eyes wide and round with innocent puzzlement. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} tilting his head to one side, eyes wide and round with innocent puzzlement",
-      "motion": "The baby dinosaur tips his head sideways and blinks"
+      "motion": "The baby dinosaur tips his head sideways and blinks, ending held with his head still tilted",
+      "link": "컷",
+      "link_ko": "신난 티니 옆에서 쿵쿵이만 어리둥절하다."
     },
     {
       "id": "SC1-13",
@@ -244,7 +268,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 folding the map and tucking it into his overall pocket, striding toward the hatch leading the way. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} folding the map and tucking it into his overall pocket, striding toward the hatch leading the way",
-      "motion": "The tiger cub snaps the map shut, pockets it and strides off ahead"
+      "motion": "The tiger cub snaps the map shut, pockets it and strides off ahead, ending with him already at the hatch, map pocketed",
+      "link": "컷",
+      "link_ko": "쿵쿵이의 질문에 루카가 답하며 앞장선다."
     },
     {
       "id": "SC1-14",
@@ -265,7 +291,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 루카, 미미, 티니 and 쿵쿵 walking away down a sunlit forest path in single file, seen from behind. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of {루카}, {미미}, {티니} and {쿵쿵} walking away down a sunlit forest path in single file, seen from behind",
-      "motion": "The four walk off along the path, leaf shadows sliding over their backs"
+      "motion": "The four walk off along the path, leaf shadows sliding over their backs, ending with the four small on the path, walking right",
+      "link": "연속",
+      "link_ko": "문을 나선 그대로 사다리를 내려와 숲길로 이어진다."
     },
     {
       "id": "SC2-01",
@@ -281,7 +309,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a wide rocky ravine opening up where the forest ends, tall grey-brown cliffs rising on both sides, loose pebbles scattered across the ravine floor",
       "image": "a wide rocky ravine opening up where the forest ends, tall grey-brown cliffs rising on both sides, loose pebbles scattered across the ravine floor",
-      "motion": "The camera glides through the mouth of the ravine and inward"
+      "motion": "The camera glides through the mouth of the ravine and inward, ending settled inside the ravine mouth",
+      "link": "전환",
+      "link_ko": "숲길이 끝나고 골짜기가 열린다. 나무 사이에서 바위로 바뀐다."
     },
     {
       "id": "SC2-02",
@@ -297,7 +327,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the ravine floor covered in loose pebbles and dry grass bending in one direction, thin dust skimming over the stones",
       "image": "the ravine floor covered in loose pebbles and dry grass bending in one direction, thin dust skimming over the stones",
-      "motion": "Dry grass flattens in the wind, dust skimming across the pebbles"
+      "motion": "Dry grass flattens in the wind, dust skimming across the pebbles, ending with the dry grass all bent one way",
+      "link": "컷",
+      "link_ko": "골짜기 바닥을 가까이 본다."
     },
     {
       "id": "SC2-03",
@@ -318,7 +350,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 walking into the ravine holding the open map in front of him, 미미, 티니 and 쿵쿵 following behind. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} walking into the ravine holding the open map in front of him, {미미}, {티니} and {쿵쿵} following behind",
-      "motion": "The tiger cub leads with the open map, the others following him in"
+      "motion": "The tiger cub leads with the open map, the others following him in, ending with the four well inside the ravine, {루카} leading",
+      "link": "컷",
+      "link_ko": "그 바닥 위로 넷이 들어온다. 이동 방향은 계속 오른쪽."
     },
     {
       "id": "SC2-04",
@@ -336,7 +370,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's foot pressing into loose pebbles, the small stones sliding and scattering under it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카}'s foot pressing into loose pebbles, the small stones sliding and scattering under it",
-      "motion": "Pebbles skid and scatter under the foot"
+      "motion": "Pebbles skid and scatter under the foot, ending with the stones settled and one still rolling",
+      "link": "컷",
+      "link_ko": "걷는 발밑을 본다."
     },
     {
       "id": "SC2-05",
@@ -354,7 +390,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 stopping and looking up at the top of the cliffs, her neck scarf lifting slightly in the breeze. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} stopping and looking up at the top of the cliffs, her neck scarf lifting slightly in the breeze",
-      "motion": "The koala halts and raises her head, the end of her scarf stirring"
+      "motion": "The koala halts and raises her head, the end of her scarf stirring, ending with her head fully back, looking up at the cliff top",
+      "link": "컷",
+      "link_ko": "그 소리에 미미가 멈춰 선다."
     },
     {
       "id": "SC2-06",
@@ -370,7 +408,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wind funnelling hard through the narrow ravine, a swirling column of dust sweeping down between the cliffs",
       "image": "wind funnelling hard through the narrow ravine, a swirling column of dust sweeping down between the cliffs",
-      "motion": "Dust whirls up and rushes down the length of the ravine"
+      "motion": "Dust whirls up and rushes down the length of the ravine, ending with the dust column sweeping down toward the four",
+      "link": "연속",
+      "link_ko": "미미가 올려다본 그 절벽 위에서 바람이 내려온다."
     },
     {
       "id": "SC2-07",
@@ -391,7 +431,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 hit by a strong gust, fur and clothes streaming backward as they lean into it and squint. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {미미}, {티니} and {쿵쿵} hit by a strong gust, fur and clothes streaming backward as they lean into it and squint",
-      "motion": "The four brace against the gust, fur and clothing whipping back"
+      "motion": "The four brace against the gust, fur and clothing whipping back, ending with all four leaning hard into the gust",
+      "link": "연속",
+      "link_ko": "내려온 바람이 그대로 넷을 덮친다."
     },
     {
       "id": "SC2-08",
@@ -409,7 +451,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the map being torn out of 루카's grip, the paper edge slipping through his fingers as his paw grabs at empty air. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of the map being torn out of {루카}'s grip, the paper edge slipping through his fingers as his paw grabs at empty air",
-      "motion": "The map rips free, his paw closing on nothing"
+      "motion": "The map rips free, his paw closing on nothing, ending with his paw closed on nothing",
+      "link": "연속",
+      "link_ko": "바람에 밀리던 그 순간 지도가 손에서 뜯긴다."
     },
     {
       "id": "SC2-09",
@@ -425,7 +469,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the old map spinning high up into the air on the wind, tumbling toward the cliff face",
       "image": "the old map spinning high up into the air on the wind, tumbling toward the cliff face",
-      "motion": "The map whirls upward, tumbling toward the cliff"
+      "motion": "The map whirls upward, tumbling toward the cliff, ending with the map high against the cliff face",
+      "link": "연속",
+      "link_ko": "빠져나간 지도가 그대로 하늘로 치솟는다."
     },
     {
       "id": "SC2-10",
@@ -446,7 +492,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 all tilting their heads back to watch the map fly away above them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {미미}, {티니} and {쿵쿵} all tilting their heads back to watch the map fly away above them",
-      "motion": "Their heads tip back, camera rising to follow the map"
+      "motion": "Their heads tip back, camera rising to follow the map, ending with all four heads tipped fully back",
+      "link": "컷",
+      "link_ko": "날아가는 지도를 넷이 올려다본다."
     },
     {
       "id": "SC2-11",
@@ -462,7 +510,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the map wedged into a narrow crack high on the cliff face, flapping hard but held fast in the stone",
       "image": "close-up of the map wedged into a narrow crack high on the cliff face, flapping hard but held fast in the stone",
-      "motion": "The paper snaps and flutters in the crack but stays caught"
+      "motion": "The paper snaps and flutters in the crack but stays caught, ending with the map caught fast and flapping",
+      "link": "연속",
+      "link_ko": "올려다본 그 끝에서 지도가 바위 틈에 걸린다."
     },
     {
       "id": "SC2-12",
@@ -480,7 +530,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 running to the base of the cliff and craning his head all the way back, face urgent and desperate. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} running to the base of the cliff and craning his head all the way back, face urgent and desperate",
-      "motion": "The tiger cub dashes to the cliff and throws his head back to look up"
+      "motion": "The tiger cub dashes to the cliff and throws his head back to look up, ending with him at the cliff base looking straight up",
+      "link": "컷",
+      "link_ko": "걸린 지도를 보고 루카가 달려간다."
     },
     {
       "id": "SC2-13",
@@ -498,7 +550,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 scrambling a short way up the rock face before his feet slip and he slides back down in a puff of dust. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} scrambling a short way up the rock face before his feet slip and he slides back down in a puff of dust",
-      "motion": "He climbs two steps, loses his footing and slides down in a cloud of dust"
+      "motion": "He climbs two steps, loses his footing and slides down in a cloud of dust, ending with him back on the ground in a cloud of dust",
+      "link": "연속",
+      "link_ko": "올려다본 그대로 오르려 하지만 미끄러진다."
     },
     {
       "id": "SC2-14",
@@ -516,7 +570,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 reaching one paw up toward the cliff, then letting it drop, her long ears drooping. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} reaching one paw up toward the cliff, then letting it drop, her long ears drooping",
-      "motion": "The puppy stretches a paw up, lets it fall, ears sagging"
+      "motion": "The puppy stretches a paw up, lets it fall, ears sagging, ending with her paw dropped and ears flat",
+      "link": "컷",
+      "link_ko": "루카가 실패한 뒤 티니도 손을 뻗어본다."
     },
     {
       "id": "SC2-15",
@@ -534,7 +590,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 sinking down onto the dirt and burying his face against his knees, shoulders slumped. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} sinking down onto the dirt and burying his face against his knees, shoulders slumped",
-      "motion": "The tiger cub drops to the ground, shoulders falling"
+      "motion": "The tiger cub drops to the ground, shoulders falling, ending with him hunched, face against his knees",
+      "link": "컷",
+      "link_ko": "둘 다 안 되자 루카가 주저앉는다."
     },
     {
       "id": "SC2-16",
@@ -553,7 +611,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 waddling quietly over and stopping beside 루카, looking down at him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} waddling quietly over and stopping beside {루카}, looking down at him",
-      "motion": "The baby dinosaur toddles over and halts at his friend's side"
+      "motion": "The baby dinosaur toddles over and halts at his friend's side, ending with him standing still at {루카}'s side, looking down",
+      "link": "연속",
+      "link_ko": "주저앉은 그 옆으로 쿵쿵이가 걸어와 선다."
     },
     {
       "id": "SC3-01",
@@ -571,7 +631,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 setting his jaw with determination, eyes firm. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} setting his jaw with determination, eyes firm",
-      "motion": "The baby dinosaur tucks his chin, expression turning determined"
+      "motion": "The baby dinosaur tucks his chin, expression turning determined, ending with his jaw set and eyes forward",
+      "link": "전환",
+      "link_ko": "주저앉은 루카에서 결심한 쿵쿵이로. 장면의 무게가 넘어간다."
     },
     {
       "id": "SC3-02",
@@ -589,7 +651,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 rearing back and lifting both front paws high off the ground, hind legs braced. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} rearing back and lifting both front paws high off the ground, hind legs braced",
-      "motion": "The baby dinosaur rears up, front paws raised high"
+      "motion": "The baby dinosaur rears up, front paws raised high, ending with both front paws at their highest",
+      "link": "연속",
+      "link_ko": "결심한 그 얼굴 그대로 앞발을 든다."
     },
     {
       "id": "SC3-03",
@@ -607,7 +671,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 slamming both front paws down onto the ravine floor, a burst of dust exploding outward around him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} slamming both front paws down onto the ravine floor, a burst of dust exploding outward around him",
-      "motion": "The paws crash down and a ring of dust bursts outward"
+      "motion": "The paws crash down and a ring of dust bursts outward, ending with the dust ring at its widest",
+      "link": "연속",
+      "link_ko": "든 앞발이 그대로 내려온다."
     },
     {
       "id": "SC3-04",
@@ -625,7 +691,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of golden-teal aurora light surging along 쿵쿵's three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵_파워}",
-      "motion": "Light races up along the horns as a glowing ring spreads out across the ground"
+      "motion": "Light races up along the horns as a glowing ring spreads out across the ground, ending with the horn tips at maximum brightness",
+      "link": "연속",
+      "link_ko": "앞발이 땅을 친 그 순간 뿔에 빛이 오른다."
     },
     {
       "id": "SC3-05",
@@ -641,7 +709,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a glowing golden-teal shockwave ring spreading outward across the ravine floor, pebbles jumping as it passes over them",
       "image": "a glowing golden-teal shockwave ring spreading outward across the ravine floor, pebbles jumping as it passes over them",
-      "motion": "The glowing ring sweeps outward, pebbles leaping in its wake"
+      "motion": "The glowing ring sweeps outward, pebbles leaping in its wake, ending with the ring passing beyond frame, pebbles still bouncing",
+      "link": "연속",
+      "link_ko": "뿔의 빛이 땅 위로 퍼져 나간다."
     },
     {
       "id": "SC3-06",
@@ -657,7 +727,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, loose pebbles across the ravine floor trembling and then rolling together toward one spot as if drawn there",
       "image": "loose pebbles across the ravine floor trembling and then rolling together toward one spot as if drawn there",
-      "motion": "The pebbles shiver and roll, gathering toward a single point"
+      "motion": "The pebbles shiver and roll, gathering toward a single point, ending with all the pebbles rolling toward one point",
+      "link": "연속",
+      "link_ko": "빛 고리가 지나간 자리의 돌들이 움직이기 시작한다."
     },
     {
       "id": "SC3-07",
@@ -673,7 +745,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the gathered stones stacking themselves up against the cliff into a rough staircase of rock",
       "image": "the gathered stones stacking themselves up against the cliff into a rough staircase of rock",
-      "motion": "The stones pile up layer by layer, settling into a stair shape"
+      "motion": "The stones pile up layer by layer, settling into a stair shape, ending with the stone stair fully formed and still",
+      "link": "연속",
+      "link_ko": "모여든 돌들이 그대로 쌓여 올라간다."
     },
     {
       "id": "SC3-08",
@@ -691,7 +765,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미, her eyes going wide behind her glasses, the stone stair reflected in the lenses. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {미미}, her eyes going wide behind her glasses, the stone stair reflected in the lenses",
-      "motion": "Her eyes widen, the glasses slipping down a little"
+      "motion": "Her eyes widen, the glasses slipping down a little, ending with her glasses slid halfway down her nose",
+      "link": "컷",
+      "link_ko": "완성된 돌계단을 본 미미의 반응."
     },
     {
       "id": "SC3-09",
@@ -710,7 +786,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 bounding in circles around 쿵쿵, overjoyed. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} bounding in circles around {쿵쿵}, overjoyed",
-      "motion": "The puppy races excitedly in circles around the baby dinosaur"
+      "motion": "The puppy races excitedly in circles around the baby dinosaur, ending with her still circling {쿵쿵}",
+      "link": "컷",
+      "link_ko": "놀란 미미 뒤에서 티니가 뛰어든다."
     },
     {
       "id": "SC3-10",
@@ -729,7 +807,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 getting up and gently ruffling the top of 쿵쿵's head. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} getting up and gently ruffling the top of {쿵쿵}'s head",
-      "motion": "The tiger cub rises and strokes the baby dinosaur's head"
+      "motion": "The tiger cub rises and strokes the baby dinosaur's head, ending with his paw resting on {쿵쿵}'s head",
+      "link": "컷",
+      "link_ko": "티니 옆에서 루카가 일어난다."
     },
     {
       "id": "SC3-11",
@@ -747,7 +827,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 climbing the stacked stone staircase up the cliff face step by step. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} climbing the stacked stone staircase up the cliff face step by step",
-      "motion": "The tiger cub climbs the stone steps carefully, one at a time"
+      "motion": "The tiger cub climbs the stone steps carefully, one at a time, ending with him near the top of the stair",
+      "link": "연속",
+      "link_ko": "머리를 쓰다듬은 뒤 그대로 돌계단으로 향한다."
     },
     {
       "id": "SC3-12",
@@ -765,7 +847,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 at the top of the stone stair, stretching one arm up as far as it will reach, standing on tiptoe. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} at the top of the stone stair, stretching one arm up as far as it will reach, standing on tiptoe",
-      "motion": "He rises onto his toes, reaching as high as he can"
+      "motion": "He rises onto his toes, reaching as high as he can, ending stretched to full reach on tiptoe",
+      "link": "연속",
+      "link_ko": "계단 꼭대기에서 그대로 팔을 뻗는다."
     },
     {
       "id": "SC3-13",
@@ -783,7 +867,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's fingers closing on the map and easing it out of the crack in the rock. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카}'s fingers closing on the map and easing it out of the crack in the rock",
-      "motion": "The fingers grip the paper and draw it carefully free"
+      "motion": "The fingers grip the paper and draw it carefully free, ending with the map pulled free of the crack",
+      "link": "연속",
+      "link_ko": "뻗은 손끝이 이 컷에서 지도에 닿는다."
     },
     {
       "id": "SC3-14",
@@ -801,7 +887,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 leaping down the stone steps with the map held high in one paw. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} leaping down the stone steps with the map held high in one paw",
-      "motion": "The tiger cub bounds down the steps, waving the map"
+      "motion": "The tiger cub bounds down the steps, waving the map, ending with him landing on the ravine floor, map held high",
+      "link": "연속",
+      "link_ko": "지도를 쥔 그대로 계단을 뛰어 내려온다."
     },
     {
       "id": "SC3-15",
@@ -822,7 +910,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 gathered in a ring around the recovered map, heads together over it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {미미}, {티니} and {쿵쿵} gathered in a ring around the recovered map, heads together over it",
-      "motion": "The four lean in together over the map"
+      "motion": "The four lean in together over the map, ending with all four heads together over the map",
+      "link": "컷",
+      "link_ko": "내려온 자리에서 넷이 지도를 둘러싼다."
     },
     {
       "id": "SC4-01",
@@ -843,7 +933,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a green hilltop opening out beyond the ravine, low afternoon sunlight slanting across the grass, 루카, 미미, 티니 and 쿵쿵 walking up it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "a green hilltop opening out beyond the ravine, low afternoon sunlight slanting across the grass, {루카}, {미미}, {티니} and {쿵쿵} walking up it",
-      "motion": "The camera rises over the hill, the four growing small ahead"
+      "motion": "The camera rises over the hill, the four growing small ahead, ending with the four cresting the hill",
+      "link": "전환",
+      "link_ko": "골짜기를 벗어난다. 회갈색 바위에서 초록 언덕으로 색이 바뀐다."
     },
     {
       "id": "SC4-02",
@@ -859,7 +951,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a huge spreading oak tree alone on the hilltop, its broad branches casting a wide pool of shade on the grass",
       "image": "a huge spreading oak tree alone on the hilltop, its broad branches casting a wide pool of shade on the grass",
-      "motion": "The leaves sway in the afternoon wind, shadows rippling on the ground"
+      "motion": "The leaves sway in the afternoon wind, shadows rippling on the ground, ending held on the oak with its shade pooled beneath",
+      "link": "연속",
+      "link_ko": "언덕을 올라선 그 시야에 참나무가 들어온다."
     },
     {
       "id": "SC4-03",
@@ -880,7 +974,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 digging into the earth under the oak with their paws, soil flying back behind them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {미미}, {티니} and {쿵쿵} digging into the earth under the oak with their paws, soil flying back behind them",
-      "motion": "The four dig hard, soil spraying backward"
+      "motion": "The four dig hard, soil spraying backward, ending with a dark shape showing in the soil",
+      "link": "컷",
+      "link_ko": "그 그늘 아래를 넷이 파기 시작한다."
     },
     {
       "id": "SC4-04",
@@ -896,7 +992,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the corner of an old wooden box emerging from the dirt, weathered grain and a rusted hinge appearing",
       "image": "close-up of the corner of an old wooden box emerging from the dirt, weathered grain and a rusted hinge appearing",
-      "motion": "Soil falls away revealing the grain and rusted hinge of the box"
+      "motion": "Soil falls away revealing the grain and rusted hinge of the box, ending with the box lid fully exposed",
+      "link": "연속",
+      "link_ko": "드러난 그 형체로 들어간다."
     },
     {
       "id": "SC4-05",
@@ -917,7 +1015,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 sitting in a circle around the box, 루카's paws on the lid lifting it slowly. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {미미}, {티니} and {쿵쿵} sitting in a circle around the box, {루카}'s paws on the lid lifting it slowly",
-      "motion": "The lid creaks slowly open as the others lean in"
+      "motion": "The lid creaks slowly open as the others lean in, ending with the lid raised and the inside not yet visible",
+      "link": "컷",
+      "link_ko": "드러난 상자를 넷이 둘러싼다."
     },
     {
       "id": "SC4-06",
@@ -935,7 +1035,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the open box holding only a few acorns and one folded paper, 루카's face going blank with surprise above it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of the open box holding only a few acorns and one folded paper, {루카}'s face going blank with surprise above it",
-      "motion": "The box opens on its meagre contents, his expression slackening"
+      "motion": "The box opens on its meagre contents, his expression slackening, ending held on his blank surprised face",
+      "link": "연속",
+      "link_ko": "들린 뚜껑 아래가 이 컷에서 드러난다."
     },
     {
       "id": "SC4-07",
@@ -951,7 +1053,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the unfolded paper, a child's crayon drawing of a small tiger holding hands with a row of friends under a big tree",
       "image": "extreme close-up of the unfolded paper, a child's crayon drawing of a small tiger holding hands with a row of friends under a big tree",
-      "motion": "The paper unfolds, revealing the crayon lines and paper grain"
+      "motion": "The paper unfolds, revealing the crayon lines and paper grain, ending with the crayon drawing fully open in frame",
+      "link": "컷",
+      "link_ko": "상자 안의 그림으로 들어간다."
     },
     {
       "id": "SC4-08",
@@ -969,7 +1073,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 looking down at the drawing with a quiet smile spreading across her face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} looking down at the drawing with a quiet smile spreading across her face",
-      "motion": "The koala bends over the drawing, a smile growing"
+      "motion": "The koala bends over the drawing, a smile growing, ending with her smile fully formed",
+      "link": "컷",
+      "link_ko": "그림을 보는 미미."
     },
     {
       "id": "EN-01",
@@ -987,7 +1093,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 holding the old drawing against his chest, warm afternoon light on the side of his face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} holding the old drawing against his chest, warm afternoon light on the side of his face",
-      "motion": "The tiger cub hugs the drawing close, closing and opening his eyes"
+      "motion": "The tiger cub hugs the drawing close, closing and opening his eyes, ending with the drawing pressed flat against his chest",
+      "link": "전환",
+      "link_ko": "엔딩 시작. 그림을 보던 손이 그것을 가슴에 안는다."
     },
     {
       "id": "EN-02",
@@ -1005,7 +1113,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a proud, beaming smile, cheeks flushed. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} puffing out his chest with a proud, beaming smile, cheeks flushed",
-      "motion": "The baby dinosaur puffs up his chest and beams"
+      "motion": "The baby dinosaur puffs up his chest and beams, ending with his chest still puffed, smile held",
+      "link": "컷",
+      "link_ko": "루카의 말을 받아 쿵쿵이가 정리한다."
     },
     {
       "id": "EN-03",
@@ -1026,7 +1136,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 루카, 미미, 티니 and 쿵쿵 laughing together under the great oak in long afternoon light. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of {루카}, {미미}, {티니} and {쿵쿵} laughing together under the great oak in long afternoon light",
-      "motion": "The four laugh together, leaf shadows drifting over them"
+      "motion": "The four laugh together, leaf shadows drifting over them, ending with all four laughing, heads back",
+      "link": "컷",
+      "link_ko": "쿵쿵이의 말에 넷이 함께 웃는다."
     },
     {
       "id": "EN-04",
@@ -1047,7 +1159,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 미미, 티니 and 쿵쿵 patting the soil back down over the reburied box and setting a small stone on top. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {미미}, {티니} and {쿵쿵} patting the soil back down over the reburied box and setting a small stone on top",
-      "motion": "Paws pat the earth flat and place a small stone on top"
+      "motion": "Paws pat the earth flat and place a small stone on top, ending with the small stone set on the patted earth",
+      "link": "컷",
+      "link_ko": "웃음이 잦아들고 넷이 상자를 다시 묻는다."
     },
     {
       "id": "EN-05",
@@ -1063,7 +1177,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of a fresh crayon drawing showing a tiger, a koala, a puppy and a small dinosaur standing side by side",
       "image": "extreme close-up of a fresh crayon drawing showing a tiger, a koala, a puppy and a small dinosaur standing side by side",
-      "motion": "The camera drifts slowly across the new crayon drawing"
+      "motion": "The camera drifts slowly across the new crayon drawing, ending held on the four figures in the drawing",
+      "link": "연속",
+      "link_ko": "묻기 직전 상자 안에 넣은 새 그림을 본다."
     },
     {
       "id": "EN-06",
@@ -1084,7 +1200,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 루카, 미미, 티니 and 쿵쿵 walking home from the oak at sunset, four long shadows stretching behind them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of {루카}, {미미}, {티니} and {쿵쿵} walking home from the oak at sunset, four long shadows stretching behind them",
-      "motion": "Their shadows stretch long as the sky turns orange"
+      "motion": "Their shadows stretch long as the sky turns orange, ending with the four small against the sunset, shadows long",
+      "link": "컷",
+      "link_ko": "묻기를 마치고 넷이 언덕을 내려간다."
     },
     {
       "id": "EN-07",
@@ -1105,7 +1223,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 루카, 미미, 티니 and 쿵쿵 standing side by side under the oak on the sunset hilltop, warm golden colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "end card composition, {루카}, {미미}, {티니} and {쿵쿵} standing side by side under the oak on the sunset hilltop, warm golden colours, clean empty space along the bottom for a title",
-      "motion": "Leaves sway gently as the camera pulls back very slowly"
+      "motion": "Leaves sway gently as the camera pulls back very slowly",
+      "link": "컷",
+      "link_ko": "엔딩 카드."
     }
   ]
 }

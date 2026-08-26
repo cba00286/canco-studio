@@ -30,7 +30,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a small yellow cottage on a hill in a seaside village at morning, the blue sea spread out behind it, laundry swaying on a line",
       "image": "a small yellow cottage on a hill in a seaside village at morning, the blue sea spread out behind it, laundry swaying on a line",
-      "motion": "The laundry sways in the sea breeze, a gull passing over"
+      "motion": "The laundry sways in the sea breeze, a gull passing over, ending held on the cottage with the laundry swaying",
+      "link": "전환",
+      "link_ko": "6화 첫 컷. 파도 소리와 함께 언덕 위 집이 떠오른다."
     },
     {
       "id": "SC1-02",
@@ -46,7 +48,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, inside the cottage, a shaft of morning sunlight slanting in between the curtains, thick with drifting dust",
       "image": "inside the cottage, a shaft of morning sunlight slanting in between the curtains, thick with drifting dust",
-      "motion": "Dust hangs and swirls heavily in the sunbeam"
+      "motion": "Dust hangs and swirls heavily in the sunbeam, ending settled in the dust-thick sunbeam",
+      "link": "연속",
+      "link_ko": "집 외경에서 창을 통과해 안으로 들어간다."
     },
     {
       "id": "SC1-03",
@@ -64,7 +68,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 티니's nose twitching and wrinkling up. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "extreme close-up of {티니}'s nose twitching and wrinkling up",
-      "motion": "The nose twitches and crinkles"
+      "motion": "The nose twitches and crinkles, ending with the nose fully wrinkled, about to go",
+      "link": "연속",
+      "link_ko": "떠다니는 먼지를 따라가다 티니의 코에 닿는다."
     },
     {
       "id": "SC1-04",
@@ -82,7 +88,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 sneezing hard, her whole body rocking backward with it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} sneezing hard, her whole body rocking backward with it",
-      "motion": "She sneezes, her body snapping back with the force"
+      "motion": "She sneezes, her body snapping back with the force, ending with her body snapped back, mid-sneeze",
+      "link": "연속",
+      "link_ko": "실룩이던 코가 그대로 재채기가 된다."
     },
     {
       "id": "SC1-05",
@@ -98,7 +106,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a cloud of dust blowing up across the room from the sneeze and slowly settling again",
       "image": "a cloud of dust blowing up across the room from the sneeze and slowly settling again",
-      "motion": "Dust billows across the room and drifts down again"
+      "motion": "Dust billows across the room and drifts down again, ending with the dust cloud settling back down",
+      "link": "연속",
+      "link_ko": "재채기 바람에 방 안 먼지가 흩어진다."
     },
     {
       "id": "SC1-06",
@@ -116,7 +126,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 peering in through the doorway with a worried look. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} peering in through the doorway with a worried look",
-      "motion": "The baby dinosaur pokes his head around the door"
+      "motion": "The baby dinosaur pokes his head around the door, ending with his head fully around the doorframe",
+      "link": "컷",
+      "link_ko": "가라앉는 먼지 너머로 쿵쿵이가 들여다본다."
     },
     {
       "id": "SC1-07",
@@ -134,7 +146,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 starting to answer and being cut off by another sneeze. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} starting to answer and being cut off by another sneeze",
-      "motion": "She begins to speak and a sneeze cuts her off"
+      "motion": "She begins to speak and a sneeze cuts her off, ending cut off mid-word by the sneeze",
+      "link": "컷",
+      "link_ko": "쿵쿵이의 물음에 답하려다 또 재채기한다."
     },
     {
       "id": "SC1-08",
@@ -152,7 +166,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니's eyes, red-rimmed and watering, blinking heavily. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {티니}'s eyes, red-rimmed and watering, blinking heavily",
-      "motion": "Her reddened eyes blink slowly, watering"
+      "motion": "Her reddened eyes blink slowly, watering, ending with her eyes blinking slowly, red-rimmed",
+      "link": "연속",
+      "link_ko": "재채기 뒤 티니의 눈을 본다."
     },
     {
       "id": "SC1-09",
@@ -171,7 +187,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 and 루비 coming in through the front door and waving dust away from their faces. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} and {루비} coming in through the front door and waving dust away from their faces",
-      "motion": "They step in and fan the dust away"
+      "motion": "They step in and fan the dust away, ending with both of them inside, fanning the air",
+      "link": "컷",
+      "link_ko": "붉은 눈에서 문 쪽으로. 둘이 들어온다."
     },
     {
       "id": "SC1-10",
@@ -189,7 +207,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 pushing up her glasses and slowly turning to scan the whole room. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} pushing up her glasses and slowly turning to scan the whole room",
-      "motion": "She adjusts her glasses and sweeps her gaze around"
+      "motion": "She adjusts her glasses and sweeps her gaze around, ending with her gaze completing a full sweep",
+      "link": "연속",
+      "link_ko": "들어온 미미가 방을 둘러본다."
     },
     {
       "id": "SC1-11",
@@ -207,7 +227,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 leaning on her star-topped wooden staff and tilting her head. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루비} leaning on her star-topped wooden staff and tilting her head",
-      "motion": "She leans on her staff, head tipping to one side"
+      "motion": "She leans on her staff, head tipping to one side, ending held with her head tilted, waiting",
+      "link": "컷",
+      "link_ko": "둘러보는 미미 옆에서 루비가 고개를 갸웃한다."
     },
     {
       "id": "SC1-12",
@@ -225,7 +247,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 미미 holding her paw into the sunbeam, dust settling visibly onto the back of it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {미미} holding her paw into the sunbeam, dust settling visibly onto the back of it",
-      "motion": "Dust drifts down and coats the back of her paw"
+      "motion": "Dust drifts down and coats the back of her paw, ending with the back of her paw visibly coated",
+      "link": "컷",
+      "link_ko": "미미가 빛기둥에 손을 넣는다."
     },
     {
       "id": "SC1-13",
@@ -244,7 +268,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 holding out the dusty back of her paw for 티니 to see. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} holding out the dusty back of her paw for {티니} to see",
-      "motion": "She extends the dusted paw toward her friend"
+      "motion": "She extends the dusted paw toward her friend, ending with the paw held out steady toward {티니}",
+      "link": "연속",
+      "link_ko": "먼지 앉은 손등을 그대로 내밀어 보인다."
     },
     {
       "id": "SC1-14",
@@ -265,7 +291,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 티니, 미미, 루비 and 쿵쿵 looking around the room, dust visibly layered on every surface. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of {티니}, {미미}, {루비} and {쿵쿵} looking around the room, dust visibly layered on every surface",
-      "motion": "The camera pans the room, dust thick on every surface"
+      "motion": "The camera pans the room, dust thick on every surface, ending held wide with dust visible on every surface",
+      "link": "컷",
+      "link_ko": "손등에서 방 전체로 넓힌다."
     },
     {
       "id": "SC2-01",
@@ -283,7 +311,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 rolling up the sleeves of her purple vest with a determined look. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} rolling up the sleeves of her purple vest with a determined look",
-      "motion": "She rolls up her sleeves purposefully"
+      "motion": "She rolls up her sleeves purposefully, ending with both sleeves rolled and her stance set",
+      "link": "전환",
+      "link_ko": "확인이 끝나고 청소가 시작된다."
     },
     {
       "id": "SC2-02",
@@ -299,7 +329,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up under the bed, grey clumps of dust rolling slowly across the dark floorboards",
       "image": "close-up under the bed, grey clumps of dust rolling slowly across the dark floorboards",
-      "motion": "Dust bunnies roll slowly across the dark boards"
+      "motion": "Dust bunnies roll slowly across the dark boards, ending held on the dust bunnies rolling in the dark",
+      "link": "컷",
+      "link_ko": "미미의 신호로 침대 밑부터 본다."
     },
     {
       "id": "SC2-03",
@@ -317,7 +349,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 sweeping her staff under the bed, dragging out a wave of dust clumps. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루비} sweeping her staff under the bed, dragging out a wave of dust clumps",
-      "motion": "The staff sweeps under and pulls out a wave of dust"
+      "motion": "The staff sweeps under and pulls out a wave of dust, ending with a wave of dust dragged out into the light",
+      "link": "연속",
+      "link_ko": "침대 밑 그것을 루비가 지팡이로 쓸어낸다."
     },
     {
       "id": "SC2-04",
@@ -333,7 +367,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a shelf lined with books and stuffed toys, thick grey dust layered between and over them",
       "image": "a shelf lined with books and stuffed toys, thick grey dust layered between and over them",
-      "motion": "The camera glides along the shelf revealing the layers of dust"
+      "motion": "The camera glides along the shelf revealing the layers of dust, ending held on the thick dust between the books",
+      "link": "컷",
+      "link_ko": "침대 밑에서 선반 위로 옮겨간다."
     },
     {
       "id": "SC2-05",
@@ -351,7 +387,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 nudging a stuffed toy on the shelf, a puff of dust bursting up from it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} nudging a stuffed toy on the shelf, a puff of dust bursting up from it",
-      "motion": "The toy shifts and dust puffs up in a cloud"
+      "motion": "The toy shifts and dust puffs up in a cloud, ending with the dust puff at its fullest",
+      "link": "연속",
+      "link_ko": "그 선반의 인형을 쿵쿵이가 건드린다."
     },
     {
       "id": "SC2-06",
@@ -369,7 +407,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 sneezing twice in a row and stumbling backward. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} sneezing twice in a row and stumbling backward",
-      "motion": "She sneezes twice, backing away"
+      "motion": "She sneezes twice, backing away, ending with her backed into the wall",
+      "link": "연속",
+      "link_ko": "피어오른 먼지에 티니가 재채기한다."
     },
     {
       "id": "SC2-07",
@@ -385,7 +425,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a window sill with dust and beach sand packed thickly into the grooves of the frame",
       "image": "a window sill with dust and beach sand packed thickly into the grooves of the frame",
-      "motion": "Sea wind slips through the gap, carrying dust inward"
+      "motion": "Sea wind slips through the gap, carrying dust inward, ending held on the packed groove with wind slipping through",
+      "link": "컷",
+      "link_ko": "선반에서 창틀로. 바닷바람이 들어온다."
     },
     {
       "id": "SC2-08",
@@ -403,7 +445,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 running a finger along the window groove and looking at the grey smear it leaves. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} running a finger along the window groove and looking at the grey smear it leaves",
-      "motion": "Her finger draws a clean line through the grime"
+      "motion": "Her finger draws a clean line through the grime, ending with the clean line drawn through the grime",
+      "link": "연속",
+      "link_ko": "그 창틀을 미미가 손가락으로 훑는다."
     },
     {
       "id": "SC2-09",
@@ -419,7 +463,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of a curtain hem heavy and greyed with dust, shedding particles as it moves",
       "image": "close-up of a curtain hem heavy and greyed with dust, shedding particles as it moves",
-      "motion": "The curtain stirs and sheds a haze of dust"
+      "motion": "The curtain stirs and sheds a haze of dust, ending with the curtain still shedding dust",
+      "link": "컷",
+      "link_ko": "창틀에서 커튼으로. 같은 먼지가 이어진다."
     },
     {
       "id": "SC2-10",
@@ -438,7 +484,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 lifting the dusty curtain hem and looking over at 티니. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루비} lifting the dusty curtain hem and looking over at {티니}",
-      "motion": "She raises the curtain hem and glances over"
+      "motion": "She raises the curtain hem and glances over, ending with the hem raised and her look turned to {티니}",
+      "link": "연속",
+      "link_ko": "먼지 나는 커튼을 루비가 들어 보인다."
     },
     {
       "id": "SC2-11",
@@ -456,7 +504,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 looking away and scuffing the floor with a hind paw. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} looking away and scuffing the floor with a hind paw",
-      "motion": "She avoids their eyes, scuffing the floor"
+      "motion": "She avoids their eyes, scuffing the floor, ending with her eyes down, hind paw scuffing",
+      "link": "컷",
+      "link_ko": "시선을 받은 티니가 피한다."
     },
     {
       "id": "SC2-12",
@@ -472,7 +522,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the whole room, every shaft of light thick with swirling dust",
       "image": "wide shot of the whole room, every shaft of light thick with swirling dust",
-      "motion": "Dust swirls through every beam of light in the room"
+      "motion": "Dust swirls through every beam of light in the room, ending held wide with dust swirling in every beam",
+      "link": "컷",
+      "link_ko": "티니에서 방 전체로 넓힌다. 문제의 크기가 보인다."
     },
     {
       "id": "SC2-13",
@@ -490,7 +542,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 picking up a broom, shaking her head, and setting it back down. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} picking up a broom, shaking her head, and setting it back down",
-      "motion": "She lifts the broom, shakes her head, sets it down"
+      "motion": "She lifts the broom, shakes her head, sets it down, ending with the broom back against the wall",
+      "link": "컷",
+      "link_ko": "방을 본 미미가 빗자루를 들었다 놓는다."
     },
     {
       "id": "SC2-14",
@@ -508,7 +562,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 standing in the middle of the room, slowly turning his head to take it all in. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} standing in the middle of the room, slowly turning his head to take it all in",
-      "motion": "He turns his head slowly, surveying the room"
+      "motion": "He turns his head slowly, surveying the room, ending with his survey of the room complete",
+      "link": "컷",
+      "link_ko": "빗자루가 안 되는 자리에서 쿵쿵이가 나선다."
     },
     {
       "id": "SC2-15",
@@ -526,7 +582,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 planting his feet firmly in the centre of the room. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} planting his feet firmly in the centre of the room",
-      "motion": "He sets his stance in the middle of the floor"
+      "motion": "He sets his stance in the middle of the floor, ending planted in the centre of the floor",
+      "link": "연속",
+      "link_ko": "둘러본 그대로 방 한가운데로 나간다."
     },
     {
       "id": "SC2-16",
@@ -546,7 +604,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 루비 and 티니 backing away toward the walls to give him room. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미}, {루비} and {티니} backing away toward the walls to give him room",
-      "motion": "The three retreat to the edges of the room"
+      "motion": "The three retreat to the edges of the room, ending with the three backed against the walls",
+      "link": "연속",
+      "link_ko": "쿵쿵이가 자리를 잡자 셋이 물러선다."
     },
     {
       "id": "SC3-01",
@@ -564,7 +624,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 closing his eyes and lifting his front paws only a little way off the floor, careful and restrained. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} closing his eyes and lifting his front paws only a little way off the floor, careful and restrained",
-      "motion": "He raises his paws just slightly, holding back"
+      "motion": "He raises his paws just slightly, holding back, ending with his paws lifted only slightly, held there",
+      "link": "전환",
+      "link_ko": "자리가 비워지고 쿵쿵이만 남는다."
     },
     {
       "id": "SC3-02",
@@ -582,7 +644,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 tapping both front paws lightly onto the wooden floor, the boards giving a soft ring. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} tapping both front paws lightly onto the wooden floor, the boards giving a soft ring",
-      "motion": "The paws tap down, the floorboards humming softly"
+      "motion": "The paws tap down, the floorboards humming softly, ending with the floorboards still humming",
+      "link": "연속",
+      "link_ko": "조금 든 앞발이 그대로 가볍게 내려온다."
     },
     {
       "id": "SC3-03",
@@ -600,7 +664,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of faint golden-teal light flowing up along 쿵쿵's three horns while the air around 쿵쿵 begins to turn in a slow gentle spiral instead of bursting outward. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "extreme close-up of {쿵쿵_바람}",
-      "motion": "Light flows up the horns as the air begins to turn slowly"
+      "motion": "Light flows up the horns as the air begins to turn slowly, ending with the air beginning to turn around him",
+      "link": "연속",
+      "link_ko": "바닥이 울린 그 순간 뿔에 빛이 오른다."
     },
     {
       "id": "SC3-04",
@@ -616,7 +682,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the air in the room beginning to circulate in a slow spiral, dust streaming inward toward the centre from every corner",
       "image": "the air in the room beginning to circulate in a slow spiral, dust streaming inward toward the centre from every corner",
-      "motion": "Dust streams in from the corners, spiralling toward the middle"
+      "motion": "Dust streams in from the corners, spiralling toward the middle, ending with dust streaming in from all four corners",
+      "link": "연속",
+      "link_ko": "돌기 시작한 공기가 방 전체로 번진다."
     },
     {
       "id": "SC3-05",
@@ -632,7 +700,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the dust clumps sliding out from under the bed, drawn along the floorboards",
       "image": "close-up of the dust clumps sliding out from under the bed, drawn along the floorboards",
-      "motion": "The dust bunnies slide out from under the bed"
+      "motion": "The dust bunnies slide out from under the bed, ending with the dust bunnies fully out from under the bed",
+      "link": "연속",
+      "link_ko": "흐름이 침대 밑까지 닿는다."
     },
     {
       "id": "SC3-06",
@@ -648,7 +718,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, dust lifting off the bookshelf and joining the spiralling current in the air",
       "image": "dust lifting off the bookshelf and joining the spiralling current in the air",
-      "motion": "Dust peels off the shelf and joins the swirl"
+      "motion": "Dust peels off the shelf and joins the swirl, ending with the shelf dust joined into the spiral",
+      "link": "연속",
+      "link_ko": "바닥의 먼지에 이어 선반의 먼지도 떠오른다."
     },
     {
       "id": "SC3-07",
@@ -664,7 +736,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, all the dust gathering into a single grey sphere hovering in the middle of the room",
       "image": "all the dust gathering into a single grey sphere hovering in the middle of the room",
-      "motion": "The dust condenses into one hovering grey ball"
+      "motion": "The dust condenses into one hovering grey ball, ending with the grey sphere hovering, complete",
+      "link": "연속",
+      "link_ko": "모인 먼지가 하나로 뭉친다."
     },
     {
       "id": "SC3-08",
@@ -682,7 +756,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 pointing her staff urgently toward the window. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루비} pointing her staff urgently toward the window",
-      "motion": "She thrusts her staff toward the window"
+      "motion": "She thrusts her staff toward the window, ending with the staff thrust toward the window",
+      "link": "컷",
+      "link_ko": "떠 있는 먼지 덩어리를 보고 루비가 외친다."
     },
     {
       "id": "SC3-09",
@@ -700,7 +776,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 throwing the window wide open, the grey dust sphere streaming out through it toward the sea. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} throwing the window wide open, the grey dust sphere streaming out through it toward the sea",
-      "motion": "The window swings open and the dust pours out toward the sea"
+      "motion": "The window swings open and the dust pours out toward the sea, ending with the dust fully out and the window empty",
+      "link": "연속",
+      "link_ko": "가리킨 창문을 미미가 연다."
     },
     {
       "id": "SC3-10",
@@ -716,7 +794,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the air now clear but grime still visibly stuck along the shelf edges and window grooves",
       "image": "the air now clear but grime still visibly stuck along the shelf edges and window grooves",
-      "motion": "Light picks out the grime still clinging to the surfaces"
+      "motion": "Light picks out the grime still clinging to the surfaces, ending held on the grime still stuck to the shelf edge",
+      "link": "연속",
+      "link_ko": "먼지가 나간 뒤에도 남은 것을 본다."
     },
     {
       "id": "SC3-11",
@@ -734,7 +814,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 carrying in a bucket of water and a stack of cloths. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} carrying in a bucket of water and a stack of cloths",
-      "motion": "She hauls in a bucket and cloths"
+      "motion": "She hauls in a bucket and cloths, ending with the bucket set down and cloths stacked",
+      "link": "컷",
+      "link_ko": "남은 때를 보고 미미가 물통을 가져온다."
     },
     {
       "id": "SC3-12",
@@ -755,7 +837,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미, 루비, 티니 and 쿵쿵 each taking a cloth and spreading out around the room. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미}, {루비}, {티니} and {쿵쿵} each taking a cloth and spreading out around the room",
-      "motion": "Each takes a cloth and moves to a different corner"
+      "motion": "Each takes a cloth and moves to a different corner, ending with each of them at a different corner",
+      "link": "연속",
+      "link_ko": "가져온 걸레를 넷이 나눠 든다."
     },
     {
       "id": "SC3-13",
@@ -771,7 +855,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of a cloth scrubbing the window groove, grey grime lifting away to reveal clean wood grain",
       "image": "close-up of a cloth scrubbing the window groove, grey grime lifting away to reveal clean wood grain",
-      "motion": "The cloth scrubs and clean wood emerges from under the grime"
+      "motion": "The cloth scrubs and clean wood emerges from under the grime, ending with clean wood grain fully exposed",
+      "link": "연속",
+      "link_ko": "각자 자리에서 닦기 시작한다."
     },
     {
       "id": "SC3-14",
@@ -789,7 +875,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 pulling the dusty curtains down and stuffing them into a washing tub. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} pulling the dusty curtains down and stuffing them into a washing tub",
-      "motion": "She yanks the curtains down into the tub"
+      "motion": "She yanks the curtains down into the tub, ending with the curtains fully down in the tub",
+      "link": "컷",
+      "link_ko": "창틀에서 커튼으로. 티니가 맡는다."
     },
     {
       "id": "SC3-15",
@@ -805,7 +893,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of all four scrubbing the room together, the shafts of afternoon light growing clear and clean of dust",
       "image": "wide shot of all four scrubbing the room together, the shafts of afternoon light growing clear and clean of dust",
-      "motion": "The light beams clear as the dust disappears from the air"
+      "motion": "The light beams clear as the dust disappears from the air, ending with the light beams completely clear of dust",
+      "link": "컷",
+      "link_ko": "넷 전체로 넓힌다. 빛이 맑아진다."
     },
     {
       "id": "SC4-01",
@@ -821,7 +911,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the room completely clean, clear light filling it, fresh curtains stirring at the open window",
       "image": "wide shot of the room completely clean, clear light filling it, fresh curtains stirring at the open window",
-      "motion": "Fresh curtains sway as clean light fills the room"
+      "motion": "Fresh curtains sway as clean light fills the room, ending held on the clean bright room",
+      "link": "전환",
+      "link_ko": "청소가 끝난다. 같은 방, 완전히 다른 빛."
     },
     {
       "id": "SC4-02",
@@ -837,7 +929,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of a sunbeam crossing the room, now almost completely clear of floating dust",
       "image": "close-up of a sunbeam crossing the room, now almost completely clear of floating dust",
-      "motion": "The beam holds clear, almost nothing drifting in it"
+      "motion": "The beam holds clear, almost nothing drifting in it, ending held on the beam with almost nothing in it",
+      "link": "연속",
+      "link_ko": "맑아진 빛기둥으로 들어간다."
     },
     {
       "id": "SC4-03",
@@ -855,7 +949,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of 티니's nose, calm and still as she breathes in deeply. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "extreme close-up of {티니}'s nose, calm and still as she breathes in deeply",
-      "motion": "The nose stays calm as she draws a deep breath"
+      "motion": "The nose stays calm as she draws a deep breath, ending with the nose calm and still, mid-breath",
+      "link": "컷",
+      "link_ko": "맑은 공기 속 티니의 코."
     },
     {
       "id": "SC4-04",
@@ -873,7 +969,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 touching her own nose in surprise, eyes going wide. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} touching her own nose in surprise, eyes going wide",
-      "motion": "She paws at her nose, eyes widening"
+      "motion": "She paws at her nose, eyes widening, ending with her eyes wide and paw still on her nose",
+      "link": "연속",
+      "link_ko": "실룩이지 않는 코를 티니가 직접 만져본다."
     },
     {
       "id": "SC4-05",
@@ -891,7 +989,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 racing joyfully in circles around the clean room. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} racing joyfully in circles around the clean room",
-      "motion": "The puppy tears around the clean room in circles"
+      "motion": "The puppy tears around the clean room in circles, ending mid-circuit, still running",
+      "link": "연속",
+      "link_ko": "놀란 그대로 방을 뛰어다닌다."
     },
     {
       "id": "SC4-06",
@@ -910,7 +1010,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루비 bending down to look closely at 티니's clear, no-longer-red eyes. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루비} bending down to look closely at {티니}'s clear, no-longer-red eyes",
-      "motion": "She leans in to inspect her friend's clear eyes"
+      "motion": "She leans in to inspect her friend's clear eyes, ending with her face close, inspecting the clear eyes",
+      "link": "컷",
+      "link_ko": "뛰던 티니를 루비가 붙잡아 눈을 본다."
     },
     {
       "id": "SC4-07",
@@ -928,7 +1030,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 미미 wringing out a cloth and hanging it neatly over the window sill. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{미미} wringing out a cloth and hanging it neatly over the window sill",
-      "motion": "She wrings the cloth and drapes it over the sill"
+      "motion": "She wrings the cloth and drapes it over the sill, ending with the cloth draped over the sill",
+      "link": "컷",
+      "link_ko": "확인이 끝나고 미미가 마무리한다."
     },
     {
       "id": "SC4-08",
@@ -946,7 +1050,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 티니 answering brightly, her tail wagging hard. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {티니} answering brightly, her tail wagging hard",
-      "motion": "Her tail wags fast as she answers"
+      "motion": "Her tail wags fast as she answers, ending with her tail still wagging hard",
+      "link": "컷",
+      "link_ko": "미미의 말에 티니가 답한다."
     },
     {
       "id": "EN-01",
@@ -964,7 +1070,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a proud beaming smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile",
-      "motion": "The baby dinosaur puffs up and beams"
+      "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
+      "link": "전환",
+      "link_ko": "엔딩 시작. 티니의 대답에서 쿵쿵이의 얼굴로."
     },
     {
       "id": "EN-02",
@@ -985,7 +1093,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니, 미미, 루비 and 쿵쿵 sitting together in the clean room, sunset light coming in through the open window. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니}, {미미}, {루비} and {쿵쿵} sitting together in the clean room, sunset light coming in through the open window",
-      "motion": "Sunset light spills in and washes over the four"
+      "motion": "Sunset light spills in and washes over the four, ending with sunset light full across all four",
+      "link": "컷",
+      "link_ko": "넷이 깨끗한 방에 둘러앉는다. 노을이 든다."
     },
     {
       "id": "EN-03",
@@ -1003,7 +1113,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 fast asleep in her bed at night, the blanket rising and falling slowly with her breathing. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} fast asleep in her bed at night, the blanket rising and falling slowly with her breathing",
-      "motion": "The blanket rises and falls gently as she sleeps"
+      "motion": "The blanket rises and falls gently as she sleeps, ending with the blanket rising and falling evenly",
+      "link": "전환",
+      "link_ko": "노을에서 밤으로. 시간이 건너뛴다."
     },
     {
       "id": "EN-04",
@@ -1019,7 +1131,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the sleeping puppy's nose, quiet and peaceful",
       "image": "extreme close-up of the sleeping puppy's nose, quiet and peaceful",
-      "motion": "The nose breathes quietly, undisturbed"
+      "motion": "The nose breathes quietly, undisturbed, ending held on the quiet nose, undisturbed",
+      "link": "연속",
+      "link_ko": "이불 위에서 잠든 코로 들어간다."
     },
     {
       "id": "EN-05",
@@ -1035,7 +1149,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the clean room under moonlight, the cloth on the sill and the curtains stirring gently",
       "image": "the clean room under moonlight, the cloth on the sill and the curtains stirring gently",
-      "motion": "Moonlight fills the tidy room, curtains stirring"
+      "motion": "Moonlight fills the tidy room, curtains stirring, ending with the room silver and still under moonlight",
+      "link": "컷",
+      "link_ko": "잠든 티니에서 방 전체로 물러난다."
     },
     {
       "id": "EN-06",
@@ -1051,7 +1167,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, exterior of the yellow cottage on the hill at night, stars over the dark sea",
       "image": "exterior of the yellow cottage on the hill at night, stars over the dark sea",
-      "motion": "Stars glint over the quiet sea"
+      "motion": "Stars glint over the quiet sea, ending held on the cottage against the starry sea",
+      "link": "연속",
+      "link_ko": "방에서 창을 통과해 밖으로 나온다."
     },
     {
       "id": "EN-07",
@@ -1072,7 +1190,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 티니, 미미, 루비 and 쿵쿵 standing together in the clean bright room, soft warm colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "end card composition, {티니}, {미미}, {루비} and {쿵쿵} standing together in the clean bright room, soft warm colours, clean empty space along the bottom for a title",
-      "motion": "The curtains sway gently as the camera eases back"
+      "motion": "The curtains sway gently as the camera eases back",
+      "link": "컷",
+      "link_ko": "엔딩 카드."
     }
   ]
 }

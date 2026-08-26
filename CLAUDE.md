@@ -10,6 +10,8 @@
 - 캐릭터 6종 OpenArt Characters 등록 완료(한글 이름이 트리거 워드)
 - 자막·렌더는 ffmpeg 로 저장소 안에서 처리 (`docs/12`)
 - 쿵쿵의 능력은 등록된 5종이 전부 (`docs/13`)
+- **모든 컷에 `link` 가 있다** — 앞 컷과 어떻게 이어지는지 (`docs/14`). `연속` 인 컷은 앞 컷 영상의 마지막 프레임을 시작 프레임으로 넣는다
+- 쿵쿵이는 1화 엔딩부터 9화까지 루카의 나무집에서 지낸다. 자기 집은 10화에 완성된다 (`docs/15`)
 - 사이트 3페이지 빌드 가능, 컷 시트는 화별로 나온다
 
 ## 절대 어기면 안 되는 것
@@ -41,6 +43,17 @@ OpenArt는 **생성만** 쓴다. 이어붙이기·자막·음악·최종 출력�
 
 컷마다 자막을 굽지 말 것. 오타 하나에 컷을 재생성하게 되고 크레딧이 샌다.
 
+## 컷은 이어져야 한다
+
+컷 하나하나가 잘 나와도 이어붙이면 툭툭 끊긴다. 앞 컷이 어떤 상태로 끝나는지 적혀 있지 않으면 생성 모델은 앞뒤를 모른다.
+
+- `motion` 은 **반드시 그 컷이 끝나는 자세·위치·카메라로 끝맺는다**
+- 모든 컷에 `link` 를 지정한다 — `연속` / `컷` / `전환`
+- `연속` 은 `scripts/chain_frames.py` 로 앞 컷 끝 프레임을 뽑아 시작 프레임으로 넣는다
+- **얼굴 레퍼런스와 혼동하지 말 것.** 시작 프레임만 물려주고 캐릭터는 트리거 워드로 잡는다
+
+자세한 것은 `docs/14`.
+
 ## 명령
 
 ```bash
@@ -53,6 +66,7 @@ python3 scripts/pipeline.py scenes --episode ep1 --shots shots_v2.json --dry-run
 
 python3 scripts/build_subtitles.py --episode episodes/ep1              # 자막 .ass + .srt
 python3 scripts/render_episode.py --episode episodes/ep1 --clips <폴더> # 이어붙이기 + 자막 굽기
+python3 scripts/chain_frames.py --episode episodes/ep1 --clips <폴더>   # 연속 컷 시작 프레임 추출
 ```
 
 세션이 시작되면 `.claude/hooks/session-start.sh` 가 진행 상황·규격 검사·미결정 사항을

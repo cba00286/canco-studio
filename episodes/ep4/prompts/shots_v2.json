@@ -30,7 +30,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a wide sandy beach in a seaside village at morning, blue sea rolling in, colourful little houses lined up along the shore behind",
       "image": "a wide sandy beach in a seaside village at morning, blue sea rolling in, colourful little houses lined up along the shore behind",
-      "motion": "Waves roll in and draw back, a gull crossing the sky"
+      "motion": "Waves roll in and draw back, a gull crossing the sky, ending held wide on the beach and the houses behind",
+      "link": "전환",
+      "link_ko": "4화 첫 컷. 파도 소리가 먼저 들어오고 화면이 밝아진다."
     },
     {
       "id": "SC1-02",
@@ -46,7 +48,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a small train pulling into a seaside station beside the beach, steam puffing as it slows to a stop",
       "image": "a small train pulling into a seaside station beside the beach, steam puffing as it slows to a stop",
-      "motion": "The train hisses to a halt, steam drifting"
+      "motion": "The train hisses to a halt, steam drifting, ending with the train fully stopped, steam settling",
+      "link": "컷",
+      "link_ko": "해변에서 철길 쪽으로 시선을 옮긴다."
     },
     {
       "id": "SC1-03",
@@ -65,7 +69,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 stepping down from the train carriage clutching a box tightly to his chest, 쿵쿵 following behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} stepping down from the train carriage clutching a box tightly to his chest, {쿵쿵} following behind him",
-      "motion": "The tiger cub climbs down hugging the box, the baby dinosaur behind"
+      "motion": "The tiger cub climbs down hugging the box, the baby dinosaur behind, ending with both of them down on the platform",
+      "link": "연속",
+      "link_ko": "멈춘 기차의 문에서 둘이 내린다."
     },
     {
       "id": "SC1-04",
@@ -83,7 +89,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 walking very carefully with both arms wrapped around the box. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} walking very carefully with both arms wrapped around the box",
-      "motion": "He tiptoes forward, arms locked around the box"
+      "motion": "He tiptoes forward, arms locked around the box, ending with him tiptoeing forward, box clamped tight",
+      "link": "연속",
+      "link_ko": "내린 그대로 조심스럽게 걷기 시작한다."
     },
     {
       "id": "SC1-05",
@@ -102,7 +110,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 후안 and 티니 running across the sand toward them, waving, sand kicking up behind. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{후안} and {티니} running across the sand toward them, waving, sand kicking up behind",
-      "motion": "The two race over the sand, waving, sand flying behind them"
+      "motion": "The two race over the sand, waving, sand flying behind them, ending with the two arriving right in front of them",
+      "link": "컷",
+      "link_ko": "걸어오는 둘 쪽으로 모래사장에서 둘이 달려온다."
     },
     {
       "id": "SC1-06",
@@ -120,7 +130,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 circling the box and sniffing at it eagerly. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} circling the box and sniffing at it eagerly",
-      "motion": "The puppy circles the box, nose working"
+      "motion": "The puppy circles the box, nose working, ending with her nose pressed to the box seam",
+      "link": "연속",
+      "link_ko": "도착한 티니가 곧장 상자 냄새를 맡는다."
     },
     {
       "id": "SC1-07",
@@ -136,7 +148,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of the box being set down on the sand and the lid lifting open",
       "image": "close-up of the box being set down on the sand and the lid lifting open",
-      "motion": "The lid opens, revealing what is inside"
+      "motion": "The lid opens, revealing what is inside, ending with the lid fully open",
+      "link": "컷",
+      "link_ko": "냄새를 맡던 그 상자를 내려놓고 연다."
     },
     {
       "id": "SC1-08",
@@ -152,7 +166,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of a shiny red toy car with silver wheels resting in the box, paint catching the sunlight",
       "image": "extreme close-up of a shiny red toy car with silver wheels resting in the box, paint catching the sunlight",
-      "motion": "The camera glides slowly along the side of the toy car"
+      "motion": "The camera glides slowly along the side of the toy car, ending held on the car, paint flaring in the sun",
+      "link": "연속",
+      "link_ko": "열린 상자 안으로 들어간다."
     },
     {
       "id": "SC1-09",
@@ -170,7 +186,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 holding the toy car up over his head and turning in a proud circle. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} holding the toy car up over his head and turning in a proud circle",
-      "motion": "He raises the car high and spins around proudly"
+      "motion": "He raises the car high and spins around proudly, ending with the car held high, mid-spin",
+      "link": "컷",
+      "link_ko": "상자에서 자동차를 꺼내 들어 올린다."
     },
     {
       "id": "SC1-10",
@@ -188,7 +206,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 후안 staring at the toy car, his round eyes shining as they follow it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {후안} staring at the toy car, his round eyes shining as they follow it",
-      "motion": "His eyes track the car back and forth, shining"
+      "motion": "His eyes track the car back and forth, shining, ending with his eyes locked on the car, shining",
+      "link": "컷",
+      "link_ko": "들어 올린 그 자동차를 후안이 본다."
     },
     {
       "id": "SC1-11",
@@ -206,7 +226,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 후안 hesitantly reaching one flipper out toward the car, then pausing. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{후안} hesitantly reaching one flipper out toward the car, then pausing",
-      "motion": "The penguin lifts a flipper toward it, then hesitates"
+      "motion": "The penguin lifts a flipper toward it, then hesitates, ending with the flipper stopped halfway, hesitating",
+      "link": "연속",
+      "link_ko": "보던 눈에서 날개가 천천히 올라온다."
     },
     {
       "id": "SC1-12",
@@ -224,7 +246,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 twisting away and hiding the toy car behind his back. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} twisting away and hiding the toy car behind his back",
-      "motion": "He turns sharply, tucking the car out of reach behind him"
+      "motion": "He turns sharply, tucking the car out of reach behind him, ending with the car hidden behind his back",
+      "link": "연속",
+      "link_ko": "내밀어진 그 날개 앞에서 루카가 몸을 돌린다."
     },
     {
       "id": "SC1-13",
@@ -242,7 +266,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 후안 slowly lowering his flipper, his gaze dropping to the sand. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {후안} slowly lowering his flipper, his gaze dropping to the sand",
-      "motion": "The flipper sinks down, his eyes going to the ground"
+      "motion": "The flipper sinks down, his eyes going to the ground, ending with the flipper down and his eyes on the sand",
+      "link": "연속",
+      "link_ko": "거절당한 날개가 천천히 내려간다."
     },
     {
       "id": "SC1-14",
@@ -263,7 +289,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of 루카 running off down the beach with the car while 후안, 티니 and 쿵쿵 stay behind. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of {루카} running off down the beach with the car while {후안}, {티니} and {쿵쿵} stay behind",
-      "motion": "He runs away down the beach, the other three left standing"
+      "motion": "He runs away down the beach, the other three left standing, ending with him small down the beach and the three standing still",
+      "link": "컷",
+      "link_ko": "루카만 혼자 달려나간다. 셋은 남는다."
     },
     {
       "id": "SC2-01",
@@ -281,7 +309,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 kneeling alone on the sand further down the beach, carefully setting the toy car onto the ground. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} kneeling alone on the sand further down the beach, carefully setting the toy car onto the ground",
-      "motion": "He kneels and sets the car down on the sand"
+      "motion": "He kneels and sets the car down on the sand, ending with the car set down and his paw drawing back",
+      "link": "전환",
+      "link_ko": "해변 반대편. 혼자가 된 루카에게로 옮겨간다."
     },
     {
       "id": "SC2-02",
@@ -299,7 +329,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's paw shoving the toy car forward, its wheels beginning to spin. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카}'s paw shoving the toy car forward, its wheels beginning to spin",
-      "motion": "The paw pushes hard, wheels starting to turn"
+      "motion": "The paw pushes hard, wheels starting to turn, ending with the car released and rolling",
+      "link": "연속",
+      "link_ko": "내려놓은 자동차를 그대로 민다."
     },
     {
       "id": "SC2-03",
@@ -315,7 +347,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the toy car travelling only a short way before its front wheels sink into the soft sand and it noses down",
       "image": "the toy car travelling only a short way before its front wheels sink into the soft sand and it noses down",
-      "motion": "The car wobbles and its nose buries itself in the sand"
+      "motion": "The car wobbles and its nose buries itself in the sand, ending with the car nose-down and stopped",
+      "link": "연속",
+      "link_ko": "굴러가던 자동차가 모래에 처박힌다."
     },
     {
       "id": "SC2-04",
@@ -331,7 +365,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the toy car's wheels spinning uselessly in the sand, flinging grains sideways",
       "image": "extreme close-up of the toy car's wheels spinning uselessly in the sand, flinging grains sideways",
-      "motion": "The wheels spin in place, throwing sand"
+      "motion": "The wheels spin in place, throwing sand, ending with the wheels still spinning uselessly",
+      "link": "연속",
+      "link_ko": "박힌 자동차의 바퀴만 헛돈다."
     },
     {
       "id": "SC2-05",
@@ -349,7 +385,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 pulling the car free and brushing sand off it, frowning. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} pulling the car free and brushing sand off it, frowning",
-      "motion": "He lifts the car out and knocks the sand off it"
+      "motion": "He lifts the car out and knocks the sand off it, ending with the car brushed clean, his frown deepening",
+      "link": "컷",
+      "link_ko": "헛도는 자동차를 꺼내 든다."
     },
     {
       "id": "SC2-06",
@@ -365,7 +403,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the toy car pushed again and again burying its nose in the soft sand after only a short run",
       "image": "the toy car pushed again and again burying its nose in the soft sand after only a short run",
-      "motion": "Again the car rolls briefly and noses into the sand"
+      "motion": "Again the car rolls briefly and noses into the sand, ending with the car buried again, further away",
+      "link": "컷",
+      "link_ko": "다시 밀어보지만 결과가 같다. 반복이 보인다."
     },
     {
       "id": "SC2-07",
@@ -383,7 +423,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 sitting down heavily on the sand, shoulders slumping. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} sitting down heavily on the sand, shoulders slumping",
-      "motion": "He drops onto the sand, shoulders sagging"
+      "motion": "He drops onto the sand, shoulders sagging, ending with him seated, shoulders fully down",
+      "link": "컷",
+      "link_ko": "반복 끝에 루카가 주저앉는다."
     },
     {
       "id": "SC2-08",
@@ -402,7 +444,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, further along the beach 후안 and 티니 bending down to collect shells at the water's edge. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "further along the beach {후안} and {티니} bending down to collect shells at the water's edge",
-      "motion": "The two stoop at the waterline gathering shells"
+      "motion": "The two stoop at the waterline gathering shells, ending held on the two at the waterline",
+      "link": "컷",
+      "link_ko": "주저앉은 루카의 시선 끝. 저 멀리 둘이 논다."
     },
     {
       "id": "SC2-09",
@@ -420,7 +464,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카 turning his head to watch them, his expression conflicted. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카} turning his head to watch them, his expression conflicted",
-      "motion": "He turns his head, watching them from a distance"
+      "motion": "He turns his head, watching them from a distance, ending with him still watching, expression unresolved",
+      "link": "연속",
+      "link_ko": "그 광경을 보는 루카의 얼굴."
     },
     {
       "id": "SC2-10",
@@ -439,7 +485,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 waddling across the sand and stopping beside 루카. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} waddling across the sand and stopping beside {루카}",
-      "motion": "The baby dinosaur toddles over and stands beside him"
+      "motion": "The baby dinosaur toddles over and stands beside him, ending with him standing beside {루카}",
+      "link": "컷",
+      "link_ko": "보고 있는 루카 옆으로 쿵쿵이가 온다."
     },
     {
       "id": "SC2-11",
@@ -457,7 +505,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 tilting his head at the toy car with innocent concern. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} tilting his head at the toy car with innocent concern",
-      "motion": "The baby dinosaur cocks his head at the car"
+      "motion": "The baby dinosaur cocks his head at the car, ending with his head still cocked at the car",
+      "link": "연속",
+      "link_ko": "옆에 선 채로 자동차를 들여다본다."
     },
     {
       "id": "SC2-12",
@@ -475,7 +525,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 scooping up a handful of sand and letting it pour away through his fingers. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} scooping up a handful of sand and letting it pour away through his fingers",
-      "motion": "Sand streams out between his fingers"
+      "motion": "Sand streams out between his fingers, ending with the last sand running out of his fist",
+      "link": "컷",
+      "link_ko": "쿵쿵이의 물음에 루카가 모래를 쥔다."
     },
     {
       "id": "SC2-13",
@@ -491,7 +543,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the beach, soft footprints sunk deep into the loose sand everywhere",
       "image": "wide shot of the beach, soft footprints sunk deep into the loose sand everywhere",
-      "motion": "Wind skims the surface, blurring the prints"
+      "motion": "Wind skims the surface, blurring the prints, ending held wide on the pockmarked soft sand",
+      "link": "컷",
+      "link_ko": "흘러내리는 모래에서 해변 전체로 넓힌다."
     },
     {
       "id": "SC2-14",
@@ -509,7 +563,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵's front paw pressing into the sand and sinking deep. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵}'s front paw pressing into the sand and sinking deep",
-      "motion": "The paw presses down and sinks into the sand"
+      "motion": "The paw presses down and sinks into the sand, ending with the paw sunk deep and held there",
+      "link": "연속",
+      "link_ko": "그 무른 모래를 쿵쿵이가 발로 밟아본다."
     },
     {
       "id": "SC2-15",
@@ -527,7 +583,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵's eyes lighting up with a sudden idea. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵}'s eyes lighting up with a sudden idea",
-      "motion": "His eyes brighten as an idea strikes"
+      "motion": "His eyes brighten as an idea strikes, ending with his eyes fully lit with the idea",
+      "link": "연속",
+      "link_ko": "박힌 발에서 쿵쿵이의 얼굴로."
     },
     {
       "id": "SC2-16",
@@ -545,7 +603,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 marching determinedly out into the middle of the open sand. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} marching determinedly out into the middle of the open sand",
-      "motion": "The baby dinosaur strides out onto the open beach"
+      "motion": "The baby dinosaur strides out onto the open beach, ending with him stopped at the centre of the open sand",
+      "link": "연속",
+      "link_ko": "떠오른 생각대로 모래사장 한가운데로 나간다."
     },
     {
       "id": "SC3-01",
@@ -563,7 +623,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 planting his feet firmly in the sand and setting his stance. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} planting his feet firmly in the sand and setting his stance",
-      "motion": "He works his feet into the sand and braces"
+      "motion": "He works his feet into the sand and braces, ending braced and motionless",
+      "link": "전환",
+      "link_ko": "넓은 모래사장 한가운데. 쿵쿵이 혼자다."
     },
     {
       "id": "SC3-02",
@@ -581,7 +643,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 rearing back on the sand with both front paws lifted high. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} rearing back on the sand with both front paws lifted high",
-      "motion": "He rears up, front paws raised"
+      "motion": "He rears up, front paws raised, ending with both paws at their highest",
+      "link": "연속",
+      "link_ko": "자세를 잡고 앞발을 든다."
     },
     {
       "id": "SC3-03",
@@ -599,7 +663,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 slamming both front paws into the beach, sand leaping up in a ring around the impact. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} slamming both front paws into the beach, sand leaping up in a ring around the impact",
-      "motion": "The paws hit and sand bursts upward in a ring"
+      "motion": "The paws hit and sand bursts upward in a ring, ending with the ring of sand at its widest",
+      "link": "연속",
+      "link_ko": "든 앞발이 그대로 모래를 친다."
     },
     {
       "id": "SC3-04",
@@ -617,7 +683,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of golden-teal aurora light surging along 쿵쿵's three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵_파워}",
-      "motion": "Light surges up the horns as a glowing ring spreads across the sand"
+      "motion": "Light surges up the horns as a glowing ring spreads across the sand, ending with the horn tips at maximum brightness",
+      "link": "연속",
+      "link_ko": "모래를 친 그 순간 뿔에 빛이 오른다."
     },
     {
       "id": "SC3-05",
@@ -633,7 +701,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a glowing shockwave sweeping across the beach, the loose sand behind it pressed flat and firm into a smooth hard track",
       "image": "a glowing shockwave sweeping across the beach, the loose sand behind it pressed flat and firm into a smooth hard track",
-      "motion": "The ring passes and leaves a flat packed track behind it"
+      "motion": "The ring passes and leaves a flat packed track behind it, ending with the track fully formed behind the passing ring",
+      "link": "연속",
+      "link_ko": "뿔의 빛이 모래 위로 퍼지며 길을 다진다."
     },
     {
       "id": "SC3-06",
@@ -649,7 +719,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, a long firm track pressed into the middle of the beach, its surface smooth and compact compared to the loose sand around it",
       "image": "a long firm track pressed into the middle of the beach, its surface smooth and compact compared to the loose sand around it",
-      "motion": "The camera skims low along the length of the track"
+      "motion": "The camera skims low along the length of the track, ending held on the full length of the packed track",
+      "link": "연속",
+      "link_ko": "다져진 그 길 전체를 보여준다."
     },
     {
       "id": "SC3-07",
@@ -667,7 +739,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's paw pressing down on the packed track surface, leaving no dent. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카}'s paw pressing down on the packed track surface, leaving no dent",
-      "motion": "The paw presses and lifts, leaving the surface unmarked"
+      "motion": "The paw presses and lifts, leaving the surface unmarked, ending with his paw lifted and no dent left",
+      "link": "컷",
+      "link_ko": "그 길을 루카가 손으로 눌러 확인한다."
     },
     {
       "id": "SC3-08",
@@ -685,7 +759,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 jumping to his feet and snatching up the toy car. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} jumping to his feet and snatching up the toy car",
-      "motion": "He springs up and grabs the car"
+      "motion": "He springs up and grabs the car, ending with the car snatched up in his paw",
+      "link": "연속",
+      "link_ko": "단단한 것을 확인한 그 손으로 자동차를 집는다."
     },
     {
       "id": "SC3-09",
@@ -703,7 +779,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 setting the toy car on the packed track and shoving it forward hard. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} setting the toy car on the packed track and shoving it forward hard",
-      "motion": "He pushes and the wheels bite into the firm surface"
+      "motion": "He pushes and the wheels bite into the firm surface, ending with the car released and gripping",
+      "link": "연속",
+      "link_ko": "집어 든 자동차를 트랙에 놓고 민다."
     },
     {
       "id": "SC3-10",
@@ -719,7 +797,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the toy car racing fast along the packed sand track, a thin trail of dust streaming behind it",
       "image": "the toy car racing fast along the packed sand track, a thin trail of dust streaming behind it",
-      "motion": "The car shoots down the track trailing dust"
+      "motion": "The car shoots down the track trailing dust, ending with the car far down the track, dust trailing",
+      "link": "연속",
+      "link_ko": "밀린 자동차가 트랙을 달린다."
     },
     {
       "id": "SC3-11",
@@ -735,7 +815,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of the toy car's wheels spinning fast on the firm track, silver rims flashing in the sun",
       "image": "extreme close-up of the toy car's wheels spinning fast on the firm track, silver rims flashing in the sun",
-      "motion": "The wheels blur, silver flashing"
+      "motion": "The wheels blur, silver flashing, ending with the wheels still blurred",
+      "link": "컷",
+      "link_ko": "달리는 자동차의 바퀴로 들어간다."
     },
     {
       "id": "SC3-12",
@@ -753,7 +835,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 throwing both arms up and cheering, jumping on the spot. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} throwing both arms up and cheering, jumping on the spot",
-      "motion": "He throws his arms up and leaps in celebration"
+      "motion": "He throws his arms up and leaps in celebration, ending with both arms up at the top of a jump",
+      "link": "컷",
+      "link_ko": "달리는 것을 보고 루카가 환호한다."
     },
     {
       "id": "SC3-13",
@@ -769,7 +853,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the toy car rolling to a stop at the far end of the empty track, nothing but quiet sand around it",
       "image": "the toy car rolling to a stop at the far end of the empty track, nothing but quiet sand around it",
-      "motion": "The car slows to a halt on the empty track"
+      "motion": "The car slows to a halt on the empty track, ending with the car stopped and the track empty and silent",
+      "link": "연속",
+      "link_ko": "환호하는 사이 자동차가 트랙 끝에서 멈춘다."
     },
     {
       "id": "SC3-14",
@@ -787,7 +873,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 루카's arms lowering and the grin fading from his face. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {루카}'s arms lowering and the grin fading from his face",
-      "motion": "His arms come down, the smile draining away"
+      "motion": "His arms come down, the smile draining away, ending with his arms fully down and no smile left",
+      "link": "연속",
+      "link_ko": "멈춘 자동차를 본 루카의 환호가 사그라든다."
     },
     {
       "id": "SC3-15",
@@ -806,7 +894,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 후안 and 티니 watching from down the beach, then quickly looking away when he notices them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{후안} and {티니} watching from down the beach, then quickly looking away when he notices them",
-      "motion": "They glance over, then turn their heads away"
+      "motion": "They glance over, then turn their heads away, ending with the two turned away, backs to him",
+      "link": "컷",
+      "link_ko": "루카가 저 멀리 둘을 돌아본다. 눈이 마주친다."
     },
     {
       "id": "SC4-01",
@@ -825,7 +915,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 walking slowly down the beach toward 후안 with the toy car in his paws. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} walking slowly down the beach toward {후안} with the toy car in his paws",
-      "motion": "He walks toward them, carrying the car"
+      "motion": "He walks toward them, carrying the car, ending with him halfway down the beach toward them",
+      "link": "전환",
+      "link_ko": "혼자인 루카가 마침내 움직인다."
     },
     {
       "id": "SC4-02",
@@ -844,7 +936,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 holding the toy car out toward 후안, looking a little embarrassed and glancing aside. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} holding the toy car out toward {후안}, looking a little embarrassed and glancing aside",
-      "motion": "He offers the car forward, eyes flicking away shyly"
+      "motion": "He offers the car forward, eyes flicking away shyly, ending with the car held out and his eyes turned aside",
+      "link": "연속",
+      "link_ko": "걸어와서 자동차를 내민다."
     },
     {
       "id": "SC4-03",
@@ -862,7 +956,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 후안's eyes going wide, a flipper rising carefully toward the car. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {후안}'s eyes going wide, a flipper rising carefully toward the car",
-      "motion": "His eyes widen, a flipper lifting slowly"
+      "motion": "His eyes widen, a flipper lifting slowly, ending with the flipper almost touching the car",
+      "link": "연속",
+      "link_ko": "내밀어진 자동차를 후안이 본다."
     },
     {
       "id": "SC4-04",
@@ -880,7 +976,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 후안 taking the toy car into both flippers with enormous care. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {후안} taking the toy car into both flippers with enormous care",
-      "motion": "He cradles the car in both flippers, very carefully"
+      "motion": "He cradles the car in both flippers, very carefully, ending with the car cradled in both flippers",
+      "link": "연속",
+      "link_ko": "뻗은 날개가 자동차를 받아 든다."
     },
     {
       "id": "SC4-05",
@@ -900,7 +998,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 and 후안 crouched at opposite ends of the packed track while 티니 stands in the middle with a paw raised, about to signal the start. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} and {후안} crouched at opposite ends of the packed track while {티니} stands in the middle with a paw raised, about to signal the start",
-      "motion": "The puppy's raised paw drops sharply to start the race"
+      "motion": "The puppy's raised paw drops sharply to start the race, ending with the raised paw dropped, race begun",
+      "link": "컷",
+      "link_ko": "받아 든 자동차로 경주를 준비한다."
     },
     {
       "id": "SC4-06",
@@ -919,7 +1019,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, the toy car racing along the track with 루카 and 후안 running alongside it side by side, sand flying. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "the toy car racing along the track with {루카} and {후안} running alongside it side by side, sand flying",
-      "motion": "The two run neck and neck beside the speeding car"
+      "motion": "The two run neck and neck beside the speeding car, ending with both of them still running level with the car",
+      "link": "연속",
+      "link_ko": "출발 신호와 함께 자동차가 달린다."
     },
     {
       "id": "SC4-07",
@@ -937,7 +1039,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 티니 bouncing beside the track cheering them on, tail wagging hard. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{티니} bouncing beside the track cheering them on, tail wagging hard",
-      "motion": "The puppy bounces and cheers, tail whipping"
+      "motion": "The puppy bounces and cheers, tail whipping, ending mid-bounce, tail whipping",
+      "link": "컷",
+      "link_ko": "달리는 둘 옆에서 티니가 응원한다."
     },
     {
       "id": "SC4-08",
@@ -958,7 +1062,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카, 후안, 티니 and 쿵쿵 tumbling over together in a laughing heap at the end of the track. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카}, {후안}, {티니} and {쿵쿵} tumbling over together in a laughing heap at the end of the track",
-      "motion": "The four collapse together in the sand, laughing"
+      "motion": "The four collapse together in the sand, laughing, ending with all four tangled in the sand, laughing",
+      "link": "연속",
+      "link_ko": "트랙 끝에서 넷이 뒤엉켜 넘어진다."
     },
     {
       "id": "EN-01",
@@ -976,7 +1082,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, close-up of 쿵쿵 puffing out his chest with a wide proud smile. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "close-up of {쿵쿵} puffing out his chest with a wide proud smile",
-      "motion": "The baby dinosaur puffs up and beams"
+      "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
+      "link": "전환",
+      "link_ko": "엔딩 시작. 뒤엉킨 웃음에서 쿵쿵이의 얼굴로."
     },
     {
       "id": "EN-02",
@@ -995,7 +1103,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 후안 handing the toy car back to 루카, both of them grinning. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{후안} handing the toy car back to {루카}, both of them grinning",
-      "motion": "The penguin holds out the car and the tiger takes it, both smiling"
+      "motion": "The penguin holds out the car and the tiger takes it, both smiling, ending with the car passing between them",
+      "link": "컷",
+      "link_ko": "웃음이 잦아들고 후안이 자동차를 돌려준다."
     },
     {
       "id": "EN-03",
@@ -1014,7 +1124,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 pushing the toy car back into 후안's flippers with a laugh. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} pushing the toy car back into {후안}'s flippers with a laugh",
-      "motion": "He presses the car back into the penguin's flippers"
+      "motion": "He presses the car back into the penguin's flippers, ending with the car back in the penguin's flippers",
+      "link": "연속",
+      "link_ko": "건네받은 자동차를 루카가 도로 밀어준다."
     },
     {
       "id": "EN-04",
@@ -1035,7 +1147,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the beach at sunset, 루카, 후안, 티니 and 쿵쿵 still playing with the car on the track, long shadows across the orange sand. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "wide shot of the beach at sunset, {루카}, {후안}, {티니} and {쿵쿵} still playing with the car on the track, long shadows across the orange sand",
-      "motion": "The sunset light spreads over the sand, shadows stretching long"
+      "motion": "The sunset light spreads over the sand, shadows stretching long, ending with the four small against the orange sand",
+      "link": "컷",
+      "link_ko": "넷이 계속 논다. 해가 기운다."
     },
     {
       "id": "EN-05",
@@ -1051,7 +1165,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, extreme close-up of four sets of footprints running side by side along the packed sand track",
       "image": "extreme close-up of four sets of footprints running side by side along the packed sand track",
-      "motion": "The camera glides along the four parallel sets of prints"
+      "motion": "The camera glides along the four parallel sets of prints, ending held on the four parallel tracks",
+      "link": "컷",
+      "link_ko": "놀던 트랙 위 발자국을 본다."
     },
     {
       "id": "EN-06",
@@ -1067,7 +1183,9 @@
       "cast": [],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, wide shot of the sun setting into the sea, the four friends small silhouettes on the beach, waves glittering gold",
       "image": "wide shot of the sun setting into the sea, the four friends small silhouettes on the beach, waves glittering gold",
-      "motion": "The sun touches the horizon, waves flashing gold"
+      "motion": "The sun touches the horizon, waves flashing gold, ending with the sun touching the horizon",
+      "link": "컷",
+      "link_ko": "발자국에서 바다로 넓힌다."
     },
     {
       "id": "EN-07",
@@ -1088,7 +1206,9 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, end card composition, 루카, 후안, 티니 and 쿵쿵 standing together on the sunset beach, warm orange and gold colours, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "end card composition, {루카}, {후안}, {티니} and {쿵쿵} standing together on the sunset beach, warm orange and gold colours, clean empty space along the bottom for a title",
-      "motion": "Waves roll in gently as the camera eases back"
+      "motion": "Waves roll in gently as the camera eases back",
+      "link": "컷",
+      "link_ko": "엔딩 카드."
     }
   ]
 }

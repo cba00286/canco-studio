@@ -67,6 +67,37 @@ print("  %s 엔딩 분량       %d컷 (최대 %d)" % ("✓" if end_n <= FMT["str
 if end_n > FMT["structure"]["ending_cuts_max"]:
     fails.append("엔딩이 %d컷 (최대 %d)" % (end_n, FMT["structure"]["ending_cuts_max"]))
 
+print("\n컷 연결 (docs/14)")
+LINKS = ("연속", "컷", "전환")
+noline = [x["id"] for x in S if x.get("link") not in LINKS]
+print("  %s link 지정        %s" % ("✓" if not noline else "✗",
+      "전 컷" if not noline else "빠짐: " + ", ".join(noline[:8])))
+if noline:
+    fails.append("link 이 없는 컷 %d개" % len(noline))
+
+# 장면이 바뀌는 자리는 전환이어야 한다
+bad_open = []
+for i, x in enumerate(S):
+    first_of_section = i == 0 or S[i - 1]["section"] != x["section"]
+    if first_of_section and x.get("link") != "전환":
+        bad_open.append(x["id"])
+print("  %s 장면 시작        %s" % ("✓" if not bad_open else "✗",
+      "모두 전환" if not bad_open else "전환이 아님: " + ", ".join(bad_open)))
+if bad_open:
+    fails.append("장면 첫 컷이 전환이 아님: " + ", ".join(bad_open))
+
+# 한 장면이 전부 '컷'이면 슬라이드쇼가 된다
+flat = []
+for sec in SHOTS["sections"]:
+    inside = [x for x in S if x["section"] == sec]
+    if len(inside) > 3 and not any(x.get("link") == "연속" for x in inside):
+        flat.append(sec)
+n_cont = sum(1 for x in S if x.get("link") == "연속")
+print("  %s 연속 컷          %d개%s" % ("✓" if not flat else "!", n_cont,
+      "" if not flat else "  — %s 은 전부 컷 전환이라 슬라이드쇼가 됩니다" % ", ".join(flat)))
+if flat:
+    warns.append("연속 컷이 하나도 없는 장면: " + ", ".join(flat))
+
 print()
 for w in warns:
     print("! %s" % w)

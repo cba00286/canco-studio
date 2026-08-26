@@ -28,6 +28,7 @@ data = {
   "shots": [{"id": s["id"], "sec": s["section"], "shot": s["shot"], "shotko": s["shot_ko"],
       "dur": s["duration"], "who": s.get("speaker", ""), "line": s.get("dialogue", ""),
       "ko": s["ko"], "komo": s["ko_motion"], "cast": s["cast"],
+      "link": s.get("link", ""), "linkko": s.get("link_ko", ""),
       "img": s["image_ref"], "mo": s["motion"]} for s in SHOTS["shots"]],
 }
 
@@ -216,6 +217,14 @@ section > h2 .n{
 }
 .block .label .tools{display:flex;gap:6px;flex:0 0 auto}
 .ko{font-size:14.5px;line-height:1.7;color:var(--ink);margin:0}
+.link{display:flex;gap:9px;align-items:flex-start;padding:9px 12px;border-radius:9px;
+  background:var(--sunk);border-left:3px solid var(--line-strong);margin:0 0 12px}
+.link .tag{flex:none;font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:700;
+  padding:1px 8px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
+.link .txt{font-size:13.5px;line-height:1.65;color:var(--muted);margin:0}
+.link.연속{border-left-color:var(--accent)} .link.연속 .tag{color:var(--accent)}
+.link.전환{border-left-color:var(--peach)} .link.전환 .tag{color:var(--peach)}
+.link.컷 .tag{color:var(--faint)}
 .en{margin-top:8px}
 .en summary{
   list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:5px;
@@ -388,6 +397,7 @@ for (const s of DATA.shots) {
         : `<span class="bg">배경</span>`}</div>
     </div>
     <div class="body">
+      ${s.link ? `<div class="link ${s.link}"><span class="tag">${esc(s.link)}</span><p class="txt">${esc(s.linkko)}${s.link === "연속" ? " <strong>앞 컷의 마지막 프레임을 이 컷의 시작 프레임으로 넣으세요.</strong>" : ""}</p></div>` : ""}
       ${line}
       <div class="block">
         <div class="label"><span>화면에 담길 것${s.cast.length ? ` <span style="color:var(--peach);font-weight:600">· 캐릭터 ${s.cast.length}명 지정</span>` : ""}</span><span class="tools"><button class="copy" data-copy="i${idx}">영문 프롬프트 복사</button></span></div>
