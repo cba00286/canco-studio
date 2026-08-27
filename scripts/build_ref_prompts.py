@@ -30,8 +30,16 @@ FIVE = ["루카", "후안", "미미", "티니", "루비"]
 SIX = ["쿵쿵"] + FIVE
 
 
-def name_of(chars: dict, key: str) -> str:
+def name_of(chars: dict, key: str, mode: str = "auto") -> str:
+    """캐릭터를 프롬프트에서 부르는 이름.
+
+    trigger 는 OpenArt Characters 에 등록한 트리거 워드다. 다른 도구에서는
+    아무 의미가 없으므로, OpenArt 밖에서 만들 때는 mode="sheet" 로 ref_tag 를
+    쓰고 마스터 시트를 레퍼런스 이미지로 첨부한다.
+    """
     entry = chars["characters"][key]
+    if mode == "sheet":
+        return entry["ref_tag"]
     return entry.get("trigger") or entry["ref_tag"]
 
 
@@ -52,29 +60,35 @@ def cast_of(shot: dict, episode_cast: list[str] | None = None) -> list[str]:
     return [n for n in SIX if n in names]         # 항상 같은 순서로
 
 
-def ref_prompt(chars: dict, shot: dict, cast: list[str]) -> str:
+def ref_prompt(chars: dict, shot: dict, cast: list[str],
+               mode: str = "auto", style_key: str = "style_tag") -> str:
     text = shot["image"]
     for key in SIX:
-        called = name_of(chars, key)
+        called = name_of(chars, key, mode)
         text = text.replace("{%s}" % key, called).replace("[%s]" % key, called)
     for frag, value in chars.get("fragments", {}).items():
         if frag != "_comment":
             text = text.replace("{%s}" % frag, value).replace("[%s]" % frag, value)
     # 능력 조각은 "his three horns"로 시작해 주어가 없다. 쿵쿵을 명시한다.
-    text = text.replace("along his three horns", "along %s's three horns" % name_of(chars, "쿵쿵"))
-    text = text.replace("from his front paws", "from %s's front paws" % name_of(chars, "쿵쿵"))
-    text = text.replace("the air around him", "the air around %s" % name_of(chars, "쿵쿵"))
+    text = text.replace("along his three horns", "along %s's three horns" % name_of(chars, "쿵쿵", mode))
+    text = text.replace("from his front paws", "from %s's front paws" % name_of(chars, "쿵쿵", mode))
+    text = text.replace("the air around him", "the air around %s" % name_of(chars, "쿵쿵", mode))
     # 그룹 지칭은 전원의 이름으로 펼친다. 이름이 있어야 등록된 캐릭터가 적용된다.
     # "the five/six friends"를 먼저 바꾼 뒤 남은 "the friends"를 cast 기준으로 처리한다.
     for group, members in (("the five friends", FIVE), ("the six friends", SIX)):
-        text = text.replace(group, ", ".join(name_of(chars, m) for m in members))
+        text = text.replace(group, ", ".join(name_of(chars, m, mode) for m in members))
     if "the friends" in text and cast:
-        text = text.replace("the friends", ", ".join(name_of(chars, m) for m in cast))
-    out = chars["style_tag"] + ", " + text
+        text = text.replace("the friends", ", ".join(name_of(chars, m, mode) for m in cast))
+    out = chars.get(style_key, chars["style_tag"]) + ", " + text
     if not cast:
         return out
     # 등록된 캐릭터를 부르는 경우와 시트를 첨부하는 경우는 고정 지시문이 다르다.
-    key = "consistency_tag_trigger" if chars["characters"][cast[0]].get("trigger") else "consistency_tag_sheet"
+    if mode == "sheet":
+        key = "consistency_tag_sheet"
+    elif mode == "trigger":
+        key = "consistency_tag_trigger"
+    else:
+        key = "consistency_tag_trigger" if chars["characters"][cast[0]].get("trigger") else "consistency_tag_sheet"
     out += ". " + chars[key]
     # 소품을 더하는 컷은 "의상 그대로" 지시와 부딪히므로 예외를 명시한다.
     if shot.get("image_suffix"):
@@ -86,16 +100,22 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--episode", default="ep1")
     ap.add_argument("--shots", default="shots_v2.json")
+    ap.add_argument("--mode", default="auto", choices=["auto", "trigger", "sheet"],
+                    help="캐릭터를 어떻게 고정할지. sheet 는 마스터 시트를 첨부하는 방식으로, "
+                         "OpenArt 밖에서 만들 때 쓴다 (트리거 워드는 OpenArt 전용)")
+    ap.add_argument("--style", default="style_tag",
+                    help="style_tag(본편 16:9) 또는 style_tag_shorts(쇼츠 9:16)")
+    ap.add_argument("--root", help="episodes/ 대신 볼 폴더 (예: shorts)")
     args = ap.parse_args()
 
-    prompts = ROOT / "episodes" / args.episode / "prompts"
+    prompts = ROOT / (args.root or "episodes") / args.episode / "prompts"
     chars = json.loads(bible.chars_path(prompts).read_text(encoding="utf-8"))
     path = prompts / args.shots
     data = json.loads(path.read_text(encoding="utf-8"))
 
     triggers = {n: chars["characters"][n].get("trigger") for n in SIX}
     missing = [n for n, t in triggers.items() if not t]
-    if missing:
+    if missing and args.mode != "sheet":
         print("! OpenArt 트리거 워드가 비어 있는 캐릭터: %s" % ", ".join(missing))
         print("  characters.json의 trigger에 채우고 다시 실행하면 프롬프트가 트리거 워드로 바뀝니다.")
         print("  지금은 ref_tag(마스터 시트 첨부 전제)로 생성합니다.\n")
@@ -109,7 +129,7 @@ def main() -> None:
     for shot in data["shots"]:
         cast = cast_of(shot, episode_cast)
         shot["cast"] = cast
-        shot["image_ref"] = ref_prompt(chars, shot, cast)
+        shot["image_ref"] = ref_prompt(chars, shot, cast, args.mode, args.style)
 
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     n_cast = sum(1 for s in data["shots"] if s["cast"])

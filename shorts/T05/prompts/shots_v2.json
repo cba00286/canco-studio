@@ -1,0 +1,90 @@
+{
+  "_comment": "쇼츠 T05 「5화 예고 — 미미의 엉뚱한 발명품」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 5화 예고편. 결말을 보여주지 않는다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "예고편",
+  "title": "5화 예고 — 미미의 엉뚱한 발명품",
+  "hook": "가지가 부러지고 루카가 매달렸다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 5화 예고 — 미미의 엉뚱한 발명품"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "T05-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 92270,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "나무 꼭대기 가지에 금이 빠르게 번진다. 껍질이 벗겨진다.",
+      "ko_motion": "실금이 가지를 따라 달려가고 나무껍질이 들뜬다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical extreme close-up of a thin branch splitting, the crack racing along it and bark peeling up",
+      "image": "vertical extreme close-up of a thin branch splitting, the crack racing along it and bark peeling up",
+      "motion": "The crack runs the length of the branch, ending with the branch giving way",
+      "link": "전환",
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+    },
+    {
+      "id": "T05-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 92277,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 부러진 가지 대신 다른 가지를 간신히 붙잡고 매달려 있다. 발이 허공에 떠 있다.",
+      "ko_motion": "호랑이의 두 앞발이 가지를 붙잡고 다리가 허공에서 흔들린다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 hanging from a branch high in a fruit tree, both paws gripping, his legs swinging in empty air. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} hanging from a branch high in a fruit tree, both paws gripping, his legs swinging in empty air",
+      "motion": "He swings and holds on, ending with his grip steady but his feet still dangling",
+      "link": "연속",
+      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+    },
+    {
+      "id": "T05-03",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 92284,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "밤의 작업실. 미미가 겹친 고리 모양을 설계도에 빠르게 그려 나간다. 창밖은 캄캄하다.",
+      "ko_motion": "연필이 종이 위에 겹친 원을 연달아 그려 나가고 등불이 흔들린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 미미 at a cluttered workbench at night sketching a series of overlapping rings on a blueprint, one lamp lit, darkness outside the window. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {미미} at a cluttered workbench at night sketching a series of overlapping rings on a blueprint, one lamp lit, darkness outside the window",
+      "motion": "The pencil sweeps out ring after ring, ending with the drawing nearly complete",
+      "link": "컷",
+      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+    },
+    {
+      "id": "T05-04",
+      "section": "SH",
+      "shot": "타이틀",
+      "duration": 5,
+      "seed": 92291,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "제목 카드. 장대 끝에 우산처럼 펼쳐진 고리 그물과 그 안에 담긴 붉은 열매 하나. 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, a long pole topped with layered ring netting opened like an umbrella, a single perfect red fruit resting in it, clean empty space along the bottom for a title",
+      "image": "vertical end card, a long pole topped with layered ring netting opened like an umbrella, a single perfect red fruit resting in it, clean empty space along the bottom for a title",
+      "motion": "The frame settles and holds, ending with the lower third completely clear",
+      "link": "컷",
+      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다."
+    }
+  ]
+}

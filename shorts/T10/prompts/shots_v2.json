@@ -1,0 +1,91 @@
+{
+  "_comment": "쇼츠 T10 「10화 예고 — 우리들의 첫 번째 파티」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 10화 예고편. 결말을 보여주지 않는다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "예고편",
+  "title": "10화 예고 — 우리들의 첫 번째 파티",
+  "hook": "다 지은 집 위로 태풍이 온다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 10화 예고 — 우리들의 첫 번째 파티"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "T10-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 98840,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "새로 얹은 나뭇잎 캐노피 모서리가 바람에 들썩이고 나무못 하나가 뽑히기 시작한다.",
+      "ko_motion": "캐노피 모서리가 반복해 들썩이고 못이 조금씩 밀려 나온다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical extreme close-up of a leaf canopy corner lifting and slapping in high wind, one wooden peg working its way loose from the beam",
+      "image": "vertical extreme close-up of a leaf canopy corner lifting and slapping in high wind, one wooden peg working its way loose from the beam",
+      "motion": "The corner lifts again and again, ending with the peg half out",
+      "link": "전환",
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+    },
+    {
+      "id": "T10-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 98847,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "빗속. 쿵쿵이가 처마 밖으로 걸어 나가고 뒤에서 뻗은 손이 닿지 못한다.",
+      "ko_motion": "아기 공룡이 빗속으로 발을 내딛고 뒤에서 뻗은 앞발이 허공을 잡는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 stepping out from shelter into driving rain while 루카 reaches after him and misses. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {쿵쿵} stepping out from shelter into driving rain while {루카} reaches after him and misses",
+      "motion": "He walks out and the paw closes on air, ending with him fully in the rain",
+      "link": "연속",
+      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+    },
+    {
+      "id": "T10-03",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 98854,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이가 집 앞에 자리를 잡고 두 앞발을 든다. 뒤로 다 지어진 바위 집이 비를 맞고 있다.",
+      "ko_motion": "아기 공룡이 진흙에 발을 딛고 앞발을 높이 들며 빗물이 등을 타고 흐른다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 쿵쿵 braced in the mud in front of a finished rock house in heavy rain, both front paws lifted high, water streaming off his back. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {쿵쿵} braced in the mud in front of a finished rock house in heavy rain, both front paws lifted high, water streaming off his back",
+      "motion": "He rears up in the downpour, ending with his paws at their highest",
+      "link": "컷",
+      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+    },
+    {
+      "id": "T10-04",
+      "section": "SH",
+      "shot": "타이틀",
+      "duration": 5,
+      "seed": 98861,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "제목 카드. 달빛 언덕 위 창에 불이 켜진 바위 집. 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, a rock house dug into a moonlit hill with one window glowing warm, stars thick above, clean empty space along the bottom for a title",
+      "image": "vertical end card, a rock house dug into a moonlit hill with one window glowing warm, stars thick above, clean empty space along the bottom for a title",
+      "motion": "The frame settles and holds, ending with the lower third completely clear",
+      "link": "컷",
+      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다."
+    }
+  ]
+}

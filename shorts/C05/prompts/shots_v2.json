@@ -1,0 +1,94 @@
+{
+  "_comment": "쇼츠 C05 「후안는 이런 아이야」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 후안 소개편. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "캐릭터 소개",
+  "title": "후안은 이런 아이야",
+  "hook": "펭귄이 방울모자를 고쳐 쓰고 날개를 편다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 후안은 이런 아이야"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "C05-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 90250,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "후안 얼굴 클로즈업. 화면 아래에서 쏙 올라와 정면을 본다. 동그란 파란 눈에 발그레한 볼.",
+      "ko_motion": "후안가 프레임 아래에서 위로 쏙 올라와 카메라를 정면으로 본다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical close-up of 후안 popping up into frame from the bottom and looking straight at camera, round blue eyes, red bobble hat. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical close-up of {후안} popping up into frame from the bottom and looking straight at camera, round blue eyes, red bobble hat",
+      "motion": "the penguin rises into frame from below, ending centred and looking directly at camera",
+      "link": "전환",
+      "link_ko": "첫 컷. 1초 안에 얼굴이 화면을 채워야 넘기지 않는다."
+    },
+    {
+      "id": "C05-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 90257,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "후안이 두 날개를 활짝 펴고 발끝을 세워 날아오르려 애쓰다가, 제자리에서 통통 뛴다.",
+      "ko_motion": "He strains upward and hops",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 후안 spreading both flippers wide and rising onto his toes trying to take off, then hopping in place. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {후안} spreading both flippers wide and rising onto his toes trying to take off, then hopping in place",
+      "motion": "The action plays out fully, ending with the penguin holding the finished pose",
+      "link": "연속",
+      "link_ko": "올려다보던 그 자세에서 그대로 행동으로 들어간다."
+    },
+    {
+      "id": "C05-03",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 90264,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "빨간 방울모자를 그대로 닮은 니트 돔 집 앞. 꼭대기에 큰 빨간 폼폼이 달려 있고 마당에 눈과 얼음, 연못이 있다.",
+      "ko_motion": "후안가 자기 집 앞에 서서 두 팔을 벌리고 집을 소개하듯 몸을 돌린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 후안 in front of a knitted dome house shaped like his own red bobble hat, a big red pompom on top, snow and ice and a pond in the yard. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {후안} in front of a knitted dome house shaped like his own red bobble hat, a big red pompom on top, snow and ice and a pond in the yard",
+      "motion": "the penguin turns and gestures to the house, ending with both arms out and the whole house in frame",
+      "link": "컷",
+      "link_ko": "행동에서 집으로. 어디 사는 아이인지 한 컷에 보여준다."
+    },
+    {
+      "id": "C05-04",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 90271,
+      "speaker": "후안",
+      "dialogue": "나도 언젠가는 날 거야!",
+      "ko": "후안가 정면을 보고 시그니처 자세를 취한다. 배경은 단순하게 비우고, 아래쪽에 이름을 넣을 여백을 둔다.",
+      "ko_motion": "후안가 자세를 잡고 카메라를 향해 웃으며, 아래쪽 여백이 그대로 남는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 후안 facing camera in a signature pose against a clean simple background, generous empty space along the bottom of the frame for a name caption. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {후안} facing camera in a signature pose against a clean simple background, generous empty space along the bottom of the frame for a name caption",
+      "motion": "the penguin settles into the pose and smiles at camera, ending held still with the bottom third clear",
+      "link": "컷",
+      "link_ko": "마무리. 하단 여백에 이름 자막을 넣는다."
+    }
+  ]
+}

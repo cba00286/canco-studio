@@ -1,0 +1,90 @@
+{
+  "_comment": "쇼츠 T09 「9화 예고 — 약속을 지켜요」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 9화 예고편. 결말을 보여주지 않는다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "예고편",
+  "title": "9화 예고 — 약속을 지켜요",
+  "hook": "꽃밭에 아무도 없었다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 9화 예고 — 약속을 지켜요"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "T09-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 90080,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "풀밭에 눌린 자국 세 개만 남아 있다. 꽃잎이 그 위로 떨어진다.",
+      "ko_motion": "카메라가 눌린 풀 자국 위를 천천히 지나가고 꽃잎이 내려앉는다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical extreme close-up of three flattened patches in meadow grass where someone had been sitting, petals drifting down onto them",
+      "image": "vertical extreme close-up of three flattened patches in meadow grass where someone had been sitting, petals drifting down onto them",
+      "motion": "The camera drifts over the patches, ending with a petal settling on the middle one",
+      "link": "전환",
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+    },
+    {
+      "id": "T09-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 90087,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 언덕 꼭대기에서 숨이 턱에 찬 채 멈춰 선다. 빈 꽃밭 위로 노을이 붉다.",
+      "ko_motion": "호랑이가 헐떡이며 멈춰 서고 붉은 노을이 빈 꽃밭을 물들인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 stopped dead at a hilltop, chest heaving, the empty blossom meadow burning red with sunset behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} stopped dead at a hilltop, chest heaving, the empty blossom meadow burning red with sunset behind him",
+      "motion": "He gasps for breath, ending motionless facing the empty meadow",
+      "link": "연속",
+      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+    },
+    {
+      "id": "T09-03",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 90094,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "새벽. 루카가 미미의 집 앞에 혼자 서서 접힌 종이 세 장을 만지작거린다.",
+      "ko_motion": "호랑이가 문 앞에서 종이를 손에서 이리저리 돌리며 기다린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 루카 waiting alone outside a door in the pale light before sunrise, turning three folded papers over in his paws. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {루카} waiting alone outside a door in the pale light before sunrise, turning three folded papers over in his paws",
+      "motion": "He fidgets with the papers, ending with the door beginning to open",
+      "link": "컷",
+      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+    },
+    {
+      "id": "T09-04",
+      "section": "SH",
+      "shot": "타이틀",
+      "duration": 5,
+      "seed": 90101,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "제목 카드. 꽃잎이 날리는 언덕 위 돗자리와 그 위에 덮인 채 놓인 만화책 한 권. 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, a picnic mat on a blossom hilltop with a closed comic book lying on it and a petal resting on the cover, clean empty space along the bottom for a title",
+      "image": "vertical end card, a picnic mat on a blossom hilltop with a closed comic book lying on it and a petal resting on the cover, clean empty space along the bottom for a title",
+      "motion": "The frame settles and holds, ending with the lower third completely clear",
+      "link": "컷",
+      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다."
+    }
+  ]
+}

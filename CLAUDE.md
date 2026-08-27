@@ -12,6 +12,7 @@
 - 쿵쿵의 능력은 등록된 5종이 전부 (`docs/13`)
 - **모든 컷에 `link` 가 있다** — 앞 컷과 어떻게 이어지는지 (`docs/14`). `연속` 인 컷은 앞 컷 영상의 마지막 프레임을 시작 프레임으로 넣는다
 - 쿵쿵이는 1화 엔딩부터 9화까지 루카의 나무집에서 지낸다. 자기 집은 10화에 완성된다 (`docs/15`)
+- **쇼츠 22편** 컷 확정 — 9:16 세로. 본편 컷을 잘라 쓸 수 없다 (`docs/16`)
 - 사이트 3페이지 빌드 가능, 컷 시트는 화별로 나온다
 
 ## 절대 어기면 안 되는 것
@@ -67,6 +68,10 @@ python3 scripts/pipeline.py scenes --episode ep1 --shots shots_v2.json --dry-run
 python3 scripts/build_subtitles.py --episode episodes/ep1              # 자막 .ass + .srt
 python3 scripts/render_episode.py --episode episodes/ep1 --clips <폴더> # 이어붙이기 + 자막 굽기
 python3 scripts/chain_frames.py --episode episodes/ep1 --clips <폴더>   # 연속 컷 시작 프레임 추출
+
+python3 scripts/build_shorts.py                        # 쇼츠 프롬프트 (9:16)
+python3 scripts/check_shorts.py                        # 쇼츠 규격 검사
+python3 site/make_shorts.py                            # 쇼츠 복붙 페이지
 ```
 
 세션이 시작되면 `.claude/hooks/session-start.sh` 가 진행 상황·규격 검사·미결정 사항을

@@ -1,0 +1,96 @@
+{
+  "_comment": "쇼츠 T07 「7화 예고 — 후안이 밤에 잠이 와요」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 7화 예고편. 결말을 보여주지 않는다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "예고편",
+  "title": "7화 예고 — 후안이 밤에 잠이 와요",
+  "hook": "선 채로 잠들어 시합을 놓쳤다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 7화 예고 — 후안이 밤에 잠이 와요"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "T07-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 93900,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "후안의 눈꺼풀이 천천히 내려간다. 붙잡은 밧줄이 날개에서 미끄러진다.",
+      "ko_motion": "눈이 완전히 감기고 밧줄이 날개 사이로 스르르 빠져나간다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical extreme close-up of 후안's eyes falling shut as a thick rope slides out of his flippers. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical extreme close-up of {후안}'s eyes falling shut as a thick rope slides out of his flippers",
+      "motion": "His eyes close and the rope slips free, ending with his flippers empty",
+      "link": "전환",
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+    },
+    {
+      "id": "T07-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 93907,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "팽팽하던 밧줄이 반대쪽으로 확 끌려가고 셋이 앞으로 딸려가 모래에 넘어진다.",
+      "ko_motion": "밧줄이 홱 당겨지고 셋이 줄줄이 끌려가 모래 위로 넘어진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of a tug-of-war rope wrenching sideways, 루카, 티니 and 쿵쿵 dragged forward and tumbling onto the sand. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of a tug-of-war rope wrenching sideways, {루카}, {티니} and {쿵쿵} dragged forward and tumbling onto the sand",
+      "motion": "They are hauled forward, ending in a heap on the beach",
+      "link": "연속",
+      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+    },
+    {
+      "id": "T07-03",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 93914,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "밤의 방. 쿵쿵이의 뿔에서 아주 은은한 금빛 청록 빛이 오르고 천장에 오로라 같은 물결이 번진다.",
+      "ko_motion": "빛이 천천히 뿔을 타고 오르고 천장의 빛무늬가 파도처럼 퍼진다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of a dark bedroom, very faint golden-teal light welling along 쿵쿵's horns and soft waves of it beginning to ripple across the ceiling. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of a dark bedroom, very faint golden-teal light welling along {쿵쿵}'s horns and soft waves of it beginning to ripple across the ceiling",
+      "motion": "The light spreads across the ceiling, ending with the whole room faintly glowing",
+      "link": "컷",
+      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+    },
+    {
+      "id": "T07-04",
+      "section": "SH",
+      "shot": "타이틀",
+      "duration": 5,
+      "seed": 93921,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "제목 카드. 별이 가득한 꿈속 하늘을 날개를 활짝 편 펭귄이 날아간다. 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, 후안 soaring with both flippers spread wide across a dream sky thick with stars and a band of aurora, clean empty space along the bottom for a title. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical end card, {후안} soaring with both flippers spread wide across a dream sky thick with stars and a band of aurora, clean empty space along the bottom for a title",
+      "motion": "The frame settles and holds, ending with the lower third completely clear",
+      "link": "컷",
+      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다."
+    }
+  ]
+}

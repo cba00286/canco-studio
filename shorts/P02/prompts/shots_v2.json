@@ -1,0 +1,96 @@
+{
+  "_comment": "쇼츠 P02 「빛은 부술 때만 쓰는 게 아니야」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 온기·바람·자장가편. 능력이 파괴만이 아니라는 것을 보여준다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "파워",
+  "title": "빛은 부술 때만 쓰는 게 아니야",
+  "hook": "같은 빛이 재우고, 데우고, 쓸어낸다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 빛은 부술 때만 쓰는 게 아니야"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "P02-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 91700,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이의 뿔 세 개 초근접. 아주 은은한 금빛 청록 빛이 천천히 차오른다.",
+      "ko_motion": "빛이 뿔 아래에서 위로 부드럽게 번져 오른다.",
+      "shot_ko": "클로즈업",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical extreme close-up of soft golden-teal light welling slowly up along 쿵쿵's three horns, gentle and warm. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical extreme close-up of soft golden-teal light welling slowly up along {쿵쿵}'s three horns, gentle and warm",
+      "motion": "The light rises to the tips, ending held there, glowing steadily",
+      "link": "전환",
+      "link_ko": "첫 컷. 터지는 빛이 아니라 스며드는 빛이라는 걸 먼저 보여준다."
+    },
+    {
+      "id": "P02-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 91707,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "그 빛이 물결이 되어 담요를 두른 루비에게 천천히 번져 감싼다.",
+      "ko_motion": "따뜻한 빛의 물결이 잔디를 타고 번져 루비를 감싸 안는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of soft golden-teal aurora light welling gently up along 쿵쿵's three horns and spreading outward in a slow warm wave that settles over everything around him like warm dust. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {쿵쿵_온기}",
+      "motion": "The warm wave folds around {루비}, ending with the light settled over her like dust",
+      "link": "연속",
+      "link_ko": "뿔의 빛이 그대로 퍼져 나간다."
+    },
+    {
+      "id": "P02-03",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 91714,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "같은 빛이 방 안에서 공기를 천천히 돌려 구석의 먼지를 한곳으로 모은다.",
+      "ko_motion": "먼지가 소용돌이를 그리며 방 가운데로 모여 하나의 덩어리가 된다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of faint golden-teal light flowing up along 쿵쿵's three horns while the air around 쿵쿵 begins to turn in a slow gentle spiral instead of bursting outward. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {쿵쿵_바람}",
+      "motion": "Dust streams inward from every corner, ending gathered into one hovering grey sphere",
+      "link": "컷",
+      "link_ko": "같은 빛, 다른 쓰임. 세 번째다."
+    },
+    {
+      "id": "P02-04",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 91721,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "밤의 방. 그 빛이 천장 가득 오로라처럼 물결치고 침대의 후안이 눈을 감는다.",
+      "ko_motion": "천장의 빛무늬가 파도처럼 밀려왔다 물러가고 이불이 천천히 오르내린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of very faint golden-teal light welling slowly along 쿵쿵's three horns and spilling out as slow soft waves that ripple across the walls and ceiling like a small indoor aurora. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {쿵쿵_자장가}",
+      "motion": "The waves roll slowly across the ceiling, ending with {후안} asleep and the light fading",
+      "link": "컷",
+      "link_ko": "마지막은 재우는 빛. 조용하게 끝낸다."
+    }
+  ]
+}

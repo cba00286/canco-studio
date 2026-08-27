@@ -1,0 +1,99 @@
+{
+  "_comment": "쇼츠 P03 「혼자서는 못 버텨」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 방어막편. 능력의 한계와 그 답을 한 편에 담는다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "파워",
+  "title": "혼자서는 못 버텨",
+  "hook": "방어막은 여섯이 만든다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 혼자서는 못 버텨"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "P03-01",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 94550,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "폭우 속. 쿵쿵이가 집 앞에 자리를 잡고 두 앞발을 내리찍는다.",
+      "ko_motion": "빗속에서 앞발이 진흙을 강타하고 물이 원형으로 솟구친다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 slamming both front paws into soaked mud in front of a rock house in heavy rain, water bursting up in a ring. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {쿵쿵} slamming both front paws into soaked mud in front of a rock house in heavy rain, water bursting up in a ring",
+      "motion": "The paws crash down, ending with the spray at its highest",
+      "link": "전환",
+      "link_ko": "첫 컷. 비와 진흙으로 시작해 상황을 1초에 알린다."
+    },
+    {
+      "id": "P03-02",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 4,
+      "seed": 94557,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "빛이 앞발에서 퍼지다 위로 휘어 올라가 집을 통째로 덮는 돔이 된다.",
+      "ko_motion": "빛이 바닥에서 위로 휘어 오르며 반구를 그리고 빗방울이 표면에서 튕겨 나간다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of golden-teal light spreading out from 쿵쿵's front paws and then curving upward into a translucent dome that closes over everything behind him, rain and wind bursting off its surface. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {쿵쿵_방어막}",
+      "motion": "The light arcs up and closes over, ending with the dome complete and rain bursting off it",
+      "link": "연속",
+      "link_ko": "내리찍은 그 자리에서 빛이 솟는다."
+    },
+    {
+      "id": "P03-03",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 94564,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이의 뒷다리가 떨리고 발이 진흙 속에서 미끄러진다. 돔이 흔들린다.",
+      "ko_motion": "다리가 떨리며 발이 뒤로 밀리고 돔의 빛이 약해진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 straining under the dome, his hind legs shaking and one foot sliding back in the mud, the dome flickering. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {쿵쿵} straining under the dome, his hind legs shaking and one foot sliding back in the mud, the dome flickering",
+      "motion": "His foot slides further back, ending with the dome visibly dimming",
+      "link": "연속",
+      "link_ko": "돔을 만든 대가가 이 컷에서 드러난다."
+    },
+    {
+      "id": "P03-04",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 94571,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "다섯이 빗속으로 달려 나와 쿵쿵이를 둘러싸고 등에 손을 얹는다. 돔이 다시 밝아진다.",
+      "ko_motion": "다섯이 차례로 손과 날개를 등에 얹고 돔의 빛이 환하게 살아난다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 루카, 미미, 티니, 후안 and 루비 running into the rain and laying their hands and flippers on 쿵쿵's back, the dome flaring bright again above them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {루카}, {미미}, {티니}, {후안} and {루비} running into the rain and laying their hands and flippers on {쿵쿵}'s back, the dome flaring bright again above them",
+      "motion": "Hand after hand presses down, ending with the dome blazing and steady",
+      "link": "연속",
+      "link_ko": "미끄러지던 그 순간 다섯이 도착한다."
+    }
+  ]
+}

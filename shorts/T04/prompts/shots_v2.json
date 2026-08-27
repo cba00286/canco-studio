@@ -1,0 +1,91 @@
+{
+  "_comment": "쇼츠 T04 「4화 예고 — 내 장난감을 빌려줄게」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 4화 예고편. 결말을 보여주지 않는다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "kind": "예고편",
+  "title": "4화 예고 — 내 장난감을 빌려줄게",
+  "hook": "새 자동차가 모래에 처박혔다",
+  "episode_cast": [],
+  "sections": {
+    "SH": "쇼츠 · 4화 예고 — 내 장난감을 빌려줄게"
+  },
+  "total_shots": 4,
+  "total_seconds": 18,
+  "shots": [
+    {
+      "id": "T04-01",
+      "section": "SH",
+      "shot": "CU",
+      "duration": 4,
+      "seed": 98350,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "빨간 장난감 자동차의 바퀴가 모래 속에서 헛돈다. 모래가 사방으로 튄다.",
+      "ko_motion": "바퀴가 제자리에서 빠르게 돌며 모래를 뿌린다.",
+      "shot_ko": "클로즈업",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical extreme close-up of a shiny red toy car's wheels spinning uselessly in soft beach sand, grains flinging sideways",
+      "image": "vertical extreme close-up of a shiny red toy car's wheels spinning uselessly in soft beach sand, grains flinging sideways",
+      "motion": "The wheels spin in place, ending with the car sunk deeper and stopped",
+      "link": "전환",
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+    },
+    {
+      "id": "T04-02",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 98357,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 자동차를 등 뒤로 감추고, 후안이 내밀었던 날개를 슬며시 내린다.",
+      "ko_motion": "호랑이가 몸을 홱 돌려 자동차를 숨기고 펭귄의 날개가 천천히 내려간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 twisting away to hide the toy car behind his back while 후안 slowly lowers a reaching flipper. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} twisting away to hide the toy car behind his back while {후안} slowly lowers a reaching flipper",
+      "motion": "He turns away and the flipper sinks, ending with the penguin's eyes on the sand",
+      "link": "연속",
+      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+    },
+    {
+      "id": "T04-03",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 98364,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이가 모래사장 한가운데서 두 앞발을 번쩍 들어 올린다. 뒤로 바다가 보인다.",
+      "ko_motion": "아기 공룡이 몸을 뒤로 젖히며 앞발을 높이 들고 파도가 뒤에서 밀려온다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 쿵쿵 rearing back on an open beach with both front paws lifted high, the sea rolling in behind him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {쿵쿵} rearing back on an open beach with both front paws lifted high, the sea rolling in behind him",
+      "motion": "He rears up, ending with his paws at their highest above the untouched sand",
+      "link": "컷",
+      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+    },
+    {
+      "id": "T04-04",
+      "section": "SH",
+      "shot": "타이틀",
+      "duration": 5,
+      "seed": 98371,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "제목 카드. 노을 진 해변 위 단단히 다져진 모래 트랙. 하단에 제목 자리가 비어 있다.",
+      "ko_motion": "제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.",
+      "shot_ko": "타이틀",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, a smooth packed sand track running down a sunset beach with two sets of small footprints beside it, clean empty space along the bottom for a title",
+      "image": "vertical end card, a smooth packed sand track running down a sunset beach with two sets of small footprints beside it, clean empty space along the bottom for a title",
+      "motion": "The frame settles and holds, ending with the lower third completely clear",
+      "link": "컷",
+      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다."
+    }
+  ]
+}
