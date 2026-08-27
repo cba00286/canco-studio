@@ -1,15 +1,15 @@
 {
   "_comment": "캐릭터 고정 묘사. 2026-08-21 전면 개정 — 공식 3D 모델링 마스터 시트와 새 1화 대본에 맞춰 다시 썼다. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 고정 묘사에는 표정과 포즈를 넣지 않는다 — 그건 각 컷이 정한다. origin/power/note는 연출 참고용이며 프롬프트에 직접 들어가지 않는다.",
   "style_tag": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition",
-  "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human, off-model character, redesigned character, changed face, different proportions, inconsistent character design, different outfit, cave, cave interior, enclosed underground space, indoor",
+  "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human, off-model character, redesigned character, changed face, different proportions, inconsistent character design, different outfit, cave, cave interior, enclosed underground space, indoor, enlarged horns, oversized horns, elongated horns, long horns, thick horns, prominent horns, adult triceratops horns, growing horns, extra horns",
   "fragments": {
-    "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각. 쿵쿵_ 로 시작하는 것은 쿵쿵의 능력이며, 여기 등록된 네 가지가 전부다. 새 능력을 즉석에서 프롬프트에 써넣지 말 것 — 능력이 화마다 늘어나면 캐릭터가 무엇이든 할 수 있게 되어 이야기가 성립하지 않는다. 새 능력이 꼭 필요하면 여기에 먼저 등록하고 docs/13 에 근거를 남긴다.",
-    "쿵쿵_파워": "golden-teal aurora light surging along his three horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck",
+    "_comment": "여러 씬에 동일하게 등장해야 하는 연출 조각. 쿵쿵_ 로 시작하는 것은 쿵쿵의 능력이며, 여기 등록된 네 가지가 전부다. 새 능력을 즉석에서 프롬프트에 써넣지 말 것 — 능력이 화마다 늘어나면 캐릭터가 무엇이든 할 수 있게 되어 이야기가 성립하지 않는다. 새 능력이 꼭 필요하면 여기에 먼저 등록하고 docs/13 에 근거를 남긴다. 조각 안의 {쿵쿵} 은 이름 자리다 — 조각을 먼저 펼치고 이름을 나중에 채운다.",
+    "쿵쿵_파워": "golden-teal aurora light running up over {쿵쿵}'s three small horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck",
     "오로라빛": "shimmering golden-teal aurora light",
-    "쿵쿵_온기": "soft golden-teal aurora light welling gently up along his three horns and spreading outward in a slow warm wave that settles over everything around him like warm dust",
-    "쿵쿵_바람": "faint golden-teal light flowing up along his three horns while the air around him begins to turn in a slow gentle spiral instead of bursting outward",
-    "쿵쿵_자장가": "very faint golden-teal light welling slowly along his three horns and spilling out as slow soft waves that ripple across the walls and ceiling like a small indoor aurora",
-    "쿵쿵_방어막": "golden-teal light spreading out from his front paws and then curving upward into a translucent dome that closes over everything behind him, rain and wind bursting off its surface"
+    "쿵쿵_온기": "soft golden-teal aurora light welling gently over {쿵쿵}'s three small horns and spreading outward in a slow warm wave that settles over everything around him like warm dust",
+    "쿵쿵_바람": "faint golden-teal light running up over {쿵쿵}'s three small horns while the air around him begins to turn in a slow gentle spiral instead of bursting outward",
+    "쿵쿵_자장가": "very faint golden-teal light welling slowly over {쿵쿵}'s three small horns and spilling out as slow soft waves that ripple across the walls and ceiling like a small indoor aurora",
+    "쿵쿵_방어막": "golden-teal light spreading out from {쿵쿵}'s front paws and then curving upward into a translucent dome that closes over everything behind him, rain and wind bursting off its surface"
   },
   "characters": {
     "쿵쿵": {
@@ -301,5 +301,7 @@
   },
   "_power_comment": "쿵쿵의 능력은 언제나 '뿔의 금빛 청록 오로라 빛'이라는 하나의 현상이고, 쓰는 방식만 다르다: 충격파(쿵쿵_파워) · 온기(쿵쿵_온기) · 바람(쿵쿵_바람) · 자장가(쿵쿵_자장가) · 방어막(쿵쿵_방어막). 능력은 화당 한 번만 쓰고, 문제를 대신 풀어주지 않는다. 8화와 9화처럼 능력이 아예 없는 화가 있어야 한다.",
   "style_tag_shorts": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges",
-  "_style_comment": "style_tag 은 본편(16:9), style_tag_shorts 는 쇼츠(9:16)용이다. 본편 컷을 잘라서 쇼츠로 쓸 수 없다 — 16:9 로 잡은 구도는 세로로 자르면 얼굴과 시그니처 포즈가 화면 밖으로 나간다. 쇼츠는 처음부터 세로로 만든다."
+  "_style_comment": "style_tag 은 본편(16:9), style_tag_shorts 는 쇼츠(9:16)용이다. 본편 컷을 잘라서 쇼츠로 쓸 수 없다 — 16:9 로 잡은 구도는 세로로 자르면 얼굴과 시그니처 포즈가 화면 밖으로 나간다. 쇼츠는 처음부터 세로로 만든다.",
+  "horn_lock": "{쿵쿵}'s three horns stay exactly the size, shape and proportion of his registered character design — small baby horns. Only the light on them changes; the horns themselves do not grow, lengthen, thicken or become more prominent.",
+  "_horn_comment": "능력 연출에서 «빛이 뿔을 타고 오른다»고 쓰면 생성 모델이 뿔을 주인공으로 읽고 크게 그린다. 조각에서 뿔을 주어 자리에서 빼고(빛이 주어), 능력 컷에는 horn_lock 을 자동으로 붙인다. negative_prompt 에도 뿔이 커지는 표현을 넣어 능력 컷이 아닌 곳까지 막는다."
 }

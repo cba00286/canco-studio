@@ -63,16 +63,19 @@ def cast_of(shot: dict, episode_cast: list[str] | None = None) -> list[str]:
 def ref_prompt(chars: dict, shot: dict, cast: list[str],
                mode: str = "auto", style_key: str = "style_tag") -> str:
     text = shot["image"]
+    # 조각을 먼저 펼친다. 조각 안에 {쿵쿵} 같은 이름 자리가 들어 있으므로
+    # 이름 치환은 그다음이어야 한다.
+    used_power = False
+    for frag, value in chars.get("fragments", {}).items():
+        if frag != "_comment":
+            if ("{%s}" % frag) in text or ("[%s]" % frag) in text:
+                used_power = used_power or frag.startswith("쿵쿵_")
+            text = text.replace("{%s}" % frag, value).replace("[%s]" % frag, value)
+    if used_power and chars.get("horn_lock"):
+        text = text.rstrip(" .") + ". " + chars["horn_lock"].rstrip(" .")
     for key in SIX:
         called = name_of(chars, key, mode)
         text = text.replace("{%s}" % key, called).replace("[%s]" % key, called)
-    for frag, value in chars.get("fragments", {}).items():
-        if frag != "_comment":
-            text = text.replace("{%s}" % frag, value).replace("[%s]" % frag, value)
-    # 능력 조각은 "his three horns"로 시작해 주어가 없다. 쿵쿵을 명시한다.
-    text = text.replace("along his three horns", "along %s's three horns" % name_of(chars, "쿵쿵", mode))
-    text = text.replace("from his front paws", "from %s's front paws" % name_of(chars, "쿵쿵", mode))
-    text = text.replace("the air around him", "the air around %s" % name_of(chars, "쿵쿵", mode))
     # 그룹 지칭은 전원의 이름으로 펼친다. 이름이 있어야 등록된 캐릭터가 적용된다.
     # "the five/six friends"를 먼저 바꾼 뒤 남은 "the friends"를 cast 기준으로 처리한다.
     for group, members in (("the five friends", FIVE), ("the six friends", SIX)):
