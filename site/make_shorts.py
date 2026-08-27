@@ -98,6 +98,15 @@ h1{font-family:"Gowun Batang",serif;font-weight:700;font-size:clamp(27px,5vw,40p
 .note{background:var(--accent-soft);border:1px solid var(--line-strong);border-radius:12px;
   padding:15px 18px;font-size:14px;line-height:1.75;color:var(--ink)}
 .note strong{color:var(--accent)}
+.warn{background:var(--surface);border:2px solid var(--peach);border-radius:12px;padding:17px 20px}
+.warn p{margin:0 0 10px;font-size:14.5px;line-height:1.75}
+.warn p:last-child{margin-bottom:0}
+.wt{font-family:"Gowun Batang",serif;font-weight:700;font-size:18px;color:var(--peach)}
+.warn code{font-family:"IBM Plex Mono",monospace;font-size:13px;background:var(--sunk);
+  padding:1px 6px;border-radius:5px}
+.steps{margin:0 0 10px;padding-left:22px;display:flex;flex-direction:column;gap:6px}
+.steps li{font-size:14.5px;line-height:1.7}
+.wn{color:var(--muted);font-size:13.5px !important;border-top:1px solid var(--line);padding-top:10px}
 h2{font-family:"Gowun Batang",serif;font-weight:700;font-size:23px;margin:0 0 4px;display:flex;align-items:baseline;gap:10px}
 h2 .n{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--accent);font-weight:600}
 .blurb{margin:0 0 18px;color:var(--muted);font-size:14.5px}
@@ -155,9 +164,24 @@ BODY = f'''<title>쿵쿵이 쇼츠 22편</title>
   버튼을 누르면 프롬프트가 복사됩니다. OpenArt 에 그대로 붙여 넣으세요.</p>
 </header>
 
+<div class="warn">
+  <p class="wt">생성하기 전에 — 비율을 먼저 바꾸세요</p>
+  <p><strong>화면비는 프롬프트로 정해지지 않습니다.</strong> 프롬프트에 <code>vertical 9:16 composition</code>
+  이라고 적혀 있어도 그건 «인물을 세로로 배치하라»는 구도 힌트일 뿐입니다.
+  실제 이미지 크기는 <strong>OpenArt 생성 화면의 비율(Aspect ratio) 설정</strong>이 결정합니다.</p>
+  <ol class="steps">
+    <li>이미지 생성 화면에서 비율을 <strong>9:16</strong>(또는 Portrait / 세로)로 바꾼다</li>
+    <li>그 상태에서 아래 <strong>이미지 프롬프트</strong>를 붙여 넣고 생성한다</li>
+    <li>나온 세로 이미지를 <strong>영상 생성의 시작 이미지</strong>로 넣는다 —
+        image2video 는 넣은 이미지의 비율을 그대로 따라가므로, 이미지만 세로면 영상도 세로다</li>
+  </ol>
+  <p class="wn">이미 16:9 로 뽑은 것은 다시 뽑아야 합니다. 잘라서는 못 씁니다 —
+  세로로 자르면 얼굴과 시그니처 포즈가 화면 밖으로 나갑니다.</p>
+</div>
+
 <div class="note">
   <strong>본편 컷을 잘라서 쓰지 마세요.</strong> 본편 600컷은 전부 16:9 로 구도를 잡았습니다.
-  세로로 자르면 얼굴과 시그니처 포즈가 화면 밖으로 나갑니다. 여기 22편은 처음부터 9:16 으로 짰습니다.<br><br>
+  여기 22편은 처음부터 세로 구도로 짰습니다.<br><br>
   <strong>캐릭터는 트리거 워드로 고정됩니다.</strong> 프롬프트 안의 한글 이름이 OpenArt Characters 에
   등록한 트리거 워드입니다. 외모를 따로 적지 마세요 — 적으면 등록된 얼굴을 덮어씁니다.<br><br>
   <strong>「연속」 표시가 붙은 컷</strong>은 앞 컷 영상의 마지막 프레임을 시작 프레임으로 넣으면
