@@ -68,7 +68,12 @@
       "image": "vertical wide shot of {쿵쿵_파워}",
       "motion": "The paws crash down and the ring races outward, ending with it passing beyond the frame edge",
       "link": "연속",
-      "link_ko": "든 앞발이 그대로 내려온다. 이 컷이 쇼츠의 전부다."
+      "link_ko": "든 앞발이 그대로 내려온다. 이 컷이 쇼츠의 전부다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.3,
+        "why": "충격파가 터지는 순간"
+      }
     },
     {
       "id": "P01-04",

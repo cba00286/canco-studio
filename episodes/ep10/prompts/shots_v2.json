@@ -52,7 +52,12 @@
       "image": "the same hillside seen three times in the same framing as the seasons change, bare rock in spring, half-built walls in summer, an almost complete house in autumn",
       "motion": "The same frame dissolves through three seasons, ending on the autumn version matching the previous shot exactly",
       "link": "연속",
-      "link_ko": "앞 컷과 완전히 같은 구도에서 계절만 되감았다 돌아온다. 몽타주지만 프레임은 고정."
+      "link_ko": "앞 컷과 완전히 같은 구도에서 계절만 되감았다 돌아온다. 몽타주지만 프레임은 고정.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.8,
+        "why": "계절이 세 번 바뀌는 몽타주. 길게 녹인다"
+      }
     },
     {
       "id": "SC1-03",
@@ -293,7 +298,12 @@
       "image": "{쿵쿵} still asleep on a blanket in the ground-floor workshop of the big treehouse, sawdust and tools stacked beside him, morning light crossing the blanket",
       "motion": "His back rises and falls slowly, ending with the light reaching his face and one eye beginning to open",
       "link": "전환",
-      "link_ko": "장소가 바뀐다. 언덕의 케이크 초 → 루카네 공방의 잠든 쿵쿵이. 1화 엔딩 이후 쿵쿵이가 지내는 곳이다."
+      "link_ko": "장소가 바뀐다. 언덕의 케이크 초 → 루카네 공방의 잠든 쿵쿵이. 1화 엔딩 이후 쿵쿵이가 지내는 곳이다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.55,
+        "why": "언덕의 케이크에서 공방의 잠든 쿵쿵이로"
+      }
     },
     {
       "id": "SC2-01",
@@ -776,7 +786,12 @@
       "image": "close-up of {쿵쿵_파워}",
       "motion": "Light surges up the horns as the ring spreads, ending with the horn tips at maximum brightness",
       "link": "연속",
-      "link_ko": "물이 튀어오른 그 순간 뿔에 빛이 오른다."
+      "link_ko": "물이 튀어오른 그 순간 뿔에 빛이 오른다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.35,
+        "why": "방어막이 솟는 순간"
+      }
     },
     {
       "id": "SC3-09",
@@ -916,7 +931,12 @@
       "image": "the storm clouds tearing open above the hill, sunlight pouring down across the soaked yard and the house",
       "motion": "The clouds split and light floods the hill, ending with the whole yard bright and steaming",
       "link": "전환",
-      "link_ko": "비가 그친다. 소리가 먼저 멎고 빛이 들어온다."
+      "link_ko": "비가 그친다. 소리가 먼저 멎고 빛이 들어온다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.7,
+        "why": "먹구름이 갈라지며 빛이 쏟아진다"
+      }
     },
     {
       "id": "SC4-02",
@@ -1106,7 +1126,12 @@
       "image": "the hillside at night, one window of the rock house glowing warm, the sky above thick with stars",
       "motion": "The window light flickers gently, ending held on the lit house under the stars",
       "link": "컷",
-      "link_ko": "낮의 파티에서 그날 밤으로 넘어간다."
+      "link_ko": "낮의 파티에서 그날 밤으로 넘어간다.",
+      "transition": {
+        "type": "fadeblack",
+        "sec": 0.7,
+        "why": "파티가 끝난 낮에서 그날 밤으로"
+      }
     },
     {
       "id": "EN-03",

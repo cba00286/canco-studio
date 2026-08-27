@@ -1,0 +1,22 @@
+{
+  "_comment": "컷 사이 전환. shots_v2.json 의 link 값에 따라 자동으로 정해진다(docs/14). 컷마다 다르게 하고 싶으면 그 컷에 transition 필드를 넣으면 이쪽보다 우선한다.",
+  "기본": {
+    "연속": { "type": "fade", "sec": 0.10,
+             "_": "이음매를 지우는 최소한의 디졸브. 앞 컷 끝 프레임을 물려줬다면 눈에 안 보인다" },
+    "컷":   { "type": "fade", "sec": 0.22,
+             "_": "같은 장면 안 앵글 전환. 생성 영상은 딱 붙이면 튀어서 짧게 섞어준다" },
+    "전환": { "type": "fade", "sec": 0.55,
+             "_": "장면이 바뀌는 자리. 넉넉하게 넘긴다" }
+  },
+  "_쓸_수_있는_type": [
+    "fade", "fadeblack", "fadewhite", "dissolve", "smoothleft", "smoothright",
+    "smoothup", "smoothdown", "circleopen", "circleclose", "radial",
+    "wipeleft", "wiperight", "slideup", "slidedown", "pixelize", "hblur"
+  ],
+  "_권장": {
+    "빛_터짐": "fadewhite — 유성 충돌, 부화, 능력 발동처럼 빛이 터지는 자리",
+    "밤_시간경과": "fadeblack — 밤을 건너뛰거나 하루가 지날 때",
+    "꿈_진입": "dissolve 또는 circleopen — 현실에서 꿈으로",
+    "기본": "fade — 나머지 전부. 튀지 않고 무난하다"
+  }
+}

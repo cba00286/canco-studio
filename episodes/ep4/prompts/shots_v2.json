@@ -685,7 +685,12 @@
       "image": "close-up of {쿵쿵_파워}",
       "motion": "Light surges up the horns as a glowing ring spreads across the sand, ending with the horn tips at maximum brightness",
       "link": "연속",
-      "link_ko": "모래를 친 그 순간 뿔에 빛이 오른다."
+      "link_ko": "모래를 친 그 순간 뿔에 빛이 오른다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.35,
+        "why": "모래를 다지는 파장이 터지는 순간"
+      }
     },
     {
       "id": "SC3-05",

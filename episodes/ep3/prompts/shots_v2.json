@@ -316,7 +316,12 @@
       "image": "the same flower meadow the next morning, blossoms heavy and bowed with rain, completely silent and empty",
       "motion": "The wet flowers sway heavily, drops falling from the petals, ending held on the empty silent meadow",
       "link": "전환",
-      "link_ko": "비가 지나간 다음 날 아침. 같은 꽃밭, 노랫소리만 없다."
+      "link_ko": "비가 지나간 다음 날 아침. 같은 꽃밭, 노랫소리만 없다.",
+      "transition": {
+        "type": "fadeblack",
+        "sec": 0.65,
+        "why": "비 오는 밤을 지나 다음 날 아침으로"
+      }
     },
     {
       "id": "SC2-02",
@@ -746,7 +751,12 @@
       "image": "extreme close-up of {쿵쿵_온기}",
       "motion": "The light rises softly from the base of the horns to the tips, ending with the light reaching the horn tips",
       "link": "연속",
-      "link_ko": "고요해진 그 순간 뿔에 빛이 차오른다."
+      "link_ko": "고요해진 그 순간 뿔에 빛이 차오른다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.5,
+        "why": "온기가 스며드는 능력이라 부드럽게 녹인다"
+      }
     },
     {
       "id": "SC3-07",
@@ -1166,7 +1176,12 @@
       "image": "{루비} back in the flower meadow the next morning with her basket, walking among the blossoms",
       "motion": "She moves through the flowers with her basket, ending with her stopped among the flowers, basket held",
       "link": "전환",
-      "link_ko": "다음 날 아침 꽃밭으로. 언덕에서 꽃밭으로 넘어간다."
+      "link_ko": "다음 날 아침 꽃밭으로. 언덕에서 꽃밭으로 넘어간다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.6,
+        "why": "언덕 벤치에서 다음 날 아침 꽃밭으로"
+      }
     },
     {
       "id": "EN-05",

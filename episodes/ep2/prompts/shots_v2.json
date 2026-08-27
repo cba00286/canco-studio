@@ -693,7 +693,12 @@
       "image": "close-up of {쿵쿵_파워}",
       "motion": "Light races up along the horns as a glowing ring spreads out across the ground, ending with the horn tips at maximum brightness",
       "link": "연속",
-      "link_ko": "앞발이 땅을 친 그 순간 뿔에 빛이 오른다."
+      "link_ko": "앞발이 땅을 친 그 순간 뿔에 빛이 오른다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.35,
+        "why": "발구름이 빛으로 번지는 순간"
+      }
     },
     {
       "id": "SC3-05",

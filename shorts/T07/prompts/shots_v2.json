@@ -90,7 +90,12 @@
       "image": "vertical end card, {후안} soaring with both flippers spread wide across a dream sky thick with stars and a band of aurora, clean empty space along the bottom for a title",
       "motion": "The frame settles and holds, ending with the lower third completely clear",
       "link": "컷",
-      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다."
+      "link_ko": "제목 카드. 하단 여백에 «N화 제목»을 넣는다.",
+      "transition": {
+        "type": "fadeblack",
+        "sec": 0.55,
+        "why": "예고 끝. 제목 카드로 넘긴다"
+      }
     }
   ]
 }

@@ -48,7 +48,12 @@
       "image": "vertical wide shot of {쿵쿵_방어막}",
       "motion": "The light arcs up and closes over, ending with the dome complete and rain bursting off it",
       "link": "연속",
-      "link_ko": "내리찍은 그 자리에서 빛이 솟는다."
+      "link_ko": "내리찍은 그 자리에서 빛이 솟는다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.3,
+        "why": "방어막이 솟는 순간"
+      }
     },
     {
       "id": "P03-03",

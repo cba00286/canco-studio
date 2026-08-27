@@ -666,7 +666,12 @@
       "image": "extreme close-up of {쿵쿵_바람}",
       "motion": "Light flows up the horns as the air begins to turn slowly, ending with the air beginning to turn around him",
       "link": "연속",
-      "link_ko": "바닥이 울린 그 순간 뿔에 빛이 오른다."
+      "link_ko": "바닥이 울린 그 순간 뿔에 빛이 오른다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "터지는 힘이 아니라 도는 바람이라 부드럽게"
+      }
     },
     {
       "id": "SC3-04",
@@ -1115,7 +1120,12 @@
       "image": "{티니} fast asleep in her bed at night, the blanket rising and falling slowly with her breathing",
       "motion": "The blanket rises and falls gently as she sleeps, ending with the blanket rising and falling evenly",
       "link": "전환",
-      "link_ko": "노을에서 밤으로. 시간이 건너뛴다."
+      "link_ko": "노을에서 밤으로. 시간이 건너뛴다.",
+      "transition": {
+        "type": "fadeblack",
+        "sec": 0.7,
+        "why": "노을에서 밤으로"
+      }
     },
     {
       "id": "EN-04",

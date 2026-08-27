@@ -314,7 +314,12 @@
       "image": "a sunny yard a few days later, {티니}, {미미}, {루비} and {쿵쿵} gathered under an apple tree heavy with red fruit",
       "motion": "Leaves shift as the red apples sway above them, ending held on the apple tree heavy with fruit",
       "link": "전환",
-      "link_ko": "며칠이 지난다. 같은 마당, 다른 날."
+      "link_ko": "며칠이 지난다. 같은 마당, 다른 날.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.6,
+        "why": "며칠이 지난다"
+      }
     },
     {
       "id": "SC2-02",
@@ -946,7 +951,12 @@
       "image": "the sunny yard a week later, {티니}, {미미}, {루비} and {쿵쿵} gathered under the apple tree again",
       "motion": "The apples sway as the four gather beneath, ending with the four gathered under the tree",
       "link": "전환",
-      "link_ko": "일주일이 지난다. 같은 마당, 다시 사과나무."
+      "link_ko": "일주일이 지난다. 같은 마당, 다시 사과나무.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.6,
+        "why": "일주일이 지난다"
+      }
     },
     {
       "id": "SC4-02",
@@ -1129,7 +1139,12 @@
       "image": "the bathroom sink with two step stools side by side and two toothbrushes in the cup, morning light across them",
       "motion": "Morning light falls across the two stools and two brushes, ending held on the two stools and two brushes",
       "link": "전환",
-      "link_ko": "마당에서 세면대로. 이후의 아침들."
+      "link_ko": "마당에서 세면대로. 이후의 아침들.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.5,
+        "why": "그 뒤로 이어지는 아침들"
+      }
     },
     {
       "id": "EN-03",

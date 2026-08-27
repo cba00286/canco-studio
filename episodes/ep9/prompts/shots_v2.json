@@ -375,7 +375,12 @@
       "image": "{미미}, {티니} and {루비} arriving at the blossom meadow and spreading out a picnic mat",
       "motion": "They lay out a mat among the flowers, ending with the mat spread and the three seated",
       "link": "전환",
-      "link_ko": "루카의 방에서 언덕 꽃밭으로. 기다리는 쪽을 본다."
+      "link_ko": "루카의 방에서 언덕 꽃밭으로. 기다리는 쪽을 본다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "루카의 방과 꽃밭을 오간다. 같은 시간 다른 곳"
+      }
     },
     {
       "id": "SC2-05",
@@ -433,7 +438,12 @@
       "image": "close-up of finished comics stacking up beside the bed one on top of another",
       "motion": "The pile of read comics grows higher, ending held on the growing pile of finished comics",
       "link": "전환",
-      "link_ko": "꽃밭에서 다시 루카의 방으로. 만화책이 쌓인다."
+      "link_ko": "꽃밭에서 다시 루카의 방으로. 만화책이 쌓인다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "꽃밭에서 다시 방으로"
+      }
     },
     {
       "id": "SC2-08",
@@ -451,7 +461,12 @@
       "image": "the meadow with the empty lunch boxes, the three still sitting and watching the path",
       "motion": "The empty boxes sit as the three keep watching, ending with the empty boxes and the three still watching",
       "link": "전환",
-      "link_ko": "방에서 다시 꽃밭으로. 도시락이 비었다."
+      "link_ko": "방에서 다시 꽃밭으로. 도시락이 비었다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "방에서 다시 꽃밭으로"
+      }
     },
     {
       "id": "SC2-09",
@@ -513,7 +528,12 @@
       "image": "close-up of the light through {루카}'s window turning from white to deep orange",
       "motion": "The light warms from white through gold to orange, ending with the light fully orange",
       "link": "전환",
-      "link_ko": "길어진 그림자에서 루카의 방 빛으로. 같은 시간이다."
+      "link_ko": "길어진 그림자에서 루카의 방 빛으로. 같은 시간이다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "꽃밭의 그림자와 방의 노을은 같은 시각이다"
+      }
     },
     {
       "id": "SC2-12",
@@ -931,7 +951,12 @@
       "image": "{루카} walking alone down the village path in the pale light before sunrise",
       "motion": "He walks the dim path alone before dawn, ending with him walking alone down the dim path",
       "link": "전환",
-      "link_ko": "밤에서 새벽으로. 시간이 건너뛴다."
+      "link_ko": "밤에서 새벽으로. 시간이 건너뛴다.",
+      "transition": {
+        "type": "fadeblack",
+        "sec": 0.75,
+        "why": "별이 뜬 밤에서 새벽으로"
+      }
     },
     {
       "id": "SC4-02",
@@ -1115,7 +1140,12 @@
       "image": "{루카} sitting alone on a picnic mat in the blossom meadow, watching the path and waiting",
       "motion": "He sits waiting, eyes on the path, ending with him seated alone, watching the path",
       "link": "전환",
-      "link_ko": "아침에서 그날 오후로. 이번엔 루카가 먼저다."
+      "link_ko": "아침에서 그날 오후로. 이번엔 루카가 먼저다.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.6,
+        "why": "새벽에서 그날 오후로"
+      }
     },
     {
       "id": "EN-03",

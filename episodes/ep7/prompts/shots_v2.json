@@ -298,7 +298,12 @@
       "image": "a beach square with a long tug-of-war rope laid out on the sand, bunting flapping in the sea breeze, a crowd gathered",
       "motion": "Flags snap in the breeze above the waiting rope, ending held on the laid-out rope and the crowd",
       "link": "전환",
-      "link_ko": "밤의 방에서 낮의 해변 광장으로."
+      "link_ko": "밤의 방에서 낮의 해변 광장으로.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.6,
+        "why": "밤새운 방에서 대낮 해변으로. 눈이 부시게"
+      }
     },
     {
       "id": "SC2-02",
@@ -627,7 +632,12 @@
       "image": "{쿵쿵} standing outside {후안}'s window at night, front paws on the sill, looking in",
       "motion": "He rests his paws on the sill and peers inside, ending with him at the sill, looking in",
       "link": "전환",
-      "link_ko": "낮의 해변에서 밤의 방으로. 하루가 지난다."
+      "link_ko": "낮의 해변에서 밤의 방으로. 하루가 지난다.",
+      "transition": {
+        "type": "fadeblack",
+        "sec": 0.7,
+        "why": "낮 해변에서 그날 밤 방으로"
+      }
     },
     {
       "id": "SC3-02",
@@ -924,7 +934,12 @@
       "image": "{후안} floating high in a dream sky thick with stars, weightless",
       "motion": "He drifts slowly among the stars, ending with him drifting among the stars",
       "link": "전환",
-      "link_ko": "어두워진 방에서 꿈속 하늘로."
+      "link_ko": "어두워진 방에서 꿈속 하늘로.",
+      "transition": {
+        "type": "circleopen",
+        "sec": 0.75,
+        "why": "현실에서 꿈으로 들어간다"
+      }
     },
     {
       "id": "SC4-02",
@@ -1004,7 +1019,12 @@
       "image": "close-up of the sleeping {후안}'s face, a smile spreading across it",
       "motion": "A smile spreads over his sleeping face, ending with the smile fully spread",
       "link": "전환",
-      "link_ko": "꿈속에서 잠깐 현실로. 잠든 얼굴."
+      "link_ko": "꿈속에서 잠깐 현실로. 잠든 얼굴.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "꿈에서 잠깐 잠든 얼굴로"
+      }
     },
     {
       "id": "SC4-06",
@@ -1024,7 +1044,12 @@
       "image": "{후안} gliding low over a dreamlike version of the seaside village far below",
       "motion": "He glides low over the tiny dream village, ending gliding low over the dream village",
       "link": "전환",
-      "link_ko": "다시 꿈으로. 마을 위를 난다."
+      "link_ko": "다시 꿈으로. 마을 위를 난다.",
+      "transition": {
+        "type": "dissolve",
+        "sec": 0.45,
+        "why": "다시 꿈으로"
+      }
     },
     {
       "id": "SC4-07",
@@ -1087,7 +1112,12 @@
       "image": "{후안}'s bedroom in the morning, toys tidied away and the bed empty, bright morning light across the floor",
       "motion": "Morning light crosses the tidy, empty room, ending held on the tidy empty room",
       "link": "전환",
-      "link_ko": "하얗게 밝아진 화면에서 아침 방으로."
+      "link_ko": "하얗게 밝아진 화면에서 아침 방으로.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.7,
+        "why": "별빛 속에서 아침으로 깨어난다"
+      }
     },
     {
       "id": "EN-02",
