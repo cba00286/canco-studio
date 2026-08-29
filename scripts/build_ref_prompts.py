@@ -28,6 +28,9 @@ import bible
 ROOT = Path(__file__).resolve().parent.parent
 FIVE = ["루카", "후안", "미미", "티니", "루비"]
 SIX = ["쿵쿵"] + FIVE
+# 노을은 11화에 합류한다. 1~10화에는 없다 — 10화 엔딩의 실루엣은 이름을 쓰지 않는다.
+SEVEN = SIX + ["노을"]
+ALL = SEVEN
 
 
 def name_of(chars: dict, key: str, mode: str = "auto") -> str:
@@ -45,11 +48,13 @@ def name_of(chars: dict, key: str, mode: str = "auto") -> str:
 
 def cast_of(shot: dict, episode_cast: list[str] | None = None) -> list[str]:
     text = shot["image"] + " " + shot["motion"]
-    names = [n for n in re.findall(r"[{\[]([^}\]]+)[}\]]", text) if n in SIX]
+    names = [n for n in re.findall(r"[{\[]([^}\]]+)[}\]]", text) if n in ALL]
     if "쿵쿵_" in text:                           # 능력 연출 조각은 모두 쿵쿵이 주어다
         names.append("쿵쿵")
     low = text.lower()
-    if "six friends" in low or "five friends behind him" in low:
+    if "seven friends" in low:
+        names += SEVEN
+    elif "six friends" in low or "five friends behind him" in low:
         names += SIX
     elif "five friends" in low:
         names += FIVE
@@ -57,7 +62,7 @@ def cast_of(shot: dict, episode_cast: list[str] | None = None) -> list[str]:
         # 화마다 나오는 인원이 다르다. shots_v2.json의 episode_cast를 쓰고,
         # 없으면 1화 기준(후반부는 여섯 전원)으로 되돌아간다.
         names += episode_cast or (SIX if shot["section"] in ("SC4", "EN") else FIVE)
-    return [n for n in SIX if n in names]         # 항상 같은 순서로
+    return [n for n in ALL if n in names]         # 항상 같은 순서로
 
 
 def ref_prompt(chars: dict, shot: dict, cast: list[str],
@@ -73,12 +78,13 @@ def ref_prompt(chars: dict, shot: dict, cast: list[str],
             text = text.replace("{%s}" % frag, value).replace("[%s]" % frag, value)
     if used_power and chars.get("horn_lock"):
         text = text.rstrip(" .") + ". " + chars["horn_lock"].rstrip(" .")
-    for key in SIX:
+    for key in ALL:
         called = name_of(chars, key, mode)
         text = text.replace("{%s}" % key, called).replace("[%s]" % key, called)
     # 그룹 지칭은 전원의 이름으로 펼친다. 이름이 있어야 등록된 캐릭터가 적용된다.
     # "the five/six friends"를 먼저 바꾼 뒤 남은 "the friends"를 cast 기준으로 처리한다.
-    for group, members in (("the five friends", FIVE), ("the six friends", SIX)):
+    for group, members in (("the five friends", FIVE), ("the six friends", SIX),
+                           ("the seven friends", SEVEN)):
         text = text.replace(group, ", ".join(name_of(chars, m, mode) for m in members))
     if "the friends" in text and cast:
         text = text.replace("the friends", ", ".join(name_of(chars, m, mode) for m in cast))
@@ -116,7 +122,7 @@ def main() -> None:
     path = prompts / args.shots
     data = json.loads(path.read_text(encoding="utf-8"))
 
-    triggers = {n: chars["characters"][n].get("trigger") for n in SIX}
+    triggers = {n: chars["characters"][n].get("trigger") for n in ALL}
     missing = [n for n, t in triggers.items() if not t]
     if missing and args.mode != "sheet":
         print("! OpenArt 트리거 워드가 비어 있는 캐릭터: %s" % ", ".join(missing))
@@ -125,7 +131,7 @@ def main() -> None:
 
     episode_cast = data.get("episode_cast")
     if episode_cast:
-        unknown = [n for n in episode_cast if n not in SIX]
+        unknown = [n for n in episode_cast if n not in ALL]
         if unknown:
             raise SystemExit("episode_cast에 모르는 이름: %s" % ", ".join(unknown))
 
