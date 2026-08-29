@@ -75,6 +75,9 @@ python3 scripts/chain_frames.py --episode episodes/ep1 --clips <폴더>   # 연�
 python3 scripts/build_shorts.py                        # 쇼츠 프롬프트 (9:16)
 python3 scripts/check_shorts.py                        # 쇼츠 규격 검사
 python3 site/make_shorts.py                            # 쇼츠 복붙 페이지
+
+python3 scripts/build_script.py                        # 대본집 (대사 + 프롬프트) → docs/대본_시즌1.md
+python3 scripts/build_script.py --no-prompts           # 읽기용 (대사와 설명만)
 ```
 
 세션이 시작되면 `.claude/hooks/session-start.sh` 가 진행 상황·규격 검사·미결정 사항을
