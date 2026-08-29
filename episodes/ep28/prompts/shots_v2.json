@@ -23,7 +23,7 @@
   },
   "audio_sections": {
     "SC1": {
-      "amb": "눈밭",
+      "amb": "마을_광장",
       "bgm": "일상_밝음"
     },
     "SC2": {
@@ -64,7 +64,7 @@
       "motion_ref": "Meltwater runs between the sunlit stones, ending on the sunlit wet square",
       "sig": null,
       "sfx": [
-        "발소리_눈"
+        "발소리_돌"
       ]
     },
     {
@@ -325,7 +325,7 @@
       "motion_ref": "They walk to opposite sides of the square, ending with the two far apart",
       "sig": null,
       "sfx": [
-        "발소리_눈"
+        "발소리_돌"
       ]
     },
     {

@@ -37,7 +37,7 @@
       "bgm": "따뜻한_해결"
     },
     "EN": {
-      "amb": "참나무숲",
+      "amb": "눈밭",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -1310,7 +1310,7 @@
       "motion_ref": "Dusk falls on the piles beneath the trees, ending on the quiet snowy forest",
       "sig": null,
       "sfx": [
-        "발소리_낙엽"
+        "발소리_눈"
       ]
     },
     {
@@ -1404,7 +1404,7 @@
       "motion_ref": "She turns off; six hands go up, ending with her walking up the hill road",
       "sig": null,
       "sfx": [
-        "발소리_낙엽"
+        "발소리_눈"
       ]
     },
     {
