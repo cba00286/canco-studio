@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 티니는 이런 아이야"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "C04-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 96450,
+      "seed": 94900,
       "speaker": "",
       "dialogue": "",
       "ko": "티니 얼굴 클로즈업. 화면 아래에서 쏙 올라와 정면을 본다. 코가 실룩이고 귀가 늘어져 있다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 96457,
+      "seed": 94907,
       "speaker": "",
       "dialogue": "",
       "ko": "티니가 코를 땅에 대고 냄새를 좇아 좌우로 돌다가, 무언가 찾은 듯 고개를 번쩍 들고 꼬리를 세차게 흔든다.",
@@ -53,9 +53,34 @@
     {
       "id": "C04-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 94914,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "티니가 친구들 사이를 헤집고 뛰어다니자 다섯이 웃음을 터뜨린다.",
+      "ko_motion": "강아지가 사이를 헤집고 달리자 웃음이 번져 나간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 티니 tearing between 루카, 미미, 후안, 루비 and 쿵쿵, all of them laughing as she weaves through. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {티니} tearing between {루카}, {미미}, {후안}, {루비} and {쿵쿵}, all of them laughing as she weaves through",
+      "motion": "The moment plays out fully, ending with the group settled and 티니 clearly at the centre of it",
+      "link": "컷",
+      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다."
+    },
+    {
+      "id": "C04-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 96464,
+      "seed": 94921,
       "speaker": "",
       "dialogue": "",
       "ko": "통나무를 엮어 올린 2층 집 앞. 알록달록한 조각보 지붕과 «Tini» 나무 간판, 바깥으로 난 나선 계단이 보인다.",
@@ -68,14 +93,14 @@
       "image": "vertical wide shot of {티니} in front of a two-storey log house with a patchwork quilt roof, a wooden Tini sign over the door, an outdoor spiral staircase, flowers everywhere",
       "motion": "the puppy turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
-      "link_ko": "행동에서 집으로. 어디 사는 아이인지 한 컷에 보여준다."
+      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다."
     },
     {
-      "id": "C04-04",
+      "id": "C04-05",
       "section": "SH",
       "shot": "MS",
       "duration": 5,
-      "seed": 96471,
+      "seed": 94928,
       "speaker": "티니",
       "dialogue": "같이 놀자! 멍멍!",
       "ko": "티니가 정면을 보고 시그니처 자세를 취한다. 배경은 단순하게 비우고, 아래쪽에 이름을 넣을 여백을 둔다.",

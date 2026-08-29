@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 9화 예고 — 약속을 지켜요"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "T09-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 90080,
+      "seed": 96690,
       "speaker": "",
       "dialogue": "",
       "ko": "풀밭에 눌린 자국 세 개만 남아 있다. 꽃잎이 그 위로 떨어진다.",
@@ -33,7 +33,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 90087,
+      "seed": 96697,
       "speaker": "",
       "dialogue": "",
       "ko": "루카가 언덕 꼭대기에서 숨이 턱에 찬 채 멈춰 선다. 빈 꽃밭 위로 노을이 붉다.",
@@ -46,14 +46,34 @@
       "image": "vertical medium shot of {루카} stopped dead at a hilltop, chest heaving, the empty blossom meadow burning red with sunset behind him",
       "motion": "He gasps for breath, ending motionless facing the empty meadow",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
     },
     {
       "id": "T09-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 96704,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "언덕 아래 마을 길로 친구들의 실루엣이 멀어진다. 루카는 그 자리에 무릎을 꿇는다.",
+      "ko_motion": "세 실루엣이 점점 작아지고 호랑이가 천천히 무릎을 꿇는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of three small silhouettes walking away down a dusk village path while 루카 sinks to his knees on the hilltop above. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of three small silhouettes walking away down a dusk village path while {루카} sinks to his knees on the hilltop above",
+      "motion": "They shrink into the distance, ending with him down on his knees, watching",
+      "link": "컷",
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+    },
+    {
+      "id": "T09-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 90094,
+      "seed": 96711,
       "speaker": "",
       "dialogue": "",
       "ko": "새벽. 루카가 미미의 집 앞에 혼자 서서 접힌 종이 세 장을 만지작거린다.",
@@ -66,14 +86,14 @@
       "image": "vertical wide shot of {루카} waiting alone outside a door in the pale light before sunrise, turning three folded papers over in his paws",
       "motion": "He fidgets with the papers, ending with the door beginning to open",
       "link": "컷",
-      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다."
     },
     {
-      "id": "T09-04",
+      "id": "T09-05",
       "section": "SH",
       "shot": "타이틀",
       "duration": 5,
-      "seed": 90101,
+      "seed": 96718,
       "speaker": "",
       "dialogue": "",
       "ko": "제목 카드. 꽃잎이 날리는 언덕 위 돗자리와 그 위에 덮인 채 놓인 만화책 한 권. 하단에 제목 자리가 비어 있다.",

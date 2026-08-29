@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 5화 예고 — 미미의 엉뚱한 발명품"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "T05-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 92270,
+      "seed": 97230,
       "speaker": "",
       "dialogue": "",
       "ko": "나무 꼭대기 가지에 금이 빠르게 번진다. 껍질이 벗겨진다.",
@@ -33,7 +33,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 92277,
+      "seed": 97237,
       "speaker": "",
       "dialogue": "",
       "ko": "루카가 부러진 가지 대신 다른 가지를 간신히 붙잡고 매달려 있다. 발이 허공에 떠 있다.",
@@ -46,14 +46,34 @@
       "image": "vertical medium shot of {루카} hanging from a branch high in a fruit tree, both paws gripping, his legs swinging in empty air",
       "motion": "He swings and holds on, ending with his grip steady but his feet still dangling",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
     },
     {
       "id": "T05-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 97244,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미의 기계가 옆으로 쓰러지고 부품이 흩어진다. 벽의 설계도에 X 표시가 그어진다.",
+      "ko_motion": "기계가 넘어지며 부품이 바닥에 흩어지고 연필이 설계도 위에 크게 X를 긋는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 미미's pole contraption toppling over, parts scattering, and her drawing a large X across a blueprint on the wall. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {미미}'s pole contraption toppling over, parts scattering, and her drawing a large X across a blueprint on the wall",
+      "motion": "The machine falls and the X is drawn, ending with three X-marked blueprints in a row",
+      "link": "컷",
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+    },
+    {
+      "id": "T05-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 92284,
+      "seed": 97251,
       "speaker": "",
       "dialogue": "",
       "ko": "밤의 작업실. 미미가 겹친 고리 모양을 설계도에 빠르게 그려 나간다. 창밖은 캄캄하다.",
@@ -66,14 +86,14 @@
       "image": "vertical wide shot of {미미} at a cluttered workbench at night sketching a series of overlapping rings on a blueprint, one lamp lit, darkness outside the window",
       "motion": "The pencil sweeps out ring after ring, ending with the drawing nearly complete",
       "link": "컷",
-      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다."
     },
     {
-      "id": "T05-04",
+      "id": "T05-05",
       "section": "SH",
       "shot": "타이틀",
       "duration": 5,
-      "seed": 92291,
+      "seed": 97258,
       "speaker": "",
       "dialogue": "",
       "ko": "제목 카드. 장대 끝에 우산처럼 펼쳐진 고리 그물과 그 안에 담긴 붉은 열매 하나. 하단에 제목 자리가 비어 있다.",

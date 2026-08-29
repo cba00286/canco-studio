@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 2화 예고 — 루카의 보물지도를 찾아라!"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "T02-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 94760,
+      "seed": 96030,
       "speaker": "",
       "dialogue": "",
       "ko": "빛바랜 보물지도 초근접. 골짜기와 언덕이 그려져 있고 언덕 위에 붉은 X 표시가 있다.",
@@ -33,7 +33,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 94767,
+      "seed": 96037,
       "speaker": "",
       "dialogue": "",
       "ko": "강풍이 골짜기를 훑고 지도가 루카의 손에서 뜯겨 하늘로 치솟는다.",
@@ -46,14 +46,34 @@
       "image": "vertical medium shot of the map ripped out of {루카}'s grip and spinning up into the air toward a cliff face",
       "motion": "The map tears free and whirls upward, ending wedged high in a crack in the rock",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
     },
     {
       "id": "T02-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 96044,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 절벽을 오르려다 발이 미끄러져 흙먼지와 함께 내려온다. 그대로 주저앉는다.",
+      "ko_motion": "호랑이가 두어 걸음 오르다 미끄러져 내려오고 어깨가 축 처진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 scrambling a short way up the cliff before slipping back down in a puff of dust and sinking to the ground. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} scrambling a short way up the cliff before slipping back down in a puff of dust and sinking to the ground",
+      "motion": "He slides down and sits, ending hunched with the map still stuck far above him",
+      "link": "컷",
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+    },
+    {
+      "id": "T02-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 94774,
+      "seed": 96051,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이가 두 앞발을 번쩍 들어 올린다. 골짜기 바닥의 잔돌이 그 앞에 흩어져 있다.",
@@ -66,14 +86,14 @@
       "image": "vertical wide shot of {쿵쿵} rearing back with both front paws lifted high in a pebble-strewn ravine, the stones beginning to tremble",
       "motion": "He rears up and the pebbles shiver, ending with his paws at their highest, not yet down",
       "link": "컷",
-      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다."
     },
     {
-      "id": "T02-04",
+      "id": "T02-05",
       "section": "SH",
       "shot": "타이틀",
       "duration": 5,
-      "seed": 94781,
+      "seed": 96058,
       "speaker": "",
       "dialogue": "",
       "ko": "제목 카드. 언덕 위 커다란 참나무와 그 아래 파헤쳐진 흙. 하단에 제목 자리가 비어 있다.",

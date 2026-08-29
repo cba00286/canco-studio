@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 7화 예고 — 후안이 밤에 잠이 와요"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "T07-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 93900,
+      "seed": 97210,
       "speaker": "",
       "dialogue": "",
       "ko": "후안의 눈꺼풀이 천천히 내려간다. 붙잡은 밧줄이 날개에서 미끄러진다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 93907,
+      "seed": 97217,
       "speaker": "",
       "dialogue": "",
       "ko": "팽팽하던 밧줄이 반대쪽으로 확 끌려가고 셋이 앞으로 딸려가 모래에 넘어진다.",
@@ -50,14 +50,34 @@
       "image": "vertical medium shot of a tug-of-war rope wrenching sideways, {루카}, {티니} and {쿵쿵} dragged forward and tumbling onto the sand",
       "motion": "They are hauled forward, ending in a heap on the beach",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
     },
     {
       "id": "T07-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 97224,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "후안이 모래 위에 웅크려 무릎을 끌어안는다. 고개가 깊이 숙여져 있다.",
+      "ko_motion": "펭귄이 무릎을 끌어안고 몸을 웅크리며 부리가 아래를 향한다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 후안 hugging his knees on the sand, head bowed low, shoulders drawn in. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {후안} hugging his knees on the sand, head bowed low, shoulders drawn in",
+      "motion": "He curls in tighter, ending completely folded over his own knees",
+      "link": "컷",
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+    },
+    {
+      "id": "T07-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 93914,
+      "seed": 97231,
       "speaker": "",
       "dialogue": "",
       "ko": "밤의 방. 쿵쿵이의 뿔에서 아주 은은한 금빛 청록 빛이 오르고 천장에 오로라 같은 물결이 번진다.",
@@ -66,18 +86,18 @@
       "cast": [
         "쿵쿵"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of a dark bedroom, very faint golden-teal light welling along 쿵쿵's horns and soft waves of it beginning to ripple across the ceiling. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
-      "image": "vertical wide shot of a dark bedroom, very faint golden-teal light welling along {쿵쿵}'s horns and soft waves of it beginning to ripple across the ceiling",
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of a dark bedroom, very faint golden-teal light welling over 쿵쿵's three small horns and soft waves of it beginning to ripple across the ceiling. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of a dark bedroom, very faint golden-teal light welling over {쿵쿵}'s three small horns and soft waves of it beginning to ripple across the ceiling",
       "motion": "The light spreads across the ceiling, ending with the whole room faintly glowing",
       "link": "컷",
-      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다."
     },
     {
-      "id": "T07-04",
+      "id": "T07-05",
       "section": "SH",
       "shot": "타이틀",
       "duration": 5,
-      "seed": 93921,
+      "seed": 97238,
       "speaker": "",
       "dialogue": "",
       "ko": "제목 카드. 별이 가득한 꿈속 하늘을 날개를 활짝 편 펭귄이 날아간다. 하단에 제목 자리가 비어 있다.",

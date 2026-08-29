@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 루비는 이런 아이야"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "C06-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 95380,
+      "seed": 95800,
       "speaker": "",
       "dialogue": "",
       "ko": "루비 얼굴 클로즈업. 화면 아래에서 쏙 올라와 정면을 본다. 커다란 보라 눈이 반짝인다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 95387,
+      "seed": 95807,
       "speaker": "",
       "dialogue": "",
       "ko": "루비가 별이 달린 나무 지팡이를 머리 위로 크게 한 바퀴 휘두르고, 두 손을 가슴 앞에 모은다.",
@@ -53,9 +53,34 @@
     {
       "id": "C06-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 95814,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루비가 친구들의 손을 하나씩 잡아 이어 붙여 동그란 원을 만든다.",
+      "ko_motion": "루비가 손을 하나씩 잡아 이어 붙이고 마지막에 원이 닫힌다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루비 taking the paws of 루카, 미미, 티니, 후안 and 쿵쿵 one by one and joining them into a circle. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루비} taking the paws of {루카}, {미미}, {티니}, {후안} and {쿵쿵} one by one and joining them into a circle",
+      "motion": "The moment plays out fully, ending with the group settled and 루비 clearly at the centre of it",
+      "link": "컷",
+      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다."
+    },
+    {
+      "id": "C06-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 95394,
+      "seed": 95821,
       "speaker": "",
       "dialogue": "",
       "ko": "땅에 반쯤 박힌 거대한 당근이 그대로 집이다. 위로 초록 잎이 무성하게 솟아 있고 마당 전체가 당근밭이다.",
@@ -68,14 +93,14 @@
       "image": "vertical wide shot of {루비} in front of a house made from a giant carrot half-buried in the ground, thick green leaves sprouting from the top, the whole yard planted with carrots and lettuce",
       "motion": "the rabbit turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
-      "link_ko": "행동에서 집으로. 어디 사는 아이인지 한 컷에 보여준다."
+      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다."
     },
     {
-      "id": "C06-04",
+      "id": "C06-05",
       "section": "SH",
       "shot": "MS",
       "duration": 5,
-      "seed": 95401,
+      "seed": 95828,
       "speaker": "루비",
       "dialogue": "다 같이 손잡고 가자!",
       "ko": "루비가 정면을 보고 시그니처 자세를 취한다. 배경은 단순하게 비우고, 아래쪽에 이름을 넣을 여백을 둔다.",

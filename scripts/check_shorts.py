@@ -24,11 +24,17 @@ for d in dirs:
     D = json.loads((d / "prompts" / "shots_v2.json").read_text(encoding="utf-8"))
     S = D["shots"]
     total = sum(x["duration"] for x in S)
+    kind = D.get("kind", "")
+    spec = FMT["종류별"].get(kind)
+    if spec is None:
+        print("%-5s %s" % (d.name, "✗ 모르는 종류: %r" % kind)); fails.append(d.name); continue
     bad = []
-    if not FMT["runtime_sec"]["min"] <= total <= FMT["runtime_sec"]["max"]:
-        bad.append("길이 %d초" % total)
-    if not FMT["cuts"]["min"] <= len(S) <= FMT["cuts"]["max"]:
-        bad.append("컷 %d개" % len(S))
+    if not spec["runtime_sec"]["min"] <= total <= spec["runtime_sec"]["max"]:
+        bad.append("길이 %d초 (%s 는 %d~%d초)" % (total, kind,
+                   spec["runtime_sec"]["min"], spec["runtime_sec"]["max"]))
+    if not spec["cuts"]["min"] <= len(S) <= spec["cuts"]["max"]:
+        bad.append("컷 %d개 (%s 는 %d~%d개)" % (len(S), kind,
+                   spec["cuts"]["min"], spec["cuts"]["max"]))
     off = [x["id"] for x in S
            if not FMT["clip_sec"]["min"] <= x["duration"] <= FMT["clip_sec"]["max"]]
     if off:

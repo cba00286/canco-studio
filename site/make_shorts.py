@@ -15,10 +15,12 @@ e = lambda s: html.escape(str(s), quote=True)
 FMT = json.loads((ROOT / "shorts_format.json").read_text(encoding="utf-8"))
 NEG = json.loads((ROOT / "bible" / "characters.json").read_text(encoding="utf-8"))["negative_prompt"]
 
-KINDS = [("캐릭터 소개", "여섯을 한 편씩. 본편이 올라가기 전에 얼굴부터 각인시킨다."),
-         ("예고편", "본편 1~10화. 결말은 보여주지 않는다."),
-         ("파워", "쿵쿵이의 능력. 시각적으로 가장 강한 편들이다."),
-         ("오늘 한마디", "반복 포맷. 두 번째 컷과 한마디만 바꾸면 40편까지 나온다.")]
+KINDS = [("캐릭터 소개", "23초 · 얼굴 → 그 아이를 정의하는 행동 → 무리 안에서의 자리 → 자기 집 → 이름과 한마디. "
+                       "본편이 올라가기 전에 얼굴부터 각인시킨다."),
+         ("예고편", "23초 · 위기 → 상황 → 막힌 순간 → 실마리 → 제목. 결말은 보여주지 않는다."),
+         ("파워", "23초 · 능력만 보여주면 «그래서 뭐»가 된다. 그 힘이 무엇을 했는지까지 보여준다."),
+         ("오늘 한마디", "30초 · 반복 포맷. 상황 → 문제 → 전환점 → 해결이 있어야 교훈이 들린다. "
+                       "컷1·6·7 은 고정이라 한 번 뽑아 두면 계속 재사용한다.")]
 
 shorts = []
 for d in sorted(x for x in (ROOT / "shorts").iterdir()
@@ -160,7 +162,7 @@ BODY = f'''<title>쿵쿵이 쇼츠 22편</title>
 <header>
   <p class="eyebrow">쿵쿵이와 친구들 · 세로 9:16</p>
   <h1>쇼츠 22편</h1>
-  <p class="lede">편당 {FMT["runtime_sec"]["target"]}초 · 컷 {FMT["cuts"]["target"]}개.
+  <p class="lede">짧은 것은 23초 5컷, 「오늘 한마디」는 30초 7컷.
   버튼을 누르면 프롬프트가 복사됩니다. OpenArt 에 그대로 붙여 넣으세요.</p>
 </header>
 

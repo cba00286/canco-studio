@@ -7,18 +7,18 @@
   "sections": {
     "SH": "쇼츠 · 1화 예고 — 안녕, 나는 쿵쿵이야!"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "T01-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 97210,
+      "seed": 96220,
       "speaker": "",
       "dialogue": "",
-      "ko": "햇빛이 관통하는 거대한 얼음덩어리 초근접. 그 안쪽 깊은 곳에서 창백한 곡면이 드러나고 청록 빛이 느리게 움직인다.",
+      "ko": "햇빛이 관통하는 거대한 얼음덩어리 초근접. 안쪽 깊은 곳에 창백한 곡면이 드러나고 청록 빛이 느리게 움직인다.",
       "ko_motion": "얼음 속 빛이 한 번 맥동하고 카메라가 조금 더 밀고 들어간다.",
       "shot_ko": "클로즈업",
       "cast": [],
@@ -33,7 +33,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 97217,
+      "seed": 96227,
       "speaker": "",
       "dialogue": "",
       "ko": "다섯 친구가 얼음덩어리를 올려다본다. 입이 벌어져 있고 루카가 팔을 뻗어 뒤를 막는다.",
@@ -50,14 +50,34 @@
       "image": "vertical medium shot of {루카}, {후안}, {미미}, {티니} and {루비} staring up at the ice, mouths open, {루카} flinging an arm out to hold the others back",
       "motion": "They freeze staring upward, ending with the arm held out and no one moving",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
     },
     {
       "id": "T01-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 96234,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "후안이 얼음을 두 날개로 밀어보지만 꿈쩍도 하지 않는다. 발이 미끄러진다.",
+      "ko_motion": "펭귄이 온몸으로 얼음을 밀다가 발이 미끄러져 뒤로 주저앉는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 후안 shoving at the huge ice block with both flippers, his webbed feet skidding out from under him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {후안} shoving at the huge ice block with both flippers, his webbed feet skidding out from under him",
+      "motion": "He pushes with everything he has, ending sat down hard on the ground, the ice unmoved",
+      "link": "컷",
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+    },
+    {
+      "id": "T01-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 97224,
+      "seed": 96241,
       "speaker": "",
       "dialogue": "",
       "ko": "밤. 작아진 얼음덩어리를 다섯이 둥글게 둘러싸고 껴안은 채 잠들어 있다. 달빛과 물방울.",
@@ -68,14 +88,14 @@
       "image": "vertical wide shot at night of the five asleep in a ring pressed against the shrinking ice block, moonlight and dripping meltwater",
       "motion": "They breathe slowly together, ending with a large crack appearing across the ice",
       "link": "컷",
-      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다."
     },
     {
-      "id": "T01-04",
+      "id": "T01-05",
       "section": "SH",
       "shot": "타이틀",
       "duration": 5,
-      "seed": 97231,
+      "seed": 96248,
       "speaker": "",
       "dialogue": "",
       "ko": "제목 카드. 새벽빛 강가에 갓 깨어난 쿵쿵이의 실루엣. 하단에 제목 자리가 비어 있다.",

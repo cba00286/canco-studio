@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 혼자서는 못 버텨"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "P03-01",
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 94550,
+      "seed": 96210,
       "speaker": "",
       "dialogue": "",
       "ko": "폭우 속. 쿵쿵이가 집 앞에 자리를 잡고 두 앞발을 내리찍는다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "WS",
       "duration": 4,
-      "seed": 94557,
+      "seed": 96217,
       "speaker": "",
       "dialogue": "",
       "ko": "빛이 앞발에서 퍼지다 위로 휘어 올라가 집을 통째로 덮는 돔이 된다.",
@@ -60,7 +60,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 5,
-      "seed": 94564,
+      "seed": 96224,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이의 뒷다리가 떨리고 발이 진흙 속에서 미끄러진다. 돔이 흔들린다.",
@@ -80,7 +80,7 @@
       "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 94571,
+      "seed": 96231,
       "speaker": "",
       "dialogue": "",
       "ko": "다섯이 빗속으로 달려 나와 쿵쿵이를 둘러싸고 등에 손을 얹는다. 돔이 다시 밝아진다.",
@@ -99,6 +99,31 @@
       "motion": "Hand after hand presses down, ending with the dome blazing and steady",
       "link": "연속",
       "link_ko": "미끄러지던 그 순간 다섯이 도착한다."
+    },
+    {
+      "id": "P03-05",
+      "section": "SH",
+      "shot": "WS",
+      "duration": 5,
+      "seed": 96238,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "비가 그치고 돔이 흩어진다. 그 아래 바위 집이 멀쩡하게 서 있고 여섯이 진흙투성이로 웃는다.",
+      "ko_motion": "돔이 빛 입자로 부서져 흩어지고 여섯이 진흙 위에서 웃는다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of the dome dissolving into motes as the rain stops, the rock house standing completely undamaged, all six friends muddy and laughing beneath it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of the dome dissolving into motes as the rain stops, the rock house standing completely undamaged, all six friends muddy and laughing beneath it",
+      "motion": "The dome breaks apart, ending with the house clear and the six laughing in the mud",
+      "link": "컷",
+      "link_ko": "마무리. 무엇을 지켰는지 보여주고 끝낸다."
     }
   ]
 }

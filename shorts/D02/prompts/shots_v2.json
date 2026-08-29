@@ -1,5 +1,5 @@
 {
-  "_comment": "쇼츠 D02 「쿵쿵이의 오늘 한마디 · 4화」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 반복 포맷. 두 번째 컷과 한마디만 바꾸면 40편까지 만들 수 있다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "_comment": "쇼츠 D02 「쿵쿵이의 오늘 한마디 · 4화」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 반복 포맷. 컷1·6·7 은 고정이고 컷2~5 만 그 화의 이야기로 바꾼다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
   "kind": "오늘 한마디",
   "title": "쿵쿵이의 오늘 한마디 · 4화",
   "hook": "쿵쿵이가 화면 아래에서 쏙 올라온다",
@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이의 오늘 한마디 · 4화"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 7,
+  "total_seconds": 30,
   "shots": [
     {
       "id": "D02-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 98000,
+      "seed": 91150,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이가 화면 아래에서 쏙 올라와 정면을 본다. 배경은 단순한 한 색이다.",
@@ -28,35 +28,98 @@
       "image": "vertical close-up of {쿵쿵} popping up into frame from the bottom against a clean single-colour background, looking straight at camera",
       "motion": "He rises into frame, ending centred and looking directly at camera",
       "link": "전환",
-      "link_ko": "포맷 고정 컷. 매 편 똑같이 시작한다."
+      "link_ko": "【고정】 매 편 똑같이 시작한다."
     },
     {
       "id": "D02-02",
       "section": "SH",
       "shot": "MS",
-      "duration": 5,
-      "seed": 98007,
+      "duration": 4,
+      "seed": 91157,
       "speaker": "",
       "dialogue": "",
-      "ko": "단단히 다져진 모래 트랙 위를 빨간 장난감 자동차가 달리고 루카와 후안이 나란히 뛰며 따라간다.",
-      "ko_motion": "자동차가 트랙을 미끄러지듯 달리고 둘이 양옆에서 나란히 달린다.",
+      "ko": "루카가 반짝이는 빨간 장난감 자동차를 머리 위로 들어 올려 자랑한다. 뒤에서 후안이 바라본다.",
+      "ko_motion": "호랑이가 자동차를 높이 들고 한 바퀴 돌고, 뒤의 펭귄이 눈을 반짝인다.",
       "shot_ko": "미디엄샷",
       "cast": [
         "루카",
         "후안"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of a red toy car racing along a packed sand track with 루카 and 후안 running alongside it side by side, sand flying. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
-      "image": "vertical medium shot of a red toy car racing along a packed sand track with {루카} and {후안} running alongside it side by side, sand flying",
-      "motion": "They run neck and neck beside the car, ending with all three level",
-      "link": "컷",
-      "link_ko": "그날의 장면. 이 컷만 매 편 바뀐다."
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 holding a shiny red toy car up over his head and turning proudly on a beach, 후안 watching from behind with shining eyes. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} holding a shiny red toy car up over his head and turning proudly on a beach, {후안} watching from behind with shining eyes",
+      "motion": "He spins showing it off, ending with the car held high and {후안} still staring",
+      "link": "전환",
+      "link_ko": "상황. 무슨 일이 벌어지고 있는지."
     },
     {
       "id": "D02-03",
       "section": "SH",
       "shot": "MS",
+      "duration": 4,
+      "seed": 91164,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "후안이 조심스레 날개를 내밀지만 루카가 몸을 돌려 자동차를 등 뒤로 감춘다. 후안의 날개가 내려간다.",
+      "ko_motion": "펭귄이 날개를 내밀자 호랑이가 홱 돌아서고 날개가 천천히 내려간다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 후안 reaching a flipper toward the car while 루카 twists away and hides it behind his back, the flipper slowly lowering. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {후안} reaching a flipper toward the car while {루카} twists away and hides it behind his back, the flipper slowly lowering",
+      "motion": "He turns away, ending with the flipper down and {후안} looking at the sand",
+      "link": "컷",
+      "link_ko": "문제. 무엇이 잘못됐는지."
+    },
+    {
+      "id": "D02-04",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 91171,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "혼자 놀던 루카가 자동차를 들고 후안에게 걸어와 앞으로 내민다. 조금 쑥스러운 얼굴.",
+      "ko_motion": "호랑이가 걸어와 자동차를 앞으로 내밀고 시선을 살짝 피한다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 walking up to 후안 and holding the toy car out to him, looking a little embarrassed and glancing aside. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} walking up to {후안} and holding the toy car out to him, looking a little embarrassed and glancing aside",
+      "motion": "He offers it forward, ending with the car held steady between them",
+      "link": "컷",
+      "link_ko": "전환점. 누가 무엇을 했는지."
+    },
+    {
+      "id": "D02-05",
+      "section": "SH",
+      "shot": "WS",
       "duration": 5,
-      "seed": 98014,
+      "seed": 91178,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "단단히 다져진 모래 트랙 위를 자동차가 달리고, 둘이 양옆에서 나란히 뛰며 웃는다.",
+      "ko_motion": "자동차가 트랙을 미끄러지듯 달리고 둘이 나란히 달리며 모래를 튀긴다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카",
+        "후안"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of the red toy car racing along a packed sand track with 루카 and 후안 running alongside it side by side, sand flying, both laughing. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of the red toy car racing along a packed sand track with {루카} and {후안} running alongside it side by side, sand flying, both laughing",
+      "motion": "They run neck and neck beside the car, ending with all three level and the two of them grinning",
+      "link": "컷",
+      "link_ko": "해결. 그래서 어떻게 됐는지."
+    },
+    {
+      "id": "D02-06",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 91185,
       "speaker": "쿵쿵",
       "dialogue": "함께 나누면 재미도 두 배가 되는 거야, 쿵쿵!",
       "ko": "쿵쿵이가 정면을 보고 두 앞발을 허리에 얹은 시그니처 포즈를 취한다. 하단에 자막 자리를 비운다.",
@@ -68,15 +131,15 @@
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "vertical medium shot of {쿵쿵} planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption",
       "motion": "He settles into the pose and beams, ending held still with the bottom third clear",
-      "link": "컷",
-      "link_ko": "포맷 고정 컷. 한마디는 매 편 그 화의 교훈이다."
+      "link": "전환",
+      "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다."
     },
     {
-      "id": "D02-04",
+      "id": "D02-07",
       "section": "SH",
       "shot": "타이틀",
       "duration": 4,
-      "seed": 98021,
+      "seed": 91192,
       "speaker": "",
       "dialogue": "",
       "ko": "엔드 카드. 쿵쿵이가 손을 흔든다. 하단에 채널 이름을 넣을 여백.",
@@ -89,7 +152,7 @@
       "image": "vertical end card of {쿵쿵} waving one front paw at camera against a clean warm background, clean empty space along the bottom",
       "motion": "He waves and the camera eases back, ending held still",
       "link": "컷",
-      "link_ko": "포맷 고정 컷. 매 편 똑같이 끝난다."
+      "link_ko": "【고정】 매 편 똑같이 끝난다."
     }
   ]
 }

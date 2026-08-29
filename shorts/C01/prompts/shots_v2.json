@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이는 이런 아이야"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "C01-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 92160,
+      "seed": 90880,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이 얼굴 클로즈업. 화면 아래에서 쏙 올라와 정면을 본다. 초록 눈이 크고 반짝인다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 92167,
+      "seed": 90887,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이가 두 앞발을 번쩍 들었다가 땅을 쿵! 내리찍는다. 뿔을 따라 금빛 청록 빛이 흐르고 발밑으로 빛 고리가 퍼진다.",
@@ -53,9 +53,34 @@
     {
       "id": "C01-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 90894,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "다섯 친구가 쿵쿵이를 가운데 두고 둘러싸 환호한다. 티니가 주위를 돌고 루비가 두 손을 맞잡는다.",
+      "ko_motion": "그들이 쿵쿵이를 둘러싸고 환호하며 티니가 주위를 돈다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카, 미미, 티니, 후안 and 루비 crowded around 쿵쿵 cheering, 티니 running circles and 루비 clasping both paws together. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카}, {미미}, {티니}, {후안} and {루비} crowded around {쿵쿵} cheering, {티니} running circles and {루비} clasping both paws together",
+      "motion": "The moment plays out fully, ending with the group settled and 쿵쿵이 clearly at the centre of it",
+      "link": "컷",
+      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다."
+    },
+    {
+      "id": "C01-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 92174,
+      "seed": 90901,
       "speaker": "",
       "dialogue": "",
       "ko": "풀 언덕 위 바위를 파고들어간 둥지 바위 집 앞에 쿵쿵이가 서 있다. 위쪽에 나뭇잎 캐노피 정자가 보인다.",
@@ -68,14 +93,14 @@
       "image": "vertical wide shot of {쿵쿵} standing in front of a house dug into a rocky rise on a grassy hill, a leaf canopy pavilion above it, a fire pit and small pond in the yard",
       "motion": "the baby triceratops turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
-      "link_ko": "행동에서 집으로. 어디 사는 아이인지 한 컷에 보여준다."
+      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다."
     },
     {
-      "id": "C01-04",
+      "id": "C01-05",
       "section": "SH",
       "shot": "MS",
       "duration": 5,
-      "seed": 92181,
+      "seed": 90908,
       "speaker": "쿵쿵이",
       "dialogue": "내가 친구들을 지켜줄게, 쿵쿵!",
       "ko": "쿵쿵이가 정면을 보고 시그니처 자세를 취한다. 배경은 단순하게 비우고, 아래쪽에 이름을 넣을 여백을 둔다.",

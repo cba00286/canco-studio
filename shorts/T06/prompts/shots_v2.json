@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 6화 예고 — 티니의 코가 간질간질"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "T06-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 96710,
+      "seed": 93560,
       "speaker": "",
       "dialogue": "",
       "ko": "티니의 코 초근접. 콧등이 실룩거리며 주름이 잡힌다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 96717,
+      "seed": 93567,
       "speaker": "",
       "dialogue": "",
       "ko": "재채기 바람에 방 안 먼지가 확 피어오른다. 티니의 몸이 뒤로 튕긴다.",
@@ -48,14 +48,34 @@
       "image": "vertical medium shot of {티니} sneezing hard, a cloud of dust blowing up around her, her body rocking backward",
       "motion": "The dust billows out, ending with it hanging thick in the sunbeam",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 상황이 무엇인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
     },
     {
       "id": "T06-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 93574,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 빗자루를 들었다가 도로 내려놓는다. 쓸면 먼지가 오히려 더 날린다.",
+      "ko_motion": "코알라가 빗자루를 한 번 쓸자 먼지가 확 일어나고, 고개를 저으며 빗자루를 내려놓는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "미미"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 미미 taking one sweep with a broom, dust billowing up worse than before, then shaking her head and setting the broom down. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {미미} taking one sweep with a broom, dust billowing up worse than before, then shaking her head and setting the broom down",
+      "motion": "The sweep throws dust into the air, ending with the broom set aside and the room no cleaner",
+      "link": "컷",
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+    },
+    {
+      "id": "T06-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 96724,
+      "seed": 93581,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이가 방 한가운데 서서 앞발을 아주 살짝 들어 올린다. 주변 공기가 천천히 돌기 시작한다.",
@@ -68,14 +88,14 @@
       "image": "vertical wide shot of {쿵쿵} standing in the middle of a dusty bedroom lifting his front paws only slightly, the dust in the air beginning to spiral gently around him",
       "motion": "The air starts to turn, ending with the dust curling inward but not yet gathered",
       "link": "컷",
-      "link_ko": "해결의 실마리만 보여주고 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다."
     },
     {
-      "id": "T06-04",
+      "id": "T06-05",
       "section": "SH",
       "shot": "타이틀",
       "duration": 5,
-      "seed": 96731,
+      "seed": 93588,
       "speaker": "",
       "dialogue": "",
       "ko": "제목 카드. 먼지 하나 없이 맑은 빛이 드는 방과 창가에 널린 걸레. 하단에 제목 자리가 비어 있다.",

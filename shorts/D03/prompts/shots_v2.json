@@ -1,5 +1,5 @@
 {
-  "_comment": "쇼츠 D03 「쿵쿵이의 오늘 한마디 · 9화」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 반복 포맷. 두 번째 컷과 한마디만 바꾸면 40편까지 만들 수 있다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "_comment": "쇼츠 D03 「쿵쿵이의 오늘 한마디 · 9화」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 반복 포맷. 컷1·6·7 은 고정이고 컷2~5 만 그 화의 이야기로 바꾼다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
   "kind": "오늘 한마디",
   "title": "쿵쿵이의 오늘 한마디 · 9화",
   "hook": "쿵쿵이가 화면 아래에서 쏙 올라온다",
@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이의 오늘 한마디 · 9화"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 7,
+  "total_seconds": 30,
   "shots": [
     {
       "id": "D03-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 95990,
+      "seed": 92630,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이가 화면 아래에서 쏙 올라와 정면을 본다. 배경은 단순한 한 색이다.",
@@ -28,34 +28,98 @@
       "image": "vertical close-up of {쿵쿵} popping up into frame from the bottom against a clean single-colour background, looking straight at camera",
       "motion": "He rises into frame, ending centred and looking directly at camera",
       "link": "전환",
-      "link_ko": "포맷 고정 컷. 매 편 똑같이 시작한다."
+      "link_ko": "【고정】 매 편 똑같이 시작한다."
     },
     {
       "id": "D03-02",
       "section": "SH",
       "shot": "MS",
-      "duration": 5,
-      "seed": 95997,
+      "duration": 4,
+      "seed": 92637,
       "speaker": "",
       "dialogue": "",
-      "ko": "꽃잎 날리는 언덕 위 돗자리에 루카가 혼자 먼저 앉아 길 쪽을 지켜본다.",
-      "ko_motion": "호랑이가 돗자리에 앉아 길을 보고 꽃잎이 그 위로 천천히 내려앉는다.",
+      "ko": "미미가 손가락 세 개를 펴 보이고, 루카가 가슴을 두드리며 자신 있게 웃는다.",
+      "ko_motion": "코알라가 손가락 셋을 펴 보이고 호랑이가 가슴을 툭툭 친다.",
       "shot_ko": "미디엄샷",
       "cast": [
-        "루카"
+        "루카",
+        "미미",
+        "티니",
+        "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 sitting alone on a picnic mat in a blossom meadow, watching the path and waiting, petals drifting down around him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
-      "image": "vertical medium shot of {루카} sitting alone on a picnic mat in a blossom meadow, watching the path and waiting, petals drifting down around him",
-      "motion": "He watches the path, ending with a petal settling on his shoulder",
-      "link": "컷",
-      "link_ko": "그날의 장면. 이 컷만 매 편 바뀐다."
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 미미 holding up three fingers while 루카 thumps his own chest confidently, 티니 and 루비 beside them. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {미미} holding up three fingers while {루카} thumps his own chest confidently, {티니} and {루비} beside them",
+      "motion": "She holds up three fingers, ending with him grinning and nodding hard",
+      "link": "전환",
+      "link_ko": "상황. 무슨 일이 벌어지고 있는지."
     },
     {
       "id": "D03-03",
       "section": "SH",
       "shot": "MS",
+      "duration": 4,
+      "seed": 92644,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 침대에 엎드려 만화책에 빠져 있다. 창밖 빛이 하얀색에서 주황색으로 물든다.",
+      "ko_motion": "페이지가 빠르게 넘어가고 창으로 드는 빛이 점점 붉어진다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 sprawled on his bed completely absorbed in a comic, pages flipping fast, the light through the window turning from white to deep orange. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} sprawled on his bed completely absorbed in a comic, pages flipping fast, the light through the window turning from white to deep orange",
+      "motion": "The pages flip on, ending with the room fully orange and him still reading",
+      "link": "컷",
+      "link_ko": "문제. 무엇이 잘못됐는지."
+    },
+    {
+      "id": "D03-04",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 92651,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "텅 빈 꽃밭. 풀밭에 눌린 자국 세 개만 남아 있고 노을이 붉다.",
+      "ko_motion": "빈 꽃밭 위로 꽃잎이 날리고 눌린 풀 자국 위에 내려앉는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of an empty blossom meadow at sunset, three flattened patches in the grass where friends had waited, petals drifting down",
+      "image": "vertical medium shot of an empty blossom meadow at sunset, three flattened patches in the grass where friends had waited, petals drifting down",
+      "motion": "Petals settle on the flattened grass, ending held on the empty meadow",
+      "link": "컷",
+      "link_ko": "전환점. 누가 무엇을 했는지."
+    },
+    {
+      "id": "D03-05",
+      "section": "SH",
+      "shot": "WS",
       "duration": 5,
-      "seed": 96004,
+      "seed": 92658,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "다음 날 오후. 루카가 돗자리에 혼자 먼저 앉아 길을 지켜보고, 셋이 언덕을 넘어온다.",
+      "ko_motion": "호랑이가 돗자리에서 벌떡 일어나 두 팔을 흔들고 셋이 언덕 위로 올라온다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루카",
+        "미미",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of 루카 jumping up from a picnic mat and waving both arms as 미미, 티니 and 루비 come over the blossom hill toward him. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of {루카} jumping up from a picnic mat and waving both arms as {미미}, {티니} and {루비} come over the blossom hill toward him",
+      "motion": "He leaps up waving, ending with all four together on the mat",
+      "link": "컷",
+      "link_ko": "해결. 그래서 어떻게 됐는지."
+    },
+    {
+      "id": "D03-06",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 92665,
       "speaker": "쿵쿵",
       "dialogue": "시간 약속은 친구 사이의 가장 소중한 신뢰야!",
       "ko": "쿵쿵이가 정면을 보고 두 앞발을 허리에 얹은 시그니처 포즈를 취한다. 하단에 자막 자리를 비운다.",
@@ -67,15 +131,15 @@
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "vertical medium shot of {쿵쿵} planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption",
       "motion": "He settles into the pose and beams, ending held still with the bottom third clear",
-      "link": "컷",
-      "link_ko": "포맷 고정 컷. 한마디는 매 편 그 화의 교훈이다."
+      "link": "전환",
+      "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다."
     },
     {
-      "id": "D03-04",
+      "id": "D03-07",
       "section": "SH",
       "shot": "타이틀",
       "duration": 4,
-      "seed": 96011,
+      "seed": 92672,
       "speaker": "",
       "dialogue": "",
       "ko": "엔드 카드. 쿵쿵이가 손을 흔든다. 하단에 채널 이름을 넣을 여백.",
@@ -88,7 +152,7 @@
       "image": "vertical end card of {쿵쿵} waving one front paw at camera against a clean warm background, clean empty space along the bottom",
       "motion": "He waves and the camera eases back, ending held still",
       "link": "컷",
-      "link_ko": "포맷 고정 컷. 매 편 똑같이 끝난다."
+      "link_ko": "【고정】 매 편 똑같이 끝난다."
     }
   ]
 }

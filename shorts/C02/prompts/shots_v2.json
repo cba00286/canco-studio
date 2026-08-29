@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 루카는 이런 아이야"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "C02-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 91230,
+      "seed": 90420,
       "speaker": "",
       "dialogue": "",
       "ko": "루카 얼굴 클로즈업. 화면 아래에서 쏙 올라와 정면을 본다. 눈이 장난기로 반짝인다.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 91237,
+      "seed": 90427,
       "speaker": "",
       "dialogue": "",
       "ko": "루카가 오버올 앞주머니에서 비행 고글을 꺼내 눈에 척 쓰고, 다른 손으로 낡은 지도를 펼쳐 든다.",
@@ -53,9 +53,33 @@
     {
       "id": "C02-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 90434,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "루카가 앞장서 걷고 넷이 그 뒤를 따른다. 루카가 팔을 옆으로 뻗어 뒤를 막았다가 앞을 가리킨다.",
+      "ko_motion": "루카가 팔을 뻗어 뒤를 막았다가 앞을 가리키고 넷이 따라 움직인다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루카 striding ahead of 미미, 티니, 후안 and 쿵쿵, flinging one arm sideways to hold them back and then pointing forward. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루카} striding ahead of {미미}, {티니}, {후안} and {쿵쿵}, flinging one arm sideways to hold them back and then pointing forward",
+      "motion": "The moment plays out fully, ending with the group settled and 루카 clearly at the centre of it",
+      "link": "컷",
+      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다."
+    },
+    {
+      "id": "C02-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 91244,
+      "seed": 90441,
       "speaker": "",
       "dialogue": "",
       "ko": "큰 나무를 감아 올라간 2층 나무집 앞. 꼭대기에 전망대와 망원경이 보이고 사다리가 여러 갈래로 나 있다.",
@@ -68,14 +92,14 @@
       "image": "vertical wide shot of {루카} in front of a two-storey treehouse wrapped around a huge trunk, a lookout deck and telescope at the top, several ladders running up it",
       "motion": "the tiger cub turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
-      "link_ko": "행동에서 집으로. 어디 사는 아이인지 한 컷에 보여준다."
+      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다."
     },
     {
-      "id": "C02-04",
+      "id": "C02-05",
       "section": "SH",
       "shot": "MS",
       "duration": 5,
-      "seed": 91251,
+      "seed": 90448,
       "speaker": "루카",
       "dialogue": "가자! 아무도 안 가본 데로!",
       "ko": "루카가 정면을 보고 시그니처 자세를 취한다. 배경은 단순하게 비우고, 아래쪽에 이름을 넣을 여백을 둔다.",

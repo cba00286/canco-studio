@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 미미는 이런 아이야"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 5,
+  "total_seconds": 23,
   "shots": [
     {
       "id": "C03-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 96190,
+      "seed": 93430,
       "speaker": "",
       "dialogue": "",
       "ko": "미미 얼굴 클로즈업. 화면 아래에서 쏙 올라와 정면을 본다. 동그란 금테 안경 너머 회녹색 눈.",
@@ -35,7 +35,7 @@
       "section": "SH",
       "shot": "MS",
       "duration": 4,
-      "seed": 96197,
+      "seed": 93437,
       "speaker": "",
       "dialogue": "",
       "ko": "미미가 커다란 나뭇잎 하나를 눈앞까지 들어 올려 안경 너머로 자세히 들여다보고, 다른 손으로 수첩에 적는다.",
@@ -53,9 +53,33 @@
     {
       "id": "C03-03",
       "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 93444,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "미미가 무언가를 발견해 쭈그려 앉자, 넷이 어깨너머로 몰려와 함께 들여다본다.",
+      "ko_motion": "미미가 쭈그려 앉고 넷이 차례로 몰려와 머리를 맞댄다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵",
+        "루카",
+        "후안",
+        "미미",
+        "티니"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 미미 crouching over something on the ground while 루카, 티니, 후안 and 쿵쿵 crowd in over her shoulders to look. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {미미} crouching over something on the ground while {루카}, {티니}, {후안} and {쿵쿵} crowd in over her shoulders to look",
+      "motion": "The moment plays out fully, ending with the group settled and 미미 clearly at the centre of it",
+      "link": "컷",
+      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다."
+    },
+    {
+      "id": "C03-04",
+      "section": "SH",
       "shot": "WS",
       "duration": 5,
-      "seed": 96204,
+      "seed": 93451,
       "speaker": "",
       "dialogue": "",
       "ko": "커다란 유칼립투스 잎 여러 장을 겹쳐 세운 집 앞. 잎맥이 그대로 지붕 구조가 되어 있고 앞에 작은 연못이 있다.",
@@ -68,14 +92,14 @@
       "image": "vertical wide shot of {미미} in front of a house built from several huge overlapping eucalyptus leaves, the leaf veins forming the roof structure, a small lily pond in front",
       "motion": "the koala turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
-      "link_ko": "행동에서 집으로. 어디 사는 아이인지 한 컷에 보여준다."
+      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다."
     },
     {
-      "id": "C03-04",
+      "id": "C03-05",
       "section": "SH",
       "shot": "MS",
       "duration": 5,
-      "seed": 96211,
+      "seed": 93458,
       "speaker": "미미",
       "dialogue": "음... 이건 처음 보는 건데?",
       "ko": "미미가 정면을 보고 시그니처 자세를 취한다. 배경은 단순하게 비우고, 아래쪽에 이름을 넣을 여백을 둔다.",

@@ -1,5 +1,5 @@
 {
-  "_comment": "쇼츠 D01 「쿵쿵이의 오늘 한마디 · 1화」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 반복 포맷. 두 번째 컷과 한마디만 바꾸면 40편까지 만들 수 있다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
+  "_comment": "쇼츠 D01 「쿵쿵이의 오늘 한마디 · 1화」. 9:16 세로. OpenArt 를 쓰지 않으므로 캐릭터는 마스터 시트를 레퍼런스로 첨부해 고정한다(sheet 모드). 반복 포맷. 컷1·6·7 은 고정이고 컷2~5 만 그 화의 이야기로 바꾼다. 본편 컷을 잘라 쓸 수 없다 — 세로로 처음부터 만든 구도다.",
   "kind": "오늘 한마디",
   "title": "쿵쿵이의 오늘 한마디 · 1화",
   "hook": "쿵쿵이가 화면 아래에서 쏙 올라온다",
@@ -7,15 +7,15 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이의 오늘 한마디 · 1화"
   },
-  "total_shots": 4,
-  "total_seconds": 18,
+  "total_shots": 7,
+  "total_seconds": 30,
   "shots": [
     {
       "id": "D01-01",
       "section": "SH",
       "shot": "CU",
       "duration": 4,
-      "seed": 96330,
+      "seed": 98680,
       "speaker": "",
       "dialogue": "",
       "ko": "쿵쿵이가 화면 아래에서 쏙 올라와 정면을 본다. 배경은 단순한 한 색이다.",
@@ -28,35 +28,101 @@
       "image": "vertical close-up of {쿵쿵} popping up into frame from the bottom against a clean single-colour background, looking straight at camera",
       "motion": "He rises into frame, ending centred and looking directly at camera",
       "link": "전환",
-      "link_ko": "포맷 고정 컷. 매 편 똑같이 시작한다."
+      "link_ko": "【고정】 매 편 똑같이 시작한다."
     },
     {
       "id": "D01-02",
       "section": "SH",
       "shot": "MS",
-      "duration": 5,
-      "seed": 96337,
+      "duration": 4,
+      "seed": 98687,
       "speaker": "",
       "dialogue": "",
-      "ko": "쿵쿵이가 흠뻑 젖은 채 통나무를 붙잡은 루비를 끌어 올린다. 급류가 통나무에 막혀 하얗게 부서진다.",
-      "ko_motion": "아기 공룡이 앞발을 뻗어 루비를 끌어 올리고 물이 통나무에 부딪혀 튄다.",
+      "ko": "루비가 물가에서 별 지팡이를 흔들며 놀고 있다. 발밑의 무른 흙에 금이 가기 시작한다.",
+      "ko_motion": "루비가 지팡이를 흔들고 발밑 흙에 실금이 번져 나간다.",
       "shot_ko": "미디엄샷",
       "cast": [
-        "쿵쿵",
         "루비"
       ],
-      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 pulling 루비 up onto a log jammed across a flooded stream, white water piling against it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
-      "image": "vertical medium shot of {쿵쿵} pulling {루비} up onto a log jammed across a flooded stream, white water piling against it",
-      "motion": "He hauls her up, ending with both of them safe on the log",
-      "link": "컷",
-      "link_ko": "그날의 장면. 이 컷만 매 편 바뀐다."
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 루비 playing at the edge of a swollen muddy stream, waving her star staff, the wet earth under her feet starting to crack. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {루비} playing at the edge of a swollen muddy stream, waving her star staff, the wet earth under her feet starting to crack",
+      "motion": "She waves the staff, ending with the crack spreading right under her",
+      "link": "전환",
+      "link_ko": "상황. 무슨 일이 벌어지고 있는지."
     },
     {
       "id": "D01-03",
       "section": "SH",
       "shot": "MS",
+      "duration": 4,
+      "seed": 98694,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "둑이 무너지고 루비가 거센 흙탕 급류에 휩쓸려 떠내려간다. 둑 위 친구들이 얼어붙는다.",
+      "ko_motion": "흙이 무너지며 루비가 물에 빠져 떠내려가고 친구들이 그 자리에 굳는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "루카",
+        "티니",
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of the bank giving way and 루비 swept into the churning brown current, 루카 and 티니 frozen on the bank above. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of the bank giving way and {루비} swept into the churning brown current, {루카} and {티니} frozen on the bank above",
+      "motion": "She is carried downstream fast, ending with her one paw reaching up out of the water",
+      "link": "컷",
+      "link_ko": "문제. 무엇이 잘못됐는지."
+    },
+    {
+      "id": "D01-04",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 4,
+      "seed": 98701,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "쿵쿵이가 서툰 다리로 둑을 달려 물가에서 미끄러지듯 멈추며 두 앞발을 내리찍는다.",
+      "ko_motion": "아기 공룡이 달려와 미끄러지며 멈추고 앞발로 땅을 강하게 찍는다.",
+      "shot_ko": "미디엄샷",
+      "cast": [
+        "쿵쿵"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 charging along the bank and skidding to a halt at the water's edge, driving both front paws down into the earth. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical medium shot of {쿵쿵} charging along the bank and skidding to a halt at the water's edge, driving both front paws down into the earth",
+      "motion": "He skids and slams down, ending with both paws buried and the ground shuddering",
+      "link": "컷",
+      "link_ko": "전환점. 누가 무엇을 했는지."
+    },
+    {
+      "id": "D01-05",
+      "section": "SH",
+      "shot": "WS",
       "duration": 5,
-      "seed": 96344,
+      "seed": 98708,
+      "speaker": "",
+      "dialogue": "",
+      "ko": "빛의 고리가 통나무를 밀어 개울을 가로막고, 떠내려오던 루비가 그것을 붙잡는다.",
+      "ko_motion": "빛 고리가 통나무를 굴려 개울에 걸치고 루비가 두 앞발로 붙잡아 몸을 끌어 올린다.",
+      "shot_ko": "풀샷",
+      "cast": [
+        "루비"
+      ],
+      "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of a ring of golden-teal light rolling a fallen log across the stream, 루비 sweeping into it and grabbing on with both paws. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
+      "image": "vertical wide shot of a ring of golden-teal light rolling a fallen log across the stream, {루비} sweeping into it and grabbing on with both paws",
+      "motion": "The log jams across and she catches it, ending with her safe on the log, gasping",
+      "link": "컷",
+      "link_ko": "해결. 그래서 어떻게 됐는지.",
+      "transition": {
+        "type": "fadewhite",
+        "sec": 0.35,
+        "why": "빛이 통나무를 미는 순간"
+      }
+    },
+    {
+      "id": "D01-06",
+      "section": "SH",
+      "shot": "MS",
+      "duration": 5,
+      "seed": 98715,
       "speaker": "쿵쿵",
       "dialogue": "내가 친구들을 지켜줄게, 쿵쿵!",
       "ko": "쿵쿵이가 정면을 보고 두 앞발을 허리에 얹은 시그니처 포즈를 취한다. 하단에 자막 자리를 비운다.",
@@ -68,15 +134,15 @@
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical medium shot of 쿵쿵 planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "vertical medium shot of {쿵쿵} planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption",
       "motion": "He settles into the pose and beams, ending held still with the bottom third clear",
-      "link": "컷",
-      "link_ko": "포맷 고정 컷. 한마디는 매 편 그 화의 교훈이다."
+      "link": "전환",
+      "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다."
     },
     {
-      "id": "D01-04",
+      "id": "D01-07",
       "section": "SH",
       "shot": "타이틀",
       "duration": 4,
-      "seed": 96351,
+      "seed": 98722,
       "speaker": "",
       "dialogue": "",
       "ko": "엔드 카드. 쿵쿵이가 손을 흔든다. 하단에 채널 이름을 넣을 여백.",
@@ -89,7 +155,7 @@
       "image": "vertical end card of {쿵쿵} waving one front paw at camera against a clean warm background, clean empty space along the bottom",
       "motion": "He waves and the camera eases back, ending held still",
       "link": "컷",
-      "link_ko": "포맷 고정 컷. 매 편 똑같이 끝난다."
+      "link_ko": "【고정】 매 편 똑같이 끝난다."
     }
   ]
 }
