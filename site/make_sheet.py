@@ -18,11 +18,11 @@ DIST.mkdir(parents=True, exist_ok=True)
 
 CHARS = json.loads(bible.chars_path(PROMPTS).read_text(encoding="utf-8"))
 SHOTS = json.loads((PROMPTS / "shots_v2.json").read_text(encoding="utf-8"))
-ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비"]
+ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비", "노을"]
 
 data = {
   "sections": SHOTS["sections"],
-  "negative": CHARS["negative_prompt"],
+  "negative": bible.negative(CHARS, SHOTS),
   "sheets": CHARS["master_sheet_prompts"],
   "heights": {n: c.get("height") for n, c in CHARS["characters"].items()},
   "shots": [{"id": s["id"], "sec": s["section"], "shot": s["shot"], "shotko": s["shot_ko"],
@@ -348,13 +348,13 @@ footer{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);color:v
 <main id="list"></main>
 
 <footer>
-  총 60컷 · 276초(4분 36초) · 나레이션 12 · 캐릭터 대사 12
+  총 __CUTS__컷 · __SEC__초(__MIN__분 __SS__초) · 나레이션 __NARR__ · 캐릭터 대사 __CHAR__
 </footer>
 </div>
 
 <script>
 const DATA = __DATA__;
-const KEY = "kungkung-ep1-v2-done";
+const KEY = "kungkung-__EPKEY__-v2-done";
 
 let done = {};
 try { done = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { done = {}; }
@@ -474,10 +474,13 @@ EPMETA = json.loads((ROOT / "episodes" / EP / "episode.json").read_text(encoding
 _n = int(EP[2:]) if EP[2:].isdigit() else 1
 _narr = sum(1 for s in SHOTS["shots"] if s["dialogue"] and s["speaker"] == "나레이션")
 _char = sum(1 for s in SHOTS["shots"] if s["dialogue"] and s["speaker"] != "나레이션")
+_sec = sum(s["duration"] for s in SHOTS["shots"])
 page = HTML.replace("__DATA__", json.dumps(data, ensure_ascii=False))
 for token, value in (("__NO__", EPMETA["no"]), ("__TITLE__", EPMETA["title"]),
                      ("__SEASON__", str((_n - 1) // 10 + 1)),
-                     ("__CUTS__", str(len(SHOTS["shots"]))),
+                     ("__CUTS__", str(len(SHOTS["shots"]))), ("__EPKEY__", EP),
+                     ("__SEC__", str(_sec)), ("__MIN__", str(_sec // 60)),
+                     ("__SS__", "%02d" % (_sec % 60)),
                      ("__NARR__", str(_narr)), ("__CHAR__", str(_char))):
     page = page.replace(token, value)
 

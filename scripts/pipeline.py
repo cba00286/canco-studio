@@ -89,7 +89,7 @@ def load_prompts(shots_file: str = "scenes.json") -> tuple[dict, dict]:
                 "dialogue": shot.get("dialogue", ""),
             }
             for shot in data["shots"]
-        ]}
+        ], "negative_extras": data.get("negative_extras", [])}
     else:
         scenes = data
     return chars, scenes
@@ -282,7 +282,7 @@ def step_chars(args, chars, scenes):
         result = call_with_retry(client, api_name, allowed, {
             "prompt": prompt,
             "aspect_ratio": "16:9",
-            "negative_prompt": chars["negative_prompt"],
+            "negative_prompt": bible.negative(chars, scenes),
             "seed": entry["seed"],
             "randomize_seed": False,
             "num_inference_steps": args.steps,
@@ -334,7 +334,7 @@ def step_scenes(args, chars, scenes):
         result = call_with_retry(client, api_name, allowed, {
             "prompt": prompt,
             "aspect_ratio": "16:9",
-            "negative_prompt": chars["negative_prompt"],
+            "negative_prompt": bible.negative(chars, scenes),
             "seed": scene["seed"],
             "randomize_seed": False,
             "num_inference_steps": args.steps,
@@ -379,7 +379,7 @@ def step_videos(args, chars, scenes):
         result = call_with_retry(client, api_name, allowed, {
             "input_image": handle_file(str(keyframe)),
             "prompt": motion,
-            "negative_prompt": chars["negative_prompt"],
+            "negative_prompt": bible.negative(chars, scenes),
             "duration_seconds": scene["duration"],
             "steps": args.video_steps,
             "seed": scene["seed"],

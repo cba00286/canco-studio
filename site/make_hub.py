@@ -21,10 +21,10 @@ DIST.mkdir(parents=True, exist_ok=True)
 
 CHARS = json.loads(bible.chars_path(PROMPTS).read_text(encoding="utf-8"))
 SHOTS = json.loads((PROMPTS / "shots_v2.json").read_text(encoding="utf-8"))
-ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비"]
+ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비", "노을"]
 
 FULL = {n: ("쿵쿵이" if n == "쿵쿵" else n) for n in ORDER}
-EN = {"쿵쿵":"Kung-Kung","루카":"Luca","후안":"Juan","미미":"Mimi","티니":"Tini","루비":"Ruby"}
+EN = {"쿵쿵":"Kung-Kung","루카":"Luca","후안":"Juan","미미":"Mimi","티니":"Tini","루비":"Ruby","노을":"Noeul"}
 LOOK = json.loads(bible.looks_path(PROMPTS).read_text(encoding="utf-8"))
 chars = []
 for n in ORDER:
@@ -50,7 +50,7 @@ CHART = ""
 if _chart:
     CHART, n = refs.data_uri(_chart, max_w=1800); _bytes += n
 _n, _rep = refs.report(SHEETS, HOMES, ORDER)
-print("레퍼런스 이미지 %d장 / 13장  %.1fMB" % (_n, _bytes / 1e6), file=sys.stderr)
+print("레퍼런스 이미지 %d장 / 15장  %.1fMB" % (_n, _bytes / 1e6), file=sys.stderr)
 if _n < 13:
     print(_rep, file=sys.stderr)
 
@@ -63,7 +63,7 @@ D = {"chars": chars,
   "ep1": dict(EPMETA, cuts=len(SHOTS["shots"]))}
 
 e = lambda s: html.escape(str(s), quote=True)
-HUE = {'쿵쿵':'kung','루카':'luca','후안':'juan','미미':'mimi','티니':'tini','루비':'ruby'}
+HUE = {'쿵쿵':'kung','루카':'luca','후안':'juan','미미':'mimi','티니':'tini','루비':'ruby','노을':'noeul'}
 
 def img(uri, alt):
     """레퍼런스 이미지. 없으면 아무것도 넣지 않는다 — 빈 자리를 만들지 않는다."""

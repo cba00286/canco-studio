@@ -18,20 +18,22 @@ DIST.mkdir(parents=True, exist_ok=True)
 
 CHARS = json.loads(bible.chars_path(PROMPTS).read_text(encoding="utf-8"))
 SHOTS = json.loads((PROMPTS / "shots_v2.json").read_text(encoding="utf-8"))
-ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비"]
+ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비", "노을"]
 
 FULL = {n: ("쿵쿵이" if n == "쿵쿵" else n) for n in ORDER}
-EN = {"쿵쿵":"Kung-Kung","루카":"Luca","후안":"Juan","미미":"Mimi","티니":"Tini","루비":"Ruby"}
+EN = {"쿵쿵":"Kung-Kung","루카":"Luca","후안":"Juan","미미":"Mimi","티니":"Tini","루비":"Ruby","노을":"Noeul"}
 ONE = {"쿵쿵":"생각보다 몸이 먼저 나가는, 힘을 모르는 아기",
  "루카":"제일 먼저 나서고 혼자 곱씹는 맏이","후안":"말은 없고 제일 먼저 만져보는 막내",
  "미미":"확인한 다음에 말하는 관찰자","티니":"혼자 신나는 게 아니라 옆까지 신나게 만드는 아이",
- "루비":"마음을 먼저 읽는, 이야기의 감정 엔진"}
+ "루비":"마음을 먼저 읽는, 이야기의 감정 엔진",
+ "노을":"무리 밖에 서서, 아무도 못 본 것을 한마디로 짚는 아이"}
 VOICE = {"쿵쿵":("5~6세","높고 허스키","보통","배에서 울림이 있다"),
  "루카":("8~9세","가장 낮음","보통","문장을 끝까지 맺는다"),
  "후안":("5세","작고 몽글","느림","대사보다 감탄사"),
  "미미":("7세","낮음","가장 느림","말 앞에 뜸을 들인다"),
  "티니":("5~6세","가장 높음","가장 빠름","늘 숨이 차 있다"),
- "루비":("6~7세","높음","보통","감정 폭이 가장 크다")}
+ "루비":("6~7세","높음","보통","감정 폭이 가장 크다"),
+ "노을":("8~9세","낮고 건조","가장 느림","한 문장을 넘기지 않는다")}
 from collections import Counter
 _lines = Counter(s["speaker"] for s in SHOTS["shots"] if s["dialogue"])
 _cast = Counter(n for s in SHOTS["shots"] for n in s["cast"])

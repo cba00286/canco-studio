@@ -14,6 +14,8 @@ import json
 import sys
 from pathlib import Path
 
+import bible
+
 ROOT = Path(__file__).resolve().parent.parent
 
 
@@ -44,7 +46,11 @@ def episode_block(meta, doc, morals, prompts):
           "| 등장 | %s |" % ", ".join(cast)]
     if morals.get(meta["no"]):
         o.append("| 교훈 | %s |" % morals[meta["no"]])
-    o += ["| 대사 | 나레이션 %d줄 · 캐릭터 %d줄 |" % (narr, char), ""]
+    o.append("| 대사 | 나레이션 %d줄 · 캐릭터 %d줄 |" % (narr, char))
+    if prompts:
+        o.append("| 네거티브 | %s |" % ("공통 + 실외전용" if "실외전용" in (doc.get("negative_extras") or [])
+                                        else "공통만 (실내 컷이 있어 실외전용을 붙이지 마세요)"))
+    o.append("")
 
     cur = None
     for x in S:
@@ -113,8 +119,10 @@ def main():
                        ", ".join(doc.get("episode_cast") or [])))
         blocks.append(episode_block(meta, doc, morals, not a.no_prompts))
 
-    head = ["# 쿵쿵이와 친구들 — 시즌 1 대본집", "",
-            "1화부터 %d화까지, 컷마다 화면에 담길 내용과 대사를 그대로 옮긴 것입니다." % len(eps),
+    nos = sorted(int(e[2:]) for e in eps)
+    season = (nos[0] - 1) // 10 + 1
+    head = ["# 쿵쿵이와 친구들 — 시즌 %d 대본집" % season, "",
+            "%d화부터 %d화까지, 컷마다 화면에 담길 내용과 대사를 그대로 옮긴 것입니다." % (nos[0], nos[-1]),
             "전체 **%s** · %d화 · %d컷." % (mmss(grand), len(eps), cuts), ""]
     if not a.no_prompts:
         head += ["컷마다 «영문 프롬프트»를 펼치면 이미지·영상 프롬프트가 그대로 나옵니다. "
@@ -126,7 +134,7 @@ def main():
         head += [
             "## 만들기 전에", "",
             "**캐릭터는 트리거 워드로 고정됩니다.** 프롬프트 안의 한글 이름(쿵쿵 · 루카 · 미미 · "
-            "티니 · 후안 · 루비)이 OpenArt Characters 에 등록한 트리거 워드입니다. "
+            "티니 · 후안 · 루비 · 노을)이 OpenArt Characters 에 등록한 트리거 워드입니다. "
             "**외모를 따로 적지 마세요** — 적는 순간 등록된 얼굴을 덮어씁니다.", "",
             "**화면비는 프롬프트가 아니라 생성 화면의 설정입니다.** 본편은 16:9 로 맞춰 두세요. "
             "프롬프트에 적힌 `16:9 cinematic composition` 은 구도 힌트일 뿐 캔버스 크기를 바꾸지 않습니다.", "",
@@ -134,8 +142,11 @@ def main():
             "이음매가 사라집니다. `scripts/chain_frames.py` 가 그 프레임을 뽑아 줍니다. "
             "얼굴 레퍼런스와 혼동하지 마세요 — 얼굴은 언제나 트리거 워드로 잡습니다.", "",
             "**클립은 4~5초를 넘기지 마세요.** image2video 는 그 이상에서 얼굴이 무너집니다.", "",
-            "**네거티브 프롬프트** — 전 컷 공통입니다. 한 번 복사해서 계속 쓰세요.", "",
-            "```", chars["negative_prompt"], "```", ""]
+            "**네거티브 프롬프트** — 아래가 전 화 공통입니다. 한 번 복사해서 계속 쓰세요.", "",
+            "```", chars["negative_prompt"], "```", "",
+            "밖에서만 벌어지는 화에는 아래를 **뒤에 이어 붙이세요.** 실내가 나오는 화에는 붙이면 안 됩니다 "
+            "— 붙이면 그 화의 실내 컷과 싸웁니다. 어느 화에 붙이는지는 화마다 머리에 적어 두었습니다.", "",
+            "```", chars.get("negative_prompt_extras", {}).get("실외전용", ""), "```", ""]
     head += ["| 화 | 제목 | 길이 | 컷 | 대사 | 등장 |", "|---|---|---|---|---|---|", *rows, ""]
 
     out = ROOT / a.out

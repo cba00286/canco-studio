@@ -1,5 +1,8 @@
 {
   "_comment": "14화 「하늘을 나는 후안의 꿈」 컷 리스트. 능력은 SC3-09 한 컷, `쿵쿵_바람` 이다. 소용돌이를 옆이 아니라 위로 세운 형태로, 새 능력이 아니다(docs/13). 중요한 것은 **후안이 나는 법을 배우지 않는다**는 점이다. 쿵쿵이 떠받쳐 준 한 번뿐이고, SC4-04 에서 쿵쿵의 무릎이 꺾이면서 끝난다. 능력이 결핍을 없애 주면 «네 날갯짓을 지켜줄게» 라는 말이 무의미해진다. 노을은 EN-01~03 세 컷에만 나오고 대사가 없다 — 부러움을 들키고 도망가는 것이 이 화의 몫이다.",
+  "negative_extras": [
+    "실외전용"
+  ],
   "episode_cast": [
     "쿵쿵",
     "루카",
@@ -87,8 +90,8 @@
       "shot": "MS",
       "duration": 4,
       "seed": 53021,
-      "speaker": "",
-      "dialogue": "",
+      "speaker": "티니",
+      "dialogue": "나도 저렇게 날고 싶다!",
       "ko": "티니가 팔을 벌리고 광장을 뛰어다닌다.",
       "ko_motion": "강아지가 팔을 벌리고 광장을 빙빙 뛰어다닌다.",
       "shot_ko": "미디엄샷",
@@ -118,7 +121,7 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 turning casually toward 후안. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} turning casually toward {후안}",
-      "motion": "He turns casually toward him, ending with him facing {후안}",
+      "motion": "He turns casually toward him, ending with him facing the penguin",
       "link": "연속",
       "link_ko": "티니에서 루카로, 그리고 후안에게로."
     },
@@ -682,8 +685,8 @@
       "shot": "WS",
       "duration": 4,
       "seed": 53224,
-      "speaker": "",
-      "dialogue": "",
+      "speaker": "루비",
+      "dialogue": "다들 조용히. 놀라게 하지 마.",
       "ko": "다섯이 언덕을 올라와 멈춘다. 부르지 못한다.",
       "ko_motion": "다섯이 언덕에 올라와 멈춰 서고 아무도 부르지 못한다.",
       "shot_ko": "풀샷",
@@ -797,7 +800,7 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 쿵쿵 walking out in front of 후안 and planting his feet apart. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{쿵쿵} walking out in front of {후안} and planting his feet apart",
-      "motion": "He walks forward and plants his feet, ending with him braced in front of {후안}",
+      "motion": "He walks forward and plants his feet, ending with him braced in front of the penguin",
       "link": "연속",
       "link_ko": "결심이 행동이 된다."
     },

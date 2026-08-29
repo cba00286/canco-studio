@@ -1,5 +1,6 @@
 {
   "_comment": "11화 「무지개 다리를 건너봐!」 컷 리스트. 시즌 2의 첫 화이자 노을의 데뷔 화다. 이 화에는 쿵쿵의 능력이 나오지 않는다 — 의도된 것이다. 빛으로 만든 다리를 힘으로 잡을 수 있게 되면 «잡지 못해도 괜찮아» 라는 교훈이 성립하지 않는다. 노을은 SC2-10/11/13, SC4-08, EN-05 다섯 컷에만 나오고 대사는 두 줄이다. 노을은 아직 OpenArt Characters 에 등록되지 않았다 — 트리거 워드가 비어 있어 '{노을}' 로 나간다. 마스터 시트를 먼저 뽑아 등록한 뒤 다시 생성할 것.",
+  "negative_extras": [],
   "episode_cast": [
     "쿵쿵",
     "루카",
@@ -380,7 +381,7 @@
       ],
       "image_ref": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition, 루카 crouching down to offer his back and 쿵쿵 clambering up onto it. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them.",
       "image": "{루카} crouching down to offer his back and {쿵쿵} clambering up onto it",
-      "motion": "He crouches and the little one climbs onto his back, ending with {쿵쿵} settled on his back",
+      "motion": "He crouches and the little one climbs onto his back, ending with the little one settled on his back",
       "link": "연속",
       "link_ko": "헐떡이는 쿵쿵 앞에 루카가 등을 댄다."
     },

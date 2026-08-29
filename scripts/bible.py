@@ -29,3 +29,17 @@ def chars_path(prompts_dir=None):
 
 def looks_path(prompts_dir=None):
     return _resolve(prompts_dir, "looks.json")
+
+
+def negative(chars: dict, shots: dict | None = None) -> str:
+    """그 화에 실제로 쓸 네거티브 프롬프트.
+
+    공통 negative_prompt 뒤에, shots_v2.json 의 negative_extras 에 적힌 조각을
+    붙인다. 장소를 막는 말(«cave, indoor» 같은)은 공통에 두면 안 된다 —
+    실내가 나오는 화와 싸운다. bible/characters.json 의 _negative_comment 참고.
+    """
+    base = chars["negative_prompt"]
+    extras = chars.get("negative_prompt_extras", {})
+    names = (shots or {}).get("negative_extras", []) or []
+    add = [extras[n] for n in names if n in extras]
+    return ", ".join([base] + add)
