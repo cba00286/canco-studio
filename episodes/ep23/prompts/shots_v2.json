@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 세 번째 길 — 나무 위의 목소리",
     "EN": "엔딩 · 가족의 상봉을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "참나무숲",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "숲_낮",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "참나무숲",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "참나무숲",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "참나무숲",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "Leaves drift down onto the acorn-covered ground, ending on the acorn-covered forest floor",
       "link": "전환",
       "link_ko": "23화 첫 컷. 참나무 숲에서 시작한다.",
-      "motion_ref": "Leaves drift down onto the acorn-covered ground, ending on the acorn-covered forest floor"
+      "motion_ref": "Leaves drift down onto the acorn-covered ground, ending on the acorn-covered forest floor",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,9 @@
       "motion": "They stoop and gather acorns into baskets, ending with the seven spread across the ground",
       "link": "전환",
       "link_ko": "숲에서 그 안의 일곱으로.",
-      "motion_ref": "They stoop and gather acorns into baskets, ending with the seven spread across the ground"
+      "motion_ref": "They stoop and gather acorns into baskets, ending with the seven spread across the ground",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -87,7 +115,11 @@
       "motion": "Her ears snap up in one direction, ending with her ears locked one way",
       "link": "연속",
       "link_ko": "줍는 무리 안으로 들어간다.",
-      "motion_ref": "Her ears snap up in one direction, ending with her ears locked one way"
+      "motion_ref": "Her ears snap up in one direction, ending with her ears locked one way",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC1-04",
@@ -108,7 +140,9 @@
       "motion": "She sets the basket down and stands, ending with her standing, listening",
       "link": "연속",
       "link_ko": "귀가 서고 몸이 따라간다.",
-      "motion_ref": "She sets the basket down and stands, ending with her standing, listening"
+      "motion_ref": "She sets the basket down and stands, ending with her standing, listening",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -127,7 +161,9 @@
       "motion": "They all stop and listen, ending with the seven frozen, listening",
       "link": "연속",
       "link_ko": "한 명이 멈추자 전부 멈춘다.",
-      "motion_ref": "They all stop and listen, ending with the seven frozen, listening"
+      "motion_ref": "They all stop and listen, ending with the seven frozen, listening",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -146,7 +182,9 @@
       "motion": "A small brown tail trembles in the gap, ending on the trembling tail",
       "link": "컷",
       "link_ko": "듣는 사람들에서 소리의 자리로.",
-      "motion_ref": "A small brown tail trembles in the gap, ending on the trembling tail"
+      "motion_ref": "A small brown tail trembles in the gap, ending on the trembling tail",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -167,7 +205,9 @@
       "motion": "He moves the acorns aside one at a time, ending with the gap opened up",
       "link": "연속",
       "link_ko": "꼬리를 발견하고 파낸다.",
-      "motion_ref": "He moves the acorns aside one at a time, ending with the gap opened up"
+      "motion_ref": "He moves the acorns aside one at a time, ending with the gap opened up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -186,7 +226,11 @@
       "motion": "The tiny squirrel shakes and cries, ending on the crying baby squirrel",
       "link": "연속",
       "link_ko": "치운 자리에서 드러난다.",
-      "motion_ref": "The tiny squirrel shakes and cries, ending on the crying baby squirrel"
+      "motion_ref": "The tiny squirrel shakes and cries, ending on the crying baby squirrel",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-09",
@@ -207,7 +251,9 @@
       "motion": "He looks around and finds no one, ending with him still turning, alone",
       "link": "컷",
       "link_ko": "아기에서 주위로 시선이 간다.",
-      "motion_ref": "He looks around and finds no one, ending with him still turning, alone"
+      "motion_ref": "He looks around and finds no one, ending with him still turning, alone",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -228,7 +274,11 @@
       "motion": "She kneels to its eye level, ending with her kneeling beside it",
       "link": "연속",
       "link_ko": "둘러본 뒤에 판단이 나온다.",
-      "motion_ref": "She kneels to its eye level, ending with her kneeling beside it"
+      "motion_ref": "She kneels to its eye level, ending with her kneeling beside it",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-11",
@@ -247,7 +297,11 @@
       "motion": "It keeps crying and shaking, ending on the still-crying squirrel",
       "link": "연속",
       "link_ko": "가까이서 본다.",
-      "motion_ref": "It keeps crying and shaking, ending on the still-crying squirrel"
+      "motion_ref": "It keeps crying and shaking, ending on the still-crying squirrel",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-12",
@@ -269,7 +323,9 @@
       "motion": "She catches his wrist as he reaches, ending with his wrist held",
       "link": "컷",
       "link_ko": "울음에 성급한 반응이 나온다.",
-      "motion_ref": "She catches his wrist as he reaches, ending with his wrist held"
+      "motion_ref": "She catches his wrist as he reaches, ending with his wrist held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -290,7 +346,9 @@
       "motion": "The warm light wells up and spreads slowly, ending with the light settling over the ground",
       "link": "컷",
       "link_ko": "제지된 손 옆에서 다른 방법이 나온다.",
-      "motion_ref": "The warm light wells up and spreads slowly, ending with the light settling over the ground"
+      "motion_ref": "The warm light wells up and spreads slowly, ending with the light settling over the ground",
+      "sig": "쿵쿵_온기",
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -309,7 +367,11 @@
       "motion": "Its shaking stops and the crying fades, ending with the squirrel quiet but awake",
       "link": "연속",
       "link_ko": "빛이 아기에게 닿는다.",
-      "motion_ref": "Its shaking stops and the crying fades, ending with the squirrel quiet but awake"
+      "motion_ref": "Its shaking stops and the crying fades, ending with the squirrel quiet but awake",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-01",
@@ -328,7 +390,11 @@
       "motion": "They sit in a ring around the small animal, ending with the seven seated around it",
       "link": "전환",
       "link_ko": "진정된 뒤의 장면이다.",
-      "motion_ref": "They sit in a ring around the small animal, ending with the seven seated around it"
+      "motion_ref": "They sit in a ring around the small animal, ending with the seven seated around it",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-02",
@@ -349,7 +415,11 @@
       "motion": "He lifts it up to sit on his head, ending with the squirrel perched on his head",
       "link": "연속",
       "link_ko": "둘러앉은 자리에서 제안이 나온다.",
-      "motion_ref": "He lifts it up to sit on his head, ending with the squirrel perched on his head"
+      "motion_ref": "He lifts it up to sit on his head, ending with the squirrel perched on his head",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-03",
@@ -368,7 +438,11 @@
       "motion": "It settles between the horns and looks ahead, ending with it seated steady between the horns",
       "link": "연속",
       "link_ko": "올린 자리를 확인한다.",
-      "motion_ref": "It settles between the horns and looks ahead, ending with it seated steady between the horns"
+      "motion_ref": "It settles between the horns and looks ahead, ending with it seated steady between the horns",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-04",
@@ -389,7 +463,9 @@
       "motion": "She sniffs carefully at close range, ending with her nose lifted, holding the scent",
       "link": "컷",
       "link_ko": "태운 뒤에 방법이 나온다.",
-      "motion_ref": "She sniffs carefully at close range, ending with her nose lifted, holding the scent"
+      "motion_ref": "She sniffs carefully at close range, ending with her nose lifted, holding the scent",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -410,7 +486,9 @@
       "motion": "She leads with her nose down; they follow, ending with the line moving through the trees",
       "link": "연속",
       "link_ko": "냄새를 잡고 출발한다.",
-      "motion_ref": "She leads with her nose down; they follow, ending with the line moving through the trees"
+      "motion_ref": "She leads with her nose down; they follow, ending with the line moving through the trees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -429,7 +507,11 @@
       "motion": "The path splits three ways ahead, ending on the three-way fork",
       "link": "컷",
       "link_ko": "따라가던 길이 갈라진다.",
-      "motion_ref": "The path splits three ways ahead, ending on the three-way fork"
+      "motion_ref": "The path splits three ways ahead, ending on the three-way fork",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC2-07",
@@ -450,7 +532,9 @@
       "motion": "She sniffs each way; her ears sink, ending on her drooping ears",
       "link": "연속",
       "link_ko": "갈림길 앞에서 냄새를 잃는다.",
-      "motion_ref": "She sniffs each way; her ears sink, ending on her drooping ears"
+      "motion_ref": "She sniffs each way; her ears sink, ending on her drooping ears",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -471,7 +555,9 @@
       "motion": "His fingers split the three directions, ending with three fingers pointing three ways",
       "link": "컷",
       "link_ko": "막힌 자리에서 제안이 나온다.",
-      "motion_ref": "His fingers split the three directions, ending with three fingers pointing three ways"
+      "motion_ref": "His fingers split the three directions, ending with three fingers pointing three ways",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -492,7 +578,9 @@
       "motion": "She waves the idea away, ending with her hand lowered again",
       "link": "연속",
       "link_ko": "제안이 막힌다.",
-      "motion_ref": "She waves the idea away, ending with her hand lowered again"
+      "motion_ref": "She waves the idea away, ending with her hand lowered again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -513,7 +601,11 @@
       "motion": "She sits and begins drawing a map in the dirt, ending with the first paths drawn",
       "link": "연속",
       "link_ko": "막고 나서 대안을 만든다.",
-      "motion_ref": "She sits and begins drawing a map in the dirt, ending with the first paths drawn"
+      "motion_ref": "She sits and begins drawing a map in the dirt, ending with the first paths drawn",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-11",
@@ -532,7 +624,12 @@
       "motion": "The three drawn paths run to three places, ending on the completed three-way map",
       "link": "연속",
       "link_ko": "그리는 손으로 들어간다.",
-      "motion_ref": "The three drawn paths run to three places, ending on the completed three-way map"
+      "motion_ref": "The three drawn paths run to three places, ending on the completed three-way map",
+      "sig": null,
+      "sfx": [
+        "발소리_풀",
+        "종이"
+      ]
     },
     {
       "id": "SC2-12",
@@ -553,7 +650,11 @@
       "motion": "She rubs out one of the three paths, ending with two paths left on the map",
       "link": "연속",
       "link_ko": "지도로 하나를 지운다.",
-      "motion_ref": "She rubs out one of the three paths, ending with two paths left on the map"
+      "motion_ref": "She rubs out one of the three paths, ending with two paths left on the map",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-13",
@@ -574,7 +675,9 @@
       "motion": "She taps the nearer path, ending with her finger on the near path",
       "link": "연속",
       "link_ko": "둘 중 순서를 정한다.",
-      "motion_ref": "She taps the nearer path, ending with her finger on the near path"
+      "motion_ref": "She taps the nearer path, ending with her finger on the near path",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -595,7 +698,11 @@
       "motion": "They head down the first path together, ending with the group moving down the path",
       "link": "컷",
       "link_ko": "계획이 끝나고 출발한다.",
-      "motion_ref": "They head down the first path together, ending with the group moving down the path"
+      "motion_ref": "They head down the first path together, ending with the group moving down the path",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-15",
@@ -614,7 +721,11 @@
       "motion": "It grips a horn and looks side to side, ending with it still scanning the trees",
       "link": "연속",
       "link_ko": "걸어가는 머리 위다.",
-      "motion_ref": "It grips a horn and looks side to side, ending with it still scanning the trees"
+      "motion_ref": "It grips a horn and looks side to side, ending with it still scanning the trees",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-16",
@@ -635,7 +746,11 @@
       "motion": "She drops a twig on the path every few steps, ending with a line of twigs behind them",
       "link": "컷",
       "link_ko": "앞에서 뒤로 시선이 간다.",
-      "motion_ref": "She drops a twig on the path every few steps, ending with a line of twigs behind them"
+      "motion_ref": "She drops a twig on the path every few steps, ending with a line of twigs behind them",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-01",
@@ -654,7 +769,11 @@
       "motion": "Leaves lie piled below the empty hollow, ending on the empty hollow",
       "link": "전환",
       "link_ko": "첫 번째 길의 끝이다.",
-      "motion_ref": "Leaves lie piled below the empty hollow, ending on the empty hollow"
+      "motion_ref": "Leaves lie piled below the empty hollow, ending on the empty hollow",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-02",
@@ -675,7 +794,11 @@
       "motion": "He peers in and shakes his head, ending with him stepping back from the tree",
       "link": "연속",
       "link_ko": "도착해서 확인한다.",
-      "motion_ref": "He peers in and shakes his head, ending with him stepping back from the tree"
+      "motion_ref": "He peers in and shakes his head, ending with him stepping back from the tree",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC3-03",
@@ -694,7 +817,11 @@
       "motion": "It starts crying again, louder now, ending on the loudly crying squirrel",
       "link": "컷",
       "link_ko": "빈 구멍에서 아기로.",
-      "motion_ref": "It starts crying again, louder now, ending on the loudly crying squirrel"
+      "motion_ref": "It starts crying again, louder now, ending on the loudly crying squirrel",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC3-04",
@@ -716,7 +843,9 @@
       "motion": "He turns to look at her, ending with him facing her",
       "link": "연속",
       "link_ko": "울음 앞에서 되묻는다.",
-      "motion_ref": "He turns to look at her, ending with him facing her"
+      "motion_ref": "He turns to look at her, ending with him facing her",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -737,7 +866,11 @@
       "motion": "She shakes her head and points up, ending with her arm pointing up into the tree",
       "link": "연속",
       "link_ko": "되물음에 답이 온다.",
-      "motion_ref": "She shakes her head and points up, ending with her arm pointing up into the tree"
+      "motion_ref": "She shakes her head and points up, ending with her arm pointing up into the tree",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-06",
@@ -758,7 +891,9 @@
       "motion": "He lowers his paw and the light fades, ending with his paw down and no light",
       "link": "연속",
       "link_ko": "쓰려던 것을 거둔다.",
-      "motion_ref": "He lowers his paw and the light fades, ending with his paw down and no light"
+      "motion_ref": "He lowers his paw and the light fades, ending with his paw down and no light",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -777,7 +912,12 @@
       "motion": "The crying carries out through the trees, ending with the sound reaching deep into the forest",
       "link": "연속",
       "link_ko": "막지 않은 울음이 퍼진다.",
-      "motion_ref": "The crying carries out through the trees, ending with the sound reaching deep into the forest"
+      "motion_ref": "The crying carries out through the trees, ending with the sound reaching deep into the forest",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "작은동물"
+      ]
     },
     {
       "id": "SC3-08",
@@ -796,7 +936,9 @@
       "motion": "They stand and wait; nothing comes back, ending with the seven still waiting",
       "link": "컷",
       "link_ko": "퍼진 소리에 답이 없다.",
-      "motion_ref": "They stand and wait; nothing comes back, ending with the seven still waiting"
+      "motion_ref": "They stand and wait; nothing comes back, ending with the seven still waiting",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -817,7 +959,9 @@
       "motion": "Nose to the ground, she shakes her head, ending on her lowered shaking head",
       "link": "컷",
       "link_ko": "기다림 끝에 확인한다.",
-      "motion_ref": "Nose to the ground, she shakes her head, ending on her lowered shaking head"
+      "motion_ref": "Nose to the ground, she shakes her head, ending on her lowered shaking head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -838,7 +982,9 @@
       "motion": "He turns in place; every tree looks alike, ending with him lost, still turning",
       "link": "연속",
       "link_ko": "돌아가야 하는데 길을 모른다.",
-      "motion_ref": "He turns in place; every tree looks alike, ending with him lost, still turning"
+      "motion_ref": "He turns in place; every tree looks alike, ending with him lost, still turning",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -859,7 +1005,11 @@
       "motion": "She walks back along her line of twigs, ending with her following the twigs away",
       "link": "컷",
       "link_ko": "길을 잃은 쪽과 반대다.",
-      "motion_ref": "She walks back along her line of twigs, ending with her following the twigs away"
+      "motion_ref": "She walks back along her line of twigs, ending with her following the twigs away",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC3-12",
@@ -878,7 +1028,9 @@
       "motion": "The twigs lead away at even intervals, ending on the trail of twigs",
       "link": "연속",
       "link_ko": "걷는 발밑을 본다.",
-      "motion_ref": "The twigs lead away at even intervals, ending on the trail of twigs"
+      "motion_ref": "The twigs lead away at even intervals, ending on the trail of twigs",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -899,7 +1051,9 @@
       "motion": "He picks up one of the twigs, ending with the twig in his hand",
       "link": "컷",
       "link_ko": "표시에서 그걸 깨닫는 얼굴로.",
-      "motion_ref": "He picks up one of the twigs, ending with the twig in his hand"
+      "motion_ref": "He picks up one of the twigs, ending with the twig in his hand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -920,7 +1074,11 @@
       "motion": "She walks on without looking back, ending with her further down the trail",
       "link": "연속",
       "link_ko": "물음에 한 마디로 답한다.",
-      "motion_ref": "She walks on without looking back, ending with her further down the trail"
+      "motion_ref": "She walks on without looking back, ending with her further down the trail",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC3-15",
@@ -939,7 +1097,9 @@
       "motion": "They arrive back at the fork, ending with the seven back at the fork",
       "link": "컷",
       "link_ko": "길을 따라 돌아온다.",
-      "motion_ref": "They arrive back at the fork, ending with the seven back at the fork"
+      "motion_ref": "They arrive back at the fork, ending with the seven back at the fork",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -958,7 +1118,9 @@
       "motion": "The great old oak stands far down the path, ending on the distant great oak",
       "link": "전환",
       "link_ko": "갈림길에서 두 번째 길로.",
-      "motion_ref": "The great old oak stands far down the path, ending on the distant great oak"
+      "motion_ref": "The great old oak stands far down the path, ending on the distant great oak",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -979,7 +1141,9 @@
       "motion": "Her tail whips hard back and forth, ending with her tail still going",
       "link": "연속",
       "link_ko": "길을 걷다가 반응한다.",
-      "motion_ref": "Her tail whips hard back and forth, ending with her tail still going"
+      "motion_ref": "Her tail whips hard back and forth, ending with her tail still going",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1000,7 +1164,9 @@
       "motion": "She bolts forward down the path, ending with her far ahead on the path",
       "link": "연속",
       "link_ko": "냄새를 잡고 달린다.",
-      "motion_ref": "She bolts forward down the path, ending with her far ahead on the path"
+      "motion_ref": "She bolts forward down the path, ending with her far ahead on the path",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1019,7 +1185,12 @@
       "motion": "The adult squirrel runs up and down, searching, ending with the adult squirrel still searching",
       "link": "컷",
       "link_ko": "달려간 끝에 나온다.",
-      "motion_ref": "The adult squirrel runs up and down, searching, ending with the adult squirrel still searching"
+      "motion_ref": "The adult squirrel runs up and down, searching, ending with the adult squirrel still searching",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽",
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-05",
@@ -1038,7 +1209,11 @@
       "motion": "It stands bolt upright between the horns, ending with it standing tall, staring ahead",
       "link": "컷",
       "link_ko": "어른에서 아기로.",
-      "motion_ref": "It stands bolt upright between the horns, ending with it standing tall, staring ahead"
+      "motion_ref": "It stands bolt upright between the horns, ending with it standing tall, staring ahead",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1057,7 +1232,11 @@
       "motion": "It freezes; the baby leaps down and runs, ending with the two rushing together",
       "link": "연속",
       "link_ko": "시선이 마주친다.",
-      "motion_ref": "It freezes; the baby leaps down and runs, ending with the two rushing together"
+      "motion_ref": "It freezes; the baby leaps down and runs, ending with the two rushing together",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1076,7 +1255,11 @@
       "motion": "They cling together; the adult touches it over and over, ending with the two pressed together",
       "link": "연속",
       "link_ko": "달려간 끝에 만난다.",
-      "motion_ref": "They cling together; the adult touches it over and over, ending with the two pressed together"
+      "motion_ref": "They cling together; the adult touches it over and over, ending with the two pressed together",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1097,7 +1280,9 @@
       "motion": "They watch from a distance; she stands further back, ending with her alone at the back",
       "link": "컷",
       "link_ko": "상봉에서 지켜보는 쪽으로.",
-      "motion_ref": "They watch from a distance; she stands further back, ending with her alone at the back"
+      "motion_ref": "They watch from a distance; she stands further back, ending with her alone at the back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1116,7 +1301,11 @@
       "motion": "The two climb up into the hollow together, ending with the hollow's opening empty",
       "link": "전환",
       "link_ko": "상봉 뒤의 장면이다.",
-      "motion_ref": "The two climb up into the hollow together, ending with the hollow's opening empty"
+      "motion_ref": "The two climb up into the hollow together, ending with the hollow's opening empty",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "EN-02",
@@ -1137,7 +1326,11 @@
       "motion": "An acorn falls and rolls to his feet, ending with the acorn resting at his feet",
       "link": "연속",
       "link_ko": "올라간 구멍에서 무언가 떨어진다.",
-      "motion_ref": "An acorn falls and rolls to his feet, ending with the acorn resting at his feet"
+      "motion_ref": "An acorn falls and rolls to his feet, ending with the acorn resting at his feet",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "EN-03",
@@ -1159,7 +1352,9 @@
       "motion": "She places the acorn into his paw, ending with the acorn in his paw",
       "link": "연속",
       "link_ko": "떨어진 것을 줍는다.",
-      "motion_ref": "She places the acorn into his paw, ending with the acorn in his paw"
+      "motion_ref": "She places the acorn into his paw, ending with the acorn in his paw",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1180,7 +1375,9 @@
       "motion": "He holds the acorn up and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "말이 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He holds the acorn up and beams, ending on his beaming face"
+      "motion_ref": "He holds the acorn up and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1201,7 +1398,11 @@
       "motion": "She picks the twigs back up one by one, ending with a bundle of twigs in her hand",
       "link": "컷",
       "link_ko": "한마디 뒤에 노을로.",
-      "motion_ref": "She picks the twigs back up one by one, ending with a bundle of twigs in her hand"
+      "motion_ref": "She picks the twigs back up one by one, ending with a bundle of twigs in her hand",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "EN-06",
@@ -1220,7 +1421,11 @@
       "motion": "They walk home together in evening light, ending with the seven far down the path",
       "link": "컷",
       "link_ko": "주운 나뭇가지에서 돌아가는 길로.",
-      "motion_ref": "They walk home together in evening light, ending with the seven far down the path"
+      "motion_ref": "They walk home together in evening light, ending with the seven far down the path",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "EN-07",
@@ -1247,7 +1452,9 @@
       "motion": "Leaves drift down as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "Leaves drift down as the camera eases back"
+      "motion_ref": "Leaves drift down as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

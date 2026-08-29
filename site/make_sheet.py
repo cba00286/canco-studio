@@ -22,6 +22,7 @@ ORDER = ["쿵쿵", "루카", "후안", "미미", "티니", "루비", "노을"]
 
 data = {
   "sections": SHOTS["sections"],
+  "audio": SHOTS.get("audio_sections") or {},
   "negative": bible.negative(CHARS, SHOTS),
   "sheets": CHARS["master_sheet_prompts"],
   "heights": {n: c.get("height") for n, c in CHARS["characters"].items()},
@@ -29,7 +30,8 @@ data = {
       "dur": s["duration"], "who": s.get("speaker", ""), "line": s.get("dialogue", ""),
       "ko": s["ko"], "komo": s["ko_motion"], "cast": s["cast"],
       "link": s.get("link", ""), "linkko": s.get("link_ko", ""),
-      "img": s["image_ref"], "mo": s.get("motion_ref") or s["motion"]} for s in SHOTS["shots"]],
+      "img": s["image_ref"], "mo": s.get("motion_ref") or s["motion"],
+      "sfx": s.get("sfx") or [], "sig": s.get("sig") or ""} for s in SHOTS["shots"]],
 }
 
 HTML = '''<title>쿵쿵이 __NO__ 컷 시트</title>
@@ -178,6 +180,16 @@ section > h2 .n{
   font-size:11px;padding:2px 7px;border-radius:999px;font-weight:500;
   background:var(--surface-2);color:var(--faint);border:1px solid var(--line);
 }
+.aud{display:flex;flex-wrap:wrap;align-items:center;gap:8px;
+  margin:0 0 14px;padding:9px 12px;border-radius:9px;
+  background:rgba(120,180,200,.10);border:1px solid rgba(120,180,200,.28);font-size:12.5px}
+.aud .lab{font-weight:700;letter-spacing:.04em;color:var(--teal,#6bb2c4)}
+.aud .k{margin-left:6px;font-size:11px;opacity:.65}
+.aud .note{flex-basis:100%;font-size:11.5px;opacity:.62;line-height:1.6}
+.sfx{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.sfx .s,.sfx .sig{font-size:11.5px;padding:3px 9px;border-radius:999px;
+  background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12)}
+.sfx .sig{background:rgba(230,180,90,.16);border-color:rgba(230,180,90,.42);font-weight:600}
 .step0{
   margin-top:16px;padding:16px 18px;border-radius:12px;
   background:var(--warn-soft);border:1px solid var(--warn-line);
@@ -378,7 +390,12 @@ for (const s of DATA.shots) {
     if (cur !== null) html += "</section>";
     cur = s.sec;
     const n = DATA.shots.filter(x => x.sec === cur).length;
+    const au = DATA.audio[cur];
     html += `<section><h2>${esc(DATA.sections[cur])}<span class="n">${n}컷</span></h2><div class="rule"></div>`;
+    if (au) html += `<div class="aud"><span class="lab">소리</span>`
+      + `<span class="k">환경음</span> ${esc(au.amb)}${au.weather ? " + " + esc(au.weather) : ""}`
+      + `<span class="k">BGM</span> ${esc(au.bgm)}`
+      + `<span class="note">환경음은 이 장면 내내 끊지 마세요. 컷마다 끊으면 이어 붙인 티가 납니다.</span></div>`;
   }
   idx++;
   const line = s.line
@@ -409,6 +426,7 @@ for (const s of DATA.shots) {
         <p class="ko">${esc(s.komo)}</p>
         <details class="en"><summary>영문 프롬프트 보기</summary><pre id="m${idx}">${esc(s.mo)}</pre></details>
       </div>
+      ${(s.sig || s.sfx.length) ? `<div class="sfx">${s.sig ? `<span class="sig">능력 소리 ${esc(s.sig)}</span>` : ""}${s.sfx.map(x => `<span class="s">${esc(x)}</span>`).join("")}</div>` : ""}
     </div>
   </article>`;
 }

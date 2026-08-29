@@ -19,6 +19,28 @@
     "SC4": "Act 4 · SC#4 못 내민 선물 — 일곱 번째",
     "EN": "엔딩 · 너희들의 마음을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "실내_집",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "마을_밤",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "마을_광장",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "마을_광장",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "마을_밤",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -37,7 +59,9 @@
       "motion": "Low mist lies over the quiet village, ending on the misty quiet village",
       "link": "전환",
       "link_ko": "39화 첫 컷. 일 년째 되는 날 아침이다.",
-      "motion_ref": "Low mist lies over the quiet village, ending on the misty quiet village"
+      "motion_ref": "Low mist lies over the quiet village, ending on the misty quiet village",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -58,7 +82,9 @@
       "motion": "He wakes and sits up, ending with him sitting up on his bedding",
       "link": "전환",
       "link_ko": "마을에서 그 안의 방으로.",
-      "motion_ref": "He wakes and sits up, ending with him sitting up on his bedding"
+      "motion_ref": "He wakes and sits up, ending with him sitting up on his bedding",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -77,7 +103,9 @@
       "motion": "Today's date sits circled on the calendar, ending on the circled date",
       "link": "연속",
       "link_ko": "일어난 자리에서 벽으로.",
-      "motion_ref": "Today's date sits circled on the calendar, ending on the circled date"
+      "motion_ref": "Today's date sits circled on the calendar, ending on the circled date",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -98,7 +126,9 @@
       "motion": "He looks at it and speaks to himself, ending on his quiet face",
       "link": "연속",
       "link_ko": "동그라미를 보고 말한다.",
-      "motion_ref": "He looks at it and speaks to himself, ending on his quiet face"
+      "motion_ref": "He looks at it and speaks to himself, ending on his quiet face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -119,7 +149,11 @@
       "motion": "He steps out into an empty village, ending on the empty misty street",
       "link": "컷",
       "link_ko": "방에서 밖으로 나온다.",
-      "motion_ref": "He steps out into an empty village, ending on the empty misty street"
+      "motion_ref": "He steps out into an empty village, ending on the empty misty street",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC1-06",
@@ -140,7 +174,11 @@
       "motion": "He knocks at door after door; no answer, ending with him at the last silent door",
       "link": "연속",
       "link_ko": "빈 마을에서 찾는다.",
-      "motion_ref": "He knocks at door after door; no answer, ending with him at the last silent door"
+      "motion_ref": "He knocks at door after door; no answer, ending with him at the last silent door",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC1-07",
@@ -161,7 +199,9 @@
       "motion": "His shoulders sink a little, ending on his lowered shoulders",
       "link": "연속",
       "link_ko": "대답 없는 문 앞이다.",
-      "motion_ref": "His shoulders sink a little, ending on his lowered shoulders"
+      "motion_ref": "His shoulders sink a little, ending on his lowered shoulders",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -182,7 +222,9 @@
       "motion": "He takes out the cloth bundle and looks at it, ending with the bundle in his hands",
       "link": "연속",
       "link_ko": "혼자 남은 자리에서 꺼낸다.",
-      "motion_ref": "He takes out the cloth bundle and looks at it, ending with the bundle in his hands"
+      "motion_ref": "He takes out the cloth bundle and looks at it, ending with the bundle in his hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -203,7 +245,11 @@
       "motion": "Six small smooth stones lie in the cloth, ending on the six stones",
       "link": "연속",
       "link_ko": "펼친 천 안이다.",
-      "motion_ref": "Six small smooth stones lie in the cloth, ending on the six stones"
+      "motion_ref": "Six small smooth stones lie in the cloth, ending on the six stones",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC1-10",
@@ -224,7 +270,9 @@
       "motion": "He wraps it back up and pockets it, ending with the bundle back in his pocket",
       "link": "연속",
       "link_ko": "보고 나서 도로 넣는다.",
-      "motion_ref": "He wraps it back up and pockets it, ending with the bundle back in his pocket"
+      "motion_ref": "He wraps it back up and pockets it, ending with the bundle back in his pocket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -245,7 +293,11 @@
       "motion": "He trudges off toward the square, ending with him small on the empty street",
       "link": "컷",
       "link_ko": "넣고 나서 걷는다.",
-      "motion_ref": "He trudges off toward the square, ending with him small on the empty street"
+      "motion_ref": "He trudges off toward the square, ending with him small on the empty street",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC1-12",
@@ -264,7 +316,9 @@
       "motion": "Something glints through the mist ahead, ending on the glint in the mist",
       "link": "연속",
       "link_ko": "걷는 앞쪽이다.",
-      "motion_ref": "Something glints through the mist ahead, ending on the glint in the mist"
+      "motion_ref": "Something glints through the mist ahead, ending on the glint in the mist",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -285,7 +339,9 @@
       "motion": "He stops and lifts his head, ending with him looking forward",
       "link": "연속",
       "link_ko": "반짝임을 보고 멈춘다.",
-      "motion_ref": "He stops and lifts his head, ending with him looking forward"
+      "motion_ref": "He stops and lifts his head, ending with him looking forward",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -304,7 +360,11 @@
       "motion": "The mist lifts and the lantern-hung square appears, ending on the fully revealed square",
       "link": "연속",
       "link_ko": "고개를 든 시선의 끝이다.",
-      "motion_ref": "The mist lifts and the lantern-hung square appears, ending on the fully revealed square"
+      "motion_ref": "The mist lifts and the lantern-hung square appears, ending on the fully revealed square",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "SC2-01",
@@ -330,7 +390,11 @@
       "motion": "The six stand in a row under the lanterns, ending with the six waiting in a row",
       "link": "전환",
       "link_ko": "광장이 드러난 다음이다.",
-      "motion_ref": "The six stand in a row under the lanterns, ending with the six waiting in a row"
+      "motion_ref": "The six stand in a row under the lanterns, ending with the six waiting in a row",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "SC2-02",
@@ -349,7 +413,11 @@
       "motion": "They throw their hands up and shout, ending with twelve hands in the air",
       "link": "연속",
       "link_ko": "기다리던 사람들이 반긴다.",
-      "motion_ref": "They throw their hands up and shout, ending with twelve hands in the air"
+      "motion_ref": "They throw their hands up and shout, ending with twelve hands in the air",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-03",
@@ -370,7 +438,9 @@
       "motion": "He stands with his mouth open, ending on his open-mouthed face",
       "link": "컷",
       "link_ko": "환영에서 받는 얼굴로.",
-      "motion_ref": "He stands with his mouth open, ending on his open-mouthed face"
+      "motion_ref": "He stands with his mouth open, ending on his open-mouthed face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -392,7 +462,11 @@
       "motion": "She runs over and hugs him, ending with the two hugging",
       "link": "연속",
       "link_ko": "놀란 사람에게 달려간다.",
-      "motion_ref": "She runs over and hugs him, ending with the two hugging"
+      "motion_ref": "She runs over and hugs him, ending with the two hugging",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC2-05",
@@ -413,7 +487,11 @@
       "motion": "He points up at a lantern, grinning, ending with his arm still up",
       "link": "연속",
       "link_ko": "안긴 뒤에 설명이 온다.",
-      "motion_ref": "He points up at a lantern, grinning, ending with his arm still up"
+      "motion_ref": "He points up at a lantern, grinning, ending with his arm still up",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "SC2-06",
@@ -432,7 +510,9 @@
       "motion": "One large book lies on the table, ending on the book on the table",
       "link": "컷",
       "link_ko": "사람들에서 탁자로.",
-      "motion_ref": "One large book lies on the table, ending on the book on the table"
+      "motion_ref": "One large book lies on the table, ending on the book on the table",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -454,7 +534,9 @@
       "motion": "She lifts the book and holds it out, ending with the book in his hands",
       "link": "연속",
       "link_ko": "탁자에서 건네진다.",
-      "motion_ref": "She lifts the book and holds it out, ending with the book in his hands"
+      "motion_ref": "She lifts the book and holds it out, ending with the book in his hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -475,7 +557,9 @@
       "motion": "Seven figures hold hands on the cover, ending on the cover drawing",
       "link": "연속",
       "link_ko": "건네진 책으로 들어간다.",
-      "motion_ref": "Seven figures hold hands on the cover, ending on the cover drawing"
+      "motion_ref": "Seven figures hold hands on the cover, ending on the cover drawing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -496,7 +580,11 @@
       "motion": "He opens it to a drawing of a riverbank, ending on the first page",
       "link": "연속",
       "link_ko": "표지를 넘긴다.",
-      "motion_ref": "He opens it to a drawing of a riverbank, ending on the first page"
+      "motion_ref": "He opens it to a drawing of a riverbank, ending on the first page",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-10",
@@ -515,7 +603,11 @@
       "motion": "Page after page, one drawing each, ending on a later page",
       "link": "연속",
       "link_ko": "넘기는 손으로 들어간다.",
-      "motion_ref": "Page after page, one drawing each, ending on a later page"
+      "motion_ref": "Page after page, one drawing each, ending on a later page",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-11",
@@ -536,7 +628,11 @@
       "motion": "He points at the page he drew, ending with his flipper on the page",
       "link": "연속",
       "link_ko": "넘기던 중에 설명이 붙는다.",
-      "motion_ref": "He points at the page he drew, ending with his flipper on the page"
+      "motion_ref": "He points at the page he drew, ending with his flipper on the page",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-12",
@@ -555,7 +651,11 @@
       "motion": "The last page is completely blank, ending on the blank page",
       "link": "연속",
       "link_ko": "넘기다 끝에 닿는다.",
-      "motion_ref": "The last page is completely blank, ending on the blank page"
+      "motion_ref": "The last page is completely blank, ending on the blank page",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-13",
@@ -576,7 +676,11 @@
       "motion": "His hand runs over the blank page, ending with his hand on the page",
       "link": "연속",
       "link_ko": "빈 장을 보고 묻는다.",
-      "motion_ref": "His hand runs over the blank page, ending with his hand on the page"
+      "motion_ref": "His hand runs over the blank page, ending with his hand on the page",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC2-14",
@@ -597,7 +701,9 @@
       "motion": "She lays a hand on the open book, ending with her hand on the book",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She lays a hand on the open book, ending with her hand on the book"
+      "motion_ref": "She lays a hand on the open book, ending with her hand on the book",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -618,7 +724,9 @@
       "motion": "His eyes go wet and he hugs the book, ending with the book against his chest",
       "link": "연속",
       "link_ko": "답을 듣고 안는다.",
-      "motion_ref": "His eyes go wet and he hugs the book, ending with the book against his chest"
+      "motion_ref": "His eyes go wet and he hugs the book, ending with the book against his chest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -639,7 +747,11 @@
       "motion": "They crowd around; she stays one step back, ending with her a step behind the group",
       "link": "컷",
       "link_ko": "한 사람에서 전체로 물러난다.",
-      "motion_ref": "They crowd around; she stays one step back, ending with her a step behind the group"
+      "motion_ref": "They crowd around; she stays one step back, ending with her a step behind the group",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-01",
@@ -660,7 +772,9 @@
       "motion": "He sets the book down and reaches in, ending with his hand in his pocket",
       "link": "전환",
       "link_ko": "받은 뒤에 주려 한다.",
-      "motion_ref": "He sets the book down and reaches in, ending with his hand in his pocket"
+      "motion_ref": "He sets the book down and reaches in, ending with his hand in his pocket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -681,7 +795,12 @@
       "motion": "The cloth opens on six smooth stones, ending on the six stones in the cloth",
       "link": "연속",
       "link_ko": "꺼낸 것을 펼친다.",
-      "motion_ref": "The cloth opens on six smooth stones, ending on the six stones in the cloth"
+      "motion_ref": "The cloth opens on six smooth stones, ending on the six stones in the cloth",
+      "sig": null,
+      "sfx": [
+        "발소리_돌",
+        "불_등불"
+      ]
     },
     {
       "id": "SC3-03",
@@ -702,7 +821,11 @@
       "motion": "He tilts his head at the stones, ending on his tilted head",
       "link": "컷",
       "link_ko": "펼친 것에서 반응으로.",
-      "motion_ref": "He tilts his head at the stones, ending on his tilted head"
+      "motion_ref": "He tilts his head at the stones, ending on his tilted head",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-04",
@@ -723,7 +846,11 @@
       "motion": "He lays the six stones out in a circle, ending with the six stones in a ring",
       "link": "연속",
       "link_ko": "의문에 답하며 놓는다.",
-      "motion_ref": "He lays the six stones out in a circle, ending with the six stones in a ring"
+      "motion_ref": "He lays the six stones out in a circle, ending with the six stones in a ring",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-05",
@@ -744,7 +871,11 @@
       "motion": "The warm light wells up and spreads over the stones, ending with the light settled over the stones",
       "link": "연속",
       "link_ko": "놓고 나서 능력을 쓴다.",
-      "motion_ref": "The warm light wells up and spreads over the stones, ending with the light settled over the stones"
+      "motion_ref": "The warm light wells up and spreads over the stones, ending with the light settled over the stones",
+      "sig": "쿵쿵_온기",
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-06",
@@ -763,7 +894,11 @@
       "motion": "The stone takes the light in and holds it, ending on the glowing stone",
       "link": "연속",
       "link_ko": "빛이 돌에 스며든다.",
-      "motion_ref": "The stone takes the light in and holds it, ending on the glowing stone"
+      "motion_ref": "The stone takes the light in and holds it, ending on the glowing stone",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-07",
@@ -782,7 +917,11 @@
       "motion": "The six stones light up one after another, ending with all six glowing in the ring",
       "link": "연속",
       "link_ko": "하나에서 여섯 전부로.",
-      "motion_ref": "The six stones light up one after another, ending with all six glowing in the ring"
+      "motion_ref": "The six stones light up one after another, ending with all six glowing in the ring",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-08",
@@ -801,7 +940,9 @@
       "motion": "They hold their breath; nobody moves, ending with the six frozen and staring",
       "link": "컷",
       "link_ko": "돌에서 보는 사람들로.",
-      "motion_ref": "They hold their breath; nobody moves, ending with the six frozen and staring"
+      "motion_ref": "They hold their breath; nobody moves, ending with the six frozen and staring",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -823,7 +964,11 @@
       "motion": "He picks one up and hands it to her, ending with the stone in her paws",
       "link": "연속",
       "link_ko": "다 켜지고 나눠 준다.",
-      "motion_ref": "He picks one up and hands it to her, ending with the stone in her paws"
+      "motion_ref": "He picks one up and hands it to her, ending with the stone in her paws",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-10",
@@ -844,7 +989,11 @@
       "motion": "Light leaks between her cupped fingers, ending on the light between her fingers",
       "link": "연속",
       "link_ko": "받은 손으로 들어간다.",
-      "motion_ref": "Light leaks between her cupped fingers, ending on the light between her fingers"
+      "motion_ref": "Light leaks between her cupped fingers, ending on the light between her fingers",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-11",
@@ -865,7 +1014,11 @@
       "motion": "He hands a stone to each of them in turn, ending with five more stones handed out",
       "link": "연속",
       "link_ko": "한 사람에서 나머지로.",
-      "motion_ref": "He hands a stone to each of them in turn, ending with five more stones handed out"
+      "motion_ref": "He hands a stone to each of them in turn, ending with five more stones handed out",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-12",
@@ -884,7 +1037,11 @@
       "motion": "One last stone lies on the cloth, ending on the single remaining stone",
       "link": "연속",
       "link_ko": "다 나눠 주고 하나 남는다.",
-      "motion_ref": "One last stone lies on the cloth, ending on the single remaining stone"
+      "motion_ref": "One last stone lies on the cloth, ending on the single remaining stone",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-13",
@@ -906,7 +1063,11 @@
       "motion": "He picks it up and turns toward her, ending with him facing her",
       "link": "연속",
       "link_ko": "남은 돌의 주인이 있다.",
-      "motion_ref": "He picks it up and turns toward her, ending with him facing her"
+      "motion_ref": "He picks it up and turns toward her, ending with him facing her",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-14",
@@ -927,7 +1088,11 @@
       "motion": "She takes one step backward, ending with her a step further back",
       "link": "컷",
       "link_ko": "건네는 쪽에서 받는 쪽으로.",
-      "motion_ref": "She takes one step backward, ending with her a step further back"
+      "motion_ref": "She takes one step backward, ending with her a step further back",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC3-15",
@@ -948,7 +1113,9 @@
       "motion": "She looks down and hides her hands, ending with her hands hidden",
       "link": "연속",
       "link_ko": "물러선 자리에서 말이 나온다.",
-      "motion_ref": "She looks down and hides her hands, ending with her hands hidden"
+      "motion_ref": "She looks down and hides her hands, ending with her hands hidden",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -969,7 +1136,11 @@
       "motion": "He pushes the stone further out, ending with the stone held out between them",
       "link": "전환",
       "link_ko": "거절 앞에서 설명한다.",
-      "motion_ref": "He pushes the stone further out, ending with the stone held out between them"
+      "motion_ref": "He pushes the stone further out, ending with the stone held out between them",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC4-02",
@@ -990,7 +1161,9 @@
       "motion": "Her hands come out holding something, ending with the object half visible",
       "link": "연속",
       "link_ko": "감춘 손이 나온다.",
-      "motion_ref": "Her hands come out holding something, ending with the object half visible"
+      "motion_ref": "Her hands come out holding something, ending with the object half visible",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1011,7 +1184,11 @@
       "motion": "She holds out a folded sheet, hands shaking, ending with the paper held out",
       "link": "연속",
       "link_ko": "쥔 것을 내민다.",
-      "motion_ref": "She holds out a folded sheet, hands shaking, ending with the paper held out"
+      "motion_ref": "She holds out a folded sheet, hands shaking, ending with the paper held out",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1030,7 +1207,11 @@
       "motion": "The map opens with a face on every house, ending on the map of faces",
       "link": "연속",
       "link_ko": "내민 종이가 펼쳐진다.",
-      "motion_ref": "The map opens with a face on every house, ending on the map of faces"
+      "motion_ref": "The map opens with a face on every house, ending on the map of faces",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-05",
@@ -1051,7 +1232,11 @@
       "motion": "She leans in close over the map, ending with her face close to the map",
       "link": "컷",
       "link_ko": "지도에서 보는 사람들로.",
-      "motion_ref": "She leans in close over the map, ending with her face close to the map"
+      "motion_ref": "She leans in close over the map, ending with her face close to the map",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1072,7 +1257,9 @@
       "motion": "She answers shortly, going red, ending on her reddening face",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She answers shortly, going red, ending on her reddening face"
+      "motion_ref": "She answers shortly, going red, ending on her reddening face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1091,7 +1278,11 @@
       "motion": "A face sits on the hillside burrow too, ending on the seventh face",
       "link": "연속",
       "link_ko": "지도의 다른 구석이다.",
-      "motion_ref": "A face sits on the hillside burrow too, ending on the seventh face"
+      "motion_ref": "A face sits on the hillside burrow too, ending on the seventh face",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1113,7 +1304,11 @@
       "motion": "He closes her fingers on the stone; she stays, ending with the stone glowing in her closed hand",
       "link": "컷",
       "link_ko": "지도에서 다시 두 사람으로.",
-      "motion_ref": "He closes her fingers on the stone; she stays, ending with the stone glowing in her closed hand"
+      "motion_ref": "He closes her fingers on the stone; she stays, ending with the stone glowing in her closed hand",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "EN-01",
@@ -1137,7 +1332,11 @@
         "sec": 0.6,
         "why": "낮의 광장에서 밤의 광장으로"
       },
-      "motion_ref": "Seven glowing stones sit in a ring, ending on the ring of glowing stones"
+      "motion_ref": "Seven glowing stones sit in a ring, ending on the ring of glowing stones",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "EN-02",
@@ -1158,7 +1357,11 @@
       "motion": "She hugs the stone against her chest, ending with the stone against her chest",
       "link": "연속",
       "link_ko": "둘러앉은 자리에서 묻는다.",
-      "motion_ref": "She hugs the stone against her chest, ending with the stone against her chest"
+      "motion_ref": "She hugs the stone against her chest, ending with the stone against her chest",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "EN-03",
@@ -1179,7 +1382,9 @@
       "motion": "He smiles and nods, ending on his smile",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "He smiles and nods, ending on his smile"
+      "motion_ref": "He smiles and nods, ending on his smile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1200,7 +1405,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "약속이 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1222,7 +1429,11 @@
       "motion": "The map goes onto the last blank page, ending with the map on the last page",
       "link": "컷",
       "link_ko": "한마디 뒤에 책으로.",
-      "motion_ref": "The map goes onto the last blank page, ending with the map on the last page"
+      "motion_ref": "The map goes onto the last blank page, ending with the map on the last page",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "EN-06",
@@ -1241,7 +1452,11 @@
       "motion": "The stone light falls on all seven faces, ending on the seven around the book",
       "link": "연속",
       "link_ko": "붙인 책에서 사람들로.",
-      "motion_ref": "The stone light falls on all seven faces, ending on the seven around the book"
+      "motion_ref": "The stone light falls on all seven faces, ending on the seven around the book",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "EN-07",
@@ -1268,7 +1483,9 @@
       "motion": "The stone light sways as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The stone light sways as the camera eases back"
+      "motion_ref": "The stone light sways as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

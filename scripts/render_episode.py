@@ -161,7 +161,10 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--episode", required=True)
     p.add_argument("--clips", required=True, help="컷 클립이 들어있는 폴더")
-    p.add_argument("--audio", help="배경음악/OST 파일 (선택)")
+    p.add_argument("--audio", help="배경음악 한 곡 (반복 재생). 간단히 볼 때만 쓰세요")
+    p.add_argument("--audio-track",
+                   help="scripts/mix_audio.py 로 만든 완성 오디오. 그대로 붙입니다 "
+                        "— 반복도 안 하고 볼륨도 안 건드립니다")
     p.add_argument("--music-volume", type=float, default=0.35)
     p.add_argument("--out")
     p.add_argument("--fps", type=int, default=30)
@@ -274,7 +277,9 @@ def main():
     # 6) 자막 굽기 + 음악
     out = Path(a.out) if a.out else ep / f"{ep.name}.mp4"
     cmd = [ffmpeg, "-y", "-i", str(merged)]
-    if a.audio:
+    if a.audio_track:
+        cmd += ["-i", str(a.audio_track)]
+    elif a.audio:
         cmd += ["-stream_loop", "-1", "-i", str(a.audio)]
     tail = probe_duration(ffprobe, ffmpeg, merged) if (not a.dry_run and merged.exists()) else 0
     fx = []
@@ -294,7 +299,10 @@ def main():
         chain = [f"subtitles='{esc(ass)}':fontsdir='{esc(fonts)}'"] + fx
         cmd += ["-vf", ",".join(chain),
                 "-c:v", "libx264", "-crf", str(a.crf), "-preset", "medium", "-pix_fmt", "yuv420p"]
-    if a.audio:
+    if a.audio_track:
+        # 완성 오디오는 이미 -14 LUFS 로 맞춰져 있다. 여기서 또 건드리면 두 번 눌린다.
+        cmd += ["-map", "0:v", "-map", "1:a", "-shortest", "-c:a", "aac", "-b:a", "192k"]
+    elif a.audio:
         af = [f"volume={a.music_volume}"]
         if a.fade_in > 0:
             af.append(f"afade=t=in:st=0:d={a.fade_in}")

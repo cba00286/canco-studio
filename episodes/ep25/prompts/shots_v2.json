@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 고친 수레 — 마지막 언덕",
     "EN": "엔딩 · 튼튼한 수레와 짐을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "마을_광장",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "숲_낮",
+      "bgm": "익살_소동"
+    },
+    "SC3": {
+      "amb": "숲_낮",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "숲_낮",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "숲_낮",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,9 @@
       "motion": "Morning light falls on the loaded cart, ending on the loaded cart in the square",
       "link": "전환",
       "link_ko": "25화 첫 컷. 짐 실은 수레에서 시작한다.",
-      "motion_ref": "Morning light falls on the loaded cart, ending on the loaded cart in the square"
+      "motion_ref": "Morning light falls on the loaded cart, ending on the loaded cart in the square",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -66,7 +90,11 @@
       "motion": "They push and pull the cart out of the village, ending with the cart rolling out of the square",
       "link": "전환",
       "link_ko": "수레에서 그것을 끄는 일곱으로.",
-      "motion_ref": "They push and pull the cart out of the village, ending with the cart rolling out of the square"
+      "motion_ref": "They push and pull the cart out of the village, ending with the cart rolling out of the square",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC1-03",
@@ -85,7 +113,9 @@
       "motion": "The wheel wobbles once every turn, ending on the wobbling wheel",
       "link": "연속",
       "link_ko": "끄는 수레의 발밑으로 들어간다.",
-      "motion_ref": "The wheel wobbles once every turn, ending on the wobbling wheel"
+      "motion_ref": "The wheel wobbles once every turn, ending on the wobbling wheel",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -106,7 +136,11 @@
       "motion": "She walks beside the wheel, listening, ending with her ear still turned to the wheel",
       "link": "연속",
       "link_ko": "소리를 아이가 알아챈다.",
-      "motion_ref": "She walks beside the wheel, listening, ending with her ear still turned to the wheel"
+      "motion_ref": "She walks beside the wheel, listening, ending with her ear still turned to the wheel",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-05",
@@ -127,7 +161,9 @@
       "motion": "He strides ahead with the handles, ending with him pulling steadily ahead",
       "link": "컷",
       "link_ko": "걱정에 대수롭지 않은 답이 온다.",
-      "motion_ref": "He strides ahead with the handles, ending with him pulling steadily ahead"
+      "motion_ref": "He strides ahead with the handles, ending with him pulling steadily ahead",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -146,7 +182,11 @@
       "motion": "The path narrows and turns stony, ending on the rough narrow path",
       "link": "컷",
       "link_ko": "평지에서 험한 길로.",
-      "motion_ref": "The path narrows and turns stony, ending on the rough narrow path"
+      "motion_ref": "The path narrows and turns stony, ending on the rough narrow path",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-07",
@@ -165,7 +205,11 @@
       "motion": "The nut backs itself out, turn by turn, ending with the nut half out",
       "link": "컷",
       "link_ko": "길에서 바퀴 속으로.",
-      "motion_ref": "The nut backs itself out, turn by turn, ending with the nut half out"
+      "motion_ref": "The nut backs itself out, turn by turn, ending with the nut half out",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC1-08",
@@ -184,7 +228,11 @@
       "motion": "The cart lurches and the load sways, ending with the load still swaying",
       "link": "연속",
       "link_ko": "풀리던 나사에 충격이 온다.",
-      "motion_ref": "The cart lurches and the load sways, ending with the load still swaying"
+      "motion_ref": "The cart lurches and the load sways, ending with the load still swaying",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-09",
@@ -203,7 +251,11 @@
       "motion": "The wheel rolls off and the cart drops, ending with the cart sitting crooked on the path",
       "link": "연속",
       "link_ko": "흔들림 끝에 빠진다.",
-      "motion_ref": "The wheel rolls off and the cart drops, ending with the cart sitting crooked on the path"
+      "motion_ref": "The wheel rolls off and the cart drops, ending with the cart sitting crooked on the path",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC1-10",
@@ -222,7 +274,9 @@
       "motion": "The load spills and scatters across the path, ending with the path covered in scattered load",
       "link": "연속",
       "link_ko": "기운 수레에서 짐이 쏟아진다.",
-      "motion_ref": "The load spills and scatters across the path, ending with the path covered in scattered load"
+      "motion_ref": "The load spills and scatters across the path, ending with the path covered in scattered load",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -243,7 +297,9 @@
       "motion": "He drops the handles and grabs his head, ending with both hands on his head",
       "link": "컷",
       "link_ko": "쏟아진 짐에서 그것을 본 얼굴로.",
-      "motion_ref": "He drops the handles and grabs his head, ending with both hands on his head"
+      "motion_ref": "He drops the handles and grabs his head, ending with both hands on his head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -262,7 +318,9 @@
       "motion": "They begin picking the load back up, ending with the seven gathering the load",
       "link": "컷",
       "link_ko": "한탄에서 수습으로.",
-      "motion_ref": "They begin picking the load back up, ending with the seven gathering the load"
+      "motion_ref": "They begin picking the load back up, ending with the seven gathering the load",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -283,7 +341,11 @@
       "motion": "She walks past the load toward the wheel, ending with her reaching the wheel",
       "link": "컷",
       "link_ko": "줍는 쪽과 다른 쪽으로.",
-      "motion_ref": "She walks past the load toward the wheel, ending with her reaching the wheel"
+      "motion_ref": "She walks past the load toward the wheel, ending with her reaching the wheel",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-14",
@@ -304,7 +366,9 @@
       "motion": "She lifts the wheel and looks into the hub, ending with her eye at the hub",
       "link": "연속",
       "link_ko": "주운 바퀴를 살핀다.",
-      "motion_ref": "She lifts the wheel and looks into the hub, ending with her eye at the hub"
+      "motion_ref": "She lifts the wheel and looks into the hub, ending with her eye at the hub",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -323,7 +387,9 @@
       "motion": "The cart goes back up and the load returns, ending with the cart loaded again",
       "link": "전환",
       "link_ko": "수습이 끝나고 다시 시작한다.",
-      "motion_ref": "The cart goes back up and the load returns, ending with the cart loaded again"
+      "motion_ref": "The cart goes back up and the load returns, ending with the cart loaded again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -344,7 +410,11 @@
       "motion": "He pushes the wheel on and tightens by hand, ending with the nut hand-tight",
       "link": "연속",
       "link_ko": "실은 뒤에 바퀴를 단다.",
-      "motion_ref": "He pushes the wheel on and tightens by hand, ending with the nut hand-tight"
+      "motion_ref": "He pushes the wheel on and tightens by hand, ending with the nut hand-tight",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC2-03",
@@ -365,7 +435,11 @@
       "motion": "She pulls a small spanner from her bag, ending with the spanner held up",
       "link": "컷",
       "link_ko": "맨손 조임 옆에서 도구가 나온다.",
-      "motion_ref": "She pulls a small spanner from her bag, ending with the spanner held up"
+      "motion_ref": "She pulls a small spanner from her bag, ending with the spanner held up",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC2-04",
@@ -386,7 +460,9 @@
       "motion": "He waves her off and takes the handles, ending with him pulling again",
       "link": "연속",
       "link_ko": "도구가 거절된다.",
-      "motion_ref": "He waves her off and takes the handles, ending with him pulling again"
+      "motion_ref": "He waves her off and takes the handles, ending with him pulling again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -405,7 +481,11 @@
       "motion": "The cart rolls with a heavier wobble, ending with the cart lurching down the path",
       "link": "연속",
       "link_ko": "다시 출발한다.",
-      "motion_ref": "The cart rolls with a heavier wobble, ending with the cart lurching down the path"
+      "motion_ref": "The cart rolls with a heavier wobble, ending with the cart lurching down the path",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC2-06",
@@ -424,7 +504,11 @@
       "motion": "The nut backs out again, faster now, ending with the nut nearly off",
       "link": "컷",
       "link_ko": "굴러가는 수레의 바퀴 속이다.",
-      "motion_ref": "The nut backs out again, faster now, ending with the nut nearly off"
+      "motion_ref": "The nut backs out again, faster now, ending with the nut nearly off",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC2-07",
@@ -443,7 +527,9 @@
       "motion": "The wheel comes off again; the load spills, ending with the load scattered a second time",
       "link": "연속",
       "link_ko": "풀린 나사가 또 빠진다.",
-      "motion_ref": "The wheel comes off again; the load spills, ending with the load scattered a second time"
+      "motion_ref": "The wheel comes off again; the load spills, ending with the load scattered a second time",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -464,7 +550,9 @@
       "motion": "He freezes, still holding a sack, ending with him standing frozen",
       "link": "연속",
       "link_ko": "두 번째 사고를 본다.",
-      "motion_ref": "He freezes, still holding a sack, ending with him standing frozen"
+      "motion_ref": "He freezes, still holding a sack, ending with him standing frozen",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -485,7 +573,9 @@
       "motion": "He kicks the fallen wheel, ending with the wheel rocking from the kick",
       "link": "컷",
       "link_ko": "굳은 사람 옆에서 화가 난다.",
-      "motion_ref": "He kicks the fallen wheel, ending with the wheel rocking from the kick"
+      "motion_ref": "He kicks the fallen wheel, ending with the wheel rocking from the kick",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -506,7 +596,9 @@
       "motion": "She speaks quietly, the wheel in her hands, ending on her calm face",
       "link": "컷",
       "link_ko": "화난 쪽에 다른 말이 온다.",
-      "motion_ref": "She speaks quietly, the wheel in her hands, ending on her calm face"
+      "motion_ref": "She speaks quietly, the wheel in her hands, ending on her calm face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -527,7 +619,9 @@
       "motion": "He turns with a disbelieving look, ending on his disbelieving face",
       "link": "연속",
       "link_ko": "말이 이해되지 않는다.",
-      "motion_ref": "He turns with a disbelieving look, ending on his disbelieving face"
+      "motion_ref": "He turns with a disbelieving look, ending on his disbelieving face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -549,7 +643,9 @@
       "motion": "She sets the wheel down and beckons her over, ending with the two crouched over the wheel",
       "link": "컷",
       "link_ko": "설명 대신 사람을 부른다.",
-      "motion_ref": "She sets the wheel down and beckons her over, ending with the two crouched over the wheel"
+      "motion_ref": "She sets the wheel down and beckons her over, ending with the two crouched over the wheel",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -571,7 +667,9 @@
       "motion": "Her finger points inside the hub, ending with her finger on one spot inside",
       "link": "연속",
       "link_ko": "둘이 함께 들여다본다.",
-      "motion_ref": "Her finger points inside the hub, ending with her finger on one spot inside"
+      "motion_ref": "Her finger points inside the hub, ending with her finger on one spot inside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -592,7 +690,9 @@
       "motion": "Her finger goes in loose, ending with the loose finger in the hub",
       "link": "연속",
       "link_ko": "짚은 자리를 확인한다.",
-      "motion_ref": "Her finger goes in loose, ending with the loose finger in the hub"
+      "motion_ref": "Her finger goes in loose, ending with the loose finger in the hub",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -613,7 +713,9 @@
       "motion": "Her hands rock to show the movement, ending with her hands still rocking",
       "link": "연속",
       "link_ko": "확인이 설명이 된다.",
-      "motion_ref": "Her hands rock to show the movement, ending with her hands still rocking"
+      "motion_ref": "Her hands rock to show the movement, ending with her hands still rocking",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -635,7 +737,9 @@
       "motion": "They look at each other and nod together, ending with both heads coming back up",
       "link": "연속",
       "link_ko": "설명이 맞아떨어진다.",
-      "motion_ref": "They look at each other and nod together, ending with both heads coming back up"
+      "motion_ref": "They look at each other and nod together, ending with both heads coming back up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -654,7 +758,9 @@
       "motion": "The cart sits on logs; four wheels lie beside it, ending on the propped cart and loose wheels",
       "link": "전환",
       "link_ko": "길 위가 작업장이 된다.",
-      "motion_ref": "The cart sits on logs; four wheels lie beside it, ending on the propped cart and loose wheels"
+      "motion_ref": "The cart sits on logs; four wheels lie beside it, ending on the propped cart and loose wheels",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -675,7 +781,9 @@
       "motion": "He lifts the cart while a log slides under, ending with the cart resting on the log",
       "link": "연속",
       "link_ko": "작업 자리를 만든다.",
-      "motion_ref": "He lifts the cart while a log slides under, ending with the cart resting on the log"
+      "motion_ref": "He lifts the cart while a log slides under, ending with the cart resting on the log",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -694,7 +802,9 @@
       "motion": "Four worn hubs lie side by side, ending on the four worn hubs",
       "link": "컷",
       "link_ko": "수레에서 바퀴로.",
-      "motion_ref": "Four worn hubs lie side by side, ending on the four worn hubs"
+      "motion_ref": "Four worn hubs lie side by side, ending on the four worn hubs",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -715,7 +825,11 @@
       "motion": "She draws all four wheels into the notebook, ending on the four drawn wheels",
       "link": "컷",
       "link_ko": "바퀴에서 판단으로.",
-      "motion_ref": "She draws all four wheels into the notebook, ending on the four drawn wheels"
+      "motion_ref": "She draws all four wheels into the notebook, ending on the four drawn wheels",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-05",
@@ -736,7 +850,9 @@
       "motion": "His shoulders drop, ending on his drooping shoulders",
       "link": "연속",
       "link_ko": "판단에 낙담이 붙는다.",
-      "motion_ref": "His shoulders drop, ending on his drooping shoulders"
+      "motion_ref": "His shoulders drop, ending on his drooping shoulders",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -757,7 +873,9 @@
       "motion": "She holds up a small piece of wood, ending with the wood piece held up",
       "link": "컷",
       "link_ko": "낙담에 답이 온다.",
-      "motion_ref": "She holds up a small piece of wood, ending with the wood piece held up"
+      "motion_ref": "She holds up a small piece of wood, ending with the wood piece held up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -776,7 +894,9 @@
       "motion": "They gather dry wood from the path, ending with a pile of wood beside the cart",
       "link": "연속",
       "link_ko": "제안이 일이 된다.",
-      "motion_ref": "They gather dry wood from the path, ending with a pile of wood beside the cart"
+      "motion_ref": "They gather dry wood from the path, ending with a pile of wood beside the cart",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -797,7 +917,9 @@
       "motion": "She measures the wood against her staff, ending with one piece set aside",
       "link": "연속",
       "link_ko": "모은 나무를 고른다.",
-      "motion_ref": "She measures the wood against her staff, ending with one piece set aside"
+      "motion_ref": "She measures the wood against her staff, ending with one piece set aside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -818,7 +940,9 @@
       "motion": "The blade shaves the wood into a thin strip, ending on the finished thin strip",
       "link": "연속",
       "link_ko": "고른 나무를 다듬는다.",
-      "motion_ref": "The blade shaves the wood into a thin strip, ending on the finished thin strip"
+      "motion_ref": "The blade shaves the wood into a thin strip, ending on the finished thin strip",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -839,7 +963,9 @@
       "motion": "The strip fits snugly inside the hub, ending with the hub lined and tight",
       "link": "연속",
       "link_ko": "다듬은 것이 들어간다.",
-      "motion_ref": "The strip fits snugly inside the hub, ending with the hub lined and tight"
+      "motion_ref": "The strip fits snugly inside the hub, ending with the hub lined and tight",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -861,7 +987,9 @@
       "motion": "One whittles, the other fits, over and over, ending with two hubs already lined",
       "link": "연속",
       "link_ko": "둘의 손발이 맞는다.",
-      "motion_ref": "One whittles, the other fits, over and over, ending with two hubs already lined"
+      "motion_ref": "One whittles, the other fits, over and over, ending with two hubs already lined",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -886,7 +1014,9 @@
       "motion": "The five stand aside with nothing to do, ending with the five watching idly",
       "link": "컷",
       "link_ko": "일하는 둘에서 남은 다섯으로.",
-      "motion_ref": "The five stand aside with nothing to do, ending with the five watching idly"
+      "motion_ref": "The five stand aside with nothing to do, ending with the five watching idly",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -907,7 +1037,9 @@
       "motion": "She tilts her head at them, ending with her head still tilted",
       "link": "연속",
       "link_ko": "구경하다 말이 나온다.",
-      "motion_ref": "She tilts her head at them, ending with her head still tilted"
+      "motion_ref": "She tilts her head at them, ending with her head still tilted",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -926,7 +1058,9 @@
       "motion": "The last strip seats into the fourth hub, ending with all four hubs lined",
       "link": "컷",
       "link_ko": "구경에서 다시 작업으로.",
-      "motion_ref": "The last strip seats into the fourth hub, ending with all four hubs lined"
+      "motion_ref": "The last strip seats into the fourth hub, ending with all four hubs lined",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -948,7 +1082,11 @@
       "motion": "He holds it up; they fit and tighten each wheel, ending with all four wheels on and tight",
       "link": "컷",
       "link_ko": "부품이 끝나고 조립이 된다.",
-      "motion_ref": "He holds it up; they fit and tighten each wheel, ending with all four wheels on and tight"
+      "motion_ref": "He holds it up; they fit and tighten each wheel, ending with all four wheels on and tight",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC4-01",
@@ -967,7 +1105,11 @@
       "motion": "The cart rolls smoothly; the load barely moves, ending with the cart rolling steadily",
       "link": "전환",
       "link_ko": "고치기가 끝나고 다시 간다.",
-      "motion_ref": "The cart rolls smoothly; the load barely moves, ending with the cart rolling steadily"
+      "motion_ref": "The cart rolls smoothly; the load barely moves, ending with the cart rolling steadily",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC4-02",
@@ -986,7 +1128,11 @@
       "motion": "The wheel turns true; the nut stays put, ending on the steady turning wheel",
       "link": "연속",
       "link_ko": "굴러가는 바퀴 속이다.",
-      "motion_ref": "The wheel turns true; the nut stays put, ending on the steady turning wheel"
+      "motion_ref": "The wheel turns true; the nut stays put, ending on the steady turning wheel",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC4-03",
@@ -1005,7 +1151,9 @@
       "motion": "The path climbs steeply ahead, ending on the steep last slope",
       "link": "컷",
       "link_ko": "평지에서 마지막 고비로.",
-      "motion_ref": "The path climbs steeply ahead, ending on the steep last slope"
+      "motion_ref": "The path climbs steeply ahead, ending on the steep last slope",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1026,7 +1174,9 @@
       "motion": "He grips the handles and sets himself, ending with him braced against the handles",
       "link": "컷",
       "link_ko": "언덕에서 준비하는 사람으로.",
-      "motion_ref": "He grips the handles and sets himself, ending with him braced against the handles"
+      "motion_ref": "He grips the handles and sets himself, ending with him braced against the handles",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1045,7 +1195,9 @@
       "motion": "The seven push it up; the load stays steady, ending with the cart near the top",
       "link": "연속",
       "link_ko": "자세를 잡고 오른다.",
-      "motion_ref": "The seven push it up; the load stays steady, ending with the cart near the top"
+      "motion_ref": "The seven push it up; the load stays steady, ending with the cart near the top",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1064,7 +1216,12 @@
       "motion": "The wheel crosses the last stone silently, ending with the wheel on flat ground",
       "link": "연속",
       "link_ko": "오르는 끝의 바퀴다.",
-      "motion_ref": "The wheel crosses the last stone silently, ending with the wheel on flat ground"
+      "motion_ref": "The wheel crosses the last stone silently, ending with the wheel on flat ground",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1083,7 +1240,9 @@
       "motion": "They crest the slope and stop to look, ending with the seven looking down at the market",
       "link": "연속",
       "link_ko": "넘어선 자리에서 목적지가 보인다.",
-      "motion_ref": "They crest the slope and stop to look, ending with the seven looking down at the market"
+      "motion_ref": "They crest the slope and stop to look, ending with the seven looking down at the market",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1105,7 +1264,11 @@
       "motion": "She holds out the spanner; the other takes it, ending with the spanner in the fox's hand",
       "link": "컷",
       "link_ko": "풍경에서 두 사람으로.",
-      "motion_ref": "She holds out the spanner; the other takes it, ending with the spanner in the fox's hand"
+      "motion_ref": "She holds out the spanner; the other takes it, ending with the spanner in the fox's hand",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "EN-01",
@@ -1129,7 +1292,11 @@
         "sec": 0.6,
         "why": "낮의 장터에서 저녁의 귀갓길로"
       },
-      "motion_ref": "The empty cart rolls easily in evening light, ending with the cart and seven on the path"
+      "motion_ref": "The empty cart rolls easily in evening light, ending with the cart and seven on the path",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "EN-02",
@@ -1150,7 +1317,9 @@
       "motion": "She climbs up and sits in the cart, ending with her riding in the cart",
       "link": "연속",
       "link_ko": "돌아가는 길에서 대화가 이어진다.",
-      "motion_ref": "She climbs up and sits in the cart, ending with her riding in the cart"
+      "motion_ref": "She climbs up and sits in the cart, ending with her riding in the cart",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1171,7 +1340,9 @@
       "motion": "He scratches the back of his head, ending on his sheepish face",
       "link": "컷",
       "link_ko": "가벼운 분위기에서 사과가 나온다.",
-      "motion_ref": "He scratches the back of his head, ending on his sheepish face"
+      "motion_ref": "He scratches the back of his head, ending on his sheepish face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1192,7 +1363,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "사과 뒤에 쿵쿵의 한마디로.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1213,7 +1386,11 @@
       "motion": "She walks beside it, listening to the wheel, ending with her still listening",
       "link": "컷",
       "link_ko": "한마디 뒤에 노을로.",
-      "motion_ref": "She walks beside it, listening to the wheel, ending with her still listening"
+      "motion_ref": "She walks beside it, listening to the wheel, ending with her still listening",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "EN-06",
@@ -1234,7 +1411,11 @@
       "motion": "The spanner handle shows in her pocket, ending on the spanner in her pocket",
       "link": "연속",
       "link_ko": "걷는 옆모습에서 주머니로.",
-      "motion_ref": "The spanner handle shows in her pocket, ending on the spanner in her pocket"
+      "motion_ref": "The spanner handle shows in her pocket, ending on the spanner in her pocket",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "EN-07",
@@ -1261,7 +1442,9 @@
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The evening light deepens as the camera eases back"
+      "motion_ref": "The evening light deepens as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

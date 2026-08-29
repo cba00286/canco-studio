@@ -18,6 +18,30 @@
     "SC4": "Act 4 · SC#4 갠 하늘 — 무사한 집, 집들이",
     "EN": "엔딩 · 처음으로 자기 집에서 자는 밤 + 시즌 2 복선"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "마을_광장",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "숲_낮",
+      "bgm": "익살_소동",
+      "weather": "비"
+    },
+    "SC3": {
+      "amb": "실내_집",
+      "bgm": "벅찬_감동",
+      "weather": "비"
+    },
+    "SC4": {
+      "amb": "실내_집",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "실내_집",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -36,7 +60,11 @@
       "motion": "Morning light sweeps across the hill, ending held on the nearly finished house with the scaffolding clear in frame",
       "link": "전환",
       "link_ko": "10화 첫 컷. 검은 화면에서 아침 빛이 차오른다.",
-      "motion_ref": "Morning light sweeps across the hill, ending held on the nearly finished house with the scaffolding clear in frame"
+      "motion_ref": "Morning light sweeps across the hill, ending held on the nearly finished house with the scaffolding clear in frame",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-02",
@@ -60,7 +88,9 @@
         "sec": 0.8,
         "why": "계절이 세 번 바뀌는 몽타주. 길게 녹인다"
       },
-      "motion_ref": "The same frame dissolves through three seasons, ending on the autumn version matching the previous shot exactly"
+      "motion_ref": "The same frame dissolves through three seasons, ending on the autumn version matching the previous shot exactly",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -81,7 +111,11 @@
       "motion": "The tiger cub tugs the canopy square and leans his weight onto it, ending with the canopy seated flat",
       "link": "컷",
       "link_ko": "완성된 집 전경에서 그 지붕 위로 들어간다.",
-      "motion_ref": "The tiger cub tugs the canopy square and leans his weight onto it, ending with the canopy seated flat"
+      "motion_ref": "The tiger cub tugs the canopy square and leans his weight onto it, ending with the canopy seated flat",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-04",
@@ -102,7 +136,11 @@
       "motion": "Her eyes move from the plan to the roof and back, ending with a satisfied nod",
       "link": "컷",
       "link_ko": "지붕에서 그 아래를 본다. 시선이 위아래로 이어진다.",
-      "motion_ref": "Her eyes move from the plan to the roof and back, ending with a satisfied nod"
+      "motion_ref": "Her eyes move from the plan to the roof and back, ending with a satisfied nod",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-05",
@@ -121,7 +159,9 @@
       "motion": "The mallet strikes three times, ending with the peg driven flush and the mallet lifted away",
       "link": "연속",
       "link_ko": "미미가 끄덕인 그 신호로 마지막 못을 박는다.",
-      "motion_ref": "The mallet strikes three times, ending with the peg driven flush and the mallet lifted away"
+      "motion_ref": "The mallet strikes three times, ending with the peg driven flush and the mallet lifted away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -142,7 +182,9 @@
       "motion": "The penguin sways under the plank, ending with it tipping toward the wall",
       "link": "컷",
       "link_ko": "완성 직전의 마지막 한 조각. 후안이 들고 온다.",
-      "motion_ref": "The penguin sways under the plank, ending with it tipping toward the wall"
+      "motion_ref": "The penguin sways under the plank, ending with it tipping toward the wall",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -163,7 +205,9 @@
       "motion": "She hops and points repeatedly, ending with her paw held steady pointing left",
       "link": "컷",
       "link_ko": "기울어지는 판을 보고 티니가 방향을 잡아준다.",
-      "motion_ref": "She hops and points repeatedly, ending with her paw held steady pointing left"
+      "motion_ref": "She hops and points repeatedly, ending with her paw held steady pointing left",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -182,7 +226,11 @@
       "motion": "The plank slots home and they all step back, ending with the finished house standing clear and no one touching it",
       "link": "연속",
       "link_ko": "티니가 가리킨 방향으로 판이 들어가 맞는다.",
-      "motion_ref": "The plank slots home and they all step back, ending with the finished house standing clear and no one touching it"
+      "motion_ref": "The plank slots home and they all step back, ending with the finished house standing clear and no one touching it",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-09",
@@ -203,7 +251,9 @@
       "motion": "She folds the plan and holds it against her, ending with her eyes still on the house",
       "link": "컷",
       "link_ko": "완성된 집을 보는 미미. 앞 컷의 물러선 자리에서 이어진다.",
-      "motion_ref": "She folds the plan and holds it against her, ending with her eyes still on the house"
+      "motion_ref": "She folds the plan and holds it against her, ending with her eyes still on the house",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -227,7 +277,9 @@
       "motion": "The camera pans across their faces, ending on {루비} already opening her mouth to speak",
       "link": "컷",
       "link_ko": "미미의 시선이 다른 넷에게로 옮겨간다.",
-      "motion_ref": "The camera pans across their faces, ending on 루비 already opening her mouth to speak"
+      "motion_ref": "The camera pans across their faces, ending on 루비 already opening her mouth to speak",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -248,7 +300,9 @@
       "motion": "She raises the staff to her lips and winks, ending holding the pose",
       "link": "연속",
       "link_ko": "앞 컷 끝에서 입을 열던 루비가 그대로 말한다.",
-      "motion_ref": "She raises the staff to her lips and winks, ending holding the pose"
+      "motion_ref": "She raises the staff to her lips and winks, ending holding the pose",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -273,7 +327,11 @@
       "motion": "The bunting pulls taut and the table settles, ending with the yard fully decorated",
       "link": "컷",
       "link_ko": "비밀로 하자는 말 뒤, 준비가 시작된다.",
-      "motion_ref": "The bunting pulls taut and the table settles, ending with the yard fully decorated"
+      "motion_ref": "The bunting pulls taut and the table settles, ending with the yard fully decorated",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-13",
@@ -292,7 +350,11 @@
       "motion": "The candle is pressed in and the paw withdraws, ending with the candle standing alone and still",
       "link": "연속",
       "link_ko": "탁자가 놓인 그 위에 케이크와 초가 올라간다.",
-      "motion_ref": "The candle is pressed in and the paw withdraws, ending with the candle standing alone and still"
+      "motion_ref": "The candle is pressed in and the paw withdraws, ending with the candle standing alone and still",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "SC1-14",
@@ -318,7 +380,11 @@
         "sec": 0.55,
         "why": "언덕의 케이크에서 공방의 잠든 쿵쿵이로"
       },
-      "motion_ref": "His back rises and falls slowly, ending with the light reaching his face and one eye beginning to open"
+      "motion_ref": "His back rises and falls slowly, ending with the light reaching his face and one eye beginning to open",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC2-01",
@@ -344,7 +410,11 @@
       "motion": "They guide him step by step up the path, ending with the group stopped at the crest of the hill",
       "link": "전환",
       "link_ko": "시간이 건너뛴다. 아침 공방 → 오후 숲길.",
-      "motion_ref": "They guide him step by step up the path, ending with the group stopped at the crest of the hill"
+      "motion_ref": "They guide him step by step up the path, ending with the group stopped at the crest of the hill",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-02",
@@ -366,7 +436,9 @@
       "motion": "He squirms and the paw clamps back over his eyes, ending with him giving up and standing still",
       "link": "컷",
       "link_ko": "걸어오던 둘을 가까이서 본다.",
-      "motion_ref": "He squirms and the paw clamps back over his eyes, ending with him giving up and standing still"
+      "motion_ref": "He squirms and the paw clamps back over his eyes, ending with him giving up and standing still",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-03",
@@ -387,7 +459,9 @@
       "motion": "He stamps and rocks, ending frozen mid-motion as the paw begins to lift",
       "link": "컷",
       "link_ko": "가려진 채 묻는다. 다음 컷에서 손이 떨어진다.",
-      "motion_ref": "He stamps and rocks, ending frozen mid-motion as the paw begins to lift"
+      "motion_ref": "He stamps and rocks, ending frozen mid-motion as the paw begins to lift",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -412,7 +486,11 @@
       "motion": "They fling their arms wide and clear the frame, ending with the house fully revealed and unobstructed",
       "link": "연속",
       "link_ko": "앞 컷에서 들리기 시작한 앞발이 이 컷에서 완전히 떨어진다.",
-      "motion_ref": "They fling their arms wide and clear the frame, ending with the house fully revealed and unobstructed"
+      "motion_ref": "They fling their arms wide and clear the frame, ending with the house fully revealed and unobstructed",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-05",
@@ -433,7 +511,9 @@
       "motion": "His eyes widen and the reflection sharpens, ending held on the house clear in both eyes",
       "link": "연속",
       "link_ko": "손이 떨어진 그 순간의 눈.",
-      "motion_ref": "His eyes widen and the reflection sharpens, ending held on the house clear in both eyes"
+      "motion_ref": "His eyes widen and the reflection sharpens, ending held on the house clear in both eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -452,7 +532,12 @@
       "motion": "The camera drifts around the house, ending on the open front doorway",
       "link": "컷",
       "link_ko": "쿵쿵이가 보고 있는 것. 시선 이동.",
-      "motion_ref": "The camera drifts around the house, ending on the open front doorway"
+      "motion_ref": "The camera drifts around the house, ending on the open front doorway",
+      "sig": null,
+      "sfx": [
+        "문_열림",
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-07",
@@ -473,7 +558,11 @@
       "motion": "He steps forward and halts, ending with the paw hanging unplaced",
       "link": "컷",
       "link_ko": "집을 본 뒤 쿵쿵이에게 돌아온다.",
-      "motion_ref": "He steps forward and halts, ending with the paw hanging unplaced"
+      "motion_ref": "He steps forward and halts, ending with the paw hanging unplaced",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-08",
@@ -494,7 +583,11 @@
       "motion": "He moves in and gestures wide, ending with his paw held open toward the doorway",
       "link": "컷",
       "link_ko": "멈춘 쿵쿵이 옆으로 루카가 들어온다.",
-      "motion_ref": "He moves in and gestures wide, ending with his paw held open toward the doorway"
+      "motion_ref": "He moves in and gestures wide, ending with his paw held open toward the doorway",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-09",
@@ -515,7 +608,11 @@
       "motion": "Tears well and his mouth curves up, ending with one tear running down and a wide smile",
       "link": "컷",
       "link_ko": "루카의 말을 들은 얼굴.",
-      "motion_ref": "Tears well and his mouth curves up, ending with one tear running down and a wide smile"
+      "motion_ref": "Tears well and his mouth curves up, ending with one tear running down and a wide smile",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-10",
@@ -534,7 +631,9 @@
       "motion": "The grey spreads across the sky, ending with the sunlight visibly dimming over the hill",
       "link": "컷",
       "link_ko": "웃는 얼굴 뒤로 하늘이 바뀐다. 관객만 먼저 본다.",
-      "motion_ref": "The grey spreads across the sky, ending with the sunlight visibly dimming over the hill"
+      "motion_ref": "The grey spreads across the sky, ending with the sunlight visibly dimming over the hill",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -555,7 +654,11 @@
       "motion": "Her head tips back and the scarf snaps straight, ending with her eyes narrowed at the sky",
       "link": "컷",
       "link_ko": "하늘을 먼저 알아채는 것은 언제나 미미다.",
-      "motion_ref": "Her head tips back and the scarf snaps straight, ending with her eyes narrowed at the sky"
+      "motion_ref": "Her head tips back and the scarf snaps straight, ending with her eyes narrowed at the sky",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC2-12",
@@ -574,7 +677,11 @@
       "motion": "The shadow sweeps over the house, ending with the whole hill in shade",
       "link": "연속",
       "link_ko": "미미가 올려다본 그 하늘이 그대로 덮인다.",
-      "motion_ref": "The shadow sweeps over the house, ending with the whole hill in shade"
+      "motion_ref": "The shadow sweeps over the house, ending with the whole hill in shade",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC2-13",
@@ -593,7 +700,12 @@
       "motion": "The line parts and flags whip off, ending with the empty rope swinging",
       "link": "연속",
       "link_ko": "그림자가 지나간 직후 바람이 온다.",
-      "motion_ref": "The line parts and flags whip off, ending with the empty rope swinging"
+      "motion_ref": "The line parts and flags whip off, ending with the empty rope swinging",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍",
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC2-14",
@@ -614,7 +726,11 @@
       "motion": "He points hard at the roof, ending with him bracing against the gust",
       "link": "컷",
       "link_ko": "끊어진 깃발 뒤로 더 큰 위험이 보인다.",
-      "motion_ref": "He points hard at the roof, ending with him bracing against the gust"
+      "motion_ref": "He points hard at the roof, ending with him bracing against the gust",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC2-15",
@@ -633,7 +749,12 @@
       "motion": "The corner lifts again and again, ending with the peg half out of the beam",
       "link": "컷",
       "link_ko": "후안이 가리킨 곳. 아까 마지막으로 박은 그 못이다.",
-      "motion_ref": "The corner lifts again and again, ending with the peg half out of the beam"
+      "motion_ref": "The corner lifts again and again, ending with the peg half out of the beam",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍",
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-16",
@@ -652,7 +773,12 @@
       "motion": "Rain slams down, ending with the cake soaked and the candle leaning",
       "link": "연속",
       "link_ko": "못이 반쯤 빠진 그 순간 비가 터진다.",
-      "motion_ref": "Rain slams down, ending with the cake soaked and the candle leaning"
+      "motion_ref": "Rain slams down, ending with the cake soaked and the candle leaning",
+      "sig": null,
+      "sfx": [
+        "발소리_풀",
+        "불_등불"
+      ]
     },
     {
       "id": "SC3-01",
@@ -673,7 +799,11 @@
       "motion": "She points hard toward cover, ending with the others already moving that way",
       "link": "전환",
       "link_ko": "빗속에서 장면이 다시 시작된다.",
-      "motion_ref": "She points hard toward cover, ending with the others already moving that way"
+      "motion_ref": "She points hard toward cover, ending with the others already moving that way",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC3-02",
@@ -698,7 +828,9 @@
       "motion": "They pile under the overhang, ending with the camera holding on the exposed house alone",
       "link": "컷",
       "link_ko": "루비가 가리킨 방향으로 다섯이 들어간다.",
-      "motion_ref": "They pile under the overhang, ending with the camera holding on the exposed house alone"
+      "motion_ref": "They pile under the overhang, ending with the camera holding on the exposed house alone",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -719,7 +851,9 @@
       "motion": "His eyes narrow and his jaw sets, ending with him already turning toward the rain",
       "link": "컷",
       "link_ko": "비를 맞는 집을 보는 얼굴.",
-      "motion_ref": "His eyes narrow and his jaw sets, ending with him already turning toward the rain"
+      "motion_ref": "His eyes narrow and his jaw sets, ending with him already turning toward the rain",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -741,7 +875,11 @@
       "motion": "He steps out and the reaching paw closes on air, ending with him fully in the rain",
       "link": "컷",
       "link_ko": "돌아선 그 동작 그대로 나간다.",
-      "motion_ref": "He steps out and the reaching paw closes on air, ending with him fully in the rain"
+      "motion_ref": "He steps out and the reaching paw closes on air, ending with him fully in the rain",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC3-05",
@@ -762,7 +900,12 @@
       "motion": "He walks on without turning, ending with him stopped directly in front of the house",
       "link": "연속",
       "link_ko": "내딛은 발이 그대로 걸음이 된다.",
-      "motion_ref": "He walks on without turning, ending with him stopped directly in front of the house"
+      "motion_ref": "He walks on without turning, ending with him stopped directly in front of the house",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루",
+        "환호"
+      ]
     },
     {
       "id": "SC3-06",
@@ -783,7 +926,12 @@
       "motion": "His feet work into the mud, ending braced and motionless with rain sheeting off his back",
       "link": "연속",
       "link_ko": "걸음을 멈춘 그 자리에서 자세를 잡는다.",
-      "motion_ref": "His feet work into the mud, ending braced and motionless with rain sheeting off his back"
+      "motion_ref": "His feet work into the mud, ending braced and motionless with rain sheeting off his back",
+      "sig": null,
+      "sfx": [
+        "종이",
+        "삽_흙"
+      ]
     },
     {
       "id": "SC3-07",
@@ -804,7 +952,11 @@
       "motion": "The paws crash down and water leaps up, ending with the ring of spray at its highest",
       "link": "연속",
       "link_ko": "낮춘 자세에서 그대로 내리찍는다.",
-      "motion_ref": "The paws crash down and water leaps up, ending with the ring of spray at its highest"
+      "motion_ref": "The paws crash down and water leaps up, ending with the ring of spray at its highest",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC3-08",
@@ -830,7 +982,11 @@
         "sec": 0.35,
         "why": "방어막이 솟는 순간"
       },
-      "motion_ref": "Light surges up the horns as the ring spreads, ending with the horn tips at maximum brightness"
+      "motion_ref": "Light surges up the horns as the ring spreads, ending with the horn tips at maximum brightness",
+      "sig": "쿵쿵_파워",
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC3-09",
@@ -851,7 +1007,9 @@
       "motion": "The light arcs up and closes over the house, ending with the dome fully formed and rain bursting off it",
       "link": "연속",
       "link_ko": "뿔의 빛이 그대로 돔이 된다.",
-      "motion_ref": "The light arcs up and closes over the house, ending with the dome fully formed and rain bursting off it"
+      "motion_ref": "The light arcs up and closes over the house, ending with the dome fully formed and rain bursting off it",
+      "sig": "쿵쿵_방어막",
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -870,7 +1028,9 @@
       "motion": "Drops burst against the surface, ending held on the dome holding steady",
       "link": "컷",
       "link_ko": "돔이 만들어진 뒤 그 표면으로 들어간다.",
-      "motion_ref": "Drops burst against the surface, ending held on the dome holding steady"
+      "motion_ref": "Drops burst against the surface, ending held on the dome holding steady",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -891,7 +1051,11 @@
       "motion": "His legs shake harder, ending with one foot sliding back several inches",
       "link": "컷",
       "link_ko": "돔에서 그것을 버티는 몸으로 돌아온다.",
-      "motion_ref": "His legs shake harder, ending with one foot sliding back several inches"
+      "motion_ref": "His legs shake harder, ending with one foot sliding back several inches",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC3-12",
@@ -913,7 +1077,11 @@
       "motion": "He bursts into the downpour, ending mid-stride halfway to {쿵쿵}",
       "link": "컷",
       "link_ko": "미끄러지는 발을 본 루카가 뛰쳐나온다.",
-      "motion_ref": "He bursts into the downpour, ending mid-stride halfway to 쿵쿵"
+      "motion_ref": "He bursts into the downpour, ending mid-stride halfway to 쿵쿵",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC3-13",
@@ -939,7 +1107,11 @@
       "motion": "They close around him one by one, ending with every hand pressed onto his back",
       "link": "연속",
       "link_ko": "루카가 달려간 그 자리에 나머지 넷이 이어 붙는다.",
-      "motion_ref": "They close around him one by one, ending with every hand pressed onto his back"
+      "motion_ref": "They close around him one by one, ending with every hand pressed onto his back",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC3-14",
@@ -958,7 +1130,11 @@
       "motion": "The dome blazes and the storm parts around it, ending with a first break of light in the clouds",
       "link": "연속",
       "link_ko": "손이 얹히는 순간 돔이 밝아진다.",
-      "motion_ref": "The dome blazes and the storm parts around it, ending with a first break of light in the clouds"
+      "motion_ref": "The dome blazes and the storm parts around it, ending with a first break of light in the clouds",
+      "sig": null,
+      "sfx": [
+        "천둥"
+      ]
     },
     {
       "id": "SC4-01",
@@ -982,7 +1158,11 @@
         "sec": 0.7,
         "why": "먹구름이 갈라지며 빛이 쏟아진다"
       },
-      "motion_ref": "The clouds split and light floods the hill, ending with the whole yard bright and steaming"
+      "motion_ref": "The clouds split and light floods the hill, ending with the whole yard bright and steaming",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC4-02",
@@ -1001,7 +1181,9 @@
       "motion": "The dome breaks apart, ending with the house fully clear and intact in frame",
       "link": "연속",
       "link_ko": "구름이 갈라진 그 빛에 돔이 녹아든다.",
-      "motion_ref": "The dome breaks apart, ending with the house fully clear and intact in frame"
+      "motion_ref": "The dome breaks apart, ending with the house fully clear and intact in frame",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1020,7 +1202,11 @@
       "motion": "The camera drifts along the canopy edge, ending held on the peg, unmoved",
       "link": "컷",
       "link_ko": "아까 뽑히려던 그 못을 다시 본다.",
-      "motion_ref": "The camera drifts along the canopy edge, ending held on the peg, unmoved"
+      "motion_ref": "The camera drifts along the canopy edge, ending held on the peg, unmoved",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1041,7 +1227,11 @@
       "motion": "She checks the wall with both paws, ending with her turning back to the others, beaming",
       "link": "컷",
       "link_ko": "못이 무사한 것을 확인한 뒤 전체를 확인한다.",
-      "motion_ref": "She checks the wall with both paws, ending with her turning back to the others, beaming"
+      "motion_ref": "She checks the wall with both paws, ending with her turning back to the others, beaming",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "SC4-05",
@@ -1062,7 +1252,11 @@
       "motion": "His legs fold and they catch him, ending with all six down in the mud together",
       "link": "컷",
       "link_ko": "확인이 끝나자 긴장이 풀린다.",
-      "motion_ref": "His legs fold and they catch him, ending with all six down in the mud together"
+      "motion_ref": "His legs fold and they catch him, ending with all six down in the mud together",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1083,7 +1277,11 @@
       "motion": "The smile spreads across his muddy face, ending held with his eyes closing",
       "link": "컷",
       "link_ko": "주저앉은 그 자리에서 얼굴만.",
-      "motion_ref": "The smile spreads across his muddy face, ending held with his eyes closing"
+      "motion_ref": "The smile spreads across his muddy face, ending held with his eyes closing",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1104,7 +1302,11 @@
       "motion": "He springs up flinging mud, ending with both flippers pointed at the open doorway",
       "link": "컷",
       "link_ko": "울음이 웃음으로 바뀌는 자리.",
-      "motion_ref": "He springs up flinging mud, ending with both flippers pointed at the open doorway"
+      "motion_ref": "He springs up flinging mud, ending with both flippers pointed at the open doorway",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1123,7 +1325,11 @@
       "motion": "They splash and spin in the puddles, ending with water droplets hanging bright in the sunlight",
       "link": "연속",
       "link_ko": "후안이 가리킨 그 마당에서 그대로 시작된다.",
-      "motion_ref": "They splash and spin in the puddles, ending with water droplets hanging bright in the sunlight"
+      "motion_ref": "They splash and spin in the puddles, ending with water droplets hanging bright in the sunlight",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC4-09",
@@ -1142,7 +1348,11 @@
       "motion": "The flame catches and steadies, ending with all six faces lit and leaning in",
       "link": "컷",
       "link_ko": "춤이 잦아들고 여섯이 케이크 앞에 모인다.",
-      "motion_ref": "The flame catches and steadies, ending with all six faces lit and leaning in"
+      "motion_ref": "The flame catches and steadies, ending with all six faces lit and leaning in",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "EN-01",
@@ -1163,7 +1373,11 @@
       "motion": "He puffs up and beams, ending with the smoke curling away past his horns",
       "link": "전환",
       "link_ko": "초를 분 직후. 화면이 잠깐 어두워졌다 이 얼굴로 밝아진다.",
-      "motion_ref": "He puffs up and beams, ending with the smoke curling away past his horns"
+      "motion_ref": "He puffs up and beams, ending with the smoke curling away past his horns",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "EN-02",
@@ -1187,7 +1401,11 @@
         "sec": 0.7,
         "why": "파티가 끝난 낮에서 그날 밤으로"
       },
-      "motion_ref": "The window light flickers gently, ending held on the lit house under the stars"
+      "motion_ref": "The window light flickers gently, ending held on the lit house under the stars",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "EN-03",
@@ -1213,7 +1431,9 @@
       "motion": "He settles down and turns his head toward the mural, ending with his eyes resting on it",
       "link": "컷",
       "link_ko": "창 안으로 들어간다.",
-      "motion_ref": "He settles down and turns his head toward the mural, ending with his eyes resting on it"
+      "motion_ref": "He settles down and turns his head toward the mural, ending with his eyes resting on it",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1234,7 +1454,9 @@
       "motion": "His eyelids sink and his breathing deepens, ending with his face completely at rest",
       "link": "연속",
       "link_ko": "벽화를 보던 그 자세에서 그대로 눈을 감는다.",
-      "motion_ref": "His eyelids sink and his breathing deepens, ending with his face completely at rest"
+      "motion_ref": "His eyelids sink and his breathing deepens, ending with his face completely at rest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1253,7 +1475,11 @@
       "motion": "The light goes out, ending with only moonlight on the quiet house",
       "link": "컷",
       "link_ko": "다시 밖으로 나온다.",
-      "motion_ref": "The light goes out, ending with only moonlight on the quiet house"
+      "motion_ref": "The light goes out, ending with only moonlight on the quiet house",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "EN-06",
@@ -1272,7 +1498,9 @@
       "motion": "It watches without moving, its eyes catching the moonlight once, ending as it turns and slips away into the grass",
       "link": "전환",
       "link_ko": "조용한 집에서 언덕 아래로 시선이 옮겨간다. 시즌 2 복선.",
-      "motion_ref": "It watches without moving, its eyes catching the moonlight once, ending as it turns and slips away into the grass"
+      "motion_ref": "It watches without moving, its eyes catching the moonlight once, ending as it turns and slips away into the grass",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1298,7 +1526,9 @@
       "motion": "Stars twinkle slowly as the camera eases back",
       "link": "컷",
       "link_ko": "실루엣이 사라진 자리에서 엔딩 카드로.",
-      "motion_ref": "Stars twinkle slowly as the camera eases back"
+      "motion_ref": "Stars twinkle slowly as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

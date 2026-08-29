@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 끌어내다 — 가시 뽑기",
     "EN": "엔딩 · 너희들의 안전한 발걸음을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "꽃밭",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "꽃밭",
+      "bgm": "위기_긴박"
+    },
+    "SC3": {
+      "amb": "꽃밭",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "숲_낮",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "꽃밭",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,9 @@
       "motion": "The purple thistles sway across the field, ending on the wide thistle field",
       "link": "전환",
       "link_ko": "29화 첫 컷. 엉겅퀴 밭에서 시작한다.",
-      "motion_ref": "The purple thistles sway across the field, ending on the wide thistle field"
+      "motion_ref": "The purple thistles sway across the field, ending on the wide thistle field",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -58,7 +82,9 @@
       "motion": "The long spines stand dense along the stem, ending on the bristling spines",
       "link": "연속",
       "link_ko": "밭에서 가시 하나로 들어간다.",
-      "motion_ref": "The long spines stand dense along the stem, ending on the bristling spines"
+      "motion_ref": "The long spines stand dense along the stem, ending on the bristling spines",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -85,7 +111,11 @@
       "motion": "They walk the path with baskets, ending with the seven on the path",
       "link": "전환",
       "link_ko": "가시에서 걸어오는 일곱으로.",
-      "motion_ref": "They walk the path with baskets, ending with the seven on the path"
+      "motion_ref": "They walk the path with baskets, ending with the seven on the path",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC1-04",
@@ -106,7 +136,11 @@
       "motion": "Her finger traces the road on the map, ending with her finger at the far end of the road",
       "link": "연속",
       "link_ko": "걷다가 멈춰 확인한다.",
-      "motion_ref": "Her finger traces the road on the map, ending with her finger at the far end of the road"
+      "motion_ref": "Her finger traces the road on the map, ending with her finger at the far end of the road",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-05",
@@ -127,7 +161,9 @@
       "motion": "He points straight across the field, ending with his arm across the field",
       "link": "컷",
       "link_ko": "지도에서 지름길로.",
-      "motion_ref": "He points straight across the field, ending with his arm across the field"
+      "motion_ref": "He points straight across the field, ending with his arm across the field",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -149,7 +185,9 @@
       "motion": "The staff pushes his arm down, ending with his arm lowered",
       "link": "연속",
       "link_ko": "제안이 막힌다.",
-      "motion_ref": "The staff pushes his arm down, ending with his arm lowered"
+      "motion_ref": "The staff pushes his arm down, ending with his arm lowered",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -170,7 +208,9 @@
       "motion": "His toe nudges one thistle, ending with the thistle swaying back",
       "link": "연속",
       "link_ko": "막힌 뒤에도 계속한다.",
-      "motion_ref": "His toe nudges one thistle, ending with the thistle swaying back"
+      "motion_ref": "His toe nudges one thistle, ending with the thistle swaying back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -189,7 +229,9 @@
       "motion": "The spine grazes his foot and he flinches, ending on the thin scratch on his foot",
       "link": "연속",
       "link_ko": "건드린 자리에서 반응이 온다.",
-      "motion_ref": "The spine grazes his foot and he flinches, ending on the thin scratch on his foot"
+      "motion_ref": "The spine grazes his foot and he flinches, ending on the thin scratch on his foot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -208,7 +250,11 @@
       "motion": "They turn back and walk the road, ending with the group moving along the road",
       "link": "컷",
       "link_ko": "아픔 뒤에 물러선다.",
-      "motion_ref": "They turn back and walk the road, ending with the group moving along the road"
+      "motion_ref": "They turn back and walk the road, ending with the group moving along the road",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC1-10",
@@ -229,7 +275,9 @@
       "motion": "He stays behind, still looking at the field, ending with him alone at the field's edge",
       "link": "컷",
       "link_ko": "걷는 무리에서 남은 하나로.",
-      "motion_ref": "He stays behind, still looking at the field, ending with him alone at the field's edge"
+      "motion_ref": "He stays behind, still looking at the field, ending with him alone at the field's edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -248,7 +296,9 @@
       "motion": "The far side looks close, just past the trees, ending on the deceptively close far side",
       "link": "연속",
       "link_ko": "보고 있는 것을 보여 준다.",
-      "motion_ref": "The far side looks close, just past the trees, ending on the deceptively close far side"
+      "motion_ref": "The far side looks close, just past the trees, ending on the deceptively close far side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -269,7 +319,11 @@
       "motion": "He walks in; spines catch at his legs, ending with him waist deep in thistles",
       "link": "연속",
       "link_ko": "보던 것이 행동이 된다.",
-      "motion_ref": "He walks in; spines catch at his legs, ending with him waist deep in thistles"
+      "motion_ref": "He walks in; spines catch at his legs, ending with him waist deep in thistles",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC1-13",
@@ -288,7 +342,9 @@
       "motion": "They stop and realise one is missing, ending with the six turning around",
       "link": "컷",
       "link_ko": "밭에서 길로 시선이 간다.",
-      "motion_ref": "They stop and realise one is missing, ending with the six turning around"
+      "motion_ref": "They stop and realise one is missing, ending with the six turning around",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -309,7 +365,9 @@
       "motion": "She turns first and drops her basket, ending with the basket falling from her hand",
       "link": "연속",
       "link_ko": "알아챈 사람들 중 제일 빠르다.",
-      "motion_ref": "She turns first and drops her basket, ending with the basket falling from her hand"
+      "motion_ref": "She turns first and drops her basket, ending with the basket falling from her hand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -330,7 +388,9 @@
       "motion": "He stands hemmed in on every side, ending with him motionless in the middle",
       "link": "전환",
       "link_ko": "들어간 결과다.",
-      "motion_ref": "He stands hemmed in on every side, ending with him motionless in the middle"
+      "motion_ref": "He stands hemmed in on every side, ending with him motionless in the middle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -351,7 +411,9 @@
       "motion": "Several spines sit embedded in the fur, ending on the embedded spines",
       "link": "연속",
       "link_ko": "서 있는 자리로 들어간다.",
-      "motion_ref": "Several spines sit embedded in the fur, ending on the embedded spines"
+      "motion_ref": "Several spines sit embedded in the fur, ending on the embedded spines",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-03",
@@ -372,7 +434,9 @@
       "motion": "He lifts a foot and puts it back down, ending with him frozen, foot back down",
       "link": "연속",
       "link_ko": "박힌 상태에서 움직여 본다.",
-      "motion_ref": "He lifts a foot and puts it back down, ending with him frozen, foot back down"
+      "motion_ref": "He lifts a foot and puts it back down, ending with him frozen, foot back down",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -391,7 +455,11 @@
       "motion": "They run up to the edge and stop, ending with the six lined at the edge",
       "link": "컷",
       "link_ko": "갇힌 쪽에서 밖으로.",
-      "motion_ref": "They run up to the edge and stop, ending with the six lined at the edge"
+      "motion_ref": "They run up to the edge and stop, ending with the six lined at the edge",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-05",
@@ -412,7 +480,11 @@
       "motion": "She steps into the field, ending with one paw in among the thistles",
       "link": "연속",
       "link_ko": "멈춘 자리에서 하나가 들어간다.",
-      "motion_ref": "She steps into the field, ending with one paw in among the thistles"
+      "motion_ref": "She steps into the field, ending with one paw in among the thistles",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-06",
@@ -433,7 +505,9 @@
       "motion": "A spine goes into her pad and she freezes, ending on the spine in her pad",
       "link": "연속",
       "link_ko": "내디딘 발이 찔린다.",
-      "motion_ref": "A spine goes into her pad and she freezes, ending on the spine in her pad"
+      "motion_ref": "A spine goes into her pad and she freezes, ending on the spine in her pad",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -455,7 +529,9 @@
       "motion": "She pulls her back out of the field, ending with the two back on the path",
       "link": "연속",
       "link_ko": "찔린 뒤에 끌어낸다.",
-      "motion_ref": "She pulls her back out of the field, ending with the two back on the path"
+      "motion_ref": "She pulls her back out of the field, ending with the two back on the path",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -476,7 +552,9 @@
       "motion": "Her hand sweeps across the field, ending with her hand at the far edge",
       "link": "연속",
       "link_ko": "끌어낸 뒤에 판단이 나온다.",
-      "motion_ref": "Her hand sweeps across the field, ending with her hand at the far edge"
+      "motion_ref": "Her hand sweeps across the field, ending with her hand at the far edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -497,7 +575,9 @@
       "motion": "He looks smaller as the thistles crowd in, ending on him small among the thistles",
       "link": "컷",
       "link_ko": "밖에서 안을 본다.",
-      "motion_ref": "He looks smaller as the thistles crowd in, ending on him small among the thistles"
+      "motion_ref": "He looks smaller as the thistles crowd in, ending on him small among the thistles",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -518,7 +598,11 @@
       "motion": "He shouts; his voice shakes, ending on his frightened face",
       "link": "연속",
       "link_ko": "갇힌 자리에서 소리가 온다.",
-      "motion_ref": "He shouts; his voice shakes, ending on his frightened face"
+      "motion_ref": "He shouts; his voice shakes, ending on his frightened face",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-11",
@@ -539,7 +623,11 @@
       "motion": "He shouts back through cupped paws, ending with his paws still cupped",
       "link": "컷",
       "link_ko": "안쪽 소리에 바깥이 답한다.",
-      "motion_ref": "He shouts back through cupped paws, ending with his paws still cupped"
+      "motion_ref": "He shouts back through cupped paws, ending with his paws still cupped",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-12",
@@ -560,7 +648,11 @@
       "motion": "She is already running into the trees, ending with her disappearing among the trees",
       "link": "컷",
       "link_ko": "외치는 쪽과 다른 쪽이다.",
-      "motion_ref": "She is already running into the trees, ending with her disappearing among the trees"
+      "motion_ref": "She is already running into the trees, ending with her disappearing among the trees",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-13",
@@ -581,7 +673,9 @@
       "motion": "He stares after her into the trees, ending on his staring face",
       "link": "연속",
       "link_ko": "사라진 쪽을 본다.",
-      "motion_ref": "He stares after her into the trees, ending on his staring face"
+      "motion_ref": "He stares after her into the trees, ending on his staring face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -602,7 +696,9 @@
       "motion": "She drags back several wide flat boards, ending with the boards dropped at the field's edge",
       "link": "컷",
       "link_ko": "의문에 답이 나온다.",
-      "motion_ref": "She drags back several wide flat boards, ending with the boards dropped at the field's edge"
+      "motion_ref": "She drags back several wide flat boards, ending with the boards dropped at the field's edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -623,7 +719,9 @@
       "motion": "She lays one board flat over the thistles, ending with the first board lying on the field",
       "link": "연속",
       "link_ko": "가져온 것을 바로 쓴다.",
-      "motion_ref": "She lays one board flat over the thistles, ending with the first board lying on the field"
+      "motion_ref": "She lays one board flat over the thistles, ending with the first board lying on the field",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -644,7 +742,11 @@
       "motion": "The thistles press flat under the board, ending on the flattened thistles",
       "link": "연속",
       "link_ko": "놓인 판자 밑을 본다.",
-      "motion_ref": "The thistles press flat under the board, ending on the flattened thistles"
+      "motion_ref": "The thistles press flat under the board, ending on the flattened thistles",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-01",
@@ -663,7 +765,9 @@
       "motion": "Boards go down end to end, making a path, ending with the board path partway across",
       "link": "전환",
       "link_ko": "한 장에서 길로 이어진다.",
-      "motion_ref": "Boards go down end to end, making a path, ending with the board path partway across"
+      "motion_ref": "Boards go down end to end, making a path, ending with the board path partway across",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -685,7 +789,9 @@
       "motion": "One lays the front board; one brings the next, ending with another board in place",
       "link": "연속",
       "link_ko": "길이 만들어지는 손이다.",
-      "motion_ref": "One lays the front board; one brings the next, ending with another board in place"
+      "motion_ref": "One lays the front board; one brings the next, ending with another board in place",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -704,7 +810,9 @@
       "motion": "Six boards down, half the distance left, ending on the gap still to cross",
       "link": "컷",
       "link_ko": "놓는 손에서 남은 거리로.",
-      "motion_ref": "Six boards down, half the distance left, ending on the gap still to cross"
+      "motion_ref": "Six boards down, half the distance left, ending on the gap still to cross",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -725,7 +833,9 @@
       "motion": "He holds up two empty flippers, ending with his flippers still empty",
       "link": "연속",
       "link_ko": "남은 거리 앞에서 막힌다.",
-      "motion_ref": "He holds up two empty flippers, ending with his flippers still empty"
+      "motion_ref": "He holds up two empty flippers, ending with his flippers still empty",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -746,7 +856,9 @@
       "motion": "He still stands motionless in the middle, ending on him standing still and small",
       "link": "컷",
       "link_ko": "막힌 쪽에서 갇힌 쪽으로.",
-      "motion_ref": "He still stands motionless in the middle, ending on him standing still and small"
+      "motion_ref": "He still stands motionless in the middle, ending on him standing still and small",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -767,7 +879,9 @@
       "motion": "His legs tremble from standing so long, ending on the trembling legs",
       "link": "연속",
       "link_ko": "서 있는 몸으로 들어간다.",
-      "motion_ref": "His legs tremble from standing so long, ending on the trembling legs"
+      "motion_ref": "His legs tremble from standing so long, ending on the trembling legs",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -788,7 +902,9 @@
       "motion": "She stands at the board's end, looking out, ending with her at the end of the path",
       "link": "컷",
       "link_ko": "떨리는 다리에서 판단으로.",
-      "motion_ref": "She stands at the board's end, looking out, ending with her at the end of the path"
+      "motion_ref": "She stands at the board's end, looking out, ending with her at the end of the path",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -809,7 +925,11 @@
       "motion": "He walks to the very end of the last board, ending with him at the edge of the boards",
       "link": "연속",
       "link_ko": "판단 뒤에 나선다.",
-      "motion_ref": "He walks to the very end of the last board, ending with him at the edge of the boards"
+      "motion_ref": "He walks to the very end of the last board, ending with him at the edge of the boards",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-09",
@@ -830,7 +950,11 @@
       "motion": "He raises both paws and light starts to run, ending with his paws at their highest",
       "link": "연속",
       "link_ko": "자리를 잡고 준비한다.",
-      "motion_ref": "He raises both paws and light starts to run, ending with his paws at their highest"
+      "motion_ref": "He raises both paws and light starts to run, ending with his paws at their highest",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-10",
@@ -851,7 +975,9 @@
       "motion": "The shockwave ring races out across the field, ending with the ring spreading over the thistles",
       "link": "연속",
       "link_ko": "든 앞발이 판자를 친다.",
-      "motion_ref": "The shockwave ring races out across the field, ending with the ring spreading over the thistles"
+      "motion_ref": "The shockwave ring races out across the field, ending with the ring spreading over the thistles",
+      "sig": "쿵쿵_파워",
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -870,7 +996,9 @@
       "motion": "The thistles flatten sideways as the ring passes, ending with a flattened lane across the field",
       "link": "연속",
       "link_ko": "고리가 밭을 지나간다.",
-      "motion_ref": "The thistles flatten sideways as the ring passes, ending with a flattened lane across the field"
+      "motion_ref": "The thistles flatten sideways as the ring passes, ending with a flattened lane across the field",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -891,7 +1019,11 @@
       "motion": "The flattened lane reaches him, ending with the lane open to him",
       "link": "연속",
       "link_ko": "뚫린 길이 사람에게 닿는다.",
-      "motion_ref": "The flattened lane reaches him, ending with the lane open to him"
+      "motion_ref": "The flattened lane reaches him, ending with the lane open to him",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-13",
@@ -910,7 +1042,9 @@
       "motion": "The flattened thistles slowly rise again, ending with the stems half risen",
       "link": "컷",
       "link_ko": "열린 길이 닫히기 시작한다.",
-      "motion_ref": "The flattened thistles slowly rise again, ending with the stems half risen"
+      "motion_ref": "The flattened thistles slowly rise again, ending with the stems half risen",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -931,7 +1065,9 @@
       "motion": "She shoves a board out along the lane, ending with the board sliding into place",
       "link": "컷",
       "link_ko": "닫히는 것을 보고 서두른다.",
-      "motion_ref": "She shoves a board out along the lane, ending with the board sliding into place"
+      "motion_ref": "She shoves a board out along the lane, ending with the board sliding into place",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -952,7 +1088,9 @@
       "motion": "Board after board goes forward until it reaches him, ending with the board path touching his feet",
       "link": "연속",
       "link_ko": "서두른 손들이 길을 잇는다.",
-      "motion_ref": "Board after board goes forward until it reaches him, ending with the board path touching his feet"
+      "motion_ref": "Board after board goes forward until it reaches him, ending with the board path touching his feet",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -974,7 +1112,11 @@
       "motion": "He runs along the boards to him, ending with the two together in the middle of the field",
       "link": "전환",
       "link_ko": "길이 닿고 사람이 간다.",
-      "motion_ref": "He runs along the boards to him, ending with the two together in the middle of the field"
+      "motion_ref": "He runs along the boards to him, ending with the two together in the middle of the field",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC4-02",
@@ -996,7 +1138,9 @@
       "motion": "He crouches and the tiger climbs on, ending with the tiger settled on his back",
       "link": "연속",
       "link_ko": "도착해서 태운다.",
-      "motion_ref": "He crouches and the tiger climbs on, ending with the tiger settled on his back"
+      "motion_ref": "He crouches and the tiger climbs on, ending with the tiger settled on his back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1017,7 +1161,9 @@
       "motion": "A few spines pull loose and fall, ending with the spines falling into the thistles",
       "link": "연속",
       "link_ko": "들어 올려진 다리다.",
-      "motion_ref": "A few spines pull loose and fall, ending with the spines falling into the thistles"
+      "motion_ref": "A few spines pull loose and fall, ending with the spines falling into the thistles",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1039,7 +1185,9 @@
       "motion": "He carries him back along the boards, ending with the two reaching the field's edge",
       "link": "연속",
       "link_ko": "태우고 돌아온다.",
-      "motion_ref": "He carries him back along the boards, ending with the two reaching the field's edge"
+      "motion_ref": "He carries him back along the boards, ending with the two reaching the field's edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1061,7 +1209,9 @@
       "motion": "She lays him down and pulls the spines, ending with several spines set aside",
       "link": "연속",
       "link_ko": "돌아온 뒤에 치료한다.",
-      "motion_ref": "She lays him down and pulls the spines, ending with several spines set aside"
+      "motion_ref": "She lays him down and pulls the spines, ending with several spines set aside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1082,7 +1232,9 @@
       "motion": "He covers his eyes with his arm, ending with his arm over his eyes",
       "link": "연속",
       "link_ko": "치료받으며 말이 나온다.",
-      "motion_ref": "He covers his eyes with his arm, ending with his arm over his eyes"
+      "motion_ref": "He covers his eyes with his arm, ending with his arm over his eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1104,7 +1256,9 @@
       "motion": "She lifts his arm away from his face, ending with his face uncovered",
       "link": "연속",
       "link_ko": "가린 팔이 치워진다.",
-      "motion_ref": "She lifts his arm away from his face, ending with his face uncovered"
+      "motion_ref": "She lifts his arm away from his face, ending with his face uncovered",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1123,7 +1277,9 @@
       "motion": "They carry the boards off; the thistles rise, ending with the field whole again",
       "link": "컷",
       "link_ko": "치료 뒤에 뒷정리를 한다.",
-      "motion_ref": "They carry the boards off; the thistles rise, ending with the field whole again"
+      "motion_ref": "They carry the boards off; the thistles rise, ending with the field whole again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1147,7 +1303,9 @@
         "sec": 0.6,
         "why": "밭에서 언덕 너머로. 시간도 흐른다"
       },
-      "motion_ref": "They gather herbs under a low sun, ending with the baskets filling up"
+      "motion_ref": "They gather herbs under a low sun, ending with the baskets filling up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1168,7 +1326,11 @@
       "motion": "He limps as he digs; nobody does it for him, ending with him still digging",
       "link": "연속",
       "link_ko": "일하는 무리 안이다.",
-      "motion_ref": "He limps as he digs; nobody does it for him, ending with him still digging"
+      "motion_ref": "He limps as he digs; nobody does it for him, ending with him still digging",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "EN-03",
@@ -1189,7 +1351,9 @@
       "motion": "He looks down at his own leg, ending on his lowered look",
       "link": "연속",
       "link_ko": "일하다가 말이 나온다.",
-      "motion_ref": "He looks down at his own leg, ending on his lowered look"
+      "motion_ref": "He looks down at his own leg, ending on his lowered look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1210,7 +1374,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "다짐 뒤에 쿵쿵의 한마디로.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1231,7 +1397,9 @@
       "motion": "She stands the six boards at the field's entrance, ending with the boards leaning at the entrance",
       "link": "컷",
       "link_ko": "한마디 뒤에 노을로.",
-      "motion_ref": "She stands the six boards at the field's entrance, ending with the boards leaning at the entrance"
+      "motion_ref": "She stands the six boards at the field's entrance, ending with the boards leaning at the entrance",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1250,7 +1418,9 @@
       "motion": "The boards cast long shadows at the entrance, ending on the boards and the evening field",
       "link": "연속",
       "link_ko": "세워 둔 자리에서 밭 전체로.",
-      "motion_ref": "The boards cast long shadows at the entrance, ending on the boards and the evening field"
+      "motion_ref": "The boards cast long shadows at the entrance, ending on the boards and the evening field",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1277,7 +1447,9 @@
       "motion": "The thistles sway as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The thistles sway as the camera eases back"
+      "motion_ref": "The thistles sway as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

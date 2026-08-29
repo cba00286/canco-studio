@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 3화 예고 — 루비의 노랫소리가 사라졌어"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "꽃밭",
+      "bgm": "호기심_탐험"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "Her mouth works silently, ending with both paws flying to her throat",
       "link": "전환",
       "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
-      "motion_ref": "Her mouth works silently, ending with both paws flying to her throat"
+      "motion_ref": "Her mouth works silently, ending with both paws flying to her throat",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T03-02",
@@ -48,7 +56,9 @@
       "motion": "The wet flowers sway, ending held on the empty meadow",
       "link": "연속",
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
-      "motion_ref": "The wet flowers sway, ending held on the empty meadow"
+      "motion_ref": "The wet flowers sway, ending held on the empty meadow",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T03-03",
@@ -71,7 +81,11 @@
       "motion": "The tear runs down, ending with both friends looking away, out of ideas",
       "link": "컷",
       "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
-      "motion_ref": "The tear runs down, ending with both friends looking away, out of ideas"
+      "motion_ref": "The tear runs down, ending with both friends looking away, out of ideas",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "T03-04",
@@ -92,7 +106,9 @@
       "motion": "The light climbs the horns, ending just before it spreads outward",
       "link": "컷",
       "link_ko": "해결의 실마리만. 결말은 감춘다.",
-      "motion_ref": "The light climbs the horns, ending just before it spreads outward"
+      "motion_ref": "The light climbs the horns, ending just before it spreads outward",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T03-05",
@@ -122,7 +138,9 @@
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
       },
-      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

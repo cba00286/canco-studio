@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 8화 예고 — 쓱싹쓱싹 양치 대작전"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "숲_낮",
+      "bgm": "호기심_탐험"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "She recoils hard, ending with her head turned fully away and the apple untouched",
       "link": "전환",
       "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
-      "motion_ref": "She recoils hard, ending with her head turned fully away and the apple untouched"
+      "motion_ref": "She recoils hard, ending with her head turned fully away and the apple untouched",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T08-02",
@@ -50,7 +58,9 @@
       "motion": "She retreats holding her cheek, ending with the abandoned apple alone in frame",
       "link": "연속",
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
-      "motion_ref": "She retreats holding her cheek, ending with the abandoned apple alone in frame"
+      "motion_ref": "She retreats holding her cheek, ending with the abandoned apple alone in frame",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T08-03",
@@ -74,7 +84,9 @@
       "motion": "They bite in happily, ending with her eyes dropping to the ground",
       "link": "컷",
       "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
-      "motion_ref": "They bite in happily, ending with her eyes dropping to the ground"
+      "motion_ref": "They bite in happily, ending with her eyes dropping to the ground",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T08-04",
@@ -93,7 +105,11 @@
       "motion": "Light crosses the stools, ending held on the two brushes",
       "link": "컷",
       "link_ko": "해결의 실마리만. 결말은 감춘다.",
-      "motion_ref": "Light crosses the stools, ending held on the two brushes"
+      "motion_ref": "Light crosses the stools, ending held on the two brushes",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "T08-05",
@@ -117,7 +133,9 @@
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
       },
-      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

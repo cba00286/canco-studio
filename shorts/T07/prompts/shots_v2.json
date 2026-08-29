@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 7화 예고 — 후안이 밤에 잠이 와요"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "숲_밤",
+      "bgm": "호기심_탐험"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "His eyes close and the rope slips free, ending with his flippers empty",
       "link": "전환",
       "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
-      "motion_ref": "His eyes close and the rope slips free, ending with his flippers empty"
+      "motion_ref": "His eyes close and the rope slips free, ending with his flippers empty",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T07-02",
@@ -52,7 +60,11 @@
       "motion": "They are hauled forward, ending in a heap on the beach",
       "link": "연속",
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
-      "motion_ref": "They are hauled forward, ending in a heap on the beach"
+      "motion_ref": "They are hauled forward, ending in a heap on the beach",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "T07-03",
@@ -73,7 +85,9 @@
       "motion": "He curls in tighter, ending completely folded over his own knees",
       "link": "컷",
       "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
-      "motion_ref": "He curls in tighter, ending completely folded over his own knees"
+      "motion_ref": "He curls in tighter, ending completely folded over his own knees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T07-04",
@@ -94,7 +108,9 @@
       "motion": "The light spreads across the ceiling, ending with the whole room faintly glowing",
       "link": "컷",
       "link_ko": "해결의 실마리만. 결말은 감춘다.",
-      "motion_ref": "The light spreads across the ceiling, ending with the whole room faintly glowing"
+      "motion_ref": "The light spreads across the ceiling, ending with the whole room faintly glowing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "T07-05",
@@ -120,7 +136,9 @@
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
       },
-      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

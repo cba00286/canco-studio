@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 전반과 후반 — 두 가지 놀이",
     "EN": "엔딩 · 양보하며 어울리는 놀이를 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "눈밭",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "마을_광장",
+      "bgm": "조용한_슬픔"
+    },
+    "SC3": {
+      "amb": "마을_광장",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "마을_광장",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "마을_광장",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "Meltwater runs between the sunlit stones, ending on the sunlit wet square",
       "link": "전환",
       "link_ko": "28화 첫 컷. 봄볕에서 시작한다.",
-      "motion_ref": "Meltwater runs between the sunlit stones, ending on the sunlit wet square"
+      "motion_ref": "Meltwater runs between the sunlit stones, ending on the sunlit wet square",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,9 @@
       "motion": "The seven sit in a row in the sun, ending with all seven seated in a row",
       "link": "전환",
       "link_ko": "광장에서 벤치의 일곱으로.",
-      "motion_ref": "The seven sit in a row in the sun, ending with all seven seated in a row"
+      "motion_ref": "The seven sit in a row in the sun, ending with all seven seated in a row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -87,7 +115,9 @@
       "motion": "She swings her feet, looking around, ending with her feet still swinging",
       "link": "연속",
       "link_ko": "앉은 줄 안으로 들어간다.",
-      "motion_ref": "She swings her feet, looking around, ending with her feet still swinging"
+      "motion_ref": "She swings her feet, looking around, ending with her feet still swinging",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -108,7 +138,9 @@
       "motion": "He jumps up and points at the far tree, ending with his arm out toward the tree",
       "link": "연속",
       "link_ko": "질문에 첫 답이 나온다.",
-      "motion_ref": "He jumps up and points at the far tree, ending with his arm out toward the tree"
+      "motion_ref": "He jumps up and points at the far tree, ending with his arm out toward the tree",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -129,7 +161,9 @@
       "motion": "She shakes her head, staff on her knees, ending with her head still turned away",
       "link": "컷",
       "link_ko": "제안에 반대가 나온다.",
-      "motion_ref": "She shakes her head, staff on her knees, ending with her head still turned away"
+      "motion_ref": "She shakes her head, staff on her knees, ending with her head still turned away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -150,7 +184,9 @@
       "motion": "He throws both arms wide, ending with his arms still wide",
       "link": "연속",
       "link_ko": "반대에 반박이 온다.",
-      "motion_ref": "He throws both arms wide, ending with his arms still wide"
+      "motion_ref": "He throws both arms wide, ending with his arms still wide",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -172,7 +208,9 @@
       "motion": "She looks straight at him, ending on her steady stare",
       "link": "컷",
       "link_ko": "반박에 반박이 온다.",
-      "motion_ref": "She looks straight at him, ending on her steady stare"
+      "motion_ref": "She looks straight at him, ending on her steady stare",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -191,7 +229,9 @@
       "motion": "Five pairs of eyes go back and forth, ending with the five sitting very still",
       "link": "컷",
       "link_ko": "둘의 말다툼에서 나머지로.",
-      "motion_ref": "Five pairs of eyes go back and forth, ending with the five sitting very still"
+      "motion_ref": "Five pairs of eyes go back and forth, ending with the five sitting very still",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -212,7 +252,9 @@
       "motion": "She raises a careful hand, ending with her hand half up",
       "link": "연속",
       "link_ko": "구경하던 중 한 명이 나선다.",
-      "motion_ref": "She raises a careful hand, ending with her hand half up"
+      "motion_ref": "She raises a careful hand, ending with her hand half up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -233,7 +275,9 @@
       "motion": "His hand cuts the air, ending with her hand lowered again",
       "link": "연속",
       "link_ko": "제안이 잘린다.",
-      "motion_ref": "His hand cuts the air, ending with her hand lowered again"
+      "motion_ref": "His hand cuts the air, ending with her hand lowered again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -254,7 +298,9 @@
       "motion": "She stands up with her staff, ending with her standing away from the bench",
       "link": "컷",
       "link_ko": "자른 뒤에 갈라진다.",
-      "motion_ref": "She stands up with her staff, ending with her standing away from the bench"
+      "motion_ref": "She stands up with her staff, ending with her standing away from the bench",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -276,7 +322,11 @@
       "motion": "They walk to opposite sides of the square, ending with the two far apart",
       "link": "연속",
       "link_ko": "갈라진 뜻이 걸음이 된다.",
-      "motion_ref": "They walk to opposite sides of the square, ending with the two far apart"
+      "motion_ref": "They walk to opposite sides of the square, ending with the two far apart",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-13",
@@ -301,7 +351,9 @@
       "motion": "The five look at one another on the bench, ending with the five still seated",
       "link": "컷",
       "link_ko": "떠난 쪽에서 남은 쪽으로.",
-      "motion_ref": "The five look at one another on the bench, ending with the five still seated"
+      "motion_ref": "The five look at one another on the bench, ending with the five still seated",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -322,7 +374,9 @@
       "motion": "He looks left, then right, then left, ending on his uncertain back-and-forth look",
       "link": "연속",
       "link_ko": "남은 줄 안으로 들어간다.",
-      "motion_ref": "He looks left, then right, then left, ending on his uncertain back-and-forth look"
+      "motion_ref": "He looks left, then right, then left, ending on his uncertain back-and-forth look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -341,7 +395,9 @@
       "motion": "The square holds two separate groups, ending on the two separated groups",
       "link": "전환",
       "link_ko": "갈라짐이 완성된다.",
-      "motion_ref": "The square holds two separate groups, ending on the two separated groups"
+      "motion_ref": "The square holds two separate groups, ending on the two separated groups",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -364,7 +420,9 @@
       "motion": "They scratch a starting line into the dirt, ending with the line drawn",
       "link": "연속",
       "link_ko": "한쪽 무리로 들어간다.",
-      "motion_ref": "They scratch a starting line into the dirt, ending with the line drawn"
+      "motion_ref": "They scratch a starting line into the dirt, ending with the line drawn",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-03",
@@ -385,7 +443,9 @@
       "motion": "He arrives far ahead of the other two, ending with him at the tree, the others far behind",
       "link": "연속",
       "link_ko": "출발선에서 경기가 시작된다.",
-      "motion_ref": "He arrives far ahead of the other two, ending with him at the tree, the others far behind"
+      "motion_ref": "He arrives far ahead of the other two, ending with him at the tree, the others far behind",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -406,7 +466,11 @@
       "motion": "He stops halfway, gasping, ending on his gasping face",
       "link": "연속",
       "link_ko": "경기의 뒤쪽이다.",
-      "motion_ref": "He stops halfway, gasping, ending on his gasping face"
+      "motion_ref": "He stops halfway, gasping, ending on his gasping face",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC2-05",
@@ -427,7 +491,9 @@
       "motion": "He jogs back to the line, ending with him back at the line",
       "link": "컷",
       "link_ko": "숨찬 쪽 앞에 다시 제안이 온다.",
-      "motion_ref": "He jogs back to the line, ending with him back at the line"
+      "motion_ref": "He jogs back to the line, ending with him back at the line",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -448,7 +514,9 @@
       "motion": "She sits down, ears drooping, ending on her drooping ears",
       "link": "연속",
       "link_ko": "제안에 거절이 온다.",
-      "motion_ref": "She sits down, ears drooping, ending on her drooping ears"
+      "motion_ref": "She sits down, ears drooping, ending on her drooping ears",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -467,7 +535,9 @@
       "motion": "The other side is empty; all four are hidden, ending on the empty-looking side of the square",
       "link": "전환",
       "link_ko": "한쪽에서 다른 쪽으로 넘어간다.",
-      "motion_ref": "The other side is empty; all four are hidden, ending on the empty-looking side of the square"
+      "motion_ref": "The other side is empty; all four are hidden, ending on the empty-looking side of the square",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -488,7 +558,9 @@
       "motion": "She crouches and waits a long time, ending with her still crouched, waiting",
       "link": "연속",
       "link_ko": "숨은 자리 안으로 들어간다.",
-      "motion_ref": "She crouches and waits a long time, ending with her still crouched, waiting"
+      "motion_ref": "She crouches and waits a long time, ending with her still crouched, waiting",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -509,7 +581,11 @@
       "motion": "She circles the square, finding nobody, ending with her stopping, out of ideas",
       "link": "컷",
       "link_ko": "숨은 쪽에서 찾는 쪽으로.",
-      "motion_ref": "She circles the square, finding nobody, ending with her stopping, out of ideas"
+      "motion_ref": "She circles the square, finding nobody, ending with her stopping, out of ideas",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC2-10",
@@ -530,7 +606,9 @@
       "motion": "She yawns behind the barrel, ending mid-yawn",
       "link": "컷",
       "link_ko": "찾는 쪽에서 숨은 쪽으로.",
-      "motion_ref": "She yawns behind the barrel, ending mid-yawn"
+      "motion_ref": "She yawns behind the barrel, ending mid-yawn",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -551,7 +629,9 @@
       "motion": "He stands alone in the middle of the square, ending on the small figure in the empty middle",
       "link": "컷",
       "link_ko": "양쪽 사이의 빈 곳이다.",
-      "motion_ref": "He stands alone in the middle of the square, ending on the small figure in the empty middle"
+      "motion_ref": "He stands alone in the middle of the square, ending on the small figure in the empty middle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -572,7 +652,11 @@
       "motion": "He goes a few steps one way, then returns, ending with him back where he started",
       "link": "연속",
       "link_ko": "혼자 남아 움직인다.",
-      "motion_ref": "He goes a few steps one way, then returns, ending with him back where he started"
+      "motion_ref": "He goes a few steps one way, then returns, ending with him back where he started",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC2-13",
@@ -593,7 +677,9 @@
       "motion": "She sits alone on the bench, watching both, ending with her still seated, watching",
       "link": "컷",
       "link_ko": "가운데에서 벤치로.",
-      "motion_ref": "She sits alone on the bench, watching both, ending with her still seated, watching"
+      "motion_ref": "She sits alone on the bench, watching both, ending with her still seated, watching",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -612,7 +698,9 @@
       "motion": "One group breaks up; the others come out, ending with everyone standing loose in the square",
       "link": "컷",
       "link_ko": "양쪽이 동시에 끝난다.",
-      "motion_ref": "One group breaks up; the others come out, ending with everyone standing loose in the square"
+      "motion_ref": "One group breaks up; the others come out, ending with everyone standing loose in the square",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -633,7 +721,9 @@
       "motion": "He sits down on his own starting line, ending on his flat bored face",
       "link": "컷",
       "link_ko": "끝난 자리에서 얼굴로.",
-      "motion_ref": "He sits down on his own starting line, ending on his flat bored face"
+      "motion_ref": "He sits down on his own starting line, ending on his flat bored face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -654,7 +744,9 @@
       "motion": "She rests her chin on her staff, ending with her chin still on the staff",
       "link": "컷",
       "link_ko": "한쪽 말에 다른 쪽이 답한다.",
-      "motion_ref": "She rests her chin on her staff, ending with her chin still on the staff"
+      "motion_ref": "She rests her chin on her staff, ending with her chin still on the staff",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -673,7 +765,9 @@
       "motion": "They sit back down with gaps between them, ending with the seven seated apart",
       "link": "전환",
       "link_ko": "흩어졌다가 다시 모인다.",
-      "motion_ref": "They sit back down with gaps between them, ending with the seven seated apart"
+      "motion_ref": "They sit back down with gaps between them, ending with the seven seated apart",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -695,7 +789,9 @@
       "motion": "They sit at opposite ends, ending with the two at the far ends",
       "link": "연속",
       "link_ko": "앉은 줄 안에서 양 끝이다.",
-      "motion_ref": "They sit at opposite ends, ending with the two at the far ends"
+      "motion_ref": "They sit at opposite ends, ending with the two at the far ends",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -716,7 +812,9 @@
       "motion": "He looks down at his own feet, ending on his lowered eyes",
       "link": "컷",
       "link_ko": "벌어진 사이에서 말이 나온다.",
-      "motion_ref": "He looks down at his own feet, ending on his lowered eyes"
+      "motion_ref": "He looks down at his own feet, ending on his lowered eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -739,7 +837,9 @@
       "motion": "Both look at him; neither speaks, ending with both still looking at him",
       "link": "연속",
       "link_ko": "말이 양 끝에 닿는다.",
-      "motion_ref": "Both look at him; neither speaks, ending with both still looking at him"
+      "motion_ref": "Both look at him; neither speaks, ending with both still looking at him",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -760,7 +860,9 @@
       "motion": "She looks up and speaks briefly, ending with her head back down",
       "link": "컷",
       "link_ko": "침묵에 답이 온다.",
-      "motion_ref": "She looks up and speaks briefly, ending with her head back down"
+      "motion_ref": "She looks up and speaks briefly, ending with her head back down",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -781,7 +883,9 @@
       "motion": "He turns his face away, ending with his face turned away",
       "link": "연속",
       "link_ko": "같은 말에 같은 반박이 온다.",
-      "motion_ref": "He turns his face away, ending with his face turned away"
+      "motion_ref": "He turns his face away, ending with his face turned away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -802,7 +906,9 @@
       "motion": "She points at the sun, still high, ending with her arm up toward the sun",
       "link": "연속",
       "link_ko": "반박에 사실이 붙는다.",
-      "motion_ref": "She points at the sun, still high, ending with her arm up toward the sun"
+      "motion_ref": "She points at the sun, still high, ending with her arm up toward the sun",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -823,7 +929,9 @@
       "motion": "He looks up and finds nothing to say, ending on his silenced face",
       "link": "연속",
       "link_ko": "가리킨 것을 본다.",
-      "motion_ref": "He looks up and finds nothing to say, ending on his silenced face"
+      "motion_ref": "He looks up and finds nothing to say, ending on his silenced face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -844,7 +952,11 @@
       "motion": "She draws a line down the middle of the page, ending on the divided page",
       "link": "컷",
       "link_ko": "막힌 자리에 제안이 다시 온다.",
-      "motion_ref": "She draws a line down the middle of the page, ending on the divided page"
+      "motion_ref": "She draws a line down the middle of the page, ending on the divided page",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-10",
@@ -863,7 +975,11 @@
       "motion": "A word goes on each side of the line, ending on the two written halves",
       "link": "연속",
       "link_ko": "그린 선 양쪽이 채워진다.",
-      "motion_ref": "A word goes on each side of the line, ending on the two written halves"
+      "motion_ref": "A word goes on each side of the line, ending on the two written halves",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-11",
@@ -884,7 +1000,11 @@
       "motion": "She lifts her chin and leans in, ending with her leaning toward the notebook",
       "link": "컷",
       "link_ko": "제안에 질문이 붙는다.",
-      "motion_ref": "She lifts her chin and leans in, ending with her leaning toward the notebook"
+      "motion_ref": "She lifts her chin and leans in, ending with her leaning toward the notebook",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-12",
@@ -905,7 +1025,9 @@
       "motion": "She jumps up and thrusts out a fist, ending with her fist held out",
       "link": "연속",
       "link_ko": "질문에 답이 튀어나온다.",
-      "motion_ref": "She jumps up and thrusts out a fist, ending with her fist held out"
+      "motion_ref": "She jumps up and thrusts out a fist, ending with her fist held out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -927,7 +1049,11 @@
       "motion": "The two hands meet; one of them wins, ending with the winning hand held out",
       "link": "연속",
       "link_ko": "제안대로 정한다.",
-      "motion_ref": "The two hands meet; one of them wins, ending with the winning hand held out"
+      "motion_ref": "The two hands meet; one of them wins, ending with the winning hand held out",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-14",
@@ -948,7 +1074,9 @@
       "motion": "He stands and holds out a hand, ending with the hand held out",
       "link": "연속",
       "link_ko": "진 쪽이 받아들인다.",
-      "motion_ref": "He stands and holds out a hand, ending with the hand held out"
+      "motion_ref": "He stands and holds out a hand, ending with the hand held out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -969,7 +1097,9 @@
       "motion": "She takes the hand; the five rise, ending with all seven standing",
       "link": "연속",
       "link_ko": "악수로 정해진다.",
-      "motion_ref": "She takes the hand; the five rise, ending with all seven standing"
+      "motion_ref": "She takes the hand; the five rise, ending with all seven standing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -990,7 +1120,9 @@
       "motion": "He counts as the six scatter, ending with the square emptying",
       "link": "전환",
       "link_ko": "정하고 나서 시작한다.",
-      "motion_ref": "He counts as the six scatter, ending with the square emptying"
+      "motion_ref": "He counts as the six scatter, ending with the square emptying",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -1011,7 +1143,9 @@
       "motion": "She tucks into a spot nobody would check, ending with her completely hidden",
       "link": "연속",
       "link_ko": "흩어진 뒤의 자리다.",
-      "motion_ref": "She tucks into a spot nobody would check, ending with her completely hidden"
+      "motion_ref": "She tucks into a spot nobody would check, ending with her completely hidden",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1032,7 +1166,9 @@
       "motion": "He searches, looking pleased with himself, ending on his bright searching face",
       "link": "컷",
       "link_ko": "숨은 쪽에서 찾는 쪽으로.",
-      "motion_ref": "He searches, looking pleased with himself, ending on his bright searching face"
+      "motion_ref": "He searches, looking pleased with himself, ending on his bright searching face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1054,7 +1190,9 @@
       "motion": "She lets a foot show; he spots it, ending with him heading toward the spot",
       "link": "컷",
       "link_ko": "찾는 쪽 앞에 단서가 생긴다.",
-      "motion_ref": "She lets a foot show; he spots it, ending with him heading toward the spot"
+      "motion_ref": "She lets a foot show; he spots it, ending with him heading toward the spot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1076,7 +1214,11 @@
       "motion": "He finds her and both of them laugh, ending with the two laughing together",
       "link": "연속",
       "link_ko": "단서를 따라가 찾는다.",
-      "motion_ref": "He finds her and both of them laugh, ending with the two laughing together"
+      "motion_ref": "He finds her and both of them laugh, ending with the two laughing together",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1100,7 +1242,11 @@
         "sec": 0.5,
         "why": "전반에서 후반으로 넘어간다"
       },
-      "motion_ref": "The seven line up and crouch to run, ending with the seven set on the line"
+      "motion_ref": "The seven line up and crouch to run, ending with the seven set on the line",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1121,7 +1267,9 @@
       "motion": "He starts fast, then eases off halfway, ending with him letting the others catch up",
       "link": "연속",
       "link_ko": "출발선에서 달리기가 시작된다.",
-      "motion_ref": "He starts fast, then eases off halfway, ending with him letting the others catch up"
+      "motion_ref": "He starts fast, then eases off halfway, ending with him letting the others catch up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1140,7 +1288,12 @@
       "motion": "They arrive together and tumble into a heap, ending with the seven in a laughing heap",
       "link": "연속",
       "link_ko": "늦춘 속도 덕에 같이 도착한다.",
-      "motion_ref": "They arrive together and tumble into a heap, ending with the seven in a laughing heap"
+      "motion_ref": "They arrive together and tumble into a heap, ending with the seven in a laughing heap",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵",
+        "환호"
+      ]
     },
     {
       "id": "EN-01",
@@ -1164,7 +1317,9 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "The sun rests on the treetop over the square, ending on the sunset square"
+      "motion_ref": "The sun rests on the treetop over the square, ending on the sunset square",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1191,7 +1346,9 @@
       "motion": "They sit shoulder to shoulder this time, ending with the seven packed together on the bench",
       "link": "연속",
       "link_ko": "놀이가 끝나고 앉는다.",
-      "motion_ref": "They sit shoulder to shoulder this time, ending with the seven packed together on the bench"
+      "motion_ref": "They sit shoulder to shoulder this time, ending with the seven packed together on the bench",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1212,7 +1369,9 @@
       "motion": "She smiles, staff across her knees, ending on her smile",
       "link": "연속",
       "link_ko": "앉은 줄 안에서 말이 나온다.",
-      "motion_ref": "She smiles, staff across her knees, ending on her smile"
+      "motion_ref": "She smiles, staff across her knees, ending on her smile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1233,7 +1392,9 @@
       "motion": "He speaks while looking elsewhere, ending with him still looking away",
       "link": "연속",
       "link_ko": "한쪽 말에 다른 쪽이 답한다.",
-      "motion_ref": "He speaks while looking elsewhere, ending with him still looking away"
+      "motion_ref": "He speaks while looking elsewhere, ending with him still looking away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1254,7 +1415,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1273,7 +1436,9 @@
       "motion": "The little board stands beside the bench, ending on the divided board",
       "link": "컷",
       "link_ko": "저녁에서 다음 날로 넘어간다.",
-      "motion_ref": "The little board stands beside the bench, ending on the divided board"
+      "motion_ref": "The little board stands beside the bench, ending on the divided board",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1300,7 +1465,9 @@
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The evening light deepens as the camera eases back"
+      "motion_ref": "The evening light deepens as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

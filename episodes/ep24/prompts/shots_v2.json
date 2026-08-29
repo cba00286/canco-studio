@@ -19,6 +19,28 @@
     "SC4": "Act 4 · SC#4 나눔 — 누가 더 넣었나",
     "EN": "엔딩 · 나눠 먹는 마음을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "눈밭",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "참나무숲",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "마을_광장",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "눈밭",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "참나무숲",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -37,7 +59,11 @@
       "motion": "Big flakes fall and whiten the forest, ending on the snow-covered forest",
       "link": "전환",
       "link_ko": "24화 첫 컷. 첫눈에서 시작한다.",
-      "motion_ref": "Big flakes fall and whiten the forest, ending on the snow-covered forest"
+      "motion_ref": "Big flakes fall and whiten the forest, ending on the snow-covered forest",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -64,7 +90,11 @@
       "motion": "They walk through the snow, leaving prints, ending with a line of prints behind them",
       "link": "전환",
       "link_ko": "눈 내린 숲에서 그 안의 일곱으로.",
-      "motion_ref": "They walk through the snow, leaving prints, ending with a line of prints behind them"
+      "motion_ref": "They walk through the snow, leaving prints, ending with a line of prints behind them",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-03",
@@ -85,7 +115,12 @@
       "motion": "She rolls over and over in the snow, ending with her on her back in the snow",
       "link": "연속",
       "link_ko": "걷는 줄 안에서 하나가 신난다.",
-      "motion_ref": "She rolls over and over in the snow, ending with her on her back in the snow"
+      "motion_ref": "She rolls over and over in the snow, ending with her on her back in the snow",
+      "sig": null,
+      "sfx": [
+        "발소리_눈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC1-04",
@@ -104,7 +139,12 @@
       "motion": "The small animals dig under the snow, ending with them still digging",
       "link": "컷",
       "link_ko": "노는 쪽에서 다른 쪽으로.",
-      "motion_ref": "The small animals dig under the snow, ending with them still digging"
+      "motion_ref": "The small animals dig under the snow, ending with them still digging",
+      "sig": null,
+      "sfx": [
+        "발소리_눈",
+        "삽_흙"
+      ]
     },
     {
       "id": "SC1-05",
@@ -123,7 +163,9 @@
       "motion": "Only bare soil shows in the dug patch, ending on the empty soil",
       "link": "연속",
       "link_ko": "파는 자리로 들어간다.",
-      "motion_ref": "Only bare soil shows in the dug patch, ending on the empty soil"
+      "motion_ref": "Only bare soil shows in the dug patch, ending on the empty soil",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -144,7 +186,9 @@
       "motion": "She crouches to examine the patch, ending with her still crouched over it",
       "link": "연속",
       "link_ko": "빈 자리를 확인한다.",
-      "motion_ref": "She crouches to examine the patch, ending with her still crouched over it"
+      "motion_ref": "She crouches to examine the patch, ending with her still crouched over it",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -163,7 +207,11 @@
       "motion": "Snow piles onto the empty bare branches, ending on the bare snow-laden trees",
       "link": "컷",
       "link_ko": "한 자리에서 숲 전체로.",
-      "motion_ref": "Snow piles onto the empty bare branches, ending on the bare snow-laden trees"
+      "motion_ref": "Snow piles onto the empty bare branches, ending on the bare snow-laden trees",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-08",
@@ -184,7 +232,9 @@
       "motion": "He watches the small animals, ending on his watching face",
       "link": "컷",
       "link_ko": "숲에서 그걸 걱정하는 얼굴로.",
-      "motion_ref": "He watches the small animals, ending on his watching face"
+      "motion_ref": "He watches the small animals, ending on his watching face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -203,7 +253,11 @@
       "motion": "It stops digging and curls up, ending on the curled-up animal",
       "link": "컷",
       "link_ko": "걱정에 이유가 붙는다.",
-      "motion_ref": "It stops digging and curls up, ending on the curled-up animal"
+      "motion_ref": "It stops digging and curls up, ending on the curled-up animal",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC1-10",
@@ -224,7 +278,9 @@
       "motion": "He spins around toward the village, ending with him facing the village",
       "link": "컷",
       "link_ko": "웅크린 동물에서 반응으로.",
-      "motion_ref": "He spins around toward the village, ending with him facing the village"
+      "motion_ref": "He spins around toward the village, ending with him facing the village",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -245,7 +301,9 @@
       "motion": "She shifts her grip, her face difficult, ending on her difficult expression",
       "link": "연속",
       "link_ko": "제안에 현실이 붙는다.",
-      "motion_ref": "She shifts her grip, her face difficult, ending on her difficult expression"
+      "motion_ref": "She shifts her grip, her face difficult, ending on her difficult expression",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -264,7 +322,11 @@
       "motion": "They glance sideways at one another, ending with the seven standing awkwardly apart",
       "link": "컷",
       "link_ko": "말이 끊기고 침묵이 온다.",
-      "motion_ref": "They glance sideways at one another, ending with the seven standing awkwardly apart"
+      "motion_ref": "They glance sideways at one another, ending with the seven standing awkwardly apart",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-13",
@@ -285,7 +347,11 @@
       "motion": "She turns toward the village, silent, ending with her already facing away",
       "link": "연속",
       "link_ko": "침묵 속에서 하나가 움직인다.",
-      "motion_ref": "She turns toward the village, silent, ending with her already facing away"
+      "motion_ref": "She turns toward the village, silent, ending with her already facing away",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-14",
@@ -306,7 +372,9 @@
       "motion": "He raises a paw, ending with his paw still up",
       "link": "컷",
       "link_ko": "움직임에 말이 붙는다.",
-      "motion_ref": "He raises a paw, ending with his paw still up"
+      "motion_ref": "He raises a paw, ending with his paw still up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -325,7 +393,11 @@
       "motion": "The storehouse doors open one by one, ending with all the doors standing open",
       "link": "전환",
       "link_ko": "숲에서 마을로 장소가 바뀐다.",
-      "motion_ref": "The storehouse doors open one by one, ending with all the doors standing open"
+      "motion_ref": "The storehouse doors open one by one, ending with all the doors standing open",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC2-02",
@@ -346,7 +418,9 @@
       "motion": "He stands beside his three sacks, ending with him looking at the three sacks",
       "link": "연속",
       "link_ko": "열린 문 안으로 들어간다.",
-      "motion_ref": "He stands beside his three sacks, ending with him looking at the three sacks"
+      "motion_ref": "He stands beside his three sacks, ending with him looking at the three sacks",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-03",
@@ -367,7 +441,9 @@
       "motion": "His hand settles, then lifts away, ending with his hand withdrawn",
       "link": "연속",
       "link_ko": "보다가 망설인다.",
-      "motion_ref": "His hand settles, then lifts away, ending with his hand withdrawn"
+      "motion_ref": "His hand settles, then lifts away, ending with his hand withdrawn",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -388,7 +464,9 @@
       "motion": "His eyes move between the three sacks, ending with him still looking at them",
       "link": "연속",
       "link_ko": "손을 뗀 자리에서 말이 나온다.",
-      "motion_ref": "His eyes move between the three sacks, ending with him still looking at them"
+      "motion_ref": "His eyes move between the three sacks, ending with him still looking at them",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -409,7 +487,9 @@
       "motion": "She lifts one of her only two sacks, ending with the sack in her arms",
       "link": "컷",
       "link_ko": "한 집에서 다른 집으로.",
-      "motion_ref": "She lifts one of her only two sacks, ending with the sack in her arms"
+      "motion_ref": "She lifts one of her only two sacks, ending with the sack in her arms",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -430,7 +510,9 @@
       "motion": "He looks a long time at his one sack, ending on his fixed look",
       "link": "컷",
       "link_ko": "또 다른 집이다.",
-      "motion_ref": "He looks a long time at his one sack, ending on his fixed look"
+      "motion_ref": "He looks a long time at his one sack, ending on his fixed look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -451,7 +533,11 @@
       "motion": "She stands beside the single small jar, ending with her looking at the jar",
       "link": "컷",
       "link_ko": "가장 적은 집이다.",
-      "motion_ref": "She stands beside the single small jar, ending with her looking at the jar"
+      "motion_ref": "She stands beside the single small jar, ending with her looking at the jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-08",
@@ -472,7 +558,11 @@
       "motion": "She tips the jar; it is half full, ending on the half-full jar",
       "link": "연속",
       "link_ko": "항아리 안을 확인한다.",
-      "motion_ref": "She tips the jar; it is half full, ending on the half-full jar"
+      "motion_ref": "She tips the jar; it is half full, ending on the half-full jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-09",
@@ -491,7 +581,11 @@
       "motion": "The door stays shut; only prints in the snow, ending on the closed door and prints",
       "link": "컷",
       "link_ko": "여섯 집에서 마지막 한 집으로.",
-      "motion_ref": "The door stays shut; only prints in the snow, ending on the closed door and prints"
+      "motion_ref": "The door stays shut; only prints in the snow, ending on the closed door and prints",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC2-10",
@@ -517,7 +611,12 @@
       "motion": "They gather in the square carrying their food, ending with the six standing in a ring",
       "link": "전환",
       "link_ko": "각자의 집에서 광장으로.",
-      "motion_ref": "They gather in the square carrying their food, ending with the six standing in a ring"
+      "motion_ref": "They gather in the square carrying their food, ending with the six standing in a ring",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽",
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-11",
@@ -536,7 +635,11 @@
       "motion": "The big empty basket settles on the stones, ending on the empty basket",
       "link": "연속",
       "link_ko": "모인 가운데에 자리가 생긴다.",
-      "motion_ref": "The big empty basket settles on the stones, ending on the empty basket"
+      "motion_ref": "The big empty basket settles on the stones, ending on the empty basket",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC2-12",
@@ -557,7 +660,9 @@
       "motion": "She empties her sack in first, ending with the basket's bottom covered",
       "link": "연속",
       "link_ko": "빈 바구니에 첫 번째가 들어간다.",
-      "motion_ref": "She empties her sack in first, ending with the basket's bottom covered"
+      "motion_ref": "She empties her sack in first, ending with the basket's bottom covered",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -578,7 +683,9 @@
       "motion": "He pours half his only sack in, ending with him holding the half-empty sack",
       "link": "연속",
       "link_ko": "다음 사람이 붓는다.",
-      "motion_ref": "He pours half his only sack in, ending with him holding the half-empty sack"
+      "motion_ref": "He pours half his only sack in, ending with him holding the half-empty sack",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -599,7 +706,11 @@
       "motion": "She empties the entire jar, ending on the emptied upturned jar",
       "link": "연속",
       "link_ko": "가장 적은 사람이 전부 낸다.",
-      "motion_ref": "She empties the entire jar, ending on the emptied upturned jar"
+      "motion_ref": "She empties the entire jar, ending on the emptied upturned jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-15",
@@ -621,7 +732,9 @@
       "motion": "He grabs hold of her, ending with him holding her arm",
       "link": "컷",
       "link_ko": "다 부은 것을 보고 붙잡는다.",
-      "motion_ref": "He grabs hold of her, ending with him holding her arm"
+      "motion_ref": "He grabs hold of her, ending with him holding her arm",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -642,7 +755,11 @@
       "motion": "She grins and shakes the empty jar, ending with the empty jar held up",
       "link": "연속",
       "link_ko": "붙잡힌 채로 답한다.",
-      "motion_ref": "She grins and shakes the empty jar, ending with the empty jar held up"
+      "motion_ref": "She grins and shakes the empty jar, ending with the empty jar held up",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC3-01",
@@ -663,7 +780,9 @@
       "motion": "He stands holding his sack while the others wait, ending with him alone at the basket",
       "link": "전환",
       "link_ko": "다른 사람들이 다 끝난 뒤다.",
-      "motion_ref": "He stands holding his sack while the others wait, ending with him alone at the basket"
+      "motion_ref": "He stands holding his sack while the others wait, ending with him alone at the basket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -684,7 +803,11 @@
       "motion": "His arms tighten around the sack, ending with the sack held tight",
       "link": "연속",
       "link_ko": "서 있는 자세로 들어간다.",
-      "motion_ref": "His arms tighten around the sack, ending with the sack held tight"
+      "motion_ref": "His arms tighten around the sack, ending with the sack held tight",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC3-03",
@@ -703,7 +826,9 @@
       "motion": "They wait; no one hurries him, ending with the six standing quietly",
       "link": "컷",
       "link_ko": "안는 팔에서 기다리는 사람들로.",
-      "motion_ref": "They wait; no one hurries him, ending with the six standing quietly"
+      "motion_ref": "They wait; no one hurries him, ending with the six standing quietly",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -724,7 +849,9 @@
       "motion": "He lowers his head, ending on his lowered head",
       "link": "연속",
       "link_ko": "기다림 속에서 말이 나온다.",
-      "motion_ref": "He lowers his head, ending on his lowered head"
+      "motion_ref": "He lowers his head, ending on his lowered head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -745,7 +872,9 @@
       "motion": "She comes alongside and plants her staff, ending with the two standing side by side",
       "link": "컷",
       "link_ko": "자책에 답이 온다.",
-      "motion_ref": "She comes alongside and plants her staff, ending with the two standing side by side"
+      "motion_ref": "She comes alongside and plants her staff, ending with the two standing side by side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -766,7 +895,9 @@
       "motion": "He pours, then stops halfway, ending with the half-emptied sack in his hands",
       "link": "연속",
       "link_ko": "옆에 서 준 뒤에 움직인다.",
-      "motion_ref": "He pours, then stops halfway, ending with the half-emptied sack in his hands"
+      "motion_ref": "He pours, then stops halfway, ending with the half-emptied sack in his hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -787,7 +918,9 @@
       "motion": "He hesitates, then tips the rest in, ending with the sack completely empty",
       "link": "연속",
       "link_ko": "멈춘 손이 다시 움직인다.",
-      "motion_ref": "He hesitates, then tips the rest in, ending with the sack completely empty"
+      "motion_ref": "He hesitates, then tips the rest in, ending with the sack completely empty",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -806,7 +939,9 @@
       "motion": "The basket sits filled to the brim, ending on the full basket",
       "link": "연속",
       "link_ko": "마지막이 들어가 채워진다.",
-      "motion_ref": "The basket sits filled to the brim, ending on the full basket"
+      "motion_ref": "The basket sits filled to the brim, ending on the full basket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -827,7 +962,9 @@
       "motion": "His flipper measures the basket, ending with his flipper at the rim",
       "link": "컷",
       "link_ko": "가득 찬 바구니에서 걱정으로.",
-      "motion_ref": "His flipper measures the basket, ending with his flipper at the rim"
+      "motion_ref": "His flipper measures the basket, ending with his flipper at the rim",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -848,7 +985,9 @@
       "motion": "She arrives carrying a sack, ending with her standing at the basket",
       "link": "컷",
       "link_ko": "걱정 옆에 마지막 사람이 온다.",
-      "motion_ref": "She arrives carrying a sack, ending with her standing at the basket"
+      "motion_ref": "She arrives carrying a sack, ending with her standing at the basket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -869,7 +1008,9 @@
       "motion": "The basket overflows as she empties it, ending with acorns spilling over the rim",
       "link": "연속",
       "link_ko": "도착하자마자 붓는다.",
-      "motion_ref": "The basket overflows as she empties it, ending with acorns spilling over the rim"
+      "motion_ref": "The basket overflows as she empties it, ending with acorns spilling over the rim",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -890,7 +1031,9 @@
       "motion": "He scoops the spilled acorns back, ending with his hands full of acorns",
       "link": "연속",
       "link_ko": "넘친 것을 보고 묻는다.",
-      "motion_ref": "He scoops the spilled acorns back, ending with his hands full of acorns"
+      "motion_ref": "He scoops the spilled acorns back, ending with his hands full of acorns",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -911,7 +1054,9 @@
       "motion": "She folds the sack under her arm, ending with the folded sack under her arm",
       "link": "연속",
       "link_ko": "물음에 짧게 답한다.",
-      "motion_ref": "She folds the sack under her arm, ending with the folded sack under her arm"
+      "motion_ref": "She folds the sack under her arm, ending with the folded sack under her arm",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -932,7 +1077,9 @@
       "motion": "Two folded sacks, not one, sit under her arm, ending on the two folded sacks",
       "link": "컷",
       "link_ko": "말과 다른 것이 보인다.",
-      "motion_ref": "Two folded sacks, not one, sit under her arm, ending on the two folded sacks"
+      "motion_ref": "Two folded sacks, not one, sit under her arm, ending on the two folded sacks",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -953,7 +1100,9 @@
       "motion": "She sees it and says nothing, ending on her quiet knowing look",
       "link": "컷",
       "link_ko": "자루에서 그걸 본 사람으로.",
-      "motion_ref": "She sees it and says nothing, ending on her quiet knowing look"
+      "motion_ref": "She sees it and says nothing, ending on her quiet knowing look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -972,7 +1121,11 @@
       "motion": "They carry the basket together through the snow, ending with the group deep among the trees",
       "link": "전환",
       "link_ko": "광장에서 숲으로 장소가 바뀐다.",
-      "motion_ref": "They carry the basket together through the snow, ending with the group deep among the trees"
+      "motion_ref": "They carry the basket together through the snow, ending with the group deep among the trees",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-02",
@@ -991,7 +1144,9 @@
       "motion": "They set small piles at tree after tree, ending with piles at several trees",
       "link": "연속",
       "link_ko": "도착해서 나눠 놓는다.",
-      "motion_ref": "They set small piles at tree after tree, ending with piles at several trees"
+      "motion_ref": "They set small piles at tree after tree, ending with piles at several trees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1010,7 +1165,9 @@
       "motion": "It creeps out and takes an acorn, ending with the acorn in its paws",
       "link": "연속",
       "link_ko": "놓아 둔 자리에 손님이 온다.",
-      "motion_ref": "It creeps out and takes an acorn, ending with the acorn in its paws"
+      "motion_ref": "It creeps out and takes an acorn, ending with the acorn in its paws",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1029,7 +1186,9 @@
       "motion": "Animals come out everywhere; the forest fills, ending with the forest floor full of animals",
       "link": "연속",
       "link_ko": "하나가 나오자 전부 나온다.",
-      "motion_ref": "Animals come out everywhere; the forest fills, ending with the forest floor full of animals"
+      "motion_ref": "Animals come out everywhere; the forest fills, ending with the forest floor full of animals",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1050,7 +1209,9 @@
       "motion": "She spins to look all around, ending mid-spin",
       "link": "컷",
       "link_ko": "동물들에서 그걸 보는 아이로.",
-      "motion_ref": "She spins to look all around, ending mid-spin"
+      "motion_ref": "She spins to look all around, ending mid-spin",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1069,7 +1230,9 @@
       "motion": "The basket's bottom shows; a few acorns left, ending on the nearly empty basket",
       "link": "컷",
       "link_ko": "붐비는 숲에서 바구니로.",
-      "motion_ref": "The basket's bottom shows; a few acorns left, ending on the nearly empty basket"
+      "motion_ref": "The basket's bottom shows; a few acorns left, ending on the nearly empty basket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1090,7 +1253,9 @@
       "motion": "She adds one more handful from the folded sack, ending with the basket a little fuller again",
       "link": "연속",
       "link_ko": "비어 가는 바구니에 더해진다.",
-      "motion_ref": "She adds one more handful from the folded sack, ending with the basket a little fuller again"
+      "motion_ref": "She adds one more handful from the folded sack, ending with the basket a little fuller again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1116,7 +1281,9 @@
       "motion": "They see it, say nothing, and smile, ending with the six smiling quietly",
       "link": "컷",
       "link_ko": "손에서 그걸 본 사람들로.",
-      "motion_ref": "They see it, say nothing, and smile, ending with the six smiling quietly"
+      "motion_ref": "They see it, say nothing, and smile, ending with the six smiling quietly",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1140,7 +1307,11 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "Dusk falls on the piles beneath the trees, ending on the quiet snowy forest"
+      "motion_ref": "Dusk falls on the piles beneath the trees, ending on the quiet snowy forest",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "EN-02",
@@ -1159,7 +1330,9 @@
       "motion": "They carry the empty basket home, ending with them entering the village",
       "link": "연속",
       "link_ko": "숲에서 돌아온다.",
-      "motion_ref": "They carry the empty basket home, ending with them entering the village"
+      "motion_ref": "They carry the empty basket home, ending with them entering the village",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1180,7 +1353,11 @@
       "motion": "He shakes the empty sack, laughing, ending on his laughing face",
       "link": "연속",
       "link_ko": "걸으며 대화가 이어진다.",
-      "motion_ref": "He shakes the empty sack, laughing, ending on his laughing face"
+      "motion_ref": "He shakes the empty sack, laughing, ending on his laughing face",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "EN-04",
@@ -1201,7 +1378,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1222,7 +1401,11 @@
       "motion": "She turns off; six hands go up, ending with her walking up the hill road",
       "link": "컷",
       "link_ko": "한마디 뒤에 헤어진다.",
-      "motion_ref": "She turns off; six hands go up, ending with her walking up the hill road"
+      "motion_ref": "She turns off; six hands go up, ending with her walking up the hill road",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "EN-06",
@@ -1241,7 +1424,11 @@
       "motion": "Moonlight shows the empty storeroom inside, ending on the empty moonlit storeroom",
       "link": "컷",
       "link_ko": "걷는 뒷모습에서 그 집으로.",
-      "motion_ref": "Moonlight shows the empty storeroom inside, ending on the empty moonlit storeroom"
+      "motion_ref": "Moonlight shows the empty storeroom inside, ending on the empty moonlit storeroom",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "EN-07",
@@ -1268,7 +1455,9 @@
       "motion": "Snow falls gently as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "Snow falls gently as the camera eases back"
+      "motion_ref": "Snow falls gently as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

@@ -19,6 +19,28 @@
     "SC4": "Act 4 · SC#4 정상 — 늦게 온 발소리",
     "EN": "엔딩 · 포기하지 않는 도전을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "산길",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "산길",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "산길",
+      "bgm": "위기_긴박"
+    },
+    "SC4": {
+      "amb": "산길",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "산길",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -37,7 +59,9 @@
       "motion": "Cloud drifts slowly across the summit, ending on the cloud-topped peak",
       "link": "전환",
       "link_ko": "19화 첫 컷. 봉우리에서 시작한다.",
-      "motion_ref": "Cloud drifts slowly across the summit, ending on the cloud-topped peak"
+      "motion_ref": "Cloud drifts slowly across the summit, ending on the cloud-topped peak",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -64,7 +88,9 @@
       "motion": "The seven stand and look up at the peak, ending with all seven looking up",
       "link": "전환",
       "link_ko": "봉우리에서 그것을 보는 일곱으로.",
-      "motion_ref": "The seven stand and look up at the peak, ending with all seven looking up"
+      "motion_ref": "The seven stand and look up at the peak, ending with all seven looking up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -85,7 +111,9 @@
       "motion": "He points at the peak and squares up, ending with his arm still up",
       "link": "연속",
       "link_ko": "올려다보다 말이 나온다.",
-      "motion_ref": "He points at the peak and squares up, ending with his arm still up"
+      "motion_ref": "He points at the peak and squares up, ending with his arm still up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -106,7 +134,9 @@
       "motion": "Her eyes go from the peak to the sun, ending with her looking back at the peak",
       "link": "컷",
       "link_ko": "선언에 계산이 붙는다.",
-      "motion_ref": "Her eyes go from the peak to the sun, ending with her looking back at the peak"
+      "motion_ref": "Her eyes go from the peak to the sun, ending with her looking back at the peak",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -127,7 +157,9 @@
       "motion": "Her staff taps the start of the trail, ending with the staff on the trailhead",
       "link": "연속",
       "link_ko": "계산에 답이 나온다.",
-      "motion_ref": "Her staff taps the start of the trail, ending with the staff on the trailhead"
+      "motion_ref": "Her staff taps the start of the trail, ending with the staff on the trailhead",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -148,7 +180,9 @@
       "motion": "She bounds up onto the trail, ending with her some way up the trail",
       "link": "컷",
       "link_ko": "출발 이야기가 끝나기 전에 하나가 간다.",
-      "motion_ref": "She bounds up onto the trail, ending with her some way up the trail"
+      "motion_ref": "She bounds up onto the trail, ending with her some way up the trail",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -169,7 +203,9 @@
       "motion": "He looks down at his own feet, ending with him still looking down",
       "link": "컷",
       "link_ko": "달려가는 쪽에서 망설이는 쪽으로.",
-      "motion_ref": "He looks down at his own feet, ending with him still looking down"
+      "motion_ref": "He looks down at his own feet, ending with him still looking down",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -191,7 +227,9 @@
       "motion": "He puts both paws against the penguin's back, ending with his paws braced on the back",
       "link": "연속",
       "link_ko": "망설임에 손이 붙는다.",
-      "motion_ref": "He puts both paws against the penguin's back, ending with his paws braced on the back"
+      "motion_ref": "He puts both paws against the penguin's back, ending with his paws braced on the back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -212,7 +250,9 @@
       "motion": "Six gather; one stays back, ending with the gap between the six and her",
       "link": "컷",
       "link_ko": "출발하는 쪽에서 남는 쪽으로.",
-      "motion_ref": "Six gather; one stays back, ending with the gap between the six and her"
+      "motion_ref": "Six gather; one stays back, ending with the gap between the six and her",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -233,7 +273,9 @@
       "motion": "He turns back to look, ending with him facing back down the trail",
       "link": "연속",
       "link_ko": "벌어진 거리를 알아챈다.",
-      "motion_ref": "He turns back to look, ending with him facing back down the trail"
+      "motion_ref": "He turns back to look, ending with him facing back down the trail",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -254,7 +296,9 @@
       "motion": "She answers; her face does not move, ending on her unreadable face",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She answers; her face does not move, ending on her unreadable face"
+      "motion_ref": "She answers; her face does not move, ending on her unreadable face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -275,7 +319,11 @@
       "motion": "She runs back down toward her, ending with her arriving in front of the fox",
       "link": "컷",
       "link_ko": "답에 반응이 온다.",
-      "motion_ref": "She runs back down toward her, ending with her arriving in front of the fox"
+      "motion_ref": "She runs back down toward her, ending with her arriving in front of the fox",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-13",
@@ -296,7 +344,9 @@
       "motion": "She shakes her head and sits on the rock, ending with her seated on the rock",
       "link": "연속",
       "link_ko": "권유가 거절된다.",
-      "motion_ref": "She shakes her head and sits on the rock, ending with her seated on the rock"
+      "motion_ref": "She shakes her head and sits on the rock, ending with her seated on the rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -317,7 +367,9 @@
       "motion": "They climb; she stays small and still below, ending with the six well up the trail",
       "link": "컷",
       "link_ko": "남기고 출발한다.",
-      "motion_ref": "They climb; she stays small and still below, ending with the six well up the trail"
+      "motion_ref": "They climb; she stays small and still below, ending with the six well up the trail",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -336,7 +388,11 @@
       "motion": "The steep stony trail climbs out of sight, ending on the endless steep trail",
       "link": "전환",
       "link_ko": "길이 본격적으로 시작된다.",
-      "motion_ref": "The steep stony trail climbs out of sight, ending on the endless steep trail"
+      "motion_ref": "The steep stony trail climbs out of sight, ending on the endless steep trail",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-02",
@@ -355,7 +411,11 @@
       "motion": "They haul themselves over the boulder, ending with the last of them over the rock",
       "link": "연속",
       "link_ko": "길 위로 사람이 들어온다.",
-      "motion_ref": "They haul themselves over the boulder, ending with the last of them over the rock"
+      "motion_ref": "They haul themselves over the boulder, ending with the last of them over the rock",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC2-03",
@@ -376,7 +436,9 @@
       "motion": "He pants; his breath steams, ending on his steaming panting beak",
       "link": "연속",
       "link_ko": "오르는 무리 안으로 들어간다.",
-      "motion_ref": "He pants; his breath steams, ending on his steaming panting beak"
+      "motion_ref": "He pants; his breath steams, ending on his steaming panting beak",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -398,7 +460,9 @@
       "motion": "He pushes and calls out a rhythm, ending with the two moving up together",
       "link": "연속",
       "link_ko": "헐떡임에 구령이 붙는다.",
-      "motion_ref": "He pushes and calls out a rhythm, ending with the two moving up together"
+      "motion_ref": "He pushes and calls out a rhythm, ending with the two moving up together",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -417,7 +481,9 @@
       "motion": "The village lies small far below, ending on the small distant village",
       "link": "컷",
       "link_ko": "오르던 중 뒤를 돌아본다.",
-      "motion_ref": "The village lies small far below, ending on the small distant village"
+      "motion_ref": "The village lies small far below, ending on the small distant village",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -438,7 +504,11 @@
       "motion": "She folds and unfolds the map, ending with the map half folded",
       "link": "컷",
       "link_ko": "풍경에서 계산으로.",
-      "motion_ref": "She folds and unfolds the map, ending with the map half folded"
+      "motion_ref": "She folds and unfolds the map, ending with the map half folded",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-07",
@@ -459,7 +529,12 @@
       "motion": "Her foot slips and stones roll away, ending with the stones bouncing down",
       "link": "컷",
       "link_ko": "말하는 중에 사고가 난다.",
-      "motion_ref": "Her foot slips and stones roll away, ending with the stones bouncing down"
+      "motion_ref": "Her foot slips and stones roll away, ending with the stones bouncing down",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC2-08",
@@ -481,7 +556,9 @@
       "motion": "The staff shoots out and hauls her back, ending with the two braced on the trail",
       "link": "연속",
       "link_ko": "미끄러진 아이를 붙잡는다.",
-      "motion_ref": "The staff shoots out and hauls her back, ending with the two braced on the trail"
+      "motion_ref": "The staff shoots out and hauls her back, ending with the two braced on the trail",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -502,7 +579,9 @@
       "motion": "The scraped pad shows a little blood, ending on the scraped paw",
       "link": "연속",
       "link_ko": "붙잡은 뒤에 확인한다.",
-      "motion_ref": "The scraped pad shows a little blood, ending on the scraped paw"
+      "motion_ref": "The scraped pad shows a little blood, ending on the scraped paw",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -523,7 +602,9 @@
       "motion": "She hides the paw and stands up, ending with her standing on three legs",
       "link": "연속",
       "link_ko": "다친 채로 계속하려 한다.",
-      "motion_ref": "She hides the paw and stands up, ending with her standing on three legs"
+      "motion_ref": "She hides the paw and stands up, ending with her standing on three legs",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -545,7 +626,11 @@
       "motion": "She steps across to block the way, ending with her standing in the way",
       "link": "컷",
       "link_ko": "고집에 제지가 붙는다.",
-      "motion_ref": "She steps across to block the way, ending with her standing in the way"
+      "motion_ref": "She steps across to block the way, ending with her standing in the way",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-12",
@@ -566,7 +651,9 @@
       "motion": "He sits on a rock and rubs his calf, ending with him sitting and rubbing",
       "link": "컷",
       "link_ko": "제지 옆에서 또 하나가 무너진다.",
-      "motion_ref": "He sits on a rock and rubs his calf, ending with him sitting and rubbing"
+      "motion_ref": "He sits on a rock and rubs his calf, ending with him sitting and rubbing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -585,7 +672,9 @@
       "motion": "The six sit scattered and still, ending on the six sitting apart",
       "link": "연속",
       "link_ko": "줄이 멈추고 흩어진다.",
-      "motion_ref": "The six sit scattered and still, ending on the six sitting apart"
+      "motion_ref": "The six sit scattered and still, ending on the six sitting apart",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -606,7 +695,9 @@
       "motion": "He looks up; the summit is still far, ending on his upward look",
       "link": "컷",
       "link_ko": "앉은 무리에서 한 명이 위를 본다.",
-      "motion_ref": "He looks up; the summit is still far, ending on his upward look"
+      "motion_ref": "He looks up; the summit is still far, ending on his upward look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -627,7 +718,9 @@
       "motion": "He shakes out his shoe as he talks, ending with the shoe in his hand",
       "link": "컷",
       "link_ko": "위를 보는 쪽과 반대 방향이다.",
-      "motion_ref": "He shakes out his shoe as he talks, ending with the shoe in his hand"
+      "motion_ref": "He shakes out his shoe as he talks, ending with the shoe in his hand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -648,7 +741,9 @@
       "motion": "He gets up without a word, ending with him standing",
       "link": "연속",
       "link_ko": "말에 답 대신 몸이 움직인다.",
-      "motion_ref": "He gets up without a word, ending with him standing"
+      "motion_ref": "He gets up without a word, ending with him standing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -667,7 +762,11 @@
       "motion": "Loose stones trickle down the near-vertical slope, ending on the steep final wall",
       "link": "전환",
       "link_ko": "남은 길의 마지막이 나온다.",
-      "motion_ref": "Loose stones trickle down the near-vertical slope, ending on the steep final wall"
+      "motion_ref": "Loose stones trickle down the near-vertical slope, ending on the steep final wall",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-02",
@@ -688,7 +787,9 @@
       "motion": "He puts a paw against the slope, ending with his paw on the slope",
       "link": "연속",
       "link_ko": "일어선 발이 여기까지 왔다.",
-      "motion_ref": "He puts a paw against the slope, ending with his paw on the slope"
+      "motion_ref": "He puts a paw against the slope, ending with his paw on the slope",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -710,7 +811,9 @@
       "motion": "He moves behind him and braces both paws, ending with his paws pressed to the back",
       "link": "컷",
       "link_ko": "비탈에서 사람에게로.",
-      "motion_ref": "He moves behind him and braces both paws, ending with his paws pressed to the back"
+      "motion_ref": "He moves behind him and braces both paws, ending with his paws pressed to the back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -731,7 +834,9 @@
       "motion": "He glances back, then faces forward, ending with him facing up the slope",
       "link": "연속",
       "link_ko": "등 뒤의 손을 느낀다.",
-      "motion_ref": "He glances back, then faces forward, ending with him facing up the slope"
+      "motion_ref": "He glances back, then faces forward, ending with him facing up the slope",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -753,7 +858,9 @@
       "motion": "He climbs; the little one pushes behind, ending with the two partway up the slope",
       "link": "연속",
       "link_ko": "손이 붙고 몸이 올라간다.",
-      "motion_ref": "He climbs; the little one pushes behind, ending with the two partway up the slope"
+      "motion_ref": "He climbs; the little one pushes behind, ending with the two partway up the slope",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -775,7 +882,9 @@
       "motion": "She climbs on three legs; he steadies her, ending with the two moving up together",
       "link": "컷",
       "link_ko": "한 쌍에서 다른 쌍으로.",
-      "motion_ref": "She climbs on three legs; he steadies her, ending with the two moving up together"
+      "motion_ref": "She climbs on three legs; he steadies her, ending with the two moving up together",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -797,7 +906,9 @@
       "motion": "Their locked hands pull each other up, ending with both hands still locked",
       "link": "컷",
       "link_ko": "또 다른 쌍이다.",
-      "motion_ref": "Their locked hands pull each other up, ending with both hands still locked"
+      "motion_ref": "Their locked hands pull each other up, ending with both hands still locked",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -818,7 +929,9 @@
       "motion": "His arms shake but his paws do not move, ending with his paws still pressed to the back",
       "link": "컷",
       "link_ko": "돕는 쪽들에서 가장 힘든 쪽으로.",
-      "motion_ref": "His arms shake but his paws do not move, ending with his paws still pressed to the back"
+      "motion_ref": "His arms shake but his paws do not move, ending with his paws still pressed to the back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -837,7 +950,9 @@
       "motion": "The slope gives and all six slide back, ending with the six lower than before",
       "link": "컷",
       "link_ko": "버티던 중에 무너진다.",
-      "motion_ref": "The slope gives and all six slide back, ending with the six lower than before"
+      "motion_ref": "The slope gives and all six slide back, ending with the six lower than before",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -858,7 +973,9 @@
       "motion": "He punches the dirt of the slope, ending with his fist in the dirt",
       "link": "연속",
       "link_ko": "미끄러진 자리에서 화가 난다.",
-      "motion_ref": "He punches the dirt of the slope, ending with his fist in the dirt"
+      "motion_ref": "He punches the dirt of the slope, ending with his fist in the dirt",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -879,7 +996,9 @@
       "motion": "He gasps for breath and smiles anyway, ending on his breathless smile",
       "link": "컷",
       "link_ko": "화난 쪽 옆에서 웃는 얼굴이 나온다.",
-      "motion_ref": "He gasps for breath and smiles anyway, ending on his breathless smile"
+      "motion_ref": "He gasps for breath and smiles anyway, ending on his breathless smile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -900,7 +1019,9 @@
       "motion": "He opens his fist and grips the slope, ending with his hand flat on the slope",
       "link": "연속",
       "link_ko": "한마디에 손이 다시 올라간다.",
-      "motion_ref": "He opens his fist and grips the slope, ending with his hand flat on the slope"
+      "motion_ref": "He opens his fist and grips the slope, ending with his hand flat on the slope",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -919,7 +1040,11 @@
       "motion": "They move one slow step at a time, ending with the six near the top of the slope",
       "link": "연속",
       "link_ko": "다시 오르기 시작한다.",
-      "motion_ref": "They move one slow step at a time, ending with the six near the top of the slope"
+      "motion_ref": "They move one slow step at a time, ending with the six near the top of the slope",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-14",
@@ -940,7 +1065,9 @@
       "motion": "His hand closes on the flat rock, ending with his grip locked on the edge",
       "link": "연속",
       "link_ko": "마지막 손이 끝에 닿는다.",
-      "motion_ref": "His hand closes on the flat rock, ending with his grip locked on the edge"
+      "motion_ref": "His hand closes on the flat rock, ending with his grip locked on the edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -959,7 +1086,9 @@
       "motion": "One after another they pull themselves over, ending with all six standing on the summit",
       "link": "연속",
       "link_ko": "잡은 손이 몸을 끌어올린다.",
-      "motion_ref": "One after another they pull themselves over, ending with all six standing on the summit"
+      "motion_ref": "One after another they pull themselves over, ending with all six standing on the summit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -978,7 +1107,9 @@
       "motion": "Cloud moves below; the world stretches away, ending on the full view from the summit",
       "link": "전환",
       "link_ko": "오르기가 끝나고 풍경이 열린다.",
-      "motion_ref": "Cloud moves below; the world stretches away, ending on the full view from the summit"
+      "motion_ref": "Cloud moves below; the world stretches away, ending on the full view from the summit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -1004,7 +1135,9 @@
       "motion": "They stand in silence, breathing hard, ending with the six standing still",
       "link": "연속",
       "link_ko": "풍경 앞에서 말이 사라진다.",
-      "motion_ref": "They stand in silence, breathing hard, ending with the six standing still"
+      "motion_ref": "They stand in silence, breathing hard, ending with the six standing still",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1025,7 +1158,9 @@
       "motion": "He speaks very quietly, ending on his quiet face",
       "link": "연속",
       "link_ko": "침묵 끝에 한 줄이 나온다.",
-      "motion_ref": "He speaks very quietly, ending on his quiet face"
+      "motion_ref": "He speaks very quietly, ending on his quiet face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1051,7 +1186,9 @@
       "motion": "They turn at footsteps behind them, ending with the six facing the slope",
       "link": "컷",
       "link_ko": "조용한 정상에 소리가 끼어든다.",
-      "motion_ref": "They turn at footsteps behind them, ending with the six facing the slope"
+      "motion_ref": "They turn at footsteps behind them, ending with the six facing the slope",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1072,7 +1209,9 @@
       "motion": "She hauls herself over the edge, filthy, ending with her standing on the summit",
       "link": "연속",
       "link_ko": "발소리의 주인이 나타난다.",
-      "motion_ref": "She hauls herself over the edge, filthy, ending with her standing on the summit"
+      "motion_ref": "She hauls herself over the edge, filthy, ending with her standing on the summit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1093,7 +1232,11 @@
       "motion": "She hops on three legs and shouts, ending mid-hop",
       "link": "컷",
       "link_ko": "나타난 쪽에서 반기는 쪽으로.",
-      "motion_ref": "She hops on three legs and shouts, ending mid-hop"
+      "motion_ref": "She hops on three legs and shouts, ending mid-hop",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1114,7 +1257,9 @@
       "motion": "She looks away and brushes off her knees, ending with her still brushing her knees",
       "link": "연속",
       "link_ko": "외침에 변명이 돌아온다.",
-      "motion_ref": "She looks away and brushes off her knees, ending with her still brushing her knees"
+      "motion_ref": "She looks away and brushes off her knees, ending with her still brushing her knees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1133,7 +1278,9 @@
       "motion": "The seven stand in a row above the cloud, ending on the seven in a row on the summit",
       "link": "컷",
       "link_ko": "한 명씩에서 일곱 전체로.",
-      "motion_ref": "The seven stand in a row above the cloud, ending on the seven in a row on the summit"
+      "motion_ref": "The seven stand in a row above the cloud, ending on the seven in a row on the summit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1157,7 +1304,9 @@
         "sec": 0.6,
         "why": "정상의 낮에서 하산의 저녁으로"
       },
-      "motion_ref": "They come down the trail in evening light, ending with the line partway down"
+      "motion_ref": "They come down the trail in evening light, ending with the line partway down",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1179,7 +1328,11 @@
       "motion": "He walks with her riding on his back, ending with the two moving down together",
       "link": "연속",
       "link_ko": "내려오는 줄 안으로 들어간다.",
-      "motion_ref": "He walks with her riding on his back, ending with the two moving down together"
+      "motion_ref": "He walks with her riding on his back, ending with the two moving down together",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "EN-03",
@@ -1201,7 +1354,9 @@
       "motion": "He side-eyes her, ending on his sideways look",
       "link": "컷",
       "link_ko": "걷는 중에 질문이 나온다.",
-      "motion_ref": "He side-eyes her, ending on his sideways look"
+      "motion_ref": "He side-eyes her, ending on his sideways look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1222,7 +1377,11 @@
       "motion": "She says nothing and walks a little faster, ending with her a step ahead",
       "link": "연속",
       "link_ko": "질문이 답 없이 남는다.",
-      "motion_ref": "She says nothing and walks a little faster, ending with her a step ahead"
+      "motion_ref": "She says nothing and walks a little faster, ending with her a step ahead",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "EN-05",
@@ -1243,7 +1402,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "걸음이 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1262,7 +1423,11 @@
       "motion": "Windows go dark one by one beneath the peak, ending on the dark peak under the stars",
       "link": "컷",
       "link_ko": "저녁에서 밤으로 넘어간다.",
-      "motion_ref": "Windows go dark one by one beneath the peak, ending on the dark peak under the stars"
+      "motion_ref": "Windows go dark one by one beneath the peak, ending on the dark peak under the stars",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "EN-07",
@@ -1289,7 +1454,9 @@
       "motion": "Cloud drifts as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "Cloud drifts as the camera eases back"
+      "motion_ref": "Cloud drifts as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

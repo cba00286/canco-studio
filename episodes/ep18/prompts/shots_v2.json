@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 꽃밭 가장자리 — 나는 어디 있어야 하지",
     "EN": "엔딩 · 각자의 자리를 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "꽃밭",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "숲_낮",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "개울",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "개울",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "꽃밭",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "The flowers roll across the hillside like water, ending on the full flowering hillside",
       "link": "전환",
       "link_ko": "18화 첫 컷. 꽃밭에서 시작한다.",
-      "motion_ref": "The flowers roll across the hillside like water, ending on the full flowering hillside"
+      "motion_ref": "The flowers roll across the hillside like water, ending on the full flowering hillside",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,11 @@
       "motion": "They wade in through the tall flowers, ending with the seven waist deep in flowers",
       "link": "전환",
       "link_ko": "꽃밭에서 그 안의 일곱으로.",
-      "motion_ref": "They wade in through the tall flowers, ending with the seven waist deep in flowers"
+      "motion_ref": "They wade in through the tall flowers, ending with the seven waist deep in flowers",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC1-03",
@@ -87,7 +117,9 @@
       "motion": "Her ears go up and swivel, ending with her ears locked in one direction",
       "link": "연속",
       "link_ko": "걷던 중 소리를 듣는다.",
-      "motion_ref": "Her ears go up and swivel, ending with her ears locked in one direction"
+      "motion_ref": "Her ears go up and swivel, ending with her ears locked in one direction",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -108,7 +140,11 @@
       "motion": "She walks toward the sound, nose up, ending with her moving toward the far trees",
       "link": "연속",
       "link_ko": "귀가 방향을 잡고 몸이 따라간다.",
-      "motion_ref": "She walks toward the sound, nose up, ending with her moving toward the far trees"
+      "motion_ref": "She walks toward the sound, nose up, ending with her moving toward the far trees",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC1-05",
@@ -127,7 +163,11 @@
       "motion": "Bees stream in and out of the trunk hole, ending on the busy trunk hole",
       "link": "컷",
       "link_ko": "소리의 정체가 나온다.",
-      "motion_ref": "Bees stream in and out of the trunk hole, ending on the busy trunk hole"
+      "motion_ref": "Bees stream in and out of the trunk hole, ending on the busy trunk hole",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-06",
@@ -148,7 +188,11 @@
       "motion": "He backs up and covers his face, ending with his flipper over his face",
       "link": "컷",
       "link_ko": "벌통에서 놀란 얼굴로.",
-      "motion_ref": "He backs up and covers his face, ending with his flipper over his face"
+      "motion_ref": "He backs up and covers his face, ending with his flipper over his face",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC1-07",
@@ -170,7 +214,9 @@
       "motion": "She gently lowers his flipper, ending with his face uncovered",
       "link": "연속",
       "link_ko": "놀란 사람을 진정시킨다.",
-      "motion_ref": "She gently lowers his flipper, ending with his face uncovered"
+      "motion_ref": "She gently lowers his flipper, ending with his face uncovered",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -191,7 +237,11 @@
       "motion": "The bee passes his beak and carries on, ending with the bee already past him",
       "link": "연속",
       "link_ko": "말이 곧바로 증명된다.",
-      "motion_ref": "The bee passes his beak and carries on, ending with the bee already past him"
+      "motion_ref": "The bee passes his beak and carries on, ending with the bee already past him",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-09",
@@ -212,7 +262,11 @@
       "motion": "Her staff traces the paths of the bees, ending with the staff following the streams of bees",
       "link": "컷",
       "link_ko": "작은 벌에서 전체 흐름으로.",
-      "motion_ref": "Her staff traces the paths of the bees, ending with the staff following the streams of bees"
+      "motion_ref": "Her staff traces the paths of the bees, ending with the staff following the streams of bees",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-10",
@@ -233,7 +287,9 @@
       "motion": "He pushes his face close to the hole, ending with his nose near the hole",
       "link": "연속",
       "link_ko": "설명에 질문이 붙는다.",
-      "motion_ref": "He pushes his face close to the hole, ending with his nose near the hole"
+      "motion_ref": "He pushes his face close to the hole, ending with his nose near the hole",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -254,7 +310,9 @@
       "motion": "She counts off on her fingers, ending with four fingers extended",
       "link": "컷",
       "link_ko": "질문에 답이 시작된다.",
-      "motion_ref": "She counts off on her fingers, ending with four fingers extended"
+      "motion_ref": "She counts off on her fingers, ending with four fingers extended",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -275,7 +333,9 @@
       "motion": "She sits close and looks into the hole, ending with her face close to the opening",
       "link": "컷",
       "link_ko": "설명 옆에서 한 명이 직접 본다.",
-      "motion_ref": "She sits close and looks into the hole, ending with her face close to the opening"
+      "motion_ref": "She sits close and looks into the hole, ending with her face close to the opening",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -294,7 +354,9 @@
       "motion": "They settle into places and watch the hive, ending with the seven all seated and watching",
       "link": "연속",
       "link_ko": "보는 사람이 늘어난다.",
-      "motion_ref": "They settle into places and watch the hive, ending with the seven all seated and watching"
+      "motion_ref": "They settle into places and watch the hive, ending with the seven all seated and watching",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -315,7 +377,11 @@
       "motion": "His eyes track the bees back and forth, ending on his tracking eyes",
       "link": "연속",
       "link_ko": "앉은 줄 안으로 들어간다.",
-      "motion_ref": "His eyes track the bees back and forth, ending on his tracking eyes"
+      "motion_ref": "His eyes track the bees back and forth, ending on his tracking eyes",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-01",
@@ -334,7 +400,11 @@
       "motion": "The bees move in several separate streams, ending on the divided streams of bees",
       "link": "전환",
       "link_ko": "관찰이 본격적으로 시작된다.",
-      "motion_ref": "The bees move in several separate streams, ending on the divided streams of bees"
+      "motion_ref": "The bees move in several separate streams, ending on the divided streams of bees",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-02",
@@ -353,7 +423,11 @@
       "motion": "It carries two yellow loads into the hole, ending with it disappearing inside",
       "link": "연속",
       "link_ko": "흐름 중 하나로 들어간다.",
-      "motion_ref": "It carries two yellow loads into the hole, ending with it disappearing inside"
+      "motion_ref": "It carries two yellow loads into the hole, ending with it disappearing inside",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-03",
@@ -374,7 +448,12 @@
       "motion": "She draws the bee into her notebook, ending with the drawing done on the page",
       "link": "컷",
       "link_ko": "본 것에 이름이 붙는다.",
-      "motion_ref": "She draws the bee into her notebook, ending with the drawing done on the page"
+      "motion_ref": "She draws the bee into her notebook, ending with the drawing done on the page",
+      "sig": null,
+      "sfx": [
+        "종이",
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-04",
@@ -393,7 +472,11 @@
       "motion": "The two guards hold their positions, ending on the two motionless guards",
       "link": "컷",
       "link_ko": "드나드는 쪽에서 서 있는 쪽으로.",
-      "motion_ref": "The two guards hold their positions, ending on the two motionless guards"
+      "motion_ref": "The two guards hold their positions, ending on the two motionless guards",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-05",
@@ -414,7 +497,11 @@
       "motion": "He points at the two still bees, ending with his finger held out",
       "link": "연속",
       "link_ko": "가만한 벌에 질문이 붙는다.",
-      "motion_ref": "He points at the two still bees, ending with his finger held out"
+      "motion_ref": "He points at the two still bees, ending with his finger held out",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-06",
@@ -435,7 +522,9 @@
       "motion": "She holds the staff across like a barrier, ending with the staff held across",
       "link": "연속",
       "link_ko": "질문에 답이 나온다.",
-      "motion_ref": "She holds the staff across like a barrier, ending with the staff held across"
+      "motion_ref": "She holds the staff across like a barrier, ending with the staff held across",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -454,7 +543,11 @@
       "motion": "The guard moves across to block it, ending with the stranger turned away",
       "link": "연속",
       "link_ko": "말이 곧바로 증명된다.",
-      "motion_ref": "The guard moves across to block it, ending with the stranger turned away"
+      "motion_ref": "The guard moves across to block it, ending with the stranger turned away",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-08",
@@ -473,7 +566,11 @@
       "motion": "One bee traces a figure eight in the air, ending with the figure eight completed",
       "link": "컷",
       "link_ko": "문 앞에서 다른 행동으로.",
-      "motion_ref": "One bee traces a figure eight in the air, ending with the figure eight completed"
+      "motion_ref": "One bee traces a figure eight in the air, ending with the figure eight completed",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-09",
@@ -494,7 +591,11 @@
       "motion": "She wobbles in imitation of the bee, ending mid-wobble",
       "link": "컷",
       "link_ko": "춤에서 그걸 따라 하는 아이로.",
-      "motion_ref": "She wobbles in imitation of the bee, ending mid-wobble"
+      "motion_ref": "She wobbles in imitation of the bee, ending mid-wobble",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-10",
@@ -515,7 +616,9 @@
       "motion": "Her hands link the dance to the sun, ending with both her hands still raised",
       "link": "연속",
       "link_ko": "오해를 바로잡는다.",
-      "motion_ref": "Her hands link the dance to the sun, ending with both her hands still raised"
+      "motion_ref": "Her hands link the dance to the sun, ending with both her hands still raised",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -534,7 +637,11 @@
       "motion": "A group of bees all leave in one direction, ending with the group gone in one direction",
       "link": "연속",
       "link_ko": "설명이 다시 증명된다.",
-      "motion_ref": "A group of bees all leave in one direction, ending with the group gone in one direction"
+      "motion_ref": "A group of bees all leave in one direction, ending with the group gone in one direction",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-12",
@@ -553,7 +660,11 @@
       "motion": "Small bees work at cleaning the walls, ending on the cleaning bees",
       "link": "컷",
       "link_ko": "밖에서 안으로 들어간다.",
-      "motion_ref": "Small bees work at cleaning the walls, ending on the cleaning bees"
+      "motion_ref": "Small bees work at cleaning the walls, ending on the cleaning bees",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-13",
@@ -574,7 +685,9 @@
       "motion": "He peers into the hole, no longer afraid, ending with his face at the opening",
       "link": "컷",
       "link_ko": "안쪽에서 그걸 보는 얼굴로.",
-      "motion_ref": "He peers into the hole, no longer afraid, ending with his face at the opening"
+      "motion_ref": "He peers into the hole, no longer afraid, ending with his face at the opening",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -595,7 +708,11 @@
       "motion": "Her eyes count the streams one by one, ending on her counting gaze",
       "link": "컷",
       "link_ko": "떠드는 쪽에서 조용한 쪽으로.",
-      "motion_ref": "Her eyes count the streams one by one, ending on her counting gaze"
+      "motion_ref": "Her eyes count the streams one by one, ending on her counting gaze",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-15",
@@ -616,7 +733,9 @@
       "motion": "He tilts his head, puzzled, ending on his tilted puzzled head",
       "link": "컷",
       "link_ko": "관찰이 질문으로 모인다.",
-      "motion_ref": "He tilts his head, puzzled, ending on his tilted puzzled head"
+      "motion_ref": "He tilts his head, puzzled, ending on his tilted puzzled head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -637,7 +756,9 @@
       "motion": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt",
       "link": "연속",
       "link_ko": "질문에 답이 나온다.",
-      "motion_ref": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt"
+      "motion_ref": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -656,7 +777,9 @@
       "motion": "Wilted flowers hang over cracked soil, ending on the dry cracked patch",
       "link": "전환",
       "link_ko": "벌통에서 시든 꽃밭으로.",
-      "motion_ref": "Wilted flowers hang over cracked soil, ending on the dry cracked patch"
+      "motion_ref": "Wilted flowers hang over cracked soil, ending on the dry cracked patch",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -677,7 +800,9 @@
       "motion": "She cups a wilted flower in her hand, ending with the flower drooping in her hand",
       "link": "연속",
       "link_ko": "시든 꽃 앞에서 말이 나온다.",
-      "motion_ref": "She cups a wilted flower in her hand, ending with the flower drooping in her hand"
+      "motion_ref": "She cups a wilted flower in her hand, ending with the flower drooping in her hand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -698,7 +823,9 @@
       "motion": "He points to the stream and sets off, ending with him already moving away",
       "link": "컷",
       "link_ko": "문제에서 해결책으로.",
-      "motion_ref": "He points to the stream and sets off, ending with him already moving away"
+      "motion_ref": "He points to the stream and sets off, ending with him already moving away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -717,7 +844,11 @@
       "motion": "All seven run and all grab buckets, ending with seven buckets in seven hands",
       "link": "연속",
       "link_ko": "제안대로 다 같이 움직인다.",
-      "motion_ref": "All seven run and all grab buckets, ending with seven buckets in seven hands"
+      "motion_ref": "All seven run and all grab buckets, ending with seven buckets in seven hands",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-05",
@@ -736,7 +867,11 @@
       "motion": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets",
       "link": "연속",
       "link_ko": "다 같이 하니 부딪힌다.",
-      "motion_ref": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets"
+      "motion_ref": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC3-06",
@@ -755,7 +890,11 @@
       "motion": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket",
       "link": "연속",
       "link_ko": "부딪힌 결과다.",
-      "motion_ref": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket"
+      "motion_ref": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC3-07",
@@ -776,7 +915,9 @@
       "motion": "She stands soaked, shoulders down, ending on her drooping soaked figure",
       "link": "컷",
       "link_ko": "빈 통에서 지친 얼굴로.",
-      "motion_ref": "She stands soaked, shoulders down, ending on her drooping soaked figure"
+      "motion_ref": "She stands soaked, shoulders down, ending on her drooping soaked figure",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -797,7 +938,9 @@
       "motion": "He turns his head back toward the hive, ending with him looking back at the tree",
       "link": "컷",
       "link_ko": "실패에서 아까 본 것으로.",
-      "motion_ref": "He turns his head back toward the hive, ending with him looking back at the tree"
+      "motion_ref": "He turns his head back toward the hive, ending with him looking back at the tree",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -818,7 +961,9 @@
       "motion": "She redraws the seven circles in the dirt, ending on the seven fresh circles",
       "link": "연속",
       "link_ko": "깨달음이 계획이 된다.",
-      "motion_ref": "She redraws the seven circles in the dirt, ending on the seven fresh circles"
+      "motion_ref": "She redraws the seven circles in the dirt, ending on the seven fresh circles",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -841,7 +986,11 @@
       "motion": "Each works a different job without colliding, ending with the line of work running smoothly",
       "link": "컷",
       "link_ko": "계획이 실행된다.",
-      "motion_ref": "Each works a different job without colliding, ending with the line of work running smoothly"
+      "motion_ref": "Each works a different job without colliding, ending with the line of work running smoothly",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-11",
@@ -863,7 +1012,9 @@
       "motion": "She marks the patches; she counts the order, ending with both at their own stations",
       "link": "연속",
       "link_ko": "다른 자리의 다른 일이다.",
-      "motion_ref": "She marks the patches; she counts the order, ending with both at their own stations"
+      "motion_ref": "She marks the patches; she counts the order, ending with both at their own stations",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -884,7 +1035,9 @@
       "motion": "He hoists two heavy buckets at once, ending with both buckets clear of the ground",
       "link": "연속",
       "link_ko": "각자의 몫이 이어진다.",
-      "motion_ref": "He hoists two heavy buckets at once, ending with both buckets clear of the ground"
+      "motion_ref": "He hoists two heavy buckets at once, ending with both buckets clear of the ground",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -903,7 +1056,9 @@
       "motion": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright",
       "link": "연속",
       "link_ko": "일이 결과로 나타난다.",
-      "motion_ref": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright"
+      "motion_ref": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -924,7 +1079,11 @@
       "motion": "He wipes his face and laughs, ending on his laughing sweaty face",
       "link": "컷",
       "link_ko": "결과에서 그걸 본 얼굴로.",
-      "motion_ref": "He wipes his face and laughs, ending on his laughing sweaty face"
+      "motion_ref": "He wipes his face and laughs, ending on his laughing sweaty face",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC3-15",
@@ -943,7 +1102,9 @@
       "motion": "Six work; one station stands empty, ending on the one empty place",
       "link": "컷",
       "link_ko": "웃음 뒤에 빈자리가 보인다.",
-      "motion_ref": "Six work; one station stands empty, ending on the one empty place"
+      "motion_ref": "Six work; one station stands empty, ending on the one empty place",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -964,7 +1125,9 @@
       "motion": "She stands at the edge holding a bucket, ending on her motionless at the edge",
       "link": "전환",
       "link_ko": "일하는 여섯에서 서 있는 하나로.",
-      "motion_ref": "She stands at the edge holding a bucket, ending on her motionless at the edge"
+      "motion_ref": "She stands at the edge holding a bucket, ending on her motionless at the edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -985,7 +1148,9 @@
       "motion": "She speaks quietly to herself, ending on her quiet uncertain face",
       "link": "연속",
       "link_ko": "선 자리에서 혼잣말이 나온다.",
-      "motion_ref": "She speaks quietly to herself, ending on her quiet uncertain face"
+      "motion_ref": "She speaks quietly to herself, ending on her quiet uncertain face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1006,7 +1171,11 @@
       "motion": "He puts the buckets down and walks over, ending with him arriving beside her",
       "link": "컷",
       "link_ko": "혼잣말을 누군가 듣는다.",
-      "motion_ref": "He puts the buckets down and walks over, ending with him arriving beside her"
+      "motion_ref": "He puts the buckets down and walks over, ending with him arriving beside her",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1027,7 +1196,9 @@
       "motion": "He points from the stream to the meadow, ending with his arm pointing at the meadow",
       "link": "연속",
       "link_ko": "옆에 서서 말한다.",
-      "motion_ref": "He points from the stream to the meadow, ending with his arm pointing at the meadow"
+      "motion_ref": "He points from the stream to the meadow, ending with his arm pointing at the meadow",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1048,7 +1219,9 @@
       "motion": "She blinks; her face wavers a little, ending on her wavering expression",
       "link": "연속",
       "link_ko": "말이 닿는다.",
-      "motion_ref": "She blinks; her face wavers a little, ending on her wavering expression"
+      "motion_ref": "She blinks; her face wavers a little, ending on her wavering expression",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1070,7 +1243,9 @@
       "motion": "She raises a hand and calls across, ending with her hand still raised",
       "link": "컷",
       "link_ko": "한 사람이 부르니 다른 쪽에서도 부른다.",
-      "motion_ref": "She raises a hand and calls across, ending with her hand still raised"
+      "motion_ref": "She raises a hand and calls across, ending with her hand still raised",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1091,7 +1266,9 @@
       "motion": "She scans the meadow and points at one patch, ending with her arm out toward the patch",
       "link": "연속",
       "link_ko": "부름에 답이 나온다.",
-      "motion_ref": "She scans the meadow and points at one patch, ending with her arm out toward the patch"
+      "motion_ref": "She scans the meadow and points at one patch, ending with her arm out toward the patch",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1117,7 +1294,9 @@
       "motion": "All six move at once toward the spot, ending with the six converging on the patch",
       "link": "연속",
       "link_ko": "가리킨 곳으로 전부 움직인다.",
-      "motion_ref": "All six move at once toward the spot, ending with the six converging on the patch"
+      "motion_ref": "All six move at once toward the spot, ending with the six converging on the patch",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1141,7 +1320,9 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "The wet soil darkens and the flowers stand, ending on the revived evening meadow"
+      "motion_ref": "The wet soil darkens and the flowers stand, ending on the revived evening meadow",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1168,7 +1349,9 @@
       "motion": "The seven sit in a row, filthy, ending with the seven seated in a row",
       "link": "연속",
       "link_ko": "일이 끝나고 앉는다.",
-      "motion_ref": "The seven sit in a row, filthy, ending with the seven seated in a row"
+      "motion_ref": "The seven sit in a row, filthy, ending with the seven seated in a row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1189,7 +1372,9 @@
       "motion": "The staff taps each circle in turn, ending with the staff on the seventh circle",
       "link": "연속",
       "link_ko": "앉은 자리에서 말이 나온다.",
-      "motion_ref": "The staff taps each circle in turn, ending with the staff on the seventh circle"
+      "motion_ref": "The staff taps each circle in turn, ending with the staff on the seventh circle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1210,7 +1395,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1231,7 +1418,9 @@
       "motion": "Her foot widens the seventh circle, ending on the widened seventh circle",
       "link": "컷",
       "link_ko": "한마디 뒤에 노을의 손이 움직인다.",
-      "motion_ref": "Her foot widens the seventh circle, ending on the widened seventh circle"
+      "motion_ref": "Her foot widens the seventh circle, ending on the widened seventh circle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1250,7 +1439,11 @@
       "motion": "Bees still come and go in the evening light, ending on the still-busy hive",
       "link": "컷",
       "link_ko": "사람에서 벌로 돌아간다.",
-      "motion_ref": "Bees still come and go in the evening light, ending on the still-busy hive"
+      "motion_ref": "Bees still come and go in the evening light, ending on the still-busy hive",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "EN-07",
@@ -1277,7 +1470,9 @@
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The evening light deepens as the camera eases back"
+      "motion_ref": "The evening light deepens as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

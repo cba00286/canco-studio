@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 무릎까지 — 한 걸음",
     "EN": "엔딩 · 안전한 여름 물놀이를 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "계곡",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "계곡",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "숲_낮",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "계곡",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "계곡",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "Clear water runs fast between the rocks, ending on the fast clear stream",
       "link": "전환",
       "link_ko": "35화 첫 컷. 계곡에서 시작한다.",
-      "motion_ref": "Clear water runs fast between the rocks, ending on the fast clear stream"
+      "motion_ref": "Clear water runs fast between the rocks, ending on the fast clear stream",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,9 @@
       "motion": "They come down carrying towels and rings, ending with the seven arriving at the water",
       "link": "전환",
       "link_ko": "계곡에서 그 앞의 일곱으로.",
-      "motion_ref": "They come down carrying towels and rings, ending with the seven arriving at the water"
+      "motion_ref": "They come down carrying towels and rings, ending with the seven arriving at the water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -87,7 +115,9 @@
       "motion": "He throws his shirt off and bolts, ending with him already at the edge",
       "link": "연속",
       "link_ko": "도착하자마자 뛴다.",
-      "motion_ref": "He throws his shirt off and bolts, ending with him already at the edge"
+      "motion_ref": "He throws his shirt off and bolts, ending with him already at the edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -109,7 +139,9 @@
       "motion": "The staff swings across in front of him, ending with him stopped mid-stride",
       "link": "연속",
       "link_ko": "달리는 발이 막힌다.",
-      "motion_ref": "The staff swings across in front of him, ending with him stopped mid-stride"
+      "motion_ref": "The staff swings across in front of him, ending with him stopped mid-stride",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -130,7 +162,9 @@
       "motion": "She stands the staff and circles her arms, ending with her arms mid-circle",
       "link": "연속",
       "link_ko": "막고 나서 이유를 말한다.",
-      "motion_ref": "She stands the staff and circles her arms, ending with her arms mid-circle"
+      "motion_ref": "She stands the staff and circles her arms, ending with her arms mid-circle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -151,7 +185,9 @@
       "motion": "They stretch at the water's edge, ending with the group finishing the stretches",
       "link": "연속",
       "link_ko": "말대로 시작한다.",
-      "motion_ref": "They stretch at the water's edge, ending with the group finishing the stretches"
+      "motion_ref": "They stretch at the water's edge, ending with the group finishing the stretches",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -172,7 +208,11 @@
       "motion": "She sticks a sheet of paper to a rock, ending with the paper flat on the rock",
       "link": "컷",
       "link_ko": "준비운동 옆에서 다른 일이 벌어진다.",
-      "motion_ref": "She sticks a sheet of paper to a rock, ending with the paper flat on the rock"
+      "motion_ref": "She sticks a sheet of paper to a rock, ending with the paper flat on the rock",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-08",
@@ -191,7 +231,11 @@
       "motion": "Six lines of writing sit on the sheet, ending on the six written lines",
       "link": "연속",
       "link_ko": "붙인 종이로 들어간다.",
-      "motion_ref": "Six lines of writing sit on the sheet, ending on the six written lines"
+      "motion_ref": "Six lines of writing sit on the sheet, ending on the six written lines",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-09",
@@ -212,7 +256,11 @@
       "motion": "She presses her nose to the sheet, ending with her nose at the paper",
       "link": "연속",
       "link_ko": "종이 앞에 사람이 온다.",
-      "motion_ref": "She presses her nose to the sheet, ending with her nose at the paper"
+      "motion_ref": "She presses her nose to the sheet, ending with her nose at the paper",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-10",
@@ -233,7 +281,9 @@
       "motion": "She holds up six fingers, ending with the six fingers still up",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She holds up six fingers, ending with the six fingers still up"
+      "motion_ref": "She holds up six fingers, ending with the six fingers still up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -254,7 +304,9 @@
       "motion": "He screws up his face at the list, ending on his screwed-up face",
       "link": "컷",
       "link_ko": "답에서 반응으로.",
-      "motion_ref": "He screws up his face at the list, ending on his screwed-up face"
+      "motion_ref": "He screws up his face at the list, ending on his screwed-up face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -275,7 +327,9 @@
       "motion": "She hands out vests and checks the sizes, ending with everyone holding a vest",
       "link": "컷",
       "link_ko": "불평 옆에서 준비가 계속된다.",
-      "motion_ref": "She hands out vests and checks the sizes, ending with everyone holding a vest"
+      "motion_ref": "She hands out vests and checks the sizes, ending with everyone holding a vest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -297,7 +351,9 @@
       "motion": "She tugs the straps twice to check, ending with the straps pulled tight",
       "link": "연속",
       "link_ko": "나눠 준 것을 확인한다.",
-      "motion_ref": "She tugs the straps twice to check, ending with the straps pulled tight"
+      "motion_ref": "She tugs the straps twice to check, ending with the straps pulled tight",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -316,7 +372,11 @@
       "motion": "Six wade in; the water reaches their knees, ending with six in the water",
       "link": "컷",
       "link_ko": "준비가 끝나고 들어간다.",
-      "motion_ref": "Six wade in; the water reaches their knees, ending with six in the water"
+      "motion_ref": "Six wade in; the water reaches their knees, ending with six in the water",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC2-01",
@@ -337,7 +397,9 @@
       "motion": "She sits on the rock, vest still on, ending with her seated alone on the rock",
       "link": "전환",
       "link_ko": "물속에서 물가로 시선이 간다.",
-      "motion_ref": "She sits on the rock, vest still on, ending with her seated alone on the rock"
+      "motion_ref": "She sits on the rock, vest still on, ending with her seated alone on the rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -356,7 +418,12 @@
       "motion": "They splash and shout in the stream, ending with the six deep in the game",
       "link": "컷",
       "link_ko": "앉은 쪽에서 노는 쪽으로.",
-      "motion_ref": "They splash and shout in the stream, ending with the six deep in the game"
+      "motion_ref": "They splash and shout in the stream, ending with the six deep in the game",
+      "sig": null,
+      "sfx": [
+        "물_첨벙",
+        "환호"
+      ]
     },
     {
       "id": "SC2-03",
@@ -377,7 +444,9 @@
       "motion": "She waves from out in the water, ending with her arm still waving",
       "link": "연속",
       "link_ko": "노는 중에 부른다.",
-      "motion_ref": "She waves from out in the water, ending with her arm still waving"
+      "motion_ref": "She waves from out in the water, ending with her arm still waving",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -398,7 +467,11 @@
       "motion": "She points at the sheet on the rock, ending with her arm out toward the paper",
       "link": "컷",
       "link_ko": "부름에 답이 온다.",
-      "motion_ref": "She points at the sheet on the rock, ending with her arm out toward the paper"
+      "motion_ref": "She points at the sheet on the rock, ending with her arm out toward the paper",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-05",
@@ -419,7 +492,11 @@
       "motion": "The sixth line stands out on the sheet, ending on the sixth line",
       "link": "연속",
       "link_ko": "가리킨 줄을 본다.",
-      "motion_ref": "The sixth line stands out on the sheet, ending on the sixth line"
+      "motion_ref": "The sixth line stands out on the sheet, ending on the sixth line",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-06",
@@ -440,7 +517,11 @@
       "motion": "She starts to wade back out, ending with her half out of the water",
       "link": "컷",
       "link_ko": "규칙에 제안이 붙는다.",
-      "motion_ref": "She starts to wade back out, ending with her half out of the water"
+      "motion_ref": "She starts to wade back out, ending with her half out of the water",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC2-07",
@@ -462,7 +543,9 @@
       "motion": "She waves her back into the water, ending with {미미} back in the water",
       "link": "연속",
       "link_ko": "제안이 거절된다.",
-      "motion_ref": "She waves her back into the water, ending with 미미 back in the water"
+      "motion_ref": "She waves her back into the water, ending with 미미 back in the water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -483,7 +566,9 @@
       "motion": "They play again; she stays on the rock, ending with her small and still on the rock",
       "link": "컷",
       "link_ko": "거절 뒤에 원래대로 돌아간다.",
-      "motion_ref": "They play again; she stays on the rock, ending with her small and still on the rock"
+      "motion_ref": "They play again; she stays on the rock, ending with her small and still on the rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -509,7 +594,9 @@
         "sec": 0.5,
         "why": "한 시간이 흐른다"
       },
-      "motion_ref": "The sun moves; she has not, ending on her unmoved on the rock"
+      "motion_ref": "The sun moves; she has not, ending on her unmoved on the rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -530,7 +617,9 @@
       "motion": "The vest is still completely dry, ending on the dry vest",
       "link": "연속",
       "link_ko": "앉은 자리로 들어간다.",
-      "motion_ref": "The vest is still completely dry, ending on the dry vest"
+      "motion_ref": "The vest is still completely dry, ending on the dry vest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -551,7 +640,11 @@
       "motion": "He wades out and sits beside her, ending with the two on the rock",
       "link": "컷",
       "link_ko": "마른 조끼에서 옆에 앉는 사람으로.",
-      "motion_ref": "He wades out and sits beside her, ending with the two on the rock"
+      "motion_ref": "He wades out and sits beside her, ending with the two on the rock",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC2-12",
@@ -572,7 +665,11 @@
       "motion": "He glances at the sheet, then back at her, ending on his steady look",
       "link": "연속",
       "link_ko": "앉아서 조용히 묻는다.",
-      "motion_ref": "He glances at the sheet, then back at her, ending on his steady look"
+      "motion_ref": "He glances at the sheet, then back at her, ending on his steady look",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-13",
@@ -593,7 +690,9 @@
       "motion": "She says nothing and pulls her knees in, ending with her knees drawn up",
       "link": "연속",
       "link_ko": "물음이 답 없이 남는다.",
-      "motion_ref": "She says nothing and pulls her knees in, ending with her knees drawn up"
+      "motion_ref": "She says nothing and pulls her knees in, ending with her knees drawn up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -612,7 +711,9 @@
       "motion": "They go quiet one by one and look over, ending with all six looking at the rock",
       "link": "컷",
       "link_ko": "바위에서 물속으로 시선이 간다.",
-      "motion_ref": "They go quiet one by one and look over, ending with all six looking at the rock"
+      "motion_ref": "They go quiet one by one and look over, ending with all six looking at the rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -633,7 +734,11 @@
       "motion": "He wades out and stops mid-sentence, ending with him standing over the rock",
       "link": "컷",
       "link_ko": "보다가 다가온다.",
-      "motion_ref": "He wades out and stops mid-sentence, ending with him standing over the rock"
+      "motion_ref": "He wades out and stops mid-sentence, ending with him standing over the rock",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC2-16",
@@ -654,7 +759,9 @@
       "motion": "She speaks very quietly for the first time, ending on her quiet admitting face",
       "link": "연속",
       "link_ko": "끊긴 말 대신 본인이 말한다.",
-      "motion_ref": "She speaks very quietly for the first time, ending on her quiet admitting face"
+      "motion_ref": "She speaks very quietly for the first time, ending on her quiet admitting face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -675,7 +782,9 @@
       "motion": "The six come out and sit around her, ending with the seven together on the rocks",
       "link": "전환",
       "link_ko": "고백 뒤의 장면이다.",
-      "motion_ref": "The six come out and sit around her, ending with the seven together on the rocks"
+      "motion_ref": "The six come out and sit around her, ending with the seven together on the rocks",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -696,7 +805,11 @@
       "motion": "She points back at the sheet, ending with her arm out toward the paper",
       "link": "연속",
       "link_ko": "둘러앉은 자리에서 묻는다.",
-      "motion_ref": "She points back at the sheet, ending with her arm out toward the paper"
+      "motion_ref": "She points back at the sheet, ending with her arm out toward the paper",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-03",
@@ -717,7 +830,11 @@
       "motion": "She recites them without looking, ending with her finishing the last line",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She recites them without looking, ending with her finishing the last line"
+      "motion_ref": "She recites them without looking, ending with her finishing the last line",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-04",
@@ -738,7 +855,9 @@
       "motion": "He rubs at his eyes; nobody speaks, ending on his rubbing hand",
       "link": "컷",
       "link_ko": "답에서 듣는 사람들로.",
-      "motion_ref": "He rubs at his eyes; nobody speaks, ending on his rubbing hand"
+      "motion_ref": "He rubs at his eyes; nobody speaks, ending on his rubbing hand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -760,7 +879,9 @@
       "motion": "She shifts right up beside her, ending with the two pressed side by side",
       "link": "연속",
       "link_ko": "침묵을 미미가 깬다.",
-      "motion_ref": "She shifts right up beside her, ending with the two pressed side by side"
+      "motion_ref": "She shifts right up beside her, ending with the two pressed side by side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -781,7 +902,9 @@
       "motion": "She looks at the water; her hands tremble, ending on her trembling hands",
       "link": "연속",
       "link_ko": "허락에 다른 답이 온다.",
-      "motion_ref": "She looks at the water; her hands tremble, ending on her trembling hands"
+      "motion_ref": "She looks at the water; her hands tremble, ending on her trembling hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -802,7 +925,11 @@
       "motion": "Her staff taps the bottom of the sheet, ending with the staff at the paper's edge",
       "link": "컷",
       "link_ko": "마음에 방법이 붙는다.",
-      "motion_ref": "Her staff taps the bottom of the sheet, ending with the staff at the paper's edge"
+      "motion_ref": "Her staff taps the bottom of the sheet, ending with the staff at the paper's edge",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-08",
@@ -823,7 +950,11 @@
       "motion": "A seventh line goes onto the sheet, ending on the new seventh line",
       "link": "연속",
       "link_ko": "친 자리에 글씨가 적힌다.",
-      "motion_ref": "A seventh line goes onto the sheet, ending on the new seventh line"
+      "motion_ref": "A seventh line goes onto the sheet, ending on the new seventh line",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-09",
@@ -844,7 +975,9 @@
       "motion": "She holds out a hand and six hands come out, ending with six hands held out",
       "link": "연속",
       "link_ko": "적은 줄을 읽는다.",
-      "motion_ref": "She holds out a hand and six hands come out, ending with six hands held out"
+      "motion_ref": "She holds out a hand and six hands come out, ending with six hands held out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -865,7 +998,9 @@
       "motion": "Her hand reaches, stops, and reaches again, ending with her hand almost touching",
       "link": "연속",
       "link_ko": "내민 손 앞에서 망설인다.",
-      "motion_ref": "Her hand reaches, stops, and reaches again, ending with her hand almost touching"
+      "motion_ref": "Her hand reaches, stops, and reaches again, ending with her hand almost touching",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -886,7 +1021,11 @@
       "motion": "She steps down and her feet touch the water, ending with her ankles in the water",
       "link": "연속",
       "link_ko": "손을 잡고 내려온다.",
-      "motion_ref": "She steps down and her feet touch the water, ending with her ankles in the water"
+      "motion_ref": "She steps down and her feet touch the water, ending with her ankles in the water",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-12",
@@ -907,7 +1046,9 @@
       "motion": "She holds her breath; her toes curl, ending on the curled toes in the water",
       "link": "연속",
       "link_ko": "물에 닿은 순간이다.",
-      "motion_ref": "She holds her breath; her toes curl, ending on the curled toes in the water"
+      "motion_ref": "She holds her breath; her toes curl, ending on the curled toes in the water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -928,7 +1069,9 @@
       "motion": "He stands in front of her, ankle deep, ending with him blocking her way forward",
       "link": "컷",
       "link_ko": "굳은 발 앞에 사람이 선다.",
-      "motion_ref": "He stands in front of her, ankle deep, ending with him blocking her way forward"
+      "motion_ref": "He stands in front of her, ankle deep, ending with him blocking her way forward",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -949,7 +1092,11 @@
       "motion": "She takes one more step; the water rises, ending with the water at her calves",
       "link": "연속",
       "link_ko": "막아선 말과 반대로 간다.",
-      "motion_ref": "She takes one more step; the water rises, ending with the water at her calves"
+      "motion_ref": "She takes one more step; the water rises, ending with the water at her calves",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-15",
@@ -968,7 +1115,9 @@
       "motion": "The seven stand in the water, hands linked, ending with the seven linked in the stream",
       "link": "연속",
       "link_ko": "한 걸음이 줄이 된다.",
-      "motion_ref": "The seven stand in the water, hands linked, ending with the seven linked in the stream"
+      "motion_ref": "The seven stand in the water, hands linked, ending with the seven linked in the stream",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -989,7 +1138,9 @@
       "motion": "She stands knee deep and goes no further, ending with her steady at knee depth",
       "link": "전환",
       "link_ko": "줄이 서고 시간이 조금 흐른다.",
-      "motion_ref": "She stands knee deep and goes no further, ending with her steady at knee depth"
+      "motion_ref": "She stands knee deep and goes no further, ending with her steady at knee depth",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -1008,7 +1159,11 @@
       "motion": "They play quietly; nobody splashes, ending with the water calm around her",
       "link": "연속",
       "link_ko": "주위에서 조심한다.",
-      "motion_ref": "They play quietly; nobody splashes, ending with the water calm around her"
+      "motion_ref": "They play quietly; nobody splashes, ending with the water calm around her",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC4-03",
@@ -1029,7 +1184,9 @@
       "motion": "Her grip on the hands slowly loosens, ending with her grip light",
       "link": "연속",
       "link_ko": "조용한 물속에서 힘이 빠진다.",
-      "motion_ref": "Her grip on the hands slowly loosens, ending with her grip light"
+      "motion_ref": "Her grip on the hands slowly loosens, ending with her grip light",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1050,7 +1207,9 @@
       "motion": "She lets go and just stands there, ending with her standing alone in the water",
       "link": "연속",
       "link_ko": "풀린 손이 떨어진다.",
-      "motion_ref": "She lets go and just stands there, ending with her standing alone in the water"
+      "motion_ref": "She lets go and just stands there, ending with her standing alone in the water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1071,7 +1230,12 @@
       "motion": "The current runs through her fingers, ending with the water moving over her hand",
       "link": "연속",
       "link_ko": "혼자 선 채로 손을 담근다.",
-      "motion_ref": "The current runs through her fingers, ending with the water moving over her hand"
+      "motion_ref": "The current runs through her fingers, ending with the water moving over her hand",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1092,7 +1256,11 @@
       "motion": "She stands beside her and asks, ending with the two side by side in the water",
       "link": "컷",
       "link_ko": "손에서 옆 사람으로.",
-      "motion_ref": "She stands beside her and asks, ending with the two side by side in the water"
+      "motion_ref": "She stands beside her and asks, ending with the two side by side in the water",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1113,7 +1281,9 @@
       "motion": "She smiles just a little, ending on her small smile",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She smiles just a little, ending on her small smile"
+      "motion_ref": "She smiles just a little, ending on her small smile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1132,7 +1302,9 @@
       "motion": "None of them go any deeper than knee depth, ending on the seven in the shallow water",
       "link": "컷",
       "link_ko": "두 사람에서 일곱 전체로.",
-      "motion_ref": "None of them go any deeper than knee depth, ending on the seven in the shallow water"
+      "motion_ref": "None of them go any deeper than knee depth, ending on the seven in the shallow water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1156,7 +1328,9 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "They sit in a row on the warm rocks, ending with the seven drying in the evening light"
+      "motion_ref": "They sit in a row on the warm rocks, ending with the seven drying in the evening light",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1177,7 +1351,11 @@
       "motion": "Water drips off the soaked vest, ending on the dripping vest",
       "link": "연속",
       "link_ko": "앉은 줄 안으로 들어간다.",
-      "motion_ref": "Water drips off the soaked vest, ending on the dripping vest"
+      "motion_ref": "Water drips off the soaked vest, ending on the dripping vest",
+      "sig": null,
+      "sfx": [
+        "물방울"
+      ]
     },
     {
       "id": "EN-03",
@@ -1198,7 +1376,11 @@
       "motion": "He peels the sheet off and waves it, ending with the sheet held up",
       "link": "컷",
       "link_ko": "조끼에서 종이로.",
-      "motion_ref": "He peels the sheet off and waves it, ending with the sheet held up"
+      "motion_ref": "He peels the sheet off and waves it, ending with the sheet held up",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "EN-04",
@@ -1219,7 +1401,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "종이에서 쿵쿵의 한마디로.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1240,7 +1424,11 @@
       "motion": "She folds the sheet into her bag, ending with the sheet inside the bag",
       "link": "컷",
       "link_ko": "한마디 뒤에 노을로.",
-      "motion_ref": "She folds the sheet into her bag, ending with the sheet inside the bag"
+      "motion_ref": "She folds the sheet into her bag, ending with the sheet inside the bag",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "EN-06",
@@ -1259,7 +1447,11 @@
       "motion": "The same sheet sits on the same rock, ending on the sheet in the summer light",
       "link": "컷",
       "link_ko": "가방에서 다음 여름으로 건너뛴다.",
-      "motion_ref": "The same sheet sits on the same rock, ending on the sheet in the summer light"
+      "motion_ref": "The same sheet sits on the same rock, ending on the sheet in the summer light",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "EN-07",
@@ -1286,7 +1478,9 @@
       "motion": "The water glitters as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The water glitters as the camera eases back"
+      "motion_ref": "The water glitters as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

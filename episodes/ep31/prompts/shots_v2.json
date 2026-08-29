@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 머리를 올리다 — 나도 같이 해도 돼?",
     "EN": "엔딩 · 하얀 겨울의 추억을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "눈밭",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "눈밭",
+      "bgm": "위기_긴박"
+    },
+    "SC3": {
+      "amb": "눈밭",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "눈밭",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "눈밭",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "A few flakes still drift over the white village, ending on the white silent village",
       "link": "전환",
       "link_ko": "31화 첫 컷. 눈 덮인 마을에서 시작한다.",
-      "motion_ref": "A few flakes still drift over the white village, ending on the white silent village"
+      "motion_ref": "A few flakes still drift over the white village, ending on the white silent village",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,12 @@
       "motion": "The door bursts open and all seven pour out, ending with the seven spread across the fresh snow",
       "link": "전환",
       "link_ko": "마을에서 그 안의 일곱으로.",
-      "motion_ref": "The door bursts open and all seven pour out, ending with the seven spread across the fresh snow"
+      "motion_ref": "The door bursts open and all seven pour out, ending with the seven spread across the fresh snow",
+      "sig": null,
+      "sfx": [
+        "발소리_눈",
+        "문_열림"
+      ]
     },
     {
       "id": "SC1-03",
@@ -85,7 +116,11 @@
       "motion": "Seven trails of prints cut into the clean snow, ending with the prints running across the field",
       "link": "연속",
       "link_ko": "뛰어나온 발이 눈에 닿는다.",
-      "motion_ref": "Seven trails of prints cut into the clean snow, ending with the prints running across the field"
+      "motion_ref": "Seven trails of prints cut into the clean snow, ending with the prints running across the field",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-04",
@@ -106,7 +141,11 @@
       "motion": "She dives her face in and comes up white, ending with snow all over her face",
       "link": "연속",
       "link_ko": "발자국에서 노는 아이로.",
-      "motion_ref": "She dives her face in and comes up white, ending with snow all over her face"
+      "motion_ref": "She dives her face in and comes up white, ending with snow all over her face",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-05",
@@ -127,7 +166,9 @@
       "motion": "He spreads both arms as wide as they go, ending with his arms held wide",
       "link": "컷",
       "link_ko": "노는 데서 제안이 나온다.",
-      "motion_ref": "He spreads both arms as wide as they go, ending with his arms held wide"
+      "motion_ref": "He spreads both arms as wide as they go, ending with his arms held wide",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -148,7 +189,9 @@
       "motion": "Her eyes measure the span of his arms, ending with her still measuring",
       "link": "연속",
       "link_ko": "제안에 확인이 붙는다.",
-      "motion_ref": "Her eyes measure the span of his arms, ending with her still measuring"
+      "motion_ref": "Her eyes measure the span of his arms, ending with her still measuring",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -169,7 +212,9 @@
       "motion": "He points at the big tree across the square, ending with the tree towering at the frame's edge",
       "link": "연속",
       "link_ko": "크기가 정해진다.",
-      "motion_ref": "He points at the big tree across the square, ending with the tree towering at the frame's edge"
+      "motion_ref": "He points at the big tree across the square, ending with the tree towering at the frame's edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -195,7 +240,9 @@
       "motion": "Six heads tip back at the tree, ending with all six looking up",
       "link": "컷",
       "link_ko": "가리킨 것에서 보는 사람들로.",
-      "motion_ref": "Six heads tip back at the tree, ending with all six looking up"
+      "motion_ref": "Six heads tip back at the tree, ending with all six looking up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -216,7 +263,9 @@
       "motion": "His head goes all the way back, ending on his fully tipped-back head",
       "link": "연속",
       "link_ko": "보는 사람들 중 하나다.",
-      "motion_ref": "His head goes all the way back, ending on his fully tipped-back head"
+      "motion_ref": "His head goes all the way back, ending on his fully tipped-back head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -235,7 +284,11 @@
       "motion": "They spread out and start packing snow, ending with the seven working across the field",
       "link": "컷",
       "link_ko": "걱정 뒤에도 시작한다.",
-      "motion_ref": "They spread out and start packing snow, ending with the seven working across the field"
+      "motion_ref": "They spread out and start packing snow, ending with the seven working across the field",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-11",
@@ -256,7 +309,11 @@
       "motion": "She packs snow by herself, apart, ending with her small ball beside her",
       "link": "연속",
       "link_ko": "흩어진 무리 중 한쪽 끝이다.",
-      "motion_ref": "She packs snow by herself, apart, ending with her small ball beside her"
+      "motion_ref": "She packs snow by herself, apart, ending with her small ball beside her",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-12",
@@ -277,7 +334,11 @@
       "motion": "The tightly packed ball sits in her hands, ending on the neat hard snowball",
       "link": "연속",
       "link_ko": "혼자 만든 것을 본다.",
-      "motion_ref": "The tightly packed ball sits in her hands, ending on the neat hard snowball"
+      "motion_ref": "The tightly packed ball sits in her hands, ending on the neat hard snowball",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-13",
@@ -298,7 +359,12 @@
       "motion": "She rolls it over to them and starts another, ending with her back at work alone",
       "link": "연속",
       "link_ko": "만든 것을 보낸다.",
-      "motion_ref": "She rolls it over to them and starts another, ending with her back at work alone"
+      "motion_ref": "She rolls it over to them and starts another, ending with her back at work alone",
+      "sig": null,
+      "sfx": [
+        "발소리_눈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC1-14",
@@ -317,7 +383,11 @@
       "motion": "Their snowballs combine into one knee-high ball, ending on the knee-high snowball",
       "link": "컷",
       "link_ko": "보낸 눈덩이가 합쳐진다.",
-      "motion_ref": "Their snowballs combine into one knee-high ball, ending on the knee-high snowball"
+      "motion_ref": "Their snowballs combine into one knee-high ball, ending on the knee-high snowball",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-01",
@@ -336,7 +406,11 @@
       "motion": "Chunks keep breaking off the rolling ball, ending with the ball smaller than before",
       "link": "전환",
       "link_ko": "합친 뒤의 문제다.",
-      "motion_ref": "Chunks keep breaking off the rolling ball, ending with the ball smaller than before"
+      "motion_ref": "Chunks keep breaking off the rolling ball, ending with the ball smaller than before",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-02",
@@ -355,7 +429,11 @@
       "motion": "The dry surface crumbles under their hands, ending on the dented crumbly surface",
       "link": "연속",
       "link_ko": "굴리는 눈덩이로 들어간다.",
-      "motion_ref": "The dry surface crumbles under their hands, ending on the dented crumbly surface"
+      "motion_ref": "The dry surface crumbles under their hands, ending on the dented crumbly surface",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-03",
@@ -376,7 +454,11 @@
       "motion": "The snow falls apart like powder, ending with powder drifting from her hand",
       "link": "컷",
       "link_ko": "부서지는 데서 원인으로.",
-      "motion_ref": "The snow falls apart like powder, ending with powder drifting from her hand"
+      "motion_ref": "The snow falls apart like powder, ending with powder drifting from her hand",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-04",
@@ -397,7 +479,11 @@
       "motion": "He wraps his arms around it and squeezes, ending with him straining around the ball",
       "link": "컷",
       "link_ko": "원인에 힘으로 답한다.",
-      "motion_ref": "He wraps his arms around it and squeezes, ending with him straining around the ball"
+      "motion_ref": "He wraps his arms around it and squeezes, ending with him straining around the ball",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-05",
@@ -418,7 +504,11 @@
       "motion": "The ball collapses and buries him, ending with only his tail showing above the snow",
       "link": "연속",
       "link_ko": "힘을 준 결과다.",
-      "motion_ref": "The ball collapses and buries him, ending with only his tail showing above the snow"
+      "motion_ref": "The ball collapses and buries him, ending with only his tail showing above the snow",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-06",
@@ -439,7 +529,11 @@
       "motion": "He surfaces, white to the eyebrows, ending on his snow-covered face",
       "link": "연속",
       "link_ko": "파묻힌 데서 나온다.",
-      "motion_ref": "He surfaces, white to the eyebrows, ending on his snow-covered face"
+      "motion_ref": "He surfaces, white to the eyebrows, ending on his snow-covered face",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-07",
@@ -460,7 +554,11 @@
       "motion": "Her staff taps the three collapsed craters, ending with the staff at the third crater",
       "link": "컷",
       "link_ko": "실패에서 횟수로.",
-      "motion_ref": "Her staff taps the three collapsed craters, ending with the staff at the third crater"
+      "motion_ref": "Her staff taps the three collapsed craters, ending with the staff at the third crater",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-08",
@@ -479,7 +577,11 @@
       "motion": "Shadows stretch long across the snow, ending on the long blue shadows",
       "link": "컷",
       "link_ko": "말에 사실이 붙는다.",
-      "motion_ref": "Shadows stretch long across the snow, ending on the long blue shadows"
+      "motion_ref": "Shadows stretch long across the snow, ending on the long blue shadows",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-09",
@@ -500,7 +602,9 @@
       "motion": "He shapes something small with his flippers, ending with the small shape held out",
       "link": "컷",
       "link_ko": "시간에 쫓겨 물러선다.",
-      "motion_ref": "He shapes something small with his flippers, ending with the small shape held out"
+      "motion_ref": "He shapes something small with his flippers, ending with the small shape held out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -521,7 +625,11 @@
       "motion": "He shakes off the snow and stands, ending on his set stubborn face",
       "link": "연속",
       "link_ko": "물러섬에 고집이 온다.",
-      "motion_ref": "He shakes off the snow and stands, ending on his set stubborn face"
+      "motion_ref": "He shakes off the snow and stands, ending on his set stubborn face",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-11",
@@ -542,7 +650,11 @@
       "motion": "She stamps the snow down over and over, ending with a packed patch under her feet",
       "link": "컷",
       "link_ko": "다투는 쪽에서 다른 쪽으로.",
-      "motion_ref": "She stamps the snow down over and over, ending with a packed patch under her feet"
+      "motion_ref": "She stamps the snow down over and over, ending with a packed patch under her feet",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-12",
@@ -561,7 +673,11 @@
       "motion": "The trodden snow is hard and shiny, ending on the packed shiny patch",
       "link": "연속",
       "link_ko": "밟는 발밑을 본다.",
-      "motion_ref": "The trodden snow is hard and shiny, ending on the packed shiny patch"
+      "motion_ref": "The trodden snow is hard and shiny, ending on the packed shiny patch",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-13",
@@ -583,7 +699,9 @@
       "motion": "He comes over and stands beside her, ending with the two side by side",
       "link": "컷",
       "link_ko": "단단해진 자리에서 아이로.",
-      "motion_ref": "He comes over and stands beside her, ending with the two side by side"
+      "motion_ref": "He comes over and stands beside her, ending with the two side by side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -604,7 +722,9 @@
       "motion": "Her palm presses downward to show how, ending with her palm still flat and low",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "Her palm presses downward to show how, ending with her palm still flat and low"
+      "motion_ref": "Her palm presses downward to show how, ending with her palm still flat and low",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -625,7 +745,11 @@
       "motion": "He looks at his paws, then at the field, ending on his thoughtful look at the field",
       "link": "연속",
       "link_ko": "답을 듣고 생각한다.",
-      "motion_ref": "He looks at his paws, then at the field, ending on his thoughtful look at the field"
+      "motion_ref": "He looks at his paws, then at the field, ending on his thoughtful look at the field",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC2-16",
@@ -646,7 +770,11 @@
       "motion": "He walks to the middle; they back away, ending with him alone in the middle of the field",
       "link": "연속",
       "link_ko": "생각이 행동이 된다.",
-      "motion_ref": "He walks to the middle; they back away, ending with him alone in the middle of the field"
+      "motion_ref": "He walks to the middle; they back away, ending with him alone in the middle of the field",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-01",
@@ -667,7 +795,9 @@
       "motion": "He raises both front paws high, ending with his paws at their highest",
       "link": "전환",
       "link_ko": "자리를 잡고 준비한다.",
-      "motion_ref": "He raises both front paws high, ending with his paws at their highest"
+      "motion_ref": "He raises both front paws high, ending with his paws at their highest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -688,7 +818,11 @@
       "motion": "The shockwave ring spreads out across the snow, ending with the ring racing outward",
       "link": "연속",
       "link_ko": "든 앞발이 눈을 친다.",
-      "motion_ref": "The shockwave ring spreads out across the snow, ending with the ring racing outward"
+      "motion_ref": "The shockwave ring spreads out across the snow, ending with the ring racing outward",
+      "sig": "쿵쿵_파워",
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-03",
@@ -707,7 +841,11 @@
       "motion": "A broad hard circle forms in the snow, ending on the packed circle in the field",
       "link": "연속",
       "link_ko": "고리가 눈을 다진다.",
-      "motion_ref": "A broad hard circle forms in the snow, ending on the packed circle in the field"
+      "motion_ref": "A broad hard circle forms in the snow, ending on the packed circle in the field",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-04",
@@ -726,7 +864,11 @@
       "motion": "One hard ball sits at the circle's centre, ending on the hard ball at the centre",
       "link": "연속",
       "link_ko": "다져진 자리에 덩어리가 남는다.",
-      "motion_ref": "One hard ball sits at the circle's centre, ending on the hard ball at the centre"
+      "motion_ref": "One hard ball sits at the circle's centre, ending on the hard ball at the centre",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-05",
@@ -747,7 +889,11 @@
       "motion": "She waves them in and they rush the ball, ending with six pairs of hands on the ball",
       "link": "컷",
       "link_ko": "남은 덩어리에서 사람들로.",
-      "motion_ref": "She waves them in and they rush the ball, ending with six pairs of hands on the ball"
+      "motion_ref": "She waves them in and they rush the ball, ending with six pairs of hands on the ball",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-06",
@@ -766,7 +912,12 @@
       "motion": "It rolls and grows without breaking, ending with the ball chest high",
       "link": "연속",
       "link_ko": "달려든 손이 굴린다.",
-      "motion_ref": "It rolls and grows without breaking, ending with the ball chest high"
+      "motion_ref": "It rolls and grows without breaking, ending with the ball chest high",
+      "sig": null,
+      "sfx": [
+        "발소리_눈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC3-07",
@@ -785,7 +936,9 @@
       "motion": "The surface stays smooth under their hands, ending on the smooth hard surface",
       "link": "연속",
       "link_ko": "굴러가는 표면을 본다.",
-      "motion_ref": "The surface stays smooth under their hands, ending on the smooth hard surface"
+      "motion_ref": "The surface stays smooth under their hands, ending on the smooth hard surface",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -809,7 +962,11 @@
         "sec": 0.5,
         "why": "굴리는 시간이 흐른다"
       },
-      "motion_ref": "The ball grows taller than any of them, ending with the huge ball dwarfing them"
+      "motion_ref": "The ball grows taller than any of them, ending with the huge ball dwarfing them",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-09",
@@ -830,7 +987,11 @@
       "motion": "He slaps the giant ball and laughs, ending with his hand on the ball",
       "link": "연속",
       "link_ko": "다 굴리고 멈춘다.",
-      "motion_ref": "He slaps the giant ball and laughs, ending with his hand on the ball"
+      "motion_ref": "He slaps the giant ball and laughs, ending with his hand on the ball",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC3-10",
@@ -849,7 +1010,11 @@
       "motion": "The second ball grows much faster, ending with the second ball waist high",
       "link": "컷",
       "link_ko": "몸통에서 다음 덩어리로.",
-      "motion_ref": "The second ball grows much faster, ending with the second ball waist high"
+      "motion_ref": "The second ball grows much faster, ending with the second ball waist high",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC3-11",
@@ -870,7 +1035,9 @@
       "motion": "He hoists it up and sets it on the body, ending with the two balls stacked",
       "link": "연속",
       "link_ko": "다 굴린 덩어리를 올린다.",
-      "motion_ref": "He hoists it up and sets it on the body, ending with the two balls stacked"
+      "motion_ref": "He hoists it up and sets it on the body, ending with the two balls stacked",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -889,7 +1056,11 @@
       "motion": "The snowman towers with no head yet, ending on the headless giant snowman",
       "link": "연속",
       "link_ko": "쌓인 것을 물러나서 본다.",
-      "motion_ref": "The snowman towers with no head yet, ending on the headless giant snowman"
+      "motion_ref": "The snowman towers with no head yet, ending on the headless giant snowman",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC3-13",
@@ -910,7 +1081,9 @@
       "motion": "Her head goes all the way back, ending on her fully tipped-back head",
       "link": "컷",
       "link_ko": "눈사람에서 아이로.",
-      "motion_ref": "Her head goes all the way back, ending on her fully tipped-back head"
+      "motion_ref": "Her head goes all the way back, ending on her fully tipped-back head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -929,7 +1102,9 @@
       "motion": "They look at each other; none can reach, ending with the six standing helpless",
       "link": "연속",
       "link_ko": "질문에 답이 없다.",
-      "motion_ref": "They look at each other; none can reach, ending with the six standing helpless"
+      "motion_ref": "They look at each other; none can reach, ending with the six standing helpless",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -950,7 +1125,11 @@
       "motion": "She stands holding a small hard snowball, ending with the ball held against her chest",
       "link": "컷",
       "link_ko": "막힌 자리에서 노을로.",
-      "motion_ref": "She stands holding a small hard snowball, ending with the ball held against her chest"
+      "motion_ref": "She stands holding a small hard snowball, ending with the ball held against her chest",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-01",
@@ -971,7 +1150,11 @@
       "motion": "She asks quietly, holding the ball, ending on her waiting face",
       "link": "전환",
       "link_ko": "서 있던 자리에서 처음으로 묻는다.",
-      "motion_ref": "She asks quietly, holding the ball, ending on her waiting face"
+      "motion_ref": "She asks quietly, holding the ball, ending on her waiting face",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-02",
@@ -990,7 +1173,9 @@
       "motion": "They all turn; none of them speaks, ending on their stunned faces",
       "link": "연속",
       "link_ko": "물음에 시선이 모인다.",
-      "motion_ref": "They all turn; none of them speaks, ending on their stunned faces"
+      "motion_ref": "They all turn; none of them speaks, ending on their stunned faces",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1012,7 +1197,11 @@
       "motion": "She walks over, eyes very wide, ending with her right in front of {노을}",
       "link": "연속",
       "link_ko": "침묵을 하나가 깬다.",
-      "motion_ref": "She walks over, eyes very wide, ending with her right in front of Noeul the fox"
+      "motion_ref": "She walks over, eyes very wide, ending with her right in front of Noeul the fox",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1034,7 +1223,9 @@
       "motion": "He reaches out and pulls her in, ending with her pulled into the group",
       "link": "연속",
       "link_ko": "말이 끝나기 전에 끌어당긴다.",
-      "motion_ref": "He reaches out and pulls her in, ending with her pulled into the group"
+      "motion_ref": "He reaches out and pulls her in, ending with her pulled into the group",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1056,7 +1247,11 @@
       "motion": "She climbs onto his shoulders with the ball, ending with her high on his shoulders",
       "link": "연속",
       "link_ko": "끌려온 다음이다.",
-      "motion_ref": "She climbs onto his shoulders with the ball, ending with her high on his shoulders"
+      "motion_ref": "She climbs onto his shoulders with the ball, ending with her high on his shoulders",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1077,7 +1272,11 @@
       "motion": "Her hands settle the head into place, ending with the head sitting straight",
       "link": "연속",
       "link_ko": "올라간 손이 닿는다.",
-      "motion_ref": "Her hands settle the head into place, ending with the head sitting straight"
+      "motion_ref": "Her hands settle the head into place, ending with the head sitting straight",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1096,7 +1295,11 @@
       "motion": "The giant snowman stands taller than the tree, ending on the finished giant snowman",
       "link": "연속",
       "link_ko": "머리가 올라가 완성된다.",
-      "motion_ref": "The giant snowman stands taller than the tree, ending on the finished giant snowman"
+      "motion_ref": "The giant snowman stands taller than the tree, ending on the finished giant snowman",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1123,7 +1326,11 @@
       "motion": "The seven line up with her in the middle, ending with the seven in a row, her at the centre",
       "link": "컷",
       "link_ko": "눈사람에서 그 앞의 일곱으로.",
-      "motion_ref": "The seven line up with her in the middle, ending with the seven in a row, her at the centre"
+      "motion_ref": "The seven line up with her in the middle, ending with the seven in a row, her at the centre",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "EN-01",
@@ -1147,7 +1354,11 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "The villagers gather around the snowman, ending on the crowd around the snowman"
+      "motion_ref": "The villagers gather around the snowman, ending on the crowd around the snowman",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "EN-02",
@@ -1166,7 +1377,12 @@
       "motion": "A big scarf goes around its neck, ending with the scarf hanging straight",
       "link": "연속",
       "link_ko": "모인 사람들 안에서 손이 움직인다.",
-      "motion_ref": "A big scarf goes around its neck, ending with the scarf hanging straight"
+      "motion_ref": "A big scarf goes around its neck, ending with the scarf hanging straight",
+      "sig": null,
+      "sfx": [
+        "발소리_눈",
+        "바람_돌풍"
+      ]
     },
     {
       "id": "EN-03",
@@ -1188,7 +1404,9 @@
       "motion": "He nudges her with his elbow, ending with the two side by side",
       "link": "컷",
       "link_ko": "눈사람에서 두 사람으로.",
-      "motion_ref": "He nudges her with his elbow, ending with the two side by side"
+      "motion_ref": "He nudges her with his elbow, ending with the two side by side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1209,7 +1427,11 @@
       "motion": "She looks up at it and smiles, ending on her smile",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She looks up at it and smiles, ending on her smile"
+      "motion_ref": "She looks up at it and smiles, ending on her smile",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "EN-05",
@@ -1230,7 +1452,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1249,7 +1473,11 @@
       "motion": "It stands alone under the stars as snow falls, ending on the snowman alone in the night",
       "link": "컷",
       "link_ko": "사람들이 돌아가고 눈사람만 남는다.",
-      "motion_ref": "It stands alone under the stars as snow falls, ending on the snowman alone in the night"
+      "motion_ref": "It stands alone under the stars as snow falls, ending on the snowman alone in the night",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "EN-07",
@@ -1276,7 +1504,9 @@
       "motion": "Snow falls gently as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "Snow falls gently as the camera eases back"
+      "motion_ref": "Snow falls gently as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

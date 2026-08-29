@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 온기 — 그리고 두 번째 잎",
     "EN": "엔딩 · 작은 생명의 시작을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "숲_낮",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "눈밭",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "밤하늘_언덕",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "눈밭",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "밤하늘_언덕",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "Meltwater runs between the patches of snow, ending on the patchy brown hillside",
       "link": "전환",
       "link_ko": "33화 첫 컷. 눈 녹는 언덕에서 시작한다.",
-      "motion_ref": "Meltwater runs between the patches of snow, ending on the patchy brown hillside"
+      "motion_ref": "Meltwater runs between the patches of snow, ending on the patchy brown hillside",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,9 @@
       "motion": "They climb and look at the ground, ending with the seven partway up",
       "link": "전환",
       "link_ko": "언덕에서 그 위의 일곱으로.",
-      "motion_ref": "They climb and look at the ground, ending with the seven partway up"
+      "motion_ref": "They climb and look at the ground, ending with the seven partway up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -87,7 +115,9 @@
       "motion": "He sniffs at the bare soil, ending with his nose still at the soil",
       "link": "연속",
       "link_ko": "오르는 무리 안으로 들어간다.",
-      "motion_ref": "He sniffs at the bare soil, ending with his nose still at the soil"
+      "motion_ref": "He sniffs at the bare soil, ending with his nose still at the soil",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -106,7 +136,9 @@
       "motion": "One tiny green point stands in the soil, ending on the tiny green shoot",
       "link": "연속",
       "link_ko": "코를 댄 자리에 있다.",
-      "motion_ref": "One tiny green point stands in the soil, ending on the tiny green shoot"
+      "motion_ref": "One tiny green point stands in the soil, ending on the tiny green shoot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -127,7 +159,9 @@
       "motion": "He lifts his head and waves them over, ending with him still waving",
       "link": "연속",
       "link_ko": "발견하고 부른다.",
-      "motion_ref": "He lifts his head and waves them over, ending with him still waving"
+      "motion_ref": "He lifts his head and waves them over, ending with him still waving",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -146,7 +180,9 @@
       "motion": "They crowd in and crouch around it, ending with the seven ringed around the shoot",
       "link": "연속",
       "link_ko": "부름에 모인다.",
-      "motion_ref": "They crowd in and crouch around it, ending with the seven ringed around the shoot"
+      "motion_ref": "They crowd in and crouch around it, ending with the seven ringed around the shoot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -167,7 +203,11 @@
       "motion": "Her hands cup around the shoot, ending with her hands still cupped",
       "link": "연속",
       "link_ko": "모여 앉은 자리에서 말이 나온다.",
-      "motion_ref": "Her hands cup around the shoot, ending with her hands still cupped"
+      "motion_ref": "Her hands cup around the shoot, ending with her hands still cupped",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-08",
@@ -188,7 +228,9 @@
       "motion": "The shoot is smaller than her claw, ending on the claw beside the tiny shoot",
       "link": "연속",
       "link_ko": "설명 옆에서 크기를 잰다.",
-      "motion_ref": "The shoot is smaller than her claw, ending on the claw beside the tiny shoot"
+      "motion_ref": "The shoot is smaller than her claw, ending on the claw beside the tiny shoot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -209,7 +251,9 @@
       "motion": "Her staff sweeps across the whole hillside, ending with the staff at the far edge",
       "link": "컷",
       "link_ko": "작은 것에서 언덕 전체로.",
-      "motion_ref": "Her staff sweeps across the whole hillside, ending with the staff at the far edge"
+      "motion_ref": "Her staff sweeps across the whole hillside, ending with the staff at the far edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -230,7 +274,11 @@
       "motion": "She clears the small stones away, ending with the stones set aside",
       "link": "컷",
       "link_ko": "이야기 옆에서 손이 움직인다.",
-      "motion_ref": "She clears the small stones away, ending with the stones set aside"
+      "motion_ref": "She clears the small stones away, ending with the stones set aside",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-11",
@@ -251,7 +299,9 @@
       "motion": "He plants a twig beside it as a marker, ending with the twig standing beside the shoot",
       "link": "컷",
       "link_ko": "치우는 손 옆에서 제안이 나온다.",
-      "motion_ref": "He plants a twig beside it as a marker, ending with the twig standing beside the shoot"
+      "motion_ref": "He plants a twig beside it as a marker, ending with the twig standing beside the shoot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -270,7 +320,11 @@
       "motion": "It bends hard in the wind, very thin, ending with the shoot bent far over",
       "link": "연속",
       "link_ko": "표시 옆의 새싹을 본다.",
-      "motion_ref": "It bends hard in the wind, very thin, ending with the shoot bent far over"
+      "motion_ref": "It bends hard in the wind, very thin, ending with the shoot bent far over",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-13",
@@ -289,7 +343,11 @@
       "motion": "The sky clouds and cold wind sweeps the hill, ending on the wind-swept grey hillside",
       "link": "컷",
       "link_ko": "흔들리는 새싹 위로 날씨가 바뀐다.",
-      "motion_ref": "The sky clouds and cold wind sweeps the hill, ending on the wind-swept grey hillside"
+      "motion_ref": "The sky clouds and cold wind sweeps the hill, ending on the wind-swept grey hillside",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-14",
@@ -310,7 +368,9 @@
       "motion": "She looks up and regrips her staff, ending on her upward look",
       "link": "연속",
       "link_ko": "날씨를 보고 말한다.",
-      "motion_ref": "She looks up and regrips her staff, ending on her upward look"
+      "motion_ref": "She looks up and regrips her staff, ending on her upward look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -334,7 +394,9 @@
         "sec": 0.6,
         "why": "낮에서 얼어붙는 밤으로"
       },
-      "motion_ref": "Frost settles white over the ground, ending on the refrozen white hillside"
+      "motion_ref": "Frost settles white over the ground, ending on the refrozen white hillside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -353,7 +415,11 @@
       "motion": "Frost forms over the shoot and stiffens it, ending on the frosted stiff shoot",
       "link": "연속",
       "link_ko": "언 언덕 안의 새싹이다.",
-      "motion_ref": "Frost forms over the shoot and stiffens it, ending on the frosted stiff shoot"
+      "motion_ref": "Frost forms over the shoot and stiffens it, ending on the frosted stiff shoot",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-03",
@@ -377,7 +443,9 @@
         "sec": 0.6,
         "why": "언 밤에서 다음 날 아침으로"
       },
-      "motion_ref": "They hurry up the hill, breath steaming, ending with the seven arriving at the marker"
+      "motion_ref": "They hurry up the hill, breath steaming, ending with the seven arriving at the marker",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -396,7 +464,9 @@
       "motion": "They stop at the marker and look down, ending with the seven looking down at the ground",
       "link": "연속",
       "link_ko": "올라와서 확인한다.",
-      "motion_ref": "They stop at the marker and look down, ending with the seven looking down at the ground"
+      "motion_ref": "They stop at the marker and look down, ending with the seven looking down at the ground",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -415,7 +485,9 @@
       "motion": "The shoot stands unfrosted, greener than before, ending on the healthy green shoot",
       "link": "연속",
       "link_ko": "내려다본 자리다.",
-      "motion_ref": "The shoot stands unfrosted, greener than before, ending on the healthy green shoot"
+      "motion_ref": "The shoot stands unfrosted, greener than before, ending on the healthy green shoot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -436,7 +508,9 @@
       "motion": "She bounces on the spot, ending mid-bounce",
       "link": "연속",
       "link_ko": "살아 있는 걸 보고 뛴다.",
-      "motion_ref": "She bounces on the spot, ending mid-bounce"
+      "motion_ref": "She bounces on the spot, ending mid-bounce",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -457,7 +531,9 @@
       "motion": "Her fingers test the soil around it, ending with her fingers still in the soil",
       "link": "컷",
       "link_ko": "기쁨 옆에서 의심이 나온다.",
-      "motion_ref": "Her fingers test the soil around it, ending with her fingers still in the soil"
+      "motion_ref": "Her fingers test the soil around it, ending with her fingers still in the soil",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -481,7 +557,9 @@
         "sec": 0.5,
         "why": "여러 밤이 반복된다"
       },
-      "motion_ref": "Frost settles again and again over the nights, ending on the repeatedly frosted hillside"
+      "motion_ref": "Frost settles again and again over the nights, ending on the repeatedly frosted hillside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -500,7 +578,9 @@
       "motion": "Each morning they find it unharmed, ending with the shoot noticeably taller",
       "link": "연속",
       "link_ko": "밤마다 얼고 아침마다 멀쩡하다.",
-      "motion_ref": "Each morning they find it unharmed, ending with the shoot noticeably taller"
+      "motion_ref": "Each morning they find it unharmed, ending with the shoot noticeably taller",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -519,7 +599,11 @@
       "motion": "The shoot is taller with a second leaf, ending on the two-leaved shoot",
       "link": "연속",
       "link_ko": "자란 것을 확인한다.",
-      "motion_ref": "The shoot is taller with a second leaf, ending on the two-leaved shoot"
+      "motion_ref": "The shoot is taller with a second leaf, ending on the two-leaved shoot",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-11",
@@ -540,7 +624,11 @@
       "motion": "He thumps his chest and laughs, ending with his fist on his chest",
       "link": "컷",
       "link_ko": "자란 것에서 자랑으로.",
-      "motion_ref": "He thumps his chest and laughs, ending with his fist on his chest"
+      "motion_ref": "He thumps his chest and laughs, ending with his fist on his chest",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-12",
@@ -561,7 +649,11 @@
       "motion": "Every number she writes is below freezing, ending on the page of freezing numbers",
       "link": "컷",
       "link_ko": "자랑에 의심이 붙는다.",
-      "motion_ref": "Every number she writes is below freezing, ending on the page of freezing numbers"
+      "motion_ref": "Every number she writes is below freezing, ending on the page of freezing numbers",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-13",
@@ -583,7 +675,9 @@
       "motion": "She looks at her; the fox looks away, ending with {노을} facing away",
       "link": "컷",
       "link_ko": "숫자에서 사람으로.",
-      "motion_ref": "She looks at her; the fox looks away, ending with Noeul the fox facing away"
+      "motion_ref": "She looks at her; the fox looks away, ending with Noeul the fox facing away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -604,7 +698,11 @@
       "motion": "She shuts the notebook and puts it away, ending with the notebook away",
       "link": "연속",
       "link_ko": "의심이 계획이 된다.",
-      "motion_ref": "She shuts the notebook and puts it away, ending with the notebook away"
+      "motion_ref": "She shuts the notebook and puts it away, ending with the notebook away",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-15",
@@ -625,7 +723,9 @@
       "motion": "She says nothing; only her fingers move, ending on her still face and moving fingers",
       "link": "연속",
       "link_ko": "계획을 듣고도 말이 없다.",
-      "motion_ref": "She says nothing; only her fingers move, ending on her still face and moving fingers"
+      "motion_ref": "She says nothing; only her fingers move, ending on her still face and moving fingers",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -644,7 +744,9 @@
       "motion": "The sun sets as they head down the hill, ending with the hillside empty",
       "link": "컷",
       "link_ko": "계획을 세우고 흩어진다.",
-      "motion_ref": "The sun sets as they head down the hill, ending with the hillside empty"
+      "motion_ref": "The sun sets as they head down the hill, ending with the hillside empty",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -668,7 +770,9 @@
         "sec": 0.6,
         "why": "해 질 무렵에서 잠복하는 밤으로"
       },
-      "motion_ref": "The six crouch and watch the hill, ending with the six hidden and watching"
+      "motion_ref": "The six crouch and watch the hill, ending with the six hidden and watching",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -689,7 +793,9 @@
       "motion": "He looks at the empty space beside him, ending on the empty spot",
       "link": "연속",
       "link_ko": "숨은 줄 안이다.",
-      "motion_ref": "He looks at the empty space beside him, ending on the empty spot"
+      "motion_ref": "He looks at the empty space beside him, ending on the empty spot",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -710,7 +816,9 @@
       "motion": "She hushes them and points up the hill, ending with her finger aimed up the hill",
       "link": "연속",
       "link_ko": "말이 끊긴다.",
-      "motion_ref": "She hushes them and points up the hill, ending with her finger aimed up the hill"
+      "motion_ref": "She hushes them and points up the hill, ending with her finger aimed up the hill",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -729,7 +837,9 @@
       "motion": "A small figure climbs toward the shoot, ending with the figure reaching the marker",
       "link": "컷",
       "link_ko": "가리킨 곳에 누가 있다.",
-      "motion_ref": "A small figure climbs toward the shoot, ending with the figure reaching the marker"
+      "motion_ref": "A small figure climbs toward the shoot, ending with the figure reaching the marker",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -748,7 +858,9 @@
       "motion": "It kneels and spreads something out, ending with the object spread over the ground",
       "link": "연속",
       "link_ko": "올라온 곳에서 앉는다.",
-      "motion_ref": "It kneels and spreads something out, ending with the object spread over the ground"
+      "motion_ref": "It kneels and spreads something out, ending with the object spread over the ground",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -767,7 +879,11 @@
       "motion": "The little cover settles over the shoot, ending with the shoot fully covered",
       "link": "연속",
       "link_ko": "펼친 것이 무엇인지 보인다.",
-      "motion_ref": "The little cover settles over the shoot, ending with the shoot fully covered"
+      "motion_ref": "The little cover settles over the shoot, ending with the shoot fully covered",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-07",
@@ -788,7 +904,9 @@
       "motion": "Moonlight falls and shows her face, ending on her face in the moonlight",
       "link": "연속",
       "link_ko": "덮은 사람의 얼굴이 보인다.",
-      "motion_ref": "Moonlight falls and shows her face, ending on her face in the moonlight"
+      "motion_ref": "Moonlight falls and shows her face, ending on her face in the moonlight",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -807,7 +925,9 @@
       "motion": "They look at each other; nobody moves, ending with the six frozen behind the bush",
       "link": "컷",
       "link_ko": "보이는 쪽에서 보는 쪽으로.",
-      "motion_ref": "They look at each other; nobody moves, ending with the six frozen behind the bush"
+      "motion_ref": "They look at each other; nobody moves, ending with the six frozen behind the bush",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -828,7 +948,9 @@
       "motion": "She weights the edges; her hands are red, ending on her cold red hands",
       "link": "컷",
       "link_ko": "숨은 쪽에서 다시 언덕 위로.",
-      "motion_ref": "She weights the edges; her hands are red, ending on her cold red hands"
+      "motion_ref": "She weights the edges; her hands are red, ending on her cold red hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -849,7 +971,9 @@
       "motion": "She sits and looks at it for a long time, ending on her quiet watching face",
       "link": "연속",
       "link_ko": "다 덮고도 안 간다.",
-      "motion_ref": "She sits and looks at it for a long time, ending on her quiet watching face"
+      "motion_ref": "She sits and looks at it for a long time, ending on her quiet watching face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -870,7 +994,11 @@
       "motion": "He steps out before they can stop him, ending with him out in the open",
       "link": "컷",
       "link_ko": "보다 못해 나선다.",
-      "motion_ref": "He steps out before they can stop him, ending with him out in the open"
+      "motion_ref": "He steps out before they can stop him, ending with him out in the open",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-12",
@@ -891,7 +1019,11 @@
       "motion": "She jumps up to run, then stops, ending with her frozen, half turned away",
       "link": "연속",
       "link_ko": "나온 사람을 본다.",
-      "motion_ref": "She jumps up to run, then stops, ending with her frozen, half turned away"
+      "motion_ref": "She jumps up to run, then stops, ending with her frozen, half turned away",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-13",
@@ -912,7 +1044,9 @@
       "motion": "He comes closer and asks quietly, ending with the two facing each other",
       "link": "연속",
       "link_ko": "멈춘 사람 앞에 선다.",
-      "motion_ref": "He comes closer and asks quietly, ending with the two facing each other"
+      "motion_ref": "He comes closer and asks quietly, ending with the two facing each other",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -933,7 +1067,9 @@
       "motion": "She answers shortly, eyes turned away, ending on her averted face",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She answers shortly, eyes turned away, ending on her averted face"
+      "motion_ref": "She answers shortly, eyes turned away, ending on her averted face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -952,7 +1088,9 @@
       "motion": "The six come out and climb the hill, ending with all seven on the hilltop",
       "link": "컷",
       "link_ko": "답을 듣고 나머지도 나온다.",
-      "motion_ref": "The six come out and climb the hill, ending with all seven on the hilltop"
+      "motion_ref": "The six come out and climb the hill, ending with all seven on the hilltop",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -974,7 +1112,9 @@
       "motion": "She stands in front of her, not angry, ending with the two facing each other",
       "link": "전환",
       "link_ko": "다 모인 뒤의 장면이다.",
-      "motion_ref": "She stands in front of her, not angry, ending with the two facing each other"
+      "motion_ref": "She stands in front of her, not angry, ending with the two facing each other",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -995,7 +1135,9 @@
       "motion": "She hides her cold hands behind her, ending with her hands hidden",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She hides her cold hands behind her, ending with her hands hidden"
+      "motion_ref": "She hides her cold hands behind her, ending with her hands hidden",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1017,7 +1159,9 @@
       "motion": "He pulls her hands out and warms them, ending with her hands held in his",
       "link": "연속",
       "link_ko": "감춘 손이 잡힌다.",
-      "motion_ref": "He pulls her hands out and warms them, ending with her hands held in his"
+      "motion_ref": "He pulls her hands out and warms them, ending with her hands held in his",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1038,7 +1182,9 @@
       "motion": "He kneels and lifts the cover away, ending with the shoot uncovered under the moon",
       "link": "컷",
       "link_ko": "손에서 새싹으로.",
-      "motion_ref": "He kneels and lifts the cover away, ending with the shoot uncovered under the moon"
+      "motion_ref": "He kneels and lifts the cover away, ending with the shoot uncovered under the moon",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1059,7 +1205,9 @@
       "motion": "The faint warm light spreads slowly over the shoot, ending with the light settled over the shoot",
       "link": "연속",
       "link_ko": "덮개를 걷고 능력을 쓴다.",
-      "motion_ref": "The faint warm light spreads slowly over the shoot, ending with the light settled over the shoot"
+      "motion_ref": "The faint warm light spreads slowly over the shoot, ending with the light settled over the shoot",
+      "sig": "쿵쿵_온기",
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1078,7 +1226,9 @@
       "motion": "Frost melts and steam rises from the soil, ending with the soil dark and steaming",
       "link": "연속",
       "link_ko": "빛이 땅에 닿는다.",
-      "motion_ref": "Frost melts and steam rises from the soil, ending with the soil dark and steaming"
+      "motion_ref": "Frost melts and steam rises from the soil, ending with the soil dark and steaming",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1097,7 +1247,11 @@
       "motion": "It straightens a little and the leaf opens, ending with the shoot standing straighter",
       "link": "연속",
       "link_ko": "따뜻해지고 반응한다.",
-      "motion_ref": "It straightens a little and the leaf opens, ending with the shoot standing straighter"
+      "motion_ref": "It straightens a little and the leaf opens, ending with the shoot standing straighter",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1116,7 +1270,11 @@
       "motion": "The seven sit around it; nobody leaves, ending on the seven ringed around the shoot",
       "link": "컷",
       "link_ko": "새싹에서 일곱 전체로.",
-      "motion_ref": "The seven sit around it; nobody leaves, ending on the seven ringed around the shoot"
+      "motion_ref": "The seven sit around it; nobody leaves, ending on the seven ringed around the shoot",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "EN-01",
@@ -1140,7 +1298,9 @@
         "sec": 0.5,
         "why": "밤이 여러 번 반복된다"
       },
-      "motion_ref": "A different one comes up each night, ending with the shoot covered again"
+      "motion_ref": "A different one comes up each night, ending with the shoot covered again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1164,7 +1324,11 @@
         "sec": 0.6,
         "why": "꽃샘추위가 끝나고 봄이 온다"
       },
-      "motion_ref": "Green spreads over the melted hillside, ending on the green hillside"
+      "motion_ref": "Green spreads over the melted hillside, ending on the green hillside",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "EN-03",
@@ -1183,7 +1347,9 @@
       "motion": "The shoot has grown as big as a hand, ending on the grown plant",
       "link": "연속",
       "link_ko": "언덕에서 그 자리로.",
-      "motion_ref": "The shoot has grown as big as a hand, ending on the grown plant"
+      "motion_ref": "The shoot has grown as big as a hand, ending on the grown plant",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1204,7 +1370,9 @@
       "motion": "She sits beside it, grinning proudly, ending on her proud grin",
       "link": "연속",
       "link_ko": "자란 것을 보고 웃는다.",
-      "motion_ref": "She sits beside it, grinning proudly, ending on her proud grin"
+      "motion_ref": "She sits beside it, grinning proudly, ending on her proud grin",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1225,7 +1393,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "자랑이 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1246,7 +1416,9 @@
       "motion": "The folded covers sit stacked in the satchel, ending on the stack of covers",
       "link": "컷",
       "link_ko": "사람에서 가방으로.",
-      "motion_ref": "The folded covers sit stacked in the satchel, ending on the stack of covers"
+      "motion_ref": "The folded covers sit stacked in the satchel, ending on the stack of covers",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1273,7 +1445,9 @@
       "motion": "The green sways as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The green sways as the camera eases back"
+      "motion_ref": "The green sways as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

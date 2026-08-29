@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이의 오늘 한마디 · 9화"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "꽃밭",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "total_shots": 7,
   "total_seconds": 30,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "He rises into frame, ending centred and looking directly at camera",
       "link": "전환",
       "link_ko": "【고정】 매 편 똑같이 시작한다.",
-      "motion_ref": "He rises into frame, ending centred and looking directly at camera"
+      "motion_ref": "He rises into frame, ending centred and looking directly at camera",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D03-02",
@@ -53,7 +61,9 @@
       "motion": "She holds up three fingers, ending with him grinning and nodding hard",
       "link": "전환",
       "link_ko": "상황. 무슨 일이 벌어지고 있는지.",
-      "motion_ref": "She holds up three fingers, ending with him grinning and nodding hard"
+      "motion_ref": "She holds up three fingers, ending with him grinning and nodding hard",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D03-03",
@@ -74,7 +84,12 @@
       "motion": "The pages flip on, ending with the room fully orange and him still reading",
       "link": "컷",
       "link_ko": "문제. 무엇이 잘못됐는지.",
-      "motion_ref": "The pages flip on, ending with the room fully orange and him still reading"
+      "motion_ref": "The pages flip on, ending with the room fully orange and him still reading",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍",
+        "종이"
+      ]
     },
     {
       "id": "D03-04",
@@ -93,7 +108,9 @@
       "motion": "Petals settle on the flattened grass, ending held on the empty meadow",
       "link": "컷",
       "link_ko": "전환점. 누가 무엇을 했는지.",
-      "motion_ref": "Petals settle on the flattened grass, ending held on the empty meadow"
+      "motion_ref": "Petals settle on the flattened grass, ending held on the empty meadow",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D03-05",
@@ -117,7 +134,9 @@
       "motion": "He leaps up waving, ending with all four together on the mat",
       "link": "컷",
       "link_ko": "해결. 그래서 어떻게 됐는지.",
-      "motion_ref": "He leaps up waving, ending with all four together on the mat"
+      "motion_ref": "He leaps up waving, ending with all four together on the mat",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D03-06",
@@ -138,7 +157,9 @@
       "motion": "He settles into the pose and beams, ending held still with the bottom third clear",
       "link": "전환",
       "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다.",
-      "motion_ref": "He settles into the pose and beams, ending held still with the bottom third clear"
+      "motion_ref": "He settles into the pose and beams, ending held still with the bottom third clear",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D03-07",
@@ -159,7 +180,9 @@
       "motion": "He waves and the camera eases back, ending held still",
       "link": "컷",
       "link_ko": "【고정】 매 편 똑같이 끝난다.",
-      "motion_ref": "He waves and the camera eases back, ending held still"
+      "motion_ref": "He waves and the camera eases back, ending held still",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 묻다 — 찢은 한 장",
     "EN": "엔딩 · 변하지 않을 추억을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "참나무숲",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "숲_낮",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "참나무숲",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "참나무숲",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "참나무숲",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "Leaves tumble across the thick leaf floor, ending on the leaf-covered forest floor",
       "link": "전환",
       "link_ko": "37화 첫 컷. 가을 숲에서 시작한다.",
-      "motion_ref": "Leaves tumble across the thick leaf floor, ending on the leaf-covered forest floor"
+      "motion_ref": "Leaves tumble across the thick leaf floor, ending on the leaf-covered forest floor",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-02",
@@ -58,7 +84,11 @@
       "motion": "The great oak stands with its leaves gone red, ending on the whole red oak",
       "link": "연속",
       "link_ko": "숲에서 그 가운데로 들어간다.",
-      "motion_ref": "The great oak stands with its leaves gone red, ending on the whole red oak"
+      "motion_ref": "The great oak stands with its leaves gone red, ending on the whole red oak",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-03",
@@ -85,7 +115,12 @@
       "motion": "They wade through the leaves to the trunk, ending with the seven at the base of the oak",
       "link": "전환",
       "link_ko": "나무에서 그 아래의 일곱으로.",
-      "motion_ref": "They wade through the leaves to the trunk, ending with the seven at the base of the oak"
+      "motion_ref": "They wade through the leaves to the trunk, ending with the seven at the base of the oak",
+      "sig": null,
+      "sfx": [
+        "물_첨벙",
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-04",
@@ -106,7 +141,9 @@
       "motion": "She cranes up at the top of the oak, ending on her upturned face",
       "link": "연속",
       "link_ko": "도착한 자리에서 기억이 난다.",
-      "motion_ref": "She cranes up at the top of the oak, ending on her upturned face"
+      "motion_ref": "She cranes up at the top of the oak, ending on her upturned face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -127,7 +164,9 @@
       "motion": "He gives the trunk a light slap, ending with his hand on the bark",
       "link": "연속",
       "link_ko": "기억이 이어진다.",
-      "motion_ref": "He gives the trunk a light slap, ending with his hand on the bark"
+      "motion_ref": "He gives the trunk a light slap, ending with his hand on the bark",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -148,7 +187,9 @@
       "motion": "She leans her staff against the trunk, ending with the staff resting on the trunk",
       "link": "연속",
       "link_ko": "기억에 시간이 붙는다.",
-      "motion_ref": "She leans her staff against the trunk, ending with the staff resting on the trunk"
+      "motion_ref": "She leans her staff against the trunk, ending with the staff resting on the trunk",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -169,7 +210,11 @@
       "motion": "She takes a big glass jar out of her bag, ending with the jar held in both hands",
       "link": "연속",
       "link_ko": "기대 세운 옆에서 꺼낸다.",
-      "motion_ref": "She takes a big glass jar out of her bag, ending with the jar held in both hands"
+      "motion_ref": "She takes a big glass jar out of her bag, ending with the jar held in both hands",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC1-08",
@@ -190,7 +235,11 @@
       "motion": "She holds the jar up for the others, ending with the jar held high",
       "link": "연속",
       "link_ko": "꺼낸 것을 설명한다.",
-      "motion_ref": "She holds the jar up for the others, ending with the jar held high"
+      "motion_ref": "She holds the jar up for the others, ending with the jar held high",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC1-09",
@@ -209,7 +258,11 @@
       "motion": "The six crowd in around the jar, ending with the seven ringed around the jar",
       "link": "연속",
       "link_ko": "설명에 사람들이 모인다.",
-      "motion_ref": "The six crowd in around the jar, ending with the seven ringed around the jar"
+      "motion_ref": "The six crowd in around the jar, ending with the seven ringed around the jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC1-10",
@@ -230,7 +283,9 @@
       "motion": "He looks at his reflection in the glass, ending on his warped reflection",
       "link": "연속",
       "link_ko": "모인 병 앞이다.",
-      "motion_ref": "He looks at his reflection in the glass, ending on his warped reflection"
+      "motion_ref": "He looks at his reflection in the glass, ending on his warped reflection",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -251,7 +306,11 @@
       "motion": "She opens the jar and sets it down, ending with the open jar on the leaves",
       "link": "연속",
       "link_ko": "이야기가 규칙이 된다.",
-      "motion_ref": "She opens the jar and sets it down, ending with the open jar on the leaves"
+      "motion_ref": "She opens the jar and sets it down, ending with the open jar on the leaves",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-12",
@@ -270,7 +329,12 @@
       "motion": "The empty jar sits open on the leaves, ending on the empty jar",
       "link": "연속",
       "link_ko": "놓인 병으로 들어간다.",
-      "motion_ref": "The empty jar sits open on the leaves, ending on the empty jar"
+      "motion_ref": "The empty jar sits open on the leaves, ending on the empty jar",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "유리_병"
+      ]
     },
     {
       "id": "SC1-13",
@@ -289,7 +353,9 @@
       "motion": "They scatter off in different directions, ending with the seven spread through the trees",
       "link": "컷",
       "link_ko": "빈 병에서 사람들로.",
-      "motion_ref": "They scatter off in different directions, ending with the seven spread through the trees"
+      "motion_ref": "They scatter off in different directions, ending with the seven spread through the trees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -310,7 +376,11 @@
       "motion": "She stays beside the jar, not moving, ending with her alone beside the jar",
       "link": "컷",
       "link_ko": "흩어진 쪽에서 남은 하나로.",
-      "motion_ref": "She stays beside the jar, not moving, ending with her alone beside the jar"
+      "motion_ref": "She stays beside the jar, not moving, ending with her alone beside the jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-01",
@@ -329,7 +399,11 @@
       "motion": "They come back one by one, each holding something, ending with the six back at the jar",
       "link": "전환",
       "link_ko": "흩어진 뒤의 장면이다.",
-      "motion_ref": "They come back one by one, each holding something, ending with the six back at the jar"
+      "motion_ref": "They come back one by one, each holding something, ending with the six back at the jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-02",
@@ -350,7 +424,11 @@
       "motion": "The worn collar drops into the jar, ending with the collar at the jar's bottom",
       "link": "연속",
       "link_ko": "돌아온 손이 넣는다.",
-      "motion_ref": "The worn collar drops into the jar, ending with the collar at the jar's bottom"
+      "motion_ref": "The worn collar drops into the jar, ending with the collar at the jar's bottom",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-03",
@@ -371,7 +449,11 @@
       "motion": "She peers down into the jar, ending with her face over the jar",
       "link": "연속",
       "link_ko": "넣고 나서 말한다.",
-      "motion_ref": "She peers down into the jar, ending with her face over the jar"
+      "motion_ref": "She peers down into the jar, ending with her face over the jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-04",
@@ -392,7 +474,11 @@
       "motion": "The comic slides down into the jar, ending with the comic inside",
       "link": "컷",
       "link_ko": "한 사람에서 다음 사람으로.",
-      "motion_ref": "The comic slides down into the jar, ending with the comic inside"
+      "motion_ref": "The comic slides down into the jar, ending with the comic inside",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-05",
@@ -413,7 +499,9 @@
       "motion": "He scratches the back of his head, ending on his sheepish grin",
       "link": "연속",
       "link_ko": "넣고 나서 설명한다.",
-      "motion_ref": "He scratches the back of his head, ending on his sheepish grin"
+      "motion_ref": "He scratches the back of his head, ending on his sheepish grin",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -434,7 +522,11 @@
       "motion": "The feather drifts down into the jar, ending with the feather resting inside",
       "link": "컷",
       "link_ko": "또 다음 사람이다.",
-      "motion_ref": "The feather drifts down into the jar, ending with the feather resting inside"
+      "motion_ref": "The feather drifts down into the jar, ending with the feather resting inside",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-07",
@@ -455,7 +547,11 @@
       "motion": "She puts the folded paper into the jar, ending with the paper settling inside",
       "link": "컷",
       "link_ko": "깃털에서 지도로.",
-      "motion_ref": "She puts the folded paper into the jar, ending with the paper settling inside"
+      "motion_ref": "She puts the folded paper into the jar, ending with the paper settling inside",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-08",
@@ -476,7 +572,11 @@
       "motion": "The small wooden star goes into the jar, ending with the star inside",
       "link": "컷",
       "link_ko": "또 다음 사람이다.",
-      "motion_ref": "The small wooden star goes into the jar, ending with the star inside"
+      "motion_ref": "The small wooden star goes into the jar, ending with the star inside",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-09",
@@ -497,7 +597,9 @@
       "motion": "She shows the new star on her staff, ending with the staff held up",
       "link": "연속",
       "link_ko": "넣고 나서 보여 준다.",
-      "motion_ref": "She shows the new star on her staff, ending with the staff held up"
+      "motion_ref": "She shows the new star on her staff, ending with the staff held up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -518,7 +620,12 @@
       "motion": "The smooth stone settles into the jar, ending with the stone inside",
       "link": "컷",
       "link_ko": "마지막 한 사람이다.",
-      "motion_ref": "The smooth stone settles into the jar, ending with the stone inside"
+      "motion_ref": "The smooth stone settles into the jar, ending with the stone inside",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-11",
@@ -539,7 +646,11 @@
       "motion": "He looks down at where it landed, ending with him still looking in",
       "link": "연속",
       "link_ko": "넣고 나서 말한다.",
-      "motion_ref": "He looks down at where it landed, ending with him still looking in"
+      "motion_ref": "He looks down at where it landed, ending with him still looking in",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-12",
@@ -558,7 +669,11 @@
       "motion": "Six things sit in the jar with room for one, ending on the jar with space left",
       "link": "컷",
       "link_ko": "한 사람에서 병 전체로.",
-      "motion_ref": "Six things sit in the jar with room for one, ending on the jar with space left"
+      "motion_ref": "Six things sit in the jar with room for one, ending on the jar with space left",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC2-13",
@@ -579,7 +694,9 @@
       "motion": "They look at her; her hands are empty, ending on her empty hands",
       "link": "컷",
       "link_ko": "남은 자리에서 남은 사람으로.",
-      "motion_ref": "They look at her; her hands are empty, ending on her empty hands"
+      "motion_ref": "They look at her; her hands are empty, ending on her empty hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -600,7 +717,9 @@
       "motion": "She tilts her head, ending on her tilted head",
       "link": "연속",
       "link_ko": "시선 끝에서 묻는다.",
-      "motion_ref": "She tilts her head, ending on her tilted head"
+      "motion_ref": "She tilts her head, ending on her tilted head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -621,7 +740,9 @@
       "motion": "She opens the satchel and closes it again, ending with the satchel closed",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She opens the satchel and closes it again, ending with the satchel closed"
+      "motion_ref": "She opens the satchel and closes it again, ending with the satchel closed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -642,7 +763,12 @@
       "motion": "They drift off into the trees to give her time, ending with {노을} alone beside the jar again",
       "link": "컷",
       "link_ko": "답을 듣고 자리를 비워 준다.",
-      "motion_ref": "They drift off into the trees to give her time, ending with Noeul the fox alone beside the jar again"
+      "motion_ref": "They drift off into the trees to give her time, ending with Noeul the fox alone beside the jar again",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "유리_병"
+      ]
     },
     {
       "id": "SC3-01",
@@ -663,7 +789,11 @@
       "motion": "She sits with the satchel on her knees, ending on her sitting still under the oak",
       "link": "전환",
       "link_ko": "혼자 남은 뒤의 시간이다.",
-      "motion_ref": "She sits with the satchel on her knees, ending on her sitting still under the oak"
+      "motion_ref": "She sits with the satchel on her knees, ending on her sitting still under the oak",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC3-02",
@@ -684,7 +814,11 @@
       "motion": "A notebook, a folded sheet and dry moss, ending on the three things inside",
       "link": "연속",
       "link_ko": "무릎의 가방 안으로 들어간다.",
-      "motion_ref": "A notebook, a folded sheet and dry moss, ending on the three things inside"
+      "motion_ref": "A notebook, a folded sheet and dry moss, ending on the three things inside",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-03",
@@ -705,7 +839,9 @@
       "motion": "She takes the moss out and puts it back, ending with the moss back inside",
       "link": "연속",
       "link_ko": "꺼냈다가 도로 넣는다.",
-      "motion_ref": "She takes the moss out and puts it back, ending with the moss back inside"
+      "motion_ref": "She takes the moss out and puts it back, ending with the moss back inside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -726,7 +862,11 @@
       "motion": "She takes the sheet out and puts it back too, ending with the sheet back inside",
       "link": "연속",
       "link_ko": "같은 동작이 반복된다.",
-      "motion_ref": "She takes the sheet out and puts it back too, ending with the sheet back inside"
+      "motion_ref": "She takes the sheet out and puts it back too, ending with the sheet back inside",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-05",
@@ -747,7 +887,11 @@
       "motion": "She sets the worn notebook on her knees, ending on the worn cover",
       "link": "연속",
       "link_ko": "마지막 하나를 꺼낸다.",
-      "motion_ref": "She sets the worn notebook on her knees, ending on the worn cover"
+      "motion_ref": "She sets the worn notebook on her knees, ending on the worn cover",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-06",
@@ -768,7 +912,11 @@
       "motion": "He comes back through the leaves, ending with him standing beside her",
       "link": "컷",
       "link_ko": "혼자 있던 자리에 사람이 온다.",
-      "motion_ref": "He comes back through the leaves, ending with him standing beside her"
+      "motion_ref": "He comes back through the leaves, ending with him standing beside her",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-07",
@@ -789,7 +937,9 @@
       "motion": "She looks down into her satchel, ending on her downturned face",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She looks down into her satchel, ending on her downturned face"
+      "motion_ref": "She looks down into her satchel, ending on her downturned face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -810,7 +960,11 @@
       "motion": "He crouches down beside the jar, ending with him crouched beside her",
       "link": "연속",
       "link_ko": "답에 제안이 붙는다.",
-      "motion_ref": "He crouches down beside the jar, ending with him crouched beside her"
+      "motion_ref": "He crouches down beside the jar, ending with him crouched beside her",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC3-09",
@@ -831,7 +985,11 @@
       "motion": "Her hand runs over the notebook cover, ending with her hand flat on the cover",
       "link": "연속",
       "link_ko": "제안이 규칙에 막힌다.",
-      "motion_ref": "Her hand runs over the notebook cover, ending with her hand flat on the cover"
+      "motion_ref": "Her hand runs over the notebook cover, ending with her hand flat on the cover",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "SC3-10",
@@ -850,7 +1008,11 @@
       "motion": "They come back with armfuls of leaves, ending with the six arriving at the tree",
       "link": "컷",
       "link_ko": "둘에서 나머지로.",
-      "motion_ref": "They come back with armfuls of leaves, ending with the six arriving at the tree"
+      "motion_ref": "They come back with armfuls of leaves, ending with the six arriving at the tree",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-11",
@@ -872,7 +1034,11 @@
       "motion": "She sets the leaves down and sits beside her, ending with the two seated together",
       "link": "연속",
       "link_ko": "돌아와서 말한다.",
-      "motion_ref": "She sets the leaves down and sits beside her, ending with the two seated together"
+      "motion_ref": "She sets the leaves down and sits beside her, ending with the two seated together",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-12",
@@ -893,7 +1059,11 @@
       "motion": "She opens the notebook, her face set, ending on her decided face",
       "link": "연속",
       "link_ko": "제안을 거절하고 정한다.",
-      "motion_ref": "She opens the notebook, her face set, ending on her decided face"
+      "motion_ref": "She opens the notebook, her face set, ending on her decided face",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-13",
@@ -912,7 +1082,11 @@
       "motion": "The drawing of seven sits on the page, ending on the drawing of the seven",
       "link": "연속",
       "link_ko": "펼친 수첩으로 들어간다.",
-      "motion_ref": "The drawing of seven sits on the page, ending on the drawing of the seven"
+      "motion_ref": "The drawing of seven sits on the page, ending on the drawing of the seven",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-14",
@@ -933,7 +1107,11 @@
       "motion": "She tears the page out; the sound is loud, ending with the loose page in her hand",
       "link": "연속",
       "link_ko": "고른 장을 찢는다.",
-      "motion_ref": "She tears the page out; the sound is loud, ending with the loose page in her hand"
+      "motion_ref": "She tears the page out; the sound is loud, ending with the loose page in her hand",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-15",
@@ -954,7 +1132,12 @@
       "motion": "Nobody speaks as she drops it in, ending with the page settled in the jar",
       "link": "연속",
       "link_ko": "찢은 장이 병으로 들어간다.",
-      "motion_ref": "Nobody speaks as she drops it in, ending with the page settled in the jar"
+      "motion_ref": "Nobody speaks as she drops it in, ending with the page settled in the jar",
+      "sig": null,
+      "sfx": [
+        "종이",
+        "유리_병"
+      ]
     },
     {
       "id": "SC4-01",
@@ -973,7 +1156,11 @@
       "motion": "They clear the leaves and dig a hole, ending with the hole dug",
       "link": "전환",
       "link_ko": "넣기가 끝나고 묻기가 시작된다.",
-      "motion_ref": "They clear the leaves and dig a hole, ending with the hole dug"
+      "motion_ref": "They clear the leaves and dig a hole, ending with the hole dug",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC4-02",
@@ -994,7 +1181,9 @@
       "motion": "He scoops out big pawfuls of soil, ending with the soil piled beside the hole",
       "link": "연속",
       "link_ko": "파는 손 중 하나다.",
-      "motion_ref": "He scoops out big pawfuls of soil, ending with the soil piled beside the hole"
+      "motion_ref": "He scoops out big pawfuls of soil, ending with the soil piled beside the hole",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1015,7 +1204,11 @@
       "motion": "The lid screws shut on the seven things, ending on the closed jar",
       "link": "컷",
       "link_ko": "구덩이에서 병으로.",
-      "motion_ref": "The lid screws shut on the seven things, ending on the closed jar"
+      "motion_ref": "The lid screws shut on the seven things, ending on the closed jar",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1034,7 +1227,11 @@
       "motion": "All seven lower the jar into the hole, ending with the jar resting in the hole",
       "link": "연속",
       "link_ko": "닫은 병을 묻는다.",
-      "motion_ref": "All seven lower the jar into the hole, ending with the jar resting in the hole"
+      "motion_ref": "All seven lower the jar into the hole, ending with the jar resting in the hole",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC4-05",
@@ -1055,7 +1252,9 @@
       "motion": "She scratches a small mark into the trunk, ending with the mark on the bark",
       "link": "연속",
       "link_ko": "묻고 나서 약속한다.",
-      "motion_ref": "She scratches a small mark into the trunk, ending with the mark on the bark"
+      "motion_ref": "She scratches a small mark into the trunk, ending with the mark on the bark",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1074,7 +1273,11 @@
       "motion": "They fill it and rake the leaves back over, ending with the spot hidden under leaves",
       "link": "연속",
       "link_ko": "약속하고 덮는다.",
-      "motion_ref": "They fill it and rake the leaves back over, ending with the spot hidden under leaves"
+      "motion_ref": "They fill it and rake the leaves back over, ending with the spot hidden under leaves",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1095,7 +1298,9 @@
       "motion": "She feels around the spot with a foot, ending with her still feeling around",
       "link": "연속",
       "link_ko": "다 덮고 나서 헤맨다.",
-      "motion_ref": "She feels around the spot with a foot, ending with her still feeling around"
+      "motion_ref": "She feels around the spot with a foot, ending with her still feeling around",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1116,7 +1321,9 @@
       "motion": "She points at the small mark on the trunk, ending with her finger at the mark",
       "link": "연속",
       "link_ko": "헤맴에 답이 온다.",
-      "motion_ref": "She points at the small mark on the trunk, ending with her finger at the mark"
+      "motion_ref": "She points at the small mark on the trunk, ending with her finger at the mark",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1140,7 +1347,11 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "They lie on the leaves and look up, ending with the seven lying under the red canopy"
+      "motion_ref": "They lie on the leaves and look up, ending with the seven lying under the red canopy",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "EN-02",
@@ -1161,7 +1372,11 @@
       "motion": "The red leaf lands on his nose, ending with the leaf resting on his nose",
       "link": "연속",
       "link_ko": "누운 얼굴 위로 잎이 떨어진다.",
-      "motion_ref": "The red leaf lands on his nose, ending with the leaf resting on his nose"
+      "motion_ref": "The red leaf lands on his nose, ending with the leaf resting on his nose",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "EN-03",
@@ -1182,7 +1397,9 @@
       "motion": "He asks while still looking up, ending with him still looking up",
       "link": "컷",
       "link_ko": "잎에서 말로.",
-      "motion_ref": "He asks while still looking up, ending with him still looking up"
+      "motion_ref": "He asks while still looking up, ending with him still looking up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1203,7 +1420,9 @@
       "motion": "She answers at once, without hesitating, ending on her steady face",
       "link": "연속",
       "link_ko": "물음에 바로 답이 온다.",
-      "motion_ref": "She answers at once, without hesitating, ending on her steady face"
+      "motion_ref": "She answers at once, without hesitating, ending on her steady face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1224,7 +1443,9 @@
       "motion": "He shakes the leaf off and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He shakes the leaf off and beams, ending on his beaming face"
+      "motion_ref": "He shakes the leaf off and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1243,7 +1464,9 @@
       "motion": "The small mark shows clearly in the evening light, ending on the mark on the trunk",
       "link": "컷",
       "link_ko": "사람에서 나무의 자국으로.",
-      "motion_ref": "The small mark shows clearly in the evening light, ending on the mark on the trunk"
+      "motion_ref": "The small mark shows clearly in the evening light, ending on the mark on the trunk",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1270,7 +1493,9 @@
       "motion": "Leaves drift down as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "Leaves drift down as the camera eases back"
+      "motion_ref": "Leaves drift down as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

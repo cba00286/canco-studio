@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이는 이런 아이야"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "실내_집",
+      "bgm": "벅찬_감동"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "the baby triceratops rises into frame from below, ending centred and looking directly at camera",
       "link": "전환",
       "link_ko": "첫 컷. 1초 안에 얼굴이 화면을 채워야 넘기지 않는다.",
-      "motion_ref": "the baby triceratops rises into frame from below, ending centred and looking directly at camera"
+      "motion_ref": "the baby triceratops rises into frame from below, ending centred and looking directly at camera",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "C01-02",
@@ -50,7 +58,9 @@
       "motion": "The action plays out fully, ending with the baby triceratops holding the finished pose",
       "link": "연속",
       "link_ko": "올려다보던 그 자세에서 그대로 행동으로 들어간다.",
-      "motion_ref": "The action plays out fully, ending with the baby triceratops holding the finished pose"
+      "motion_ref": "The action plays out fully, ending with the baby triceratops holding the finished pose",
+      "sig": "쿵쿵_파워",
+      "sfx": []
     },
     {
       "id": "C01-03",
@@ -76,7 +86,12 @@
       "motion": "The moment plays out fully, ending with the group settled and 쿵쿵이 clearly at the centre of it",
       "link": "컷",
       "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다.",
-      "motion_ref": "The moment plays out fully, ending with the group settled and 쿵쿵이 clearly at the centre of it"
+      "motion_ref": "The moment plays out fully, ending with the group settled and 쿵쿵이 clearly at the centre of it",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루",
+        "환호"
+      ]
     },
     {
       "id": "C01-04",
@@ -97,7 +112,11 @@
       "motion": "the baby triceratops turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
       "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다.",
-      "motion_ref": "the baby triceratops turns and gestures to the house, ending with both arms out and the whole house in frame"
+      "motion_ref": "the baby triceratops turns and gestures to the house, ending with both arms out and the whole house in frame",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "C01-05",
@@ -118,7 +137,9 @@
       "motion": "the baby triceratops settles into the pose and smiles at camera, ending held still with the bottom third clear",
       "link": "컷",
       "link_ko": "마무리. 하단 여백에 이름 자막을 넣는다.",
-      "motion_ref": "the baby triceratops settles into the pose and smiles at camera, ending held still with the bottom third clear"
+      "motion_ref": "the baby triceratops settles into the pose and smiles at camera, ending held still with the bottom third clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 10화 예고 — 우리들의 첫 번째 파티"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "눈밭",
+      "bgm": "호기심_탐험"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -27,7 +33,12 @@
       "motion": "The corner lifts again and again, ending with the peg half out",
       "link": "전환",
       "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
-      "motion_ref": "The corner lifts again and again, ending with the peg half out"
+      "motion_ref": "The corner lifts again and again, ending with the peg half out",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍",
+        "나뭇잎"
+      ]
     },
     {
       "id": "T10-02",
@@ -49,7 +60,11 @@
       "motion": "He walks out and the paw closes on air, ending with him fully in the rain",
       "link": "연속",
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
-      "motion_ref": "He walks out and the paw closes on air, ending with him fully in the rain"
+      "motion_ref": "He walks out and the paw closes on air, ending with him fully in the rain",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "T10-03",
@@ -70,7 +85,11 @@
       "motion": "His foot slides back, ending with the dome visibly dimming",
       "link": "컷",
       "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
-      "motion_ref": "His foot slides back, ending with the dome visibly dimming"
+      "motion_ref": "His foot slides back, ending with the dome visibly dimming",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "T10-04",
@@ -96,7 +115,11 @@
       "motion": "Hand after hand presses down, ending with the dome flaring bright again",
       "link": "컷",
       "link_ko": "해결의 실마리만. 결말은 감춘다.",
-      "motion_ref": "Hand after hand presses down, ending with the dome flaring bright again"
+      "motion_ref": "Hand after hand presses down, ending with the dome flaring bright again",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "T10-05",
@@ -120,7 +143,9 @@
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
       },
-      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

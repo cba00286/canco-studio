@@ -19,6 +19,31 @@
     "SC4": "Act 4 · SC#4 언덕 위 정자 — 마지막 한 명",
     "EN": "엔딩 · 너희들의 안전을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "강가",
+      "bgm": "일상_밝음",
+      "weather": "폭우"
+    },
+    "SC2": {
+      "amb": "강가",
+      "bgm": "익살_소동"
+    },
+    "SC3": {
+      "amb": "강가",
+      "bgm": "벅찬_감동",
+      "weather": "폭우"
+    },
+    "SC4": {
+      "amb": "실내_집",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "강가",
+      "bgm": "잔잔한_엔딩",
+      "weather": "비"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -37,7 +62,9 @@
       "motion": "Heavy rain falls steadily over the village, ending on the rain-soaked village",
       "link": "전환",
       "link_ko": "22화 첫 컷. 사흘째 비다.",
-      "motion_ref": "Heavy rain falls steadily over the village, ending on the rain-soaked village"
+      "motion_ref": "Heavy rain falls steadily over the village, ending on the rain-soaked village",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -56,7 +83,11 @@
       "motion": "The brown river runs high and fast, ending on the swollen brown river",
       "link": "연속",
       "link_ko": "마을에서 강으로 시선이 간다.",
-      "motion_ref": "The brown river runs high and fast, ending on the swollen brown river"
+      "motion_ref": "The brown river runs high and fast, ending on the swollen brown river",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-03",
@@ -83,7 +114,11 @@
       "motion": "They stand on the bank under cover, ending with the seven lined along the bank",
       "link": "컷",
       "link_ko": "강에서 그것을 보는 일곱으로.",
-      "motion_ref": "They stand on the bank under cover, ending with the seven lined along the bank"
+      "motion_ref": "They stand on the bank under cover, ending with the seven lined along the bank",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-04",
@@ -104,7 +139,9 @@
       "motion": "The staff points at the half-drowned rock, ending with the staff aimed at the rock",
       "link": "연속",
       "link_ko": "줄 안에서 말이 나온다.",
-      "motion_ref": "The staff points at the half-drowned rock, ending with the staff aimed at the rock"
+      "motion_ref": "The staff points at the half-drowned rock, ending with the staff aimed at the rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -123,7 +160,9 @@
       "motion": "The water covers the rock completely, ending with only water where the rock was",
       "link": "연속",
       "link_ko": "가리킨 바위가 잠긴다.",
-      "motion_ref": "The water covers the rock completely, ending with only water where the rock was"
+      "motion_ref": "The water covers the rock completely, ending with only water where the rock was",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -144,7 +183,9 @@
       "motion": "Her hands measure the shrinking gap, ending with her hands close together",
       "link": "컷",
       "link_ko": "잠긴 바위에서 계산으로.",
-      "motion_ref": "Her hands measure the shrinking gap, ending with her hands close together"
+      "motion_ref": "Her hands measure the shrinking gap, ending with her hands close together",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -163,7 +204,9 @@
       "motion": "The six low houses sit close to the water, ending on the row of riverside houses",
       "link": "컷",
       "link_ko": "계산에서 위험한 곳으로.",
-      "motion_ref": "The six low houses sit close to the water, ending on the row of riverside houses"
+      "motion_ref": "The six low houses sit close to the water, ending on the row of riverside houses",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -184,7 +227,9 @@
       "motion": "Her paw jabs toward one house, ending with her paw still pointing",
       "link": "컷",
       "link_ko": "집에서 그걸 아는 아이로.",
-      "motion_ref": "Her paw jabs toward one house, ending with her paw still pointing"
+      "motion_ref": "Her paw jabs toward one house, ending with her paw still pointing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -205,7 +250,11 @@
       "motion": "He runs off into the rain, ending with him running down the bank",
       "link": "연속",
       "link_ko": "알림에 반응한다.",
-      "motion_ref": "He runs off into the rain, ending with him running down the bank"
+      "motion_ref": "He runs off into the rain, ending with him running down the bank",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-10",
@@ -227,7 +276,9 @@
       "motion": "Her hand closes on his sleeve, ending with the sleeve held",
       "link": "연속",
       "link_ko": "뛰어나가는 걸 붙잡는다.",
-      "motion_ref": "Her hand closes on his sleeve, ending with the sleeve held"
+      "motion_ref": "Her hand closes on his sleeve, ending with the sleeve held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -248,7 +299,11 @@
       "motion": "A twig scratches a map into her palm, ending with the map complete on her palm",
       "link": "연속",
       "link_ko": "붙잡고 그리기 시작한다.",
-      "motion_ref": "A twig scratches a map into her palm, ending with the map complete on her palm"
+      "motion_ref": "A twig scratches a map into her palm, ending with the map complete on her palm",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-12",
@@ -269,7 +324,9 @@
       "motion": "She rubs out one of the two routes, ending with only one route left on her palm",
       "link": "연속",
       "link_ko": "그린 지도로 설명한다.",
-      "motion_ref": "She rubs out one of the two routes, ending with only one route left on her palm"
+      "motion_ref": "She rubs out one of the two routes, ending with only one route left on her palm",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -288,7 +345,9 @@
       "motion": "The pavilion stands high above the water, ending on the pavilion on the hill",
       "link": "컷",
       "link_ko": "손바닥의 지도에서 실제 장소로.",
-      "motion_ref": "The pavilion stands high above the water, ending on the pavilion on the hill"
+      "motion_ref": "The pavilion stands high above the water, ending on the pavilion on the hill",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -307,7 +366,11 @@
       "motion": "They split up and run to different houses, ending with the seven scattered across the bank",
       "link": "컷",
       "link_ko": "길이 정해지고 흩어진다.",
-      "motion_ref": "They split up and run to different houses, ending with the seven scattered across the bank"
+      "motion_ref": "They split up and run to different houses, ending with the seven scattered across the bank",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-01",
@@ -326,7 +389,11 @@
       "motion": "They knock at every door as water pours off the eaves, ending with doors starting to open",
       "link": "전환",
       "link_ko": "흩어진 뒤의 장면이다.",
-      "motion_ref": "They knock at every door as water pours off the eaves, ending with doors starting to open"
+      "motion_ref": "They knock at every door as water pours off the eaves, ending with doors starting to open",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC2-02",
@@ -345,7 +412,11 @@
       "motion": "Doors open and villagers come out with bundles, ending with villagers out in the rain",
       "link": "연속",
       "link_ko": "두드린 문이 열린다.",
-      "motion_ref": "Doors open and villagers come out with bundles, ending with villagers out in the rain"
+      "motion_ref": "Doors open and villagers come out with bundles, ending with villagers out in the rain",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC2-03",
@@ -366,7 +437,11 @@
       "motion": "She shouts through cupped hands, ending with her hands still cupped",
       "link": "컷",
       "link_ko": "나오는 사람들 쪽으로 외친다.",
-      "motion_ref": "She shouts through cupped hands, ending with her hands still cupped"
+      "motion_ref": "She shouts through cupped hands, ending with her hands still cupped",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-04",
@@ -385,7 +460,9 @@
       "motion": "The line files up the hill with children alongside, ending with the line halfway up the hill",
       "link": "연속",
       "link_ko": "외침에 사람들이 움직인다.",
-      "motion_ref": "The line files up the hill with children alongside, ending with the line halfway up the hill"
+      "motion_ref": "The line files up the hill with children alongside, ending with the line halfway up the hill",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -406,7 +483,9 @@
       "motion": "She stands at the fork, pointing one way, ending with her arm still fixed one way",
       "link": "연속",
       "link_ko": "줄이 갈림길을 지난다.",
-      "motion_ref": "She stands at the fork, pointing one way, ending with her arm still fixed one way"
+      "motion_ref": "She stands at the fork, pointing one way, ending with her arm still fixed one way",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -425,7 +504,11 @@
       "motion": "Water moves knee deep across the other road, ending on the flooded road",
       "link": "컷",
       "link_ko": "가리킨 쪽의 반대를 보여 준다.",
-      "motion_ref": "Water moves knee deep across the other road, ending on the flooded road"
+      "motion_ref": "Water moves knee deep across the other road, ending on the flooded road",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC2-07",
@@ -444,7 +527,11 @@
       "motion": "Water laps at the door of the last house, ending on the flooded yard",
       "link": "컷",
       "link_ko": "줄에서 남은 집으로.",
-      "motion_ref": "Water laps at the door of the last house, ending on the flooded yard"
+      "motion_ref": "Water laps at the door of the last house, ending on the flooded yard",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC2-08",
@@ -466,7 +553,11 @@
       "motion": "They bang on the door; no answer comes, ending with the door still shut",
       "link": "연속",
       "link_ko": "마지막 집 앞이다.",
-      "motion_ref": "They bang on the door; no answer comes, ending with the door still shut"
+      "motion_ref": "They bang on the door; no answer comes, ending with the door still shut",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC2-09",
@@ -487,7 +578,11 @@
       "motion": "He presses his face to the glass, ending with his face against the glass",
       "link": "연속",
       "link_ko": "대답 없는 문 옆의 창이다.",
-      "motion_ref": "He presses his face to the glass, ending with his face against the glass"
+      "motion_ref": "He presses his face to the glass, ending with his face against the glass",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC2-10",
@@ -506,7 +601,13 @@
       "motion": "The door opens and she steps out with a cat, ending with the two on the flooded step",
       "link": "연속",
       "link_ko": "두드린 문이 열린다.",
-      "motion_ref": "The door opens and she steps out with a cat, ending with the two on the flooded step"
+      "motion_ref": "The door opens and she steps out with a cat, ending with the two on the flooded step",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "물_흐름_변화",
+        "문_열림"
+      ]
     },
     {
       "id": "SC2-11",
@@ -527,7 +628,9 @@
       "motion": "He crouches and she climbs onto his back, ending with her settled on his back",
       "link": "연속",
       "link_ko": "나온 사람을 태운다.",
-      "motion_ref": "He crouches and she climbs onto his back, ending with her settled on his back"
+      "motion_ref": "He crouches and she climbs onto his back, ending with her settled on his back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -546,7 +649,11 @@
       "motion": "They wade up the road, water at their ankles, ending with the group moving uphill",
       "link": "컷",
       "link_ko": "업은 뒤에 이동한다.",
-      "motion_ref": "They wade up the road, water at their ankles, ending with the group moving uphill"
+      "motion_ref": "They wade up the road, water at their ankles, ending with the group moving uphill",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC2-13",
@@ -565,7 +672,9 @@
       "motion": "Water starts to seep over the bank's crest, ending with the seep widening",
       "link": "컷",
       "link_ko": "사람들에서 강으로 시선이 돌아간다.",
-      "motion_ref": "Water starts to seep over the bank's crest, ending with the seep widening"
+      "motion_ref": "Water starts to seep over the bank's crest, ending with the seep widening",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -586,7 +695,9 @@
       "motion": "She sees it and goes rigid, ending on her rigid stare",
       "link": "컷",
       "link_ko": "새는 둑에서 그걸 본 사람으로.",
-      "motion_ref": "She sees it and goes rigid, ending on her rigid stare"
+      "motion_ref": "She sees it and goes rigid, ending on her rigid stare",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -607,7 +718,11 @@
       "motion": "She shouts loudly and swings an arm, ending with her arm at the end of the swing",
       "link": "연속",
       "link_ko": "본 것을 소리로 알린다.",
-      "motion_ref": "She shouts loudly and swings an arm, ending with her arm at the end of the swing"
+      "motion_ref": "She shouts loudly and swings an arm, ending with her arm at the end of the swing",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-16",
@@ -626,7 +741,11 @@
       "motion": "They run uphill as the water swells behind, ending with the line strung out up the road",
       "link": "연속",
       "link_ko": "외침에 전부 뛴다.",
-      "motion_ref": "They run uphill as the water swells behind, ending with the line strung out up the road"
+      "motion_ref": "They run uphill as the water swells behind, ending with the line strung out up the road",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-01",
@@ -645,7 +764,9 @@
       "motion": "The bank collapses and water bursts through, ending with the breach fully open",
       "link": "전환",
       "link_ko": "경고가 현실이 된다.",
-      "motion_ref": "The bank collapses and water bursts through, ending with the breach fully open"
+      "motion_ref": "The bank collapses and water bursts through, ending with the breach fully open",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -664,7 +785,11 @@
       "motion": "Water swallows the houses and surges on, ending with the surge reaching the foot of the road",
       "link": "연속",
       "link_ko": "터진 물이 퍼진다.",
-      "motion_ref": "Water swallows the houses and surges on, ending with the surge reaching the foot of the road"
+      "motion_ref": "Water swallows the houses and surges on, ending with the surge reaching the foot of the road",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC3-03",
@@ -683,7 +808,9 @@
       "motion": "People are still low on the road, ending with the group still low on the road",
       "link": "컷",
       "link_ko": "물에서 사람으로.",
-      "motion_ref": "People are still low on the road, ending with the group still low on the road"
+      "motion_ref": "People are still low on the road, ending with the group still low on the road",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -704,7 +831,9 @@
       "motion": "He sets her down and turns around, ending with him facing back downhill",
       "link": "연속",
       "link_ko": "위험을 보고 움직인다.",
-      "motion_ref": "He sets her down and turns around, ending with him facing back downhill"
+      "motion_ref": "He sets her down and turns around, ending with him facing back downhill",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -725,7 +854,11 @@
       "motion": "He runs back down toward the water, ending with him at the bottom of the road",
       "link": "연속",
       "link_ko": "돌아선 발이 반대로 간다.",
-      "motion_ref": "He runs back down toward the water, ending with him at the bottom of the road"
+      "motion_ref": "He runs back down toward the water, ending with him at the bottom of the road",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-06",
@@ -746,7 +879,9 @@
       "motion": "He reaches after him and misses, ending with his hand closed on rain",
       "link": "컷",
       "link_ko": "내려가는 쪽에서 남은 쪽으로.",
-      "motion_ref": "He reaches after him and misses, ending with his hand closed on rain"
+      "motion_ref": "He reaches after him and misses, ending with his hand closed on rain",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -767,7 +902,9 @@
       "motion": "He plants himself in front of them, ending with him braced, water close",
       "link": "연속",
       "link_ko": "달려간 끝에 자리를 잡는다.",
-      "motion_ref": "He plants himself in front of them, ending with him braced, water close"
+      "motion_ref": "He plants himself in front of them, ending with him braced, water close",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -788,7 +925,11 @@
       "motion": "The light curves up and closes overhead, ending with the dome closed over the people",
       "link": "연속",
       "link_ko": "자리를 잡고 능력을 쓴다.",
-      "motion_ref": "The light curves up and closes overhead, ending with the dome closed over the people"
+      "motion_ref": "The light curves up and closes overhead, ending with the dome closed over the people",
+      "sig": "쿵쿵_방어막",
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC3-09",
@@ -807,7 +948,12 @@
       "motion": "The flood splits and rushes past both sides, ending with water streaming past on both sides",
       "link": "연속",
       "link_ko": "닫힌 돔이 물을 만난다.",
-      "motion_ref": "The flood splits and rushes past both sides, ending with water streaming past on both sides"
+      "motion_ref": "The flood splits and rushes past both sides, ending with water streaming past on both sides",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화",
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC3-10",
@@ -826,7 +972,9 @@
       "motion": "Inside, they stand dry as water passes, ending with the people dry inside",
       "link": "연속",
       "link_ko": "갈라진 물 안쪽이다.",
-      "motion_ref": "Inside, they stand dry as water passes, ending with the people dry inside"
+      "motion_ref": "Inside, they stand dry as water passes, ending with the people dry inside",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -847,7 +995,11 @@
       "motion": "His back legs slide and the light shudders, ending with the light visibly weaker",
       "link": "컷",
       "link_ko": "안전한 안쪽에서 버티는 바깥쪽으로.",
-      "motion_ref": "His back legs slide and the light shudders, ending with the light visibly weaker"
+      "motion_ref": "His back legs slide and the light shudders, ending with the light visibly weaker",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC3-12",
@@ -874,7 +1026,11 @@
       "motion": "The six run down and brace behind him, ending with six pairs of hands on his back",
       "link": "컷",
       "link_ko": "미끄러지는 쪽으로 도움이 온다.",
-      "motion_ref": "The six run down and brace behind him, ending with six pairs of hands on his back"
+      "motion_ref": "The six run down and brace behind him, ending with six pairs of hands on his back",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-13",
@@ -893,7 +1049,9 @@
       "motion": "The light strengthens and the dome widens, ending with the dome wide and steady",
       "link": "연속",
       "link_ko": "손이 늘자 빛이 세진다.",
-      "motion_ref": "The light strengthens and the dome widens, ending with the dome wide and steady"
+      "motion_ref": "The light strengthens and the dome widens, ending with the dome wide and steady",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -912,7 +1070,11 @@
       "motion": "They walk up inside the dome, one by one, ending with the last of them going up",
       "link": "연속",
       "link_ko": "넓어진 안쪽을 지나간다.",
-      "motion_ref": "They walk up inside the dome, one by one, ending with the last of them going up"
+      "motion_ref": "They walk up inside the dome, one by one, ending with the last of them going up",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-15",
@@ -933,7 +1095,9 @@
       "motion": "He grits his teeth, eyes squeezed shut, ending on his clenched shut face",
       "link": "컷",
       "link_ko": "지나가는 사람들에서 버티는 얼굴로.",
-      "motion_ref": "He grits his teeth, eyes squeezed shut, ending on his clenched shut face"
+      "motion_ref": "He grits his teeth, eyes squeezed shut, ending on his clenched shut face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -952,7 +1116,9 @@
       "motion": "The light below goes out at last, ending on the dark water below",
       "link": "전환",
       "link_ko": "마지막 사람이 올라간다.",
-      "motion_ref": "The light below goes out at last, ending on the dark water below"
+      "motion_ref": "The light below goes out at last, ending on the dark water below",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -971,7 +1137,11 @@
       "motion": "They wade up the last stretch, ending with the seven reaching the top",
       "link": "연속",
       "link_ko": "빛이 꺼지고 이동한다.",
-      "motion_ref": "They wade up the last stretch, ending with the seven reaching the top"
+      "motion_ref": "They wade up the last stretch, ending with the seven reaching the top",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC4-03",
@@ -992,7 +1162,9 @@
       "motion": "She comes up last, soaked through, ending on her drenched face",
       "link": "연속",
       "link_ko": "줄의 맨 뒤다.",
-      "motion_ref": "She comes up last, soaked through, ending on her drenched face"
+      "motion_ref": "She comes up last, soaked through, ending on her drenched face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1014,7 +1186,9 @@
       "motion": "She rushes over and grabs her arm, ending with the arm held tight",
       "link": "컷",
       "link_ko": "올라온 사람에게 달려간다.",
-      "motion_ref": "She rushes over and grabs her arm, ending with the arm held tight"
+      "motion_ref": "She rushes over and grabs her arm, ending with the arm held tight",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1035,7 +1209,9 @@
       "motion": "Her finger counts the people one by one, ending with her finger stopping at the last person",
       "link": "연속",
       "link_ko": "붙잡힌 채로 답한다.",
-      "motion_ref": "Her finger counts the people one by one, ending with her finger stopping at the last person"
+      "motion_ref": "Her finger counts the people one by one, ending with her finger stopping at the last person",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1054,7 +1230,9 @@
       "motion": "Everyone gathers under the pavilion roof, ending on the crowded pavilion",
       "link": "컷",
       "link_ko": "세는 손에서 모인 전체로.",
-      "motion_ref": "Everyone gathers under the pavilion roof, ending on the crowded pavilion"
+      "motion_ref": "Everyone gathers under the pavilion roof, ending on the crowded pavilion",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1075,7 +1253,9 @@
       "motion": "He rests against the pillar, eyes closed, ending on his resting closed eyes",
       "link": "연속",
       "link_ko": "모인 사람들 안으로 들어간다.",
-      "motion_ref": "He rests against the pillar, eyes closed, ending on his resting closed eyes"
+      "motion_ref": "He rests against the pillar, eyes closed, ending on his resting closed eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1096,7 +1276,9 @@
       "motion": "A blanket goes over him; the cat curls up, ending with the cat settled beside him",
       "link": "연속",
       "link_ko": "기댄 아이 위로 담요가 덮인다.",
-      "motion_ref": "A blanket goes over him; the cat curls up, ending with the cat settled beside him"
+      "motion_ref": "A blanket goes over him; the cat curls up, ending with the cat settled beside him",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1120,7 +1302,9 @@
         "sec": 0.6,
         "why": "폭우 속 낮에서 비 갠 밤으로"
       },
-      "motion_ref": "Clouds part and moonlight falls on the pavilion, ending on the moonlit pavilion"
+      "motion_ref": "Clouds part and moonlight falls on the pavilion, ending on the moonlit pavilion",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1139,7 +1323,11 @@
       "motion": "The flooded houses sit dark below, ending on the flooded houses",
       "link": "연속",
       "link_ko": "정자에서 시선이 아래로 내려간다.",
-      "motion_ref": "The flooded houses sit dark below, ending on the flooded houses"
+      "motion_ref": "The flooded houses sit dark below, ending on the flooded houses",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "EN-03",
@@ -1160,7 +1348,9 @@
       "motion": "He looks down, then turns away, ending with him facing the pavilion again",
       "link": "컷",
       "link_ko": "잠긴 집에서 그걸 본 얼굴로.",
-      "motion_ref": "He looks down, then turns away, ending with him facing the pavilion again"
+      "motion_ref": "He looks down, then turns away, ending with him facing the pavilion again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1181,7 +1371,9 @@
       "motion": "He puffs up his chest under the blanket and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "말이 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest under the blanket and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest under the blanket and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1202,7 +1394,9 @@
       "motion": "The tally marks show in the moonlight, ending on the row of tally marks",
       "link": "컷",
       "link_ko": "한마디 뒤에 기둥으로.",
-      "motion_ref": "The tally marks show in the moonlight, ending on the row of tally marks"
+      "motion_ref": "The tally marks show in the moonlight, ending on the row of tally marks",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1221,7 +1415,9 @@
       "motion": "Everyone sleeps under blankets in the pavilion, ending on the sleeping pavilion",
       "link": "연속",
       "link_ko": "기둥에서 그 안의 사람들로 이어진다.",
-      "motion_ref": "Everyone sleeps under blankets in the pavilion, ending on the sleeping pavilion"
+      "motion_ref": "Everyone sleeps under blankets in the pavilion, ending on the sleeping pavilion",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1248,7 +1444,9 @@
       "motion": "The moonlight shifts as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The moonlight shifts as the camera eases back"
+      "motion_ref": "The moonlight shifts as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 일곱 줄 — 얼음 위를 달리다",
     "EN": "엔딩 · 다시 일어서는 도전을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "얼음연못",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "얼음연못",
+      "bgm": "익살_소동"
+    },
+    "SC3": {
+      "amb": "숲_낮",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "얼음연못",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "얼음연못",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,11 @@
       "motion": "The thick ice glitters in the winter sun, ending on the wide frozen pond",
       "link": "전환",
       "link_ko": "32화 첫 컷. 얼어붙은 연못에서 시작한다.",
-      "motion_ref": "The thick ice glitters in the winter sun, ending on the wide frozen pond"
+      "motion_ref": "The thick ice glitters in the winter sun, ending on the wide frozen pond",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-02",
@@ -66,7 +92,11 @@
       "motion": "They stand at the edge, looking down, ending with the seven along the bank",
       "link": "전환",
       "link_ko": "연못에서 그 앞의 일곱으로.",
-      "motion_ref": "They stand at the edge, looking down, ending with the seven along the bank"
+      "motion_ref": "They stand at the edge, looking down, ending with the seven along the bank",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-03",
@@ -87,7 +117,11 @@
       "motion": "The staff taps and the sound is solid, ending with the staff resting on the ice",
       "link": "연속",
       "link_ko": "줄 안에서 확인한다.",
-      "motion_ref": "The staff taps and the sound is solid, ending with the staff resting on the ice"
+      "motion_ref": "The staff taps and the sound is solid, ending with the staff resting on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-04",
@@ -108,7 +142,9 @@
       "motion": "She lifts the staff and nods, ending on her nod",
       "link": "연속",
       "link_ko": "두드린 뒤에 판단이 나온다.",
-      "motion_ref": "She lifts the staff and nods, ending on her nod"
+      "motion_ref": "She lifts the staff and nods, ending on her nod",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -129,7 +165,11 @@
       "motion": "She leaps on and slides straight out, ending with her sliding far out on the ice",
       "link": "컷",
       "link_ko": "허락이 떨어지자 뛴다.",
-      "motion_ref": "She leaps on and slides straight out, ending with her sliding far out on the ice"
+      "motion_ref": "She leaps on and slides straight out, ending with her sliding far out on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-06",
@@ -151,7 +191,11 @@
       "motion": "They follow her out and slide too, ending with three of them gliding",
       "link": "연속",
       "link_ko": "한 명이 가자 뒤따른다.",
-      "motion_ref": "They follow her out and slide too, ending with three of them gliding"
+      "motion_ref": "They follow her out and slide too, ending with three of them gliding",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-07",
@@ -172,7 +216,9 @@
       "motion": "He slides on his belly, grinning, ending on his wide grin",
       "link": "연속",
       "link_ko": "미끄러지는 무리 안이다.",
-      "motion_ref": "He slides on his belly, grinning, ending on his wide grin"
+      "motion_ref": "He slides on his belly, grinning, ending on his wide grin",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -195,7 +241,12 @@
       "motion": "The rest step on; six are on the ice, ending with six moving across the ice",
       "link": "컷",
       "link_ko": "한쪽에서 나머지로.",
-      "motion_ref": "The rest step on; six are on the ice, ending with six moving across the ice"
+      "motion_ref": "The rest step on; six are on the ice, ending with six moving across the ice",
+      "sig": null,
+      "sfx": [
+        "발소리_얼음",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-09",
@@ -216,7 +267,11 @@
       "motion": "He stands on the bank, not moving, ending with him alone on the bank",
       "link": "컷",
       "link_ko": "얼음 위에서 물가로.",
-      "motion_ref": "He stands on the bank, not moving, ending with him alone on the bank"
+      "motion_ref": "He stands on the bank, not moving, ending with him alone on the bank",
+      "sig": null,
+      "sfx": [
+        "발소리_얼음"
+      ]
     },
     {
       "id": "SC1-10",
@@ -237,7 +292,11 @@
       "motion": "She waves from out on the ice, ending with her arm still waving",
       "link": "컷",
       "link_ko": "물가에서 얼음 위로.",
-      "motion_ref": "She waves from out on the ice, ending with her arm still waving"
+      "motion_ref": "She waves from out on the ice, ending with her arm still waving",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-11",
@@ -258,7 +317,12 @@
       "motion": "The ice creaks under his first foot, ending with his foot on the creaking ice",
       "link": "컷",
       "link_ko": "부름에 답해 발을 올린다.",
-      "motion_ref": "The ice creaks under his first foot, ending with his foot on the creaking ice"
+      "motion_ref": "The ice creaks under his first foot, ending with his foot on the creaking ice",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-12",
@@ -277,7 +341,11 @@
       "motion": "White hairline cracks spread under his foot, ending on the spreading cracks",
       "link": "연속",
       "link_ko": "올린 발밑을 본다.",
-      "motion_ref": "White hairline cracks spread under his foot, ending on the spreading cracks"
+      "motion_ref": "White hairline cracks spread under his foot, ending on the spreading cracks",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-13",
@@ -299,7 +367,11 @@
       "motion": "She glides over beside him, ending with her beside him on the ice",
       "link": "컷",
       "link_ko": "금에서 안심시키는 사람으로.",
-      "motion_ref": "She glides over beside him, ending with her beside him on the ice"
+      "motion_ref": "She glides over beside him, ending with her beside him on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-14",
@@ -320,7 +392,11 @@
       "motion": "He gets both feet on and goes straight down, ending with him flat on the ice",
       "link": "연속",
       "link_ko": "안심하고 올라선다.",
-      "motion_ref": "He gets both feet on and goes straight down, ending with him flat on the ice"
+      "motion_ref": "He gets both feet on and goes straight down, ending with him flat on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-01",
@@ -341,7 +417,11 @@
       "motion": "Six glide fast; he keeps going down, ending with him down again in the middle",
       "link": "전환",
       "link_ko": "넘어진 뒤가 계속된다.",
-      "motion_ref": "Six glide fast; he keeps going down, ending with him down again in the middle"
+      "motion_ref": "Six glide fast; he keeps going down, ending with him down again in the middle",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-02",
@@ -362,7 +442,11 @@
       "motion": "His foot skids; the claws find no grip, ending with the foot sliding out from under him",
       "link": "연속",
       "link_ko": "넘어지는 발밑이다.",
-      "motion_ref": "His foot skids; the claws find no grip, ending with the foot sliding out from under him"
+      "motion_ref": "His foot skids; the claws find no grip, ending with the foot sliding out from under him",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-03",
@@ -383,7 +467,11 @@
       "motion": "He glides over and shows the stance, ending with him holding the stance",
       "link": "컷",
       "link_ko": "넘어지는 데 조언이 온다.",
-      "motion_ref": "He glides over and shows the stance, ending with him holding the stance"
+      "motion_ref": "He glides over and shows the stance, ending with him holding the stance",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-04",
@@ -404,7 +492,11 @@
       "motion": "His legs slide out sideways and he flattens, ending with him spread flat on the ice",
       "link": "연속",
       "link_ko": "조언대로 하다 넘어진다.",
-      "motion_ref": "His legs slide out sideways and he flattens, ending with him spread flat on the ice"
+      "motion_ref": "His legs slide out sideways and he flattens, ending with him spread flat on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-05",
@@ -425,7 +517,11 @@
       "motion": "He slides past on his belly, ending with him gliding away",
       "link": "컷",
       "link_ko": "한 조언에서 다른 조언으로.",
-      "motion_ref": "He slides past on his belly, ending with him gliding away"
+      "motion_ref": "He slides past on his belly, ending with him gliding away",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-06",
@@ -446,7 +542,11 @@
       "motion": "He lies on his belly and does not move, ending with him stuck flat and still",
       "link": "연속",
       "link_ko": "조언대로 하지만 안 된다.",
-      "motion_ref": "He lies on his belly and does not move, ending with him stuck flat and still"
+      "motion_ref": "He lies on his belly and does not move, ending with him stuck flat and still",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-07",
@@ -472,7 +572,11 @@
         "sec": 0.5,
         "why": "열두 번이 반복되는 시간이 흐른다"
       },
-      "motion_ref": "He goes down again; the six race far off, ending with him down and the others distant"
+      "motion_ref": "He goes down again; the six race far off, ending with him down and the others distant",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-08",
@@ -493,7 +597,12 @@
       "motion": "The grazed knee leaves a mark on the ice, ending on the small red mark",
       "link": "연속",
       "link_ko": "넘어진 자리를 본다.",
-      "motion_ref": "The grazed knee leaves a mark on the ice, ending on the small red mark"
+      "motion_ref": "The grazed knee leaves a mark on the ice, ending on the small red mark",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-09",
@@ -514,7 +623,11 @@
       "motion": "He does not get up; he sits on the ice, ending with him sitting still on the ice",
       "link": "연속",
       "link_ko": "다친 뒤에 멈춘다.",
-      "motion_ref": "He does not get up; he sits on the ice, ending with him sitting still on the ice"
+      "motion_ref": "He does not get up; he sits on the ice, ending with him sitting still on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-10",
@@ -535,7 +648,12 @@
       "motion": "They laugh far off; he watches from the ice, ending on the distance between them",
       "link": "컷",
       "link_ko": "앉은 데서 저쪽을 본다.",
-      "motion_ref": "They laugh far off; he watches from the ice, ending on the distance between them"
+      "motion_ref": "They laugh far off; he watches from the ice, ending on the distance between them",
+      "sig": null,
+      "sfx": [
+        "환호",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-11",
@@ -556,7 +674,9 @@
       "motion": "His eyes go wet; his mouth sets, ending on his tight wet face",
       "link": "연속",
       "link_ko": "보다가 참는다.",
-      "motion_ref": "His eyes go wet; his mouth sets, ending on his tight wet face"
+      "motion_ref": "His eyes go wet; his mouth sets, ending on his tight wet face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -577,7 +697,9 @@
       "motion": "He gets up and crawls toward the bank, ending with him partway to the bank",
       "link": "연속",
       "link_ko": "참다가 돌아선다.",
-      "motion_ref": "He gets up and crawls toward the bank, ending with him partway to the bank"
+      "motion_ref": "He gets up and crawls toward the bank, ending with him partway to the bank",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -596,7 +718,11 @@
       "motion": "The six notice at last and stop, ending with the six standing still",
       "link": "컷",
       "link_ko": "기어가는 쪽에서 나머지로.",
-      "motion_ref": "The six notice at last and stop, ending with the six standing still"
+      "motion_ref": "The six notice at last and stop, ending with the six standing still",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-14",
@@ -617,7 +743,11 @@
       "motion": "She glides over toward him, ending with her close behind him",
       "link": "연속",
       "link_ko": "알아채고 다가간다.",
-      "motion_ref": "She glides over toward him, ending with her close behind him"
+      "motion_ref": "She glides over toward him, ending with her close behind him",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-15",
@@ -638,7 +768,9 @@
       "motion": "He speaks without turning around, ending on his turned-away face",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "He speaks without turning around, ending on his turned-away face"
+      "motion_ref": "He speaks without turning around, ending on his turned-away face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -657,7 +789,11 @@
       "motion": "No one speaks; the ice goes quiet, ending with the six standing silent",
       "link": "컷",
       "link_ko": "말이 끝나고 정적이 온다.",
-      "motion_ref": "No one speaks; the ice goes quiet, ending with the six standing silent"
+      "motion_ref": "No one speaks; the ice goes quiet, ending with the six standing silent",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-01",
@@ -679,7 +815,11 @@
       "motion": "She glides over and stands, saying nothing, ending with her standing in front of him",
       "link": "전환",
       "link_ko": "정적 속에서 하나가 움직인다.",
-      "motion_ref": "She glides over and stands, saying nothing, ending with her standing in front of him"
+      "motion_ref": "She glides over and stands, saying nothing, ending with her standing in front of him",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-02",
@@ -700,7 +840,9 @@
       "motion": "She holds out a hand and waits, ending with the hand held out steady",
       "link": "연속",
       "link_ko": "선 자리에서 손이 나온다.",
-      "motion_ref": "She holds out a hand and waits, ending with the hand held out steady"
+      "motion_ref": "She holds out a hand and waits, ending with the hand held out steady",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -721,7 +863,9 @@
       "motion": "He looks at the hand and does not take it, ending with the hand still out, untaken",
       "link": "연속",
       "link_ko": "내민 손 앞에서 망설인다.",
-      "motion_ref": "He looks at the hand and does not take it, ending with the hand still out, untaken"
+      "motion_ref": "He looks at the hand and does not take it, ending with the hand still out, untaken",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -742,7 +886,11 @@
       "motion": "She lowers her hand and sits beside him, ending with the two sitting side by side",
       "link": "연속",
       "link_ko": "거절 뒤에도 안 간다.",
-      "motion_ref": "She lowers her hand and sits beside him, ending with the two sitting side by side"
+      "motion_ref": "She lowers her hand and sits beside him, ending with the two sitting side by side",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-05",
@@ -764,7 +912,11 @@
       "motion": "One sits on his other side, then another, ending with four sitting on the ice",
       "link": "연속",
       "link_ko": "한 명이 앉자 따라 앉는다.",
-      "motion_ref": "One sits on his other side, then another, ending with four sitting on the ice"
+      "motion_ref": "One sits on his other side, then another, ending with four sitting on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-06",
@@ -790,7 +942,11 @@
       "motion": "All six sit around him; nobody skates, ending with all seven seated on the ice",
       "link": "연속",
       "link_ko": "줄줄이 앉는다.",
-      "motion_ref": "All six sit around him; nobody skates, ending with all seven seated on the ice"
+      "motion_ref": "All six sit around him; nobody skates, ending with all seven seated on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-07",
@@ -811,7 +967,9 @@
       "motion": "He lifts his head, ending on his raised questioning face",
       "link": "연속",
       "link_ko": "앉은 사람들 사이에서 묻는다.",
-      "motion_ref": "He lifts his head, ending on his raised questioning face"
+      "motion_ref": "He lifts his head, ending on his raised questioning face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -832,7 +990,11 @@
       "motion": "He flops onto his back on the ice, ending with him lying flat, looking up",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "He flops onto his back on the ice, ending with him lying flat, looking up"
+      "motion_ref": "He flops onto his back on the ice, ending with him lying flat, looking up",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-09",
@@ -853,7 +1015,9 @@
       "motion": "She stands and six hands come out, ending with six hands held out toward him",
       "link": "컷",
       "link_ko": "드러누운 데서 일어나는 데로.",
-      "motion_ref": "She stands and six hands come out, ending with six hands held out toward him"
+      "motion_ref": "She stands and six hands come out, ending with six hands held out toward him",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -875,7 +1039,9 @@
       "motion": "He takes her hand first, ending with the two hands joined",
       "link": "연속",
       "link_ko": "내민 손 중 하나를 잡는다.",
-      "motion_ref": "He takes her hand first, ending with the two hands joined"
+      "motion_ref": "He takes her hand first, ending with the two hands joined",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -894,7 +1060,11 @@
       "motion": "They link hands into one line, ending with the seven joined in a line",
       "link": "연속",
       "link_ko": "한 손에서 전부로 이어진다.",
-      "motion_ref": "They link hands into one line, ending with the seven joined in a line"
+      "motion_ref": "They link hands into one line, ending with the seven joined in a line",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-12",
@@ -915,7 +1085,9 @@
       "motion": "He stands in the middle, held on both sides, ending with him steady in the middle",
       "link": "연속",
       "link_ko": "줄이 만들어진다.",
-      "motion_ref": "He stands in the middle, held on both sides, ending with him steady in the middle"
+      "motion_ref": "He stands in the middle, held on both sides, ending with him steady in the middle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -936,7 +1108,11 @@
       "motion": "His foot skids but he does not fall, ending with him upright, foot skidding",
       "link": "연속",
       "link_ko": "잡힌 채로 미끄러진다.",
-      "motion_ref": "His foot skids but he does not fall, ending with him upright, foot skidding"
+      "motion_ref": "His foot skids but he does not fall, ending with him upright, foot skidding",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-14",
@@ -957,7 +1133,9 @@
       "motion": "She pushes off at the end of the line, ending with the line starting to move",
       "link": "컷",
       "link_ko": "안 넘어지자 움직인다.",
-      "motion_ref": "She pushes off at the end of the line, ending with the line starting to move"
+      "motion_ref": "She pushes off at the end of the line, ending with the line starting to move",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -976,7 +1154,11 @@
       "motion": "The linked line glides slowly across the ice, ending with the line well out on the pond",
       "link": "연속",
       "link_ko": "밀린 줄이 나아간다.",
-      "motion_ref": "The linked line glides slowly across the ice, ending with the line well out on the pond"
+      "motion_ref": "The linked line glides slowly across the ice, ending with the line well out on the pond",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC4-01",
@@ -995,7 +1177,9 @@
       "motion": "The line curves around the pond in a circle, ending with the circle almost closed",
       "link": "전환",
       "link_ko": "출발한 줄이 돌기 시작한다.",
-      "motion_ref": "The line curves around the pond in a circle, ending with the circle almost closed"
+      "motion_ref": "The line curves around the pond in a circle, ending with the circle almost closed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -1016,7 +1200,11 @@
       "motion": "His feet find a rhythm, pushing and gliding, ending with him gliding in rhythm",
       "link": "연속",
       "link_ko": "도는 줄 안이다.",
-      "motion_ref": "His feet find a rhythm, pushing and gliding, ending with him gliding in rhythm"
+      "motion_ref": "His feet find a rhythm, pushing and gliding, ending with him gliding in rhythm",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC4-03",
@@ -1037,7 +1225,9 @@
       "motion": "His grip on both hands loosens a little, ending with the grips light",
       "link": "연속",
       "link_ko": "리듬을 찾자 힘이 빠진다.",
-      "motion_ref": "His grip on both hands loosens a little, ending with the grips light"
+      "motion_ref": "His grip on both hands loosens a little, ending with the grips light",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1056,7 +1246,11 @@
       "motion": "The line speeds up and races across the ice, ending with the line flying across the pond",
       "link": "연속",
       "link_ko": "느슨해지고 빨라진다.",
-      "motion_ref": "The line speeds up and races across the ice, ending with the line flying across the pond"
+      "motion_ref": "The line speeds up and races across the ice, ending with the line flying across the pond",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC4-05",
@@ -1077,7 +1271,11 @@
       "motion": "He laughs out loud in the middle, ending on his laughing face",
       "link": "연속",
       "link_ko": "달리는 줄 안이다.",
-      "motion_ref": "He laughs out loud in the middle, ending on his laughing face"
+      "motion_ref": "He laughs out loud in the middle, ending on his laughing face",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1098,7 +1296,9 @@
       "motion": "He lets go of one hand and stays up, ending with one hand free and him upright",
       "link": "연속",
       "link_ko": "웃다가 손을 놓는다.",
-      "motion_ref": "He lets go of one hand and stays up, ending with one hand free and him upright"
+      "motion_ref": "He lets go of one hand and stays up, ending with one hand free and him upright",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1119,7 +1319,11 @@
       "motion": "He glides a long way on his own, ending with him gliding alone across the ice",
       "link": "연속",
       "link_ko": "놓은 손이 완전히 떨어진다.",
-      "motion_ref": "He glides a long way on his own, ending with him gliding alone across the ice"
+      "motion_ref": "He glides a long way on his own, ending with him gliding alone across the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1140,7 +1344,11 @@
       "motion": "He goes down, laughs, and gets straight up, ending with him back on his feet, laughing",
       "link": "연속",
       "link_ko": "혼자 가다 넘어진다.",
-      "motion_ref": "He goes down, laughs, and gets straight up, ending with him back on his feet, laughing"
+      "motion_ref": "He goes down, laughs, and gets straight up, ending with him back on his feet, laughing",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "EN-01",
@@ -1164,7 +1372,11 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "They sit in a row and look at the ice, ending on the seven on the evening bank"
+      "motion_ref": "They sit in a row and look at the ice, ending on the seven on the evening bank",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "EN-02",
@@ -1185,7 +1397,9 @@
       "motion": "The bandage sits neat around his knee, ending on the bandaged knee",
       "link": "연속",
       "link_ko": "앉은 줄 안으로 들어간다.",
-      "motion_ref": "The bandage sits neat around his knee, ending on the bandaged knee"
+      "motion_ref": "The bandage sits neat around his knee, ending on the bandaged knee",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1206,7 +1420,9 @@
       "motion": "He counts it out on his fingers, ending with the count held up",
       "link": "연속",
       "link_ko": "무릎에서 말이 나온다.",
-      "motion_ref": "He counts it out on his fingers, ending with the count held up"
+      "motion_ref": "He counts it out on his fingers, ending with the count held up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1227,7 +1443,11 @@
       "motion": "She answers shortly and looks at the ice, ending with her looking out at the ice",
       "link": "연속",
       "link_ko": "말에 말이 붙는다.",
-      "motion_ref": "She answers shortly and looks at the ice, ending with her looking out at the ice"
+      "motion_ref": "She answers shortly and looks at the ice, ending with her looking out at the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "EN-05",
@@ -1248,7 +1468,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1267,7 +1489,11 @@
       "motion": "The wide circle of tracks stays on the ice, ending on the circle of tracks",
       "link": "컷",
       "link_ko": "사람에서 남은 자국으로.",
-      "motion_ref": "The wide circle of tracks stays on the ice, ending on the circle of tracks"
+      "motion_ref": "The wide circle of tracks stays on the ice, ending on the circle of tracks",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "EN-07",
@@ -1294,7 +1520,9 @@
       "motion": "The evening light shifts as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The evening light shifts as the camera eases back"
+      "motion_ref": "The evening light shifts as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

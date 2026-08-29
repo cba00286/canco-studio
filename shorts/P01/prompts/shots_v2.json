@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 쿵! 하고 땅이 울리면"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "숲_낮",
+      "bgm": "벅찬_감동"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "He tucks his chin, ending with his expression locked and unmoving",
       "link": "전환",
       "link_ko": "첫 컷. 표정만으로 무언가 온다는 걸 알린다.",
-      "motion_ref": "He tucks his chin, ending with his expression locked and unmoving"
+      "motion_ref": "He tucks his chin, ending with his expression locked and unmoving",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "P01-02",
@@ -50,7 +58,9 @@
       "motion": "He rears up, ending with the paws at their highest and everything still",
       "link": "연속",
       "link_ko": "결심한 그 얼굴에서 그대로 자세로 들어간다.",
-      "motion_ref": "He rears up, ending with the paws at their highest and everything still"
+      "motion_ref": "He rears up, ending with the paws at their highest and everything still",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "P01-03",
@@ -76,7 +86,11 @@
         "sec": 0.3,
         "why": "충격파가 터지는 순간"
       },
-      "motion_ref": "The paws crash down and the ring races outward, ending with it passing beyond the frame edge"
+      "motion_ref": "The paws crash down and the ring races outward, ending with it passing beyond the frame edge",
+      "sig": "쿵쿵_파워",
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "P01-04",
@@ -95,7 +109,12 @@
       "motion": "The stones gather and stack, ending with the stair fully formed and still",
       "link": "연속",
       "link_ko": "이 컷이 있어야 «그래서 뭐»가 아니라 «저걸 할 수 있구나»가 된다.",
-      "motion_ref": "The stones gather and stack, ending with the stair fully formed and still"
+      "motion_ref": "The stones gather and stack, ending with the stair fully formed and still",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "P01-05",
@@ -116,7 +135,9 @@
       "motion": "The dust falls away and he holds the pose, ending with the bottom third clear",
       "link": "컷",
       "link_ko": "마무리. 시그니처 포즈로 끝낸다.",
-      "motion_ref": "The dust falls away and he holds the pose, ending with the bottom third clear"
+      "motion_ref": "The dust falls away and he holds the pose, ending with the bottom third clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

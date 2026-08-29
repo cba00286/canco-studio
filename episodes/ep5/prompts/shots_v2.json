@@ -16,6 +16,28 @@
     "SC4": "Act 4 · SC#4 작업실 밤 → 과수원 아침 — 완성",
     "EN": "엔딩 · 포기하지 않는 마음"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "실내_집",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "정상",
+      "bgm": "위기_긴박"
+    },
+    "SC3": {
+      "amb": "숲_낮",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "실내_집",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "실내_집",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -34,7 +56,11 @@
       "motion": "Steam curls up from the chimney, the window light flickering, ending held on the lit windows",
       "link": "전환",
       "link_ko": "5화 첫 컷. 밤이 아니라 저녁. 굴뚝 김에서 시작한다.",
-      "motion_ref": "Steam curls up from the chimney, the window light flickering, ending held on the lit windows"
+      "motion_ref": "Steam curls up from the chimney, the window light flickering, ending held on the lit windows",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-02",
@@ -53,7 +79,11 @@
       "motion": "Shavings drift in the light, hanging tools swaying slightly, ending settled on the cluttered workbench",
       "link": "연속",
       "link_ko": "창문을 통과해 작업실 안으로 들어간다.",
-      "motion_ref": "Shavings drift in the light, hanging tools swaying slightly, ending settled on the cluttered workbench"
+      "motion_ref": "Shavings drift in the light, hanging tools swaying slightly, ending settled on the cluttered workbench",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC1-03",
@@ -74,7 +104,11 @@
       "motion": "The koala turns the screwdriver, glasses sliding down, ending with the screw fully tightened",
       "link": "컷",
       "link_ko": "작업대 앞의 미미를 본다.",
-      "motion_ref": "The koala turns the screwdriver, glasses sliding down, ending with the screw fully tightened"
+      "motion_ref": "The koala turns the screwdriver, glasses sliding down, ending with the screw fully tightened",
+      "sig": null,
+      "sfx": [
+        "금속_도구"
+      ]
     },
     {
       "id": "SC1-04",
@@ -93,7 +127,9 @@
       "motion": "The camera tracks slowly along the machine's linkages, ending held on the mechanical claw at the top",
       "link": "연속",
       "link_ko": "조인 그 나사에서 기계 전체로 훑는다.",
-      "motion_ref": "The camera tracks slowly along the machine's linkages, ending held on the mechanical claw at the top"
+      "motion_ref": "The camera tracks slowly along the machine's linkages, ending held on the mechanical claw at the top",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -114,7 +150,9 @@
       "motion": "She stands the machine up and thumbs the switch, ending with her finger on the switch, pressed",
       "link": "컷",
       "link_ko": "기계를 세우고 스위치를 누른다.",
-      "motion_ref": "She stands the machine up and thumbs the switch, ending with her finger on the switch, pressed"
+      "motion_ref": "She stands the machine up and thumbs the switch, ending with her finger on the switch, pressed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -133,7 +171,9 @@
       "motion": "The claw judders, stops, and a screw falls loose, ending with the claw frozen and the screw on the floor",
       "link": "연속",
       "link_ko": "누른 스위치에 집게가 반응했다가 멈춘다.",
-      "motion_ref": "The claw judders, stops, and a screw falls loose, ending with the claw frozen and the screw on the floor"
+      "motion_ref": "The claw judders, stops, and a screw falls loose, ending with the claw frozen and the screw on the floor",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -152,7 +192,9 @@
       "motion": "The machine keels over, parts skittering across the floor, ending with the machine flat and parts scattered",
       "link": "연속",
       "link_ko": "멈춘 기계가 그대로 옆으로 쓰러진다.",
-      "motion_ref": "The machine keels over, parts skittering across the floor, ending with the machine flat and parts scattered"
+      "motion_ref": "The machine keels over, parts skittering across the floor, ending with the machine flat and parts scattered",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -173,7 +215,9 @@
       "motion": "Her eyes travel over the wreckage, shoulders dropping, ending with her shoulders fully dropped",
       "link": "컷",
       "link_ko": "쓰러진 기계를 미미가 내려다본다.",
-      "motion_ref": "Her eyes travel over the wreckage, shoulders dropping, ending with her shoulders fully dropped"
+      "motion_ref": "Her eyes travel over the wreckage, shoulders dropping, ending with her shoulders fully dropped",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -194,7 +238,9 @@
       "motion": "She scores a big X across the blueprint, ending with the X fully drawn across the blueprint",
       "link": "컷",
       "link_ko": "내려다보던 미미가 벽으로 간다.",
-      "motion_ref": "She scores a big X across the blueprint, ending with the X fully drawn across the blueprint"
+      "motion_ref": "She scores a big X across the blueprint, ending with the X fully drawn across the blueprint",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -217,7 +263,11 @@
       "motion": "The door swings and three heads lean in, ending with all three heads inside the doorway",
       "link": "컷",
       "link_ko": "X를 긋는 소리에 문이 열린다.",
-      "motion_ref": "The door swings and three heads lean in, ending with all three heads inside the doorway"
+      "motion_ref": "The door swings and three heads lean in, ending with all three heads inside the doorway",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC1-11",
@@ -238,7 +288,9 @@
       "motion": "He prods the fallen machine with his foot, ending with the machine rocking slightly, his foot withdrawn",
       "link": "연속",
       "link_ko": "들어온 루카가 넘어진 기계를 건드린다.",
-      "motion_ref": "He prods the fallen machine with his foot, ending with the machine rocking slightly, his foot withdrawn"
+      "motion_ref": "He prods the fallen machine with his foot, ending with the machine rocking slightly, his foot withdrawn",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -259,7 +311,9 @@
       "motion": "She stoops and collects the parts steadily, ending with the last part dropped into the box",
       "link": "컷",
       "link_ko": "루카의 말에 미미가 부품을 줍는다.",
-      "motion_ref": "She stoops and collects the parts steadily, ending with the last part dropped into the box"
+      "motion_ref": "She stoops and collects the parts steadily, ending with the last part dropped into the box",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -280,7 +334,9 @@
       "motion": "The baby dinosaur tips his head and blinks, ending held with his head tilted",
       "link": "컷",
       "link_ko": "줍는 미미를 쿵쿵이가 올려다본다.",
-      "motion_ref": "The baby dinosaur tips his head and blinks, ending held with his head tilted"
+      "motion_ref": "The baby dinosaur tips his head and blinks, ending held with his head tilted",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -301,7 +357,9 @@
       "motion": "She nudges her glasses and smiles faintly, ending with her glasses pushed up and the small smile held",
       "link": "연속",
       "link_ko": "쿵쿵이의 물음에 미미가 답한다.",
-      "motion_ref": "She nudges her glasses and smiles faintly, ending with her glasses pushed up and the small smile held"
+      "motion_ref": "She nudges her glasses and smiles faintly, ending with her glasses pushed up and the small smile held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -320,7 +378,11 @@
       "motion": "Leaves and fruit sway in the morning breeze, ending settled between two rows of trees",
       "link": "전환",
       "link_ko": "작업실에서 과수원으로. 실내에서 야외로, 저녁에서 아침으로.",
-      "motion_ref": "Leaves and fruit sway in the morning breeze, ending settled between two rows of trees"
+      "motion_ref": "Leaves and fruit sway in the morning breeze, ending settled between two rows of trees",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-02",
@@ -344,7 +406,11 @@
       "motion": "The four walk between the rows swinging their baskets, ending with the four walking right between the rows",
       "link": "컷",
       "link_ko": "그 나무 사이로 넷이 들어온다.",
-      "motion_ref": "The four walk between the rows swinging their baskets, ending with the four walking right between the rows"
+      "motion_ref": "The four walk between the rows swinging their baskets, ending with the four walking right between the rows",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-03",
@@ -365,7 +431,9 @@
       "motion": "The puppy taps a low fruit and sets it swinging, ending with the fruit still swinging",
       "link": "컷",
       "link_ko": "걷다가 낮은 가지의 열매를 건드린다.",
-      "motion_ref": "The puppy taps a low fruit and sets it swinging, ending with the fruit still swinging"
+      "motion_ref": "The puppy taps a low fruit and sets it swinging, ending with the fruit still swinging",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -384,7 +452,11 @@
       "motion": "They clear the low branches, baskets filling fast, ending with three baskets full of red fruit",
       "link": "연속",
       "link_ko": "흔들리던 가지에서 넷이 열매를 훑는다.",
-      "motion_ref": "They clear the low branches, baskets filling fast, ending with three baskets full of red fruit"
+      "motion_ref": "They clear the low branches, baskets filling fast, ending with three baskets full of red fruit",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-05",
@@ -403,7 +475,9 @@
       "motion": "The camera tilts up to the largest fruit at the crown, ending held on the topmost fruit against the sky",
       "link": "컷",
       "link_ko": "낮은 가지를 다 딴 뒤 위를 본다.",
-      "motion_ref": "The camera tilts up to the largest fruit at the crown, ending held on the topmost fruit against the sky"
+      "motion_ref": "The camera tilts up to the largest fruit at the crown, ending held on the topmost fruit against the sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -424,7 +498,11 @@
       "motion": "He rolls his sleeves and sizes up the trunk, ending with his paw flat on the trunk, looking up",
       "link": "컷",
       "link_ko": "꼭대기 열매를 보고 루카가 나선다.",
-      "motion_ref": "He rolls his sleeves and sizes up the trunk, ending with his paw flat on the trunk, looking up"
+      "motion_ref": "He rolls his sleeves and sizes up the trunk, ending with his paw flat on the trunk, looking up",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC2-07",
@@ -445,7 +523,11 @@
       "motion": "He climbs branch to branch, the limbs thinning above him, ending with him high in the thinning branches",
       "link": "연속",
       "link_ko": "나무에 손을 얹은 그대로 오르기 시작한다.",
-      "motion_ref": "He climbs branch to branch, the limbs thinning above him, ending with him high in the thinning branches"
+      "motion_ref": "He climbs branch to branch, the limbs thinning above him, ending with him high in the thinning branches",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-08",
@@ -466,7 +548,9 @@
       "motion": "She clasps her paws and cranes upward, worried, ending with her head fully back, paws clasped",
       "link": "컷",
       "link_ko": "오르는 루카를 미미가 올려다보며 말린다.",
-      "motion_ref": "She clasps her paws and cranes upward, worried, ending with her head fully back, paws clasped"
+      "motion_ref": "She clasps her paws and cranes upward, worried, ending with her head fully back, paws clasped",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -487,7 +571,12 @@
       "motion": "A crack spreads along the branch under his foot, ending with the crack running the length of the branch",
       "link": "컷",
       "link_ko": "말리는 소리 위로 발밑 가지가 갈라진다.",
-      "motion_ref": "A crack spreads along the branch under his foot, ending with the crack running the length of the branch"
+      "motion_ref": "A crack spreads along the branch under his foot, ending with the crack running the length of the branch",
+      "sig": null,
+      "sfx": [
+        "발소리_풀",
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-10",
@@ -508,7 +597,12 @@
       "motion": "The branch gives way and he pitches sideways, ending with his body pitched fully sideways",
       "link": "연속",
       "link_ko": "갈라진 가지가 그대로 부러진다.",
-      "motion_ref": "The branch gives way and he pitches sideways, ending with his body pitched fully sideways"
+      "motion_ref": "The branch gives way and he pitches sideways, ending with his body pitched fully sideways",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC2-11",
@@ -529,7 +623,11 @@
       "motion": "His paws catch a branch, legs swinging free below, ending with him hanging, legs swinging free",
       "link": "연속",
       "link_ko": "기울어진 몸이 다른 가지를 붙잡는다.",
-      "motion_ref": "His paws catch a branch, legs swinging free below, ending with him hanging, legs swinging free"
+      "motion_ref": "His paws catch a branch, legs swinging free below, ending with him hanging, legs swinging free",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-12",
@@ -550,7 +648,9 @@
       "motion": "The puppy rears up, barking, ending reared up on hind legs, still barking",
       "link": "컷",
       "link_ko": "매달린 루카를 보고 티니가 짖는다.",
-      "motion_ref": "The puppy rears up, barking, ending reared up on hind legs, still barking"
+      "motion_ref": "The puppy rears up, barking, ending reared up on hind legs, still barking",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -571,7 +671,9 @@
       "motion": "He climbs down carefully, the top fruit still swaying above, ending with him on the ground and the fruit still up there",
       "link": "컷",
       "link_ko": "매달렸던 루카가 내려온다.",
-      "motion_ref": "He climbs down carefully, the top fruit still swaying above, ending with him on the ground and the fruit still up there"
+      "motion_ref": "He climbs down carefully, the top fruit still swaying above, ending with him on the ground and the fruit still up there",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -592,7 +694,9 @@
       "motion": "He lands and opens his paw to inspect the scrape, ending held on the scraped paw, open",
       "link": "연속",
       "link_ko": "내려선 그 자리에서 손바닥을 본다.",
-      "motion_ref": "He lands and opens his paw to inspect the scrape, ending held on the scraped paw, open"
+      "motion_ref": "He lands and opens his paw to inspect the scrape, ending held on the scraped paw, open",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -613,7 +717,9 @@
       "motion": "She stares upward, motionless, ending with her still staring up, motionless",
       "link": "컷",
       "link_ko": "루카에서 미미로. 미미는 아직 나무를 본다.",
-      "motion_ref": "She stares upward, motionless, ending with her still staring up, motionless"
+      "motion_ref": "She stares upward, motionless, ending with her still staring up, motionless",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -634,7 +740,9 @@
       "motion": "The tree sways in the reflection as her eyes firm up, ending held on her hardened eyes",
       "link": "연속",
       "link_ko": "올려다보던 그 시선이 안경에 맺힌다.",
-      "motion_ref": "The tree sways in the reflection as her eyes firm up, ending held on her hardened eyes"
+      "motion_ref": "The tree sways in the reflection as her eyes firm up, ending held on her hardened eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -655,7 +763,9 @@
       "motion": "The baby dinosaur toddles out beneath the tree, ending with him standing under the tall tree",
       "link": "전환",
       "link_ko": "미미의 결심에서 쿵쿵이의 행동으로 넘어간다.",
-      "motion_ref": "The baby dinosaur toddles out beneath the tree, ending with him standing under the tall tree"
+      "motion_ref": "The baby dinosaur toddles out beneath the tree, ending with him standing under the tall tree",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -676,7 +786,9 @@
       "motion": "He works his feet into the soil and crouches, ending crouched and braced in the soil",
       "link": "연속",
       "link_ko": "나무 아래 자리를 잡는다.",
-      "motion_ref": "He works his feet into the soil and crouches, ending crouched and braced in the soil"
+      "motion_ref": "He works his feet into the soil and crouches, ending crouched and braced in the soil",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -697,7 +809,9 @@
       "motion": "The paws strike and dust bursts outward in a ring, ending with the dust ring at its widest",
       "link": "연속",
       "link_ko": "낮춘 자세에서 그대로 내리찍는다.",
-      "motion_ref": "The paws strike and dust bursts outward in a ring, ending with the dust ring at its widest"
+      "motion_ref": "The paws strike and dust bursts outward in a ring, ending with the dust ring at its widest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -723,7 +837,9 @@
         "sec": 0.35,
         "why": "발구름이 빛으로 번지는 순간"
       },
-      "motion_ref": "Light races up the horns as a glowing ring spreads outward, ending with the horn tips at maximum brightness"
+      "motion_ref": "Light races up the horns as a glowing ring spreads outward, ending with the horn tips at maximum brightness",
+      "sig": "쿵쿵_파워",
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -744,7 +860,11 @@
       "motion": "Ring after ring spreads out, branches shaking, fruit falling, ending with several fruits falling from the shaken branches",
       "link": "연속",
       "link_ko": "뿔의 빛이 겹겹의 고리가 되어 나무를 흔든다.",
-      "motion_ref": "Ring after ring spreads out, branches shaking, fruit falling, ending with several fruits falling from the shaken branches"
+      "motion_ref": "Ring after ring spreads out, branches shaking, fruit falling, ending with several fruits falling from the shaken branches",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-06",
@@ -763,7 +883,9 @@
       "motion": "The fruit hits the ground and bursts open, ending with the fruit split open and juice spreading",
       "link": "연속",
       "link_ko": "떨어진 열매가 땅에 부딪힌다.",
-      "motion_ref": "The fruit hits the ground and bursts open, ending with the fruit split open and juice spreading"
+      "motion_ref": "The fruit hits the ground and bursts open, ending with the fruit split open and juice spreading",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -784,7 +906,9 @@
       "motion": "She crouches low over the ruined fruit, ending with her crouched low over the ruined fruit",
       "link": "컷",
       "link_ko": "터진 열매 앞에 미미가 쭈그린다.",
-      "motion_ref": "She crouches low over the ruined fruit, ending with her crouched low over the ruined fruit"
+      "motion_ref": "She crouches low over the ruined fruit, ending with her crouched low over the ruined fruit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -805,7 +929,9 @@
       "motion": "Her head comes up, eyes following the spreading rings, ending with her eyes tracking the spreading rings",
       "link": "연속",
       "link_ko": "쭈그렸던 미미가 고개를 든다.",
-      "motion_ref": "Her head comes up, eyes following the spreading rings, ending with her eyes tracking the spreading rings"
+      "motion_ref": "Her head comes up, eyes following the spreading rings, ending with her eyes tracking the spreading rings",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -826,7 +952,9 @@
       "motion": "The rings expand in the reflection, her pupils dilating, ending with the rings filling both lenses, pupils wide",
       "link": "연속",
       "link_ko": "시선이 안경에 비친 고리로 들어간다.",
-      "motion_ref": "The rings expand in the reflection, her pupils dilating, ending with the rings filling both lenses, pupils wide"
+      "motion_ref": "The rings expand in the reflection, her pupils dilating, ending with the rings filling both lenses, pupils wide",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -847,7 +975,9 @@
       "motion": "She draws overlapping circles in the air, ending with the overlapping circles traced and her paw stopped",
       "link": "연속",
       "link_ko": "비친 고리를 손가락으로 허공에 그려본다.",
-      "motion_ref": "She draws overlapping circles in the air, ending with the overlapping circles traced and her paw stopped"
+      "motion_ref": "She draws overlapping circles in the air, ending with the overlapping circles traced and her paw stopped",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -868,7 +998,11 @@
       "motion": "She runs with the basket held upturned overhead, ending with her under the tree, basket overhead",
       "link": "연속",
       "link_ko": "그린 그대로 바구니를 집어 들고 달린다.",
-      "motion_ref": "She runs with the basket held upturned overhead, ending with her under the tree, basket overhead"
+      "motion_ref": "She runs with the basket held upturned overhead, ending with her under the tree, basket overhead",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-12",
@@ -887,7 +1021,9 @@
       "motion": "The fruit drops in, bounces twice and settles, ending with the fruit settled intact in the basket",
       "link": "연속",
       "link_ko": "뒤집힌 바구니 안으로 열매가 들어온다.",
-      "motion_ref": "The fruit drops in, bounces twice and settles, ending with the fruit settled intact in the basket"
+      "motion_ref": "The fruit drops in, bounces twice and settles, ending with the fruit settled intact in the basket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -908,7 +1044,9 @@
       "motion": "She lifts the perfect fruit, her face breaking into a grin, ending with the perfect fruit held up and her grin wide",
       "link": "연속",
       "link_ko": "무사한 열매를 들어 보인다.",
-      "motion_ref": "She lifts the perfect fruit, her face breaking into a grin, ending with the perfect fruit held up and her grin wide"
+      "motion_ref": "She lifts the perfect fruit, her face breaking into a grin, ending with the perfect fruit held up and her grin wide",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -929,7 +1067,11 @@
       "motion": "He approaches, tilting his head in confusion, ending with him still puzzled, head tilted",
       "link": "컷",
       "link_ko": "환호하는 미미를 루카가 못 알아듣는다.",
-      "motion_ref": "He approaches, tilting his head in confusion, ending with him still puzzled, head tilted"
+      "motion_ref": "He approaches, tilting his head in confusion, ending with him still puzzled, head tilted",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-15",
@@ -950,7 +1092,11 @@
       "motion": "She sprints away from the orchard, basket in her arms, ending with her out of frame, basket clutched",
       "link": "연속",
       "link_ko": "설명하지 않고 미미가 달려나간다.",
-      "motion_ref": "She sprints away from the orchard, basket in her arms, ending with her out of frame, basket clutched"
+      "motion_ref": "She sprints away from the orchard, basket in her arms, ending with her out of frame, basket clutched",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC4-01",
@@ -974,7 +1120,11 @@
         "sec": 0.7,
         "why": "낮 과수원에서 밤 작업실로"
       },
-      "motion_ref": "A busy silhouette moves behind the lit window, ending held on the single lit window"
+      "motion_ref": "A busy silhouette moves behind the lit window, ending held on the single lit window",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC4-02",
@@ -995,7 +1145,11 @@
       "motion": "The pencil sweeps out overlapping rings on the page, ending with the overlapping rings fully drawn",
       "link": "연속",
       "link_ko": "그 창 안으로 들어간다.",
-      "motion_ref": "The pencil sweeps out overlapping rings on the page, ending with the overlapping rings fully drawn"
+      "motion_ref": "The pencil sweeps out overlapping rings on the page, ending with the overlapping rings fully drawn",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-03",
@@ -1014,7 +1168,9 @@
       "motion": "Paws cut cloth and bend wire into circles, ending with a wire hoop bent closed",
       "link": "연속",
       "link_ko": "그린 설계도대로 손이 움직인다.",
-      "motion_ref": "Paws cut cloth and bend wire into circles, ending with a wire hoop bent closed"
+      "motion_ref": "Paws cut cloth and bend wire into circles, ending with a wire hoop bent closed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1033,7 +1189,9 @@
       "motion": "The layered net unfurls at the top of the pole like an umbrella, ending with the layered net fully unfurled",
       "link": "연속",
       "link_ko": "만들어진 부품이 하나로 합쳐진다.",
-      "motion_ref": "The layered net unfurls at the top of the pole like an umbrella, ending with the layered net fully unfurled"
+      "motion_ref": "The layered net unfurls at the top of the pole like an umbrella, ending with the layered net fully unfurled",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1059,7 +1217,9 @@
         "sec": 0.6,
         "why": "밤을 새운 작업실에서 아침 과수원으로"
       },
-      "motion_ref": "Morning light spreads as she raises the pole, ending with the pole raised under the tree"
+      "motion_ref": "Morning light spreads as she raises the pole, ending with the pole raised under the tree",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1080,7 +1240,9 @@
       "motion": "The net opens wide beneath the high fruit, ending with the net spread wide beneath the high fruit",
       "link": "연속",
       "link_ko": "세운 장대를 그대로 위로 뻗는다.",
-      "motion_ref": "The net opens wide beneath the high fruit, ending with the net spread wide beneath the high fruit"
+      "motion_ref": "The net opens wide beneath the high fruit, ending with the net spread wide beneath the high fruit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1099,7 +1261,9 @@
       "motion": "The fruit sinks softly through the layers and settles perfectly, ending with the fruit resting unbruised in the net",
       "link": "연속",
       "link_ko": "펼쳐진 그물 안으로 열매가 내려온다.",
-      "motion_ref": "The fruit sinks softly through the layers and settles perfectly, ending with the fruit resting unbruised in the net"
+      "motion_ref": "The fruit sinks softly through the layers and settles perfectly, ending with the fruit resting unbruised in the net",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1123,7 +1287,11 @@
       "motion": "She raises the fruit as the others throw their arms up cheering, ending with the fruit held high and three pairs of arms up",
       "link": "연속",
       "link_ko": "받아낸 열매를 들어 올리고 넷이 환호한다.",
-      "motion_ref": "She raises the fruit as the others throw their arms up cheering, ending with the fruit held high and three pairs of arms up"
+      "motion_ref": "She raises the fruit as the others throw their arms up cheering, ending with the fruit held high and three pairs of arms up",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "EN-01",
@@ -1144,7 +1312,9 @@
       "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
       "link": "전환",
       "link_ko": "엔딩 시작. 환호에서 쿵쿵이의 얼굴로.",
-      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held"
+      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1166,7 +1336,11 @@
       "motion": "He gives her shoulder a friendly clap, ending with his paw on her shoulder",
       "link": "컷",
       "link_ko": "환호가 잦아들고 루카가 미미에게 간다.",
-      "motion_ref": "He gives her shoulder a friendly clap, ending with his paw on her shoulder"
+      "motion_ref": "He gives her shoulder a friendly clap, ending with his paw on her shoulder",
+      "sig": null,
+      "sfx": [
+        "손뼉"
+      ]
     },
     {
       "id": "EN-03",
@@ -1187,7 +1361,9 @@
       "motion": "She pushes her glasses up and smiles, ending with her glasses pushed up and the modest smile held",
       "link": "연속",
       "link_ko": "어깨를 잡힌 채 미미가 답한다.",
-      "motion_ref": "She pushes her glasses up and smiles, ending with her glasses pushed up and the modest smile held"
+      "motion_ref": "She pushes her glasses up and smiles, ending with her glasses pushed up and the modest smile held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1206,7 +1382,9 @@
       "motion": "The fourth blueprint goes up, its edge fluttering, ending with the fourth blueprint pinned and settling",
       "link": "컷",
       "link_ko": "작업실 벽으로. X 세 장 옆에 네 번째가 붙는다.",
-      "motion_ref": "The fourth blueprint goes up, its edge fluttering, ending with the fourth blueprint pinned and settling"
+      "motion_ref": "The fourth blueprint goes up, its edge fluttering, ending with the fourth blueprint pinned and settling",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1230,7 +1408,9 @@
       "motion": "The four sit in a ring, biting into the fruit, ending with all four biting into the fruit",
       "link": "전환",
       "link_ko": "작업실에서 과수원으로 돌아온다.",
-      "motion_ref": "The four sit in a ring, biting into the fruit, ending with all four biting into the fruit"
+      "motion_ref": "The four sit in a ring, biting into the fruit, ending with all four biting into the fruit",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1249,7 +1429,11 @@
       "motion": "Sunbeams stretch between the trees, leaves stirring, ending held wide on the sunlit rows",
       "link": "컷",
       "link_ko": "넷에서 과수원 전체로 넓힌다.",
-      "motion_ref": "Sunbeams stretch between the trees, leaves stirring, ending held wide on the sunlit rows"
+      "motion_ref": "Sunbeams stretch between the trees, leaves stirring, ending held wide on the sunlit rows",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "EN-07",
@@ -1273,7 +1457,9 @@
       "motion": "Leaves sway gently as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드.",
-      "motion_ref": "Leaves sway gently as the camera eases back"
+      "motion_ref": "Leaves sway gently as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

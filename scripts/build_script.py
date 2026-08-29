@@ -57,6 +57,11 @@ def episode_block(meta, doc, morals, prompts):
         if x["section"] != cur:
             cur = x["section"]
             o.append("\n## %s\n" % doc["sections"][cur])
+            au = (doc.get("audio_sections") or {}).get(cur)
+            if au:
+                w = (" + %s" % au["weather"]) if au.get("weather") else ""
+                o.append("`소리` **환경음** %s%s &nbsp;·&nbsp; **BGM** %s\n"
+                         % (au["amb"], w, au["bgm"]))
         who = ", ".join(x["cast"]) if x["cast"] else "배경"
         o.append("**%s**  `%d초 · %s · %s · %s · seed %d`\n"
                  % (x["id"], x["duration"], x["shot_ko"], x.get("link", ""), who, x["seed"]))
@@ -69,6 +74,15 @@ def episode_block(meta, doc, morals, prompts):
         o.append("*카메라 — %s*\n" % x["ko_motion"])
         if x["dialogue"]:
             o.append("> **%s**  %s\n" % (x["speaker"], x["dialogue"]))
+        bits = []
+        if x.get("sig"):
+            bits.append("**능력 소리 %s**" % x["sig"])
+        if x.get("sfx"):
+            bits.append("효과음 " + " · ".join(x["sfx"]))
+        if bits:
+            o.append("*소리 — %s*\n" % " / ".join(bits))
+        elif x["shot_ko"] == "타이틀":
+            o.append("*소리 — 엔딩 타이틀 음악만. 환경음도 효과음도 넣지 마세요.*\n")
         if x.get("transition"):
             t = x["transition"]
             o.append("*전환 효과 — `%s` %s초. %s*\n" % (t["type"], t["sec"], t.get("why", "")))
@@ -142,6 +156,10 @@ def main():
             "이음매가 사라집니다. `scripts/chain_frames.py` 가 그 프레임을 뽑아 줍니다. "
             "얼굴 레퍼런스와 혼동하지 마세요 — 얼굴은 언제나 트리거 워드로 잡습니다.", "",
             "**클립은 4~5초를 넘기지 마세요.** image2video 는 그 이상에서 얼굴이 무너집니다.", "",
+            "**소리는 네 겹입니다.** 장면마다 «환경음»과 «BGM»이 적혀 있고, 컷마다 «효과음»이 "
+            "적혀 있습니다. 환경음은 장면 내내 끊지 마세요 — 컷마다 끊으면 이어 붙인 티가 "
+            "가장 크게 납니다. 무엇을 어디서 구하는지는 `bible/audio.json` 과 "
+            "`docs/17_소리.md` 에 있습니다.", "",
             "**네거티브 프롬프트** — 아래가 전 화 공통입니다. 한 번 복사해서 계속 쓰세요.", "",
             "```", chars["negative_prompt"], "```", "",
             "밖에서만 벌어지는 화에는 아래를 **뒤에 이어 붙이세요.** 실내가 나오는 화에는 붙이면 안 됩니다 "

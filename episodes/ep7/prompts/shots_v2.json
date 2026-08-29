@@ -16,6 +16,28 @@
     "SC4": "Act 4 · SC#4 후안의 꿈 — 하늘을 나는 펭귄",
     "EN": "엔딩 · 개운한 아침"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "실내_집",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "운동장",
+      "bgm": "위기_긴박"
+    },
+    "SC3": {
+      "amb": "실내_집",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "밤하늘_언덕",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "마을_광장",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -34,7 +56,11 @@
       "motion": "Window lights wink out one after another beneath the stars, ending with almost every window dark",
       "link": "전환",
       "link_ko": "7화 첫 컷. 파도 소리와 함께 밤 마을이 떠오른다.",
-      "motion_ref": "Window lights wink out one after another beneath the stars, ending with almost every window dark"
+      "motion_ref": "Window lights wink out one after another beneath the stars, ending with almost every window dark",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-02",
@@ -53,7 +79,11 @@
       "motion": "A single lit window glows, a shadow shifting inside, ending held on the single lit window",
       "link": "연속",
       "link_ko": "꺼진 창들 사이에서 하나만 남는다.",
-      "motion_ref": "A single lit window glows, a shadow shifting inside, ending held on the single lit window"
+      "motion_ref": "A single lit window glows, a shadow shifting inside, ending held on the single lit window",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-03",
@@ -74,7 +104,9 @@
       "motion": "The penguin bounces among the toys, wide awake, ending with him bouncing among the toys",
       "link": "연속",
       "link_ko": "그 창을 통과해 방 안으로 들어간다.",
-      "motion_ref": "The penguin bounces among the toys, wide awake, ending with him bouncing among the toys"
+      "motion_ref": "The penguin bounces among the toys, wide awake, ending with him bouncing among the toys",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -93,7 +125,9 @@
       "motion": "The second hand sweeps steadily around, ending held on eleven with the second hand sweeping",
       "link": "컷",
       "link_ko": "노는 후안에서 벽시계로.",
-      "motion_ref": "The second hand sweeps steadily around, ending held on eleven with the second hand sweeping"
+      "motion_ref": "The second hand sweeps steadily around, ending held on eleven with the second hand sweeping",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -114,7 +148,9 @@
       "motion": "He shoves the toy boat along the floor, chattering to himself, ending with the boat pushed to the far wall",
       "link": "컷",
       "link_ko": "시계에서 후안으로 돌아온다.",
-      "motion_ref": "He shoves the toy boat along the floor, chattering to himself, ending with the boat pushed to the far wall"
+      "motion_ref": "He shoves the toy boat along the floor, chattering to himself, ending with the boat pushed to the far wall",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -133,7 +169,11 @@
       "motion": "The moon slides past a thin cloud over the still sea, ending held on the moon over the still sea",
       "link": "컷",
       "link_ko": "방에서 창밖 달로.",
-      "motion_ref": "The moon slides past a thin cloud over the still sea, ending held on the moon over the still sea"
+      "motion_ref": "The moon slides past a thin cloud over the still sea, ending held on the moon over the still sea",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-07",
@@ -154,7 +194,9 @@
       "motion": "He yawns wide, then shakes his head to fight it off, ending with his head shaken hard, eyes forced open",
       "link": "컷",
       "link_ko": "달에서 방으로. 후안이 하품한다.",
-      "motion_ref": "He yawns wide, then shakes his head to fight it off, ending with his head shaken hard, eyes forced open"
+      "motion_ref": "He yawns wide, then shakes his head to fight it off, ending with his head shaken hard, eyes forced open",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -175,7 +217,9 @@
       "motion": "The box tips and toys clatter out across the floor, ending with the toys fully spilled across the floor",
       "link": "연속",
       "link_ko": "졸음을 쫓고 다시 상자를 뒤집는다.",
-      "motion_ref": "The box tips and toys clatter out across the floor, ending with the toys fully spilled across the floor"
+      "motion_ref": "The box tips and toys clatter out across the floor, ending with the toys fully spilled across the floor",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -194,7 +238,9 @@
       "motion": "The hands creep past midnight, ending held on the hands past midnight",
       "link": "컷",
       "link_ko": "쏟아진 장난감에서 시계로. 시간이 흘렀다.",
-      "motion_ref": "The hands creep past midnight, ending held on the hands past midnight"
+      "motion_ref": "The hands creep past midnight, ending held on the hands past midnight",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -215,7 +261,11 @@
       "motion": "His head droops forward and snaps back up, ending with his head dropping and not coming back up",
       "link": "컷",
       "link_ko": "시계에서 후안으로. 이번엔 못 버틴다.",
-      "motion_ref": "His head droops forward and snaps back up, ending with his head dropping and not coming back up"
+      "motion_ref": "His head droops forward and snaps back up, ending with his head dropping and not coming back up",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC1-11",
@@ -236,7 +286,9 @@
       "motion": "He keels over onto the toys and sleeps, ending with him fully down on the toy pile, asleep",
       "link": "연속",
       "link_ko": "떨어진 고개가 그대로 몸까지 쓰러진다.",
-      "motion_ref": "He keels over onto the toys and sleeps, ending with him fully down on the toy pile, asleep"
+      "motion_ref": "He keels over onto the toys and sleeps, ending with him fully down on the toy pile, asleep",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -257,7 +309,9 @@
       "motion": "The room falls still, only the clock moving, ending held on the still room with the light on",
       "link": "컷",
       "link_ko": "쓰러진 후안에서 방 전체로.",
-      "motion_ref": "The room falls still, only the clock moving, ending held on the still room with the light on"
+      "motion_ref": "The room falls still, only the clock moving, ending held on the still room with the light on",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -276,7 +330,11 @@
       "motion": "The sky lightens slowly from black toward blue, ending with the sky fully deep blue",
       "link": "컷",
       "link_ko": "방에서 창밖 하늘로.",
-      "motion_ref": "The sky lightens slowly from black toward blue, ending with the sky fully deep blue"
+      "motion_ref": "The sky lightens slowly from black toward blue, ending with the sky fully deep blue",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC1-14",
@@ -295,7 +353,11 @@
       "motion": "Sunlight pours over the sill and fills the room, ending with sunlight full across the toy-strewn floor",
       "link": "연속",
       "link_ko": "밝아지던 하늘에서 해가 뜬다.",
-      "motion_ref": "Sunlight pours over the sill and fills the room, ending with sunlight full across the toy-strewn floor"
+      "motion_ref": "Sunlight pours over the sill and fills the room, ending with sunlight full across the toy-strewn floor",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC2-01",
@@ -319,7 +381,9 @@
         "sec": 0.6,
         "why": "밤새운 방에서 대낮 해변으로. 눈이 부시게"
       },
-      "motion_ref": "Flags snap in the breeze above the waiting rope, ending held on the laid-out rope and the crowd"
+      "motion_ref": "Flags snap in the breeze above the waiting rope, ending held on the laid-out rope and the crowd",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -343,7 +407,9 @@
       "motion": "The four grip the rope and set their feet, ending with all four gripping, feet set",
       "link": "컷",
       "link_ko": "그 밧줄을 넷이 잡는다.",
-      "motion_ref": "The four grip the rope and set their feet, ending with all four gripping, feet set"
+      "motion_ref": "The four grip the rope and set their feet, ending with all four gripping, feet set",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-03",
@@ -364,7 +430,11 @@
       "motion": "He twists around to shout back along the line, ending with him twisted back, mid-shout",
       "link": "컷",
       "link_ko": "줄 앞에서 루카가 뒤를 향해 외친다.",
-      "motion_ref": "He twists around to shout back along the line, ending with him twisted back, mid-shout"
+      "motion_ref": "He twists around to shout back along the line, ending with him twisted back, mid-shout",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-04",
@@ -385,7 +455,9 @@
       "motion": "His eyelids sink halfway closed, ending with his eyelids halfway down",
       "link": "연속",
       "link_ko": "루카가 외친 그 뒤쪽. 후안의 눈이 감긴다.",
-      "motion_ref": "His eyelids sink halfway closed, ending with his eyelids halfway down"
+      "motion_ref": "His eyelids sink halfway closed, ending with his eyelids halfway down",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -404,7 +476,13 @@
       "motion": "The rope snaps tight, feet gouging into the sand, ending with the rope snapped fully taut",
       "link": "컷",
       "link_ko": "호루라기가 울리고 시합이 시작된다.",
-      "motion_ref": "The rope snaps tight, feet gouging into the sand, ending with the rope snapped fully taut"
+      "motion_ref": "The rope snaps tight, feet gouging into the sand, ending with the rope snapped fully taut",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱",
+        "삽_흙",
+        "호루라기"
+      ]
     },
     {
       "id": "SC2-06",
@@ -426,7 +504,9 @@
       "motion": "They haul back hard, gaining ground, ending with both leaning far back, gaining",
       "link": "컷",
       "link_ko": "팽팽한 줄을 루카와 티니가 당긴다.",
-      "motion_ref": "They haul back hard, gaining ground, ending with both leaning far back, gaining"
+      "motion_ref": "They haul back hard, gaining ground, ending with both leaning far back, gaining",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -447,7 +527,9 @@
       "motion": "The rope slips free as his eyes close, ending with the rope free and his eyes fully shut",
       "link": "연속",
       "link_ko": "당기는 그 줄이 후안의 손에서 미끄러진다.",
-      "motion_ref": "The rope slips free as his eyes close, ending with the rope free and his eyes fully shut"
+      "motion_ref": "The rope slips free as his eyes close, ending with the rope free and his eyes fully shut",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -468,7 +550,9 @@
       "motion": "He sways asleep on his feet as the rope wrenches away, ending with the rope wrenched hard away",
       "link": "연속",
       "link_ko": "놓친 줄이 그대로 반대쪽으로 끌려간다.",
-      "motion_ref": "He sways asleep on his feet as the rope wrenches away, ending with the rope wrenched hard away"
+      "motion_ref": "He sways asleep on his feet as the rope wrenches away, ending with the rope wrenched hard away",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -491,7 +575,11 @@
       "motion": "The three are hauled forward and spill onto the sand, ending with the three in a heap on the sand",
       "link": "연속",
       "link_ko": "끌려간 줄에 셋이 딸려가 넘어진다.",
-      "motion_ref": "The three are hauled forward and spill onto the sand, ending with the three in a heap on the sand"
+      "motion_ref": "The three are hauled forward and spill onto the sand, ending with the three in a heap on the sand",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC2-10",
@@ -514,7 +602,11 @@
       "motion": "The other side erupts as the three pick themselves up, ending with the three sitting up, brushing sand",
       "link": "컷",
       "link_ko": "넘어진 셋과 반대쪽 환호.",
-      "motion_ref": "The other side erupts as the three pick themselves up, ending with the three sitting up, brushing sand"
+      "motion_ref": "The other side erupts as the three pick themselves up, ending with the three sitting up, brushing sand",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-11",
@@ -535,7 +627,9 @@
       "motion": "He blinks awake, bewildered, ending with him blinking, looking around, lost",
       "link": "컷",
       "link_ko": "일어나는 셋 옆에서 후안이 눈을 뜬다.",
-      "motion_ref": "He blinks awake, bewildered, ending with him blinking, looking around, lost"
+      "motion_ref": "He blinks awake, bewildered, ending with him blinking, looking around, lost",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -556,7 +650,9 @@
       "motion": "She dusts herself off and comes over, head tilted, ending with her head tilted, waiting",
       "link": "컷",
       "link_ko": "깬 후안에게 티니가 다가온다.",
-      "motion_ref": "She dusts herself off and comes over, head tilted, ending with her head tilted, waiting"
+      "motion_ref": "She dusts herself off and comes over, head tilted, ending with her head tilted, waiting",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -577,7 +673,9 @@
       "motion": "His head sinks low, shoulders collapsing, ending with his beak pointed at the sand",
       "link": "연속",
       "link_ko": "티니의 물음에 후안이 고개를 숙인다.",
-      "motion_ref": "His head sinks low, shoulders collapsing, ending with his beak pointed at the sand"
+      "motion_ref": "His head sinks low, shoulders collapsing, ending with his beak pointed at the sand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -599,7 +697,9 @@
       "motion": "He drops into a crouch beside his friend, ending with him crouched at eye level",
       "link": "컷",
       "link_ko": "숙인 후안 옆에 루카가 앉는다.",
-      "motion_ref": "He drops into a crouch beside his friend, ending with him crouched at eye level"
+      "motion_ref": "He drops into a crouch beside his friend, ending with him crouched at eye level",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -620,7 +720,9 @@
       "motion": "He draws his knees in and hugs them, ending curled tight around his own knees",
       "link": "연속",
       "link_ko": "루카의 말에 후안이 무릎을 안는다.",
-      "motion_ref": "He draws his knees in and hugs them, ending curled tight around his own knees"
+      "motion_ref": "He draws his knees in and hugs them, ending curled tight around his own knees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -642,7 +744,9 @@
       "motion": "The baby dinosaur watches him in silence, ending held on {쿵쿵} watching, unmoving",
       "link": "컷",
       "link_ko": "웅크린 후안을 쿵쿵이가 본다.",
-      "motion_ref": "The baby dinosaur watches him in silence, ending held on 쿵쿵 watching, unmoving"
+      "motion_ref": "The baby dinosaur watches him in silence, ending held on 쿵쿵 watching, unmoving",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -669,7 +773,11 @@
         "sec": 0.7,
         "why": "낮 해변에서 그날 밤 방으로"
       },
-      "motion_ref": "He rests his paws on the sill and peers inside, ending with him at the sill, looking in"
+      "motion_ref": "He rests his paws on the sill and peers inside, ending with him at the sill, looking in",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC3-02",
@@ -690,7 +798,9 @@
       "motion": "He pushes toys around amid the clutter, ending with the toys spread and him still playing",
       "link": "연속",
       "link_ko": "창 너머로 보이는 것이 이 컷이다.",
-      "motion_ref": "He pushes toys around amid the clutter, ending with the toys spread and him still playing"
+      "motion_ref": "He pushes toys around amid the clutter, ending with the toys spread and him still playing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -712,7 +822,9 @@
       "motion": "The baby dinosaur pads in and sits down beside him, ending seated on the floor beside {후안}",
       "link": "컷",
       "link_ko": "보고 있던 쿵쿵이가 방으로 들어온다.",
-      "motion_ref": "The baby dinosaur pads in and sits down beside him, ending seated on the floor beside 후안"
+      "motion_ref": "The baby dinosaur pads in and sits down beside him, ending seated on the floor beside 후안",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -733,7 +845,9 @@
       "motion": "He turns his back on the offer, ending with his back fully turned",
       "link": "컷",
       "link_ko": "쿵쿵이의 제안을 후안이 거절한다.",
-      "motion_ref": "He turns his back on the offer, ending with his back fully turned"
+      "motion_ref": "He turns his back on the offer, ending with his back fully turned",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -754,7 +868,9 @@
       "motion": "His eyes close, breathing slow and gentle, ending with his breathing slowed and eyes closed",
       "link": "컷",
       "link_ko": "돌아앉은 후안 뒤에서 쿵쿵이가 눈을 감는다.",
-      "motion_ref": "His eyes close, breathing slow and gentle, ending with his breathing slowed and eyes closed"
+      "motion_ref": "His eyes close, breathing slow and gentle, ending with his breathing slowed and eyes closed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -775,7 +891,9 @@
       "motion": "The faint light creeps slowly up the horns, ending with the faint light at the horn tips",
       "link": "연속",
       "link_ko": "감은 눈과 함께 뿔에 빛이 차오른다.",
-      "motion_ref": "The faint light creeps slowly up the horns, ending with the faint light at the horn tips"
+      "motion_ref": "The faint light creeps slowly up the horns, ending with the faint light at the horn tips",
+      "sig": "쿵쿵_자장가",
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -794,7 +912,9 @@
       "motion": "Waves of light ripple across the walls like an aurora, ending with the walls and ceiling fully rippling",
       "link": "연속",
       "link_ko": "뿔의 빛이 방 전체로 번진다.",
-      "motion_ref": "Waves of light ripple across the walls like an aurora, ending with the walls and ceiling fully rippling"
+      "motion_ref": "Waves of light ripple across the walls like an aurora, ending with the walls and ceiling fully rippling",
+      "sig": "쿵쿵_자장가",
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -815,7 +935,9 @@
       "motion": "He turns and gazes up at the glowing room, ending with him looking straight up at the ceiling",
       "link": "연속",
       "link_ko": "번진 빛에 후안이 돌아본다.",
-      "motion_ref": "He turns and gazes up at the glowing room, ending with him looking straight up at the ceiling"
+      "motion_ref": "He turns and gazes up at the glowing room, ending with him looking straight up at the ceiling",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -834,7 +956,11 @@
       "motion": "The ceiling light rolls in slow waves, like water, ending held on the slow rolling waves of light",
       "link": "연속",
       "link_ko": "후안이 올려다본 그 천장.",
-      "motion_ref": "The ceiling light rolls in slow waves, like water, ending held on the slow rolling waves of light"
+      "motion_ref": "The ceiling light rolls in slow waves, like water, ending held on the slow rolling waves of light",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC3-10",
@@ -855,7 +981,9 @@
       "motion": "His eyelids drift down, unresisting, ending with his eyelids drifting almost shut",
       "link": "컷",
       "link_ko": "천장에서 후안의 눈으로.",
-      "motion_ref": "His eyelids drift down, unresisting, ending with his eyelids drifting almost shut"
+      "motion_ref": "His eyelids drift down, unresisting, ending with his eyelids drifting almost shut",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -876,7 +1004,9 @@
       "motion": "He mumbles sleepily, eyes half shut, ending with his eyes almost fully closed",
       "link": "연속",
       "link_ko": "감기는 눈으로 후안이 웅얼거린다.",
-      "motion_ref": "He mumbles sleepily, eyes half shut, ending with his eyes almost fully closed"
+      "motion_ref": "He mumbles sleepily, eyes half shut, ending with his eyes almost fully closed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -897,7 +1027,9 @@
       "motion": "He clambers into bed and drags the blanket up, ending with the blanket pulled up to his chin",
       "link": "연속",
       "link_ko": "웅얼거리던 후안이 침대로 올라간다.",
-      "motion_ref": "He clambers into bed and drags the blanket up, ending with the blanket pulled up to his chin"
+      "motion_ref": "He clambers into bed and drags the blanket up, ending with the blanket pulled up to his chin",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -918,7 +1050,9 @@
       "motion": "He sits by the bed, the gentle light still flowing, ending with him seated still, the light continuing",
       "link": "컷",
       "link_ko": "침대 옆에 쿵쿵이가 앉는다.",
-      "motion_ref": "He sits by the bed, the gentle light still flowing, ending with him seated still, the light continuing"
+      "motion_ref": "He sits by the bed, the gentle light still flowing, ending with him seated still, the light continuing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -939,7 +1073,9 @@
       "motion": "The blanket lifts and settles in a slow, even rhythm, ending with the rhythm slow and completely even",
       "link": "컷",
       "link_ko": "앉은 쿵쿵이 옆 이불의 움직임.",
-      "motion_ref": "The blanket lifts and settles in a slow, even rhythm, ending with the rhythm slow and completely even"
+      "motion_ref": "The blanket lifts and settles in a slow, even rhythm, ending with the rhythm slow and completely even",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -960,7 +1096,9 @@
       "motion": "The glow thins slowly and the room settles into dark, ending with the glow gone and the room dark and quiet",
       "link": "컷",
       "link_ko": "이불에서 방 전체로. 빛이 잦아든다.",
-      "motion_ref": "The glow thins slowly and the room settles into dark, ending with the glow gone and the room dark and quiet"
+      "motion_ref": "The glow thins slowly and the room settles into dark, ending with the glow gone and the room dark and quiet",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -986,7 +1124,9 @@
         "sec": 0.75,
         "why": "현실에서 꿈으로 들어간다"
       },
-      "motion_ref": "He drifts slowly among the stars, ending with him drifting among the stars"
+      "motion_ref": "He drifts slowly among the stars, ending with him drifting among the stars",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -1007,7 +1147,9 @@
       "motion": "His flippers spread and he sweeps upward, ending with him sweeping upward, flippers full out",
       "link": "연속",
       "link_ko": "떠 있던 후안이 날개를 편다.",
-      "motion_ref": "His flippers spread and he sweeps upward, ending with him sweeping upward, flippers full out"
+      "motion_ref": "His flippers spread and he sweeps upward, ending with him sweeping upward, flippers full out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1028,7 +1170,11 @@
       "motion": "He banks into a curve, laughing with joy, ending mid-bank, grinning wide",
       "link": "연속",
       "link_ko": "솟아오른 그대로 곡선을 그린다.",
-      "motion_ref": "He banks into a curve, laughing with joy, ending mid-bank, grinning wide"
+      "motion_ref": "He banks into a curve, laughing with joy, ending mid-bank, grinning wide",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1049,7 +1195,9 @@
       "motion": "He passes through the aurora, light streaming over him, ending with light streaming over his whole body",
       "link": "연속",
       "link_ko": "곡선을 그리다 오로라 띠로 들어간다.",
-      "motion_ref": "He passes through the aurora, light streaming over him, ending with light streaming over his whole body"
+      "motion_ref": "He passes through the aurora, light streaming over him, ending with light streaming over his whole body",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1075,7 +1223,9 @@
         "sec": 0.45,
         "why": "꿈에서 잠깐 잠든 얼굴로"
       },
-      "motion_ref": "A smile spreads over his sleeping face, ending with the smile fully spread"
+      "motion_ref": "A smile spreads over his sleeping face, ending with the smile fully spread",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1101,7 +1251,11 @@
         "sec": 0.45,
         "why": "다시 꿈으로"
       },
-      "motion_ref": "He glides low over the tiny dream village, ending gliding low over the dream village"
+      "motion_ref": "He glides low over the tiny dream village, ending gliding low over the dream village",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1125,7 +1279,9 @@
       "motion": "They wave up and he waves a flipper in return, ending with the flipper raised in return",
       "link": "연속",
       "link_ko": "낮게 날다 아래의 친구들과 눈이 마주친다.",
-      "motion_ref": "They wave up and he waves a flipper in return, ending with the flipper raised in return"
+      "motion_ref": "They wave up and he waves a flipper in return, ending with the flipper raised in return",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1146,7 +1302,9 @@
       "motion": "He recedes into the starlight as the frame brightens, ending with the frame washed to white",
       "link": "연속",
       "link_ko": "손을 흔든 그대로 별빛 속으로 멀어진다.",
-      "motion_ref": "He recedes into the starlight as the frame brightens, ending with the frame washed to white"
+      "motion_ref": "He recedes into the starlight as the frame brightens, ending with the frame washed to white",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1172,7 +1330,9 @@
         "sec": 0.7,
         "why": "별빛 속에서 아침으로 깨어난다"
       },
-      "motion_ref": "Morning light crosses the tidy, empty room, ending held on the tidy empty room"
+      "motion_ref": "Morning light crosses the tidy, empty room, ending held on the tidy empty room",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1193,7 +1353,11 @@
       "motion": "He races over the sand, flippers flung wide, ending with him running with both flippers spread",
       "link": "컷",
       "link_ko": "빈 방에서 해변으로. 후안은 이미 나가 있다.",
-      "motion_ref": "He races over the sand, flippers flung wide, ending with him running with both flippers spread"
+      "motion_ref": "He races over the sand, flippers flung wide, ending with him running with both flippers spread",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "EN-03",
@@ -1217,7 +1381,9 @@
       "motion": "They grip the rope, the penguin's eyes wide awake, ending with all four gripping, his eyes wide awake",
       "link": "연속",
       "link_ko": "달려온 후안이 밧줄 앞에 선다.",
-      "motion_ref": "They grip the rope, the penguin's eyes wide awake, ending with all four gripping, his eyes wide awake"
+      "motion_ref": "They grip the rope, the penguin's eyes wide awake, ending with all four gripping, his eyes wide awake",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1236,7 +1402,9 @@
       "motion": "They lean back as one, the rope coming over, ending with the rope coming steadily their way",
       "link": "연속",
       "link_ko": "잡은 밧줄을 넷이 당긴다.",
-      "motion_ref": "They lean back as one, the rope coming over, ending with the rope coming steadily their way"
+      "motion_ref": "They lean back as one, the rope coming over, ending with the rope coming steadily their way",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1257,7 +1425,9 @@
       "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
       "link": "컷",
       "link_ko": "당기는 중에 쿵쿵이의 얼굴로.",
-      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held"
+      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1281,7 +1451,11 @@
       "motion": "They lift the rope and cheer, the sea flashing behind, ending with the rope held up and all four cheering",
       "link": "연속",
       "link_ko": "쿵쿵이의 말과 함께 넷이 이긴다.",
-      "motion_ref": "They lift the rope and cheer, the sea flashing behind, ending with the rope held up and all four cheering"
+      "motion_ref": "They lift the rope and cheer, the sea flashing behind, ending with the rope held up and all four cheering",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "EN-07",
@@ -1305,7 +1479,9 @@
       "motion": "Waves roll in as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드.",
-      "motion_ref": "Waves roll in as the camera eases back"
+      "motion_ref": "Waves roll in as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

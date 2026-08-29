@@ -12,6 +12,29 @@
     "SC4": "Act 3 · SC#4 불어난 개울가 — 루비 구조",
     "EN": "엔딩 · 첫 만남, 갈 곳 없는 쿵쿵이를 루카가 데려간다 + 유성 복선"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "눈밭",
+      "bgm": "신비_경이"
+    },
+    "SC2": {
+      "amb": "강가",
+      "bgm": "위기_긴박",
+      "weather": "폭우"
+    },
+    "SC3": {
+      "amb": "계곡",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "개울",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "개울",
+      "bgm": "신비_경이"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -30,7 +53,11 @@
       "motion": "The aurora ripples slowly across the sky, fine snow drifting over the ice, camera creeping forward, settling into a slow hold with the aurora filling the upper frame",
       "link": "전환",
       "link_ko": "1화 첫 컷. 검은 화면에서 오로라가 서서히 떠오른다.",
-      "motion_ref": "The aurora ripples slowly across the sky, fine snow drifting over the ice, camera creeping forward, settling into a slow hold with the aurora filling the upper frame"
+      "motion_ref": "The aurora ripples slowly across the sky, fine snow drifting over the ice, camera creeping forward, settling into a slow hold with the aurora filling the upper frame",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -49,7 +76,11 @@
       "motion": "The meteor tears across the sky trailing sparks, its light sweeping over the ice below, ending with the meteor low in frame and the ice below fully lit",
       "link": "연속",
       "link_ko": "앞 컷의 오로라 하늘 그대로. 그 하늘 위쪽에서 유성이 프레임 안으로 들어온다.",
-      "motion_ref": "The meteor tears across the sky trailing sparks, its light sweeping over the ice below, ending with the meteor low in frame and the ice below fully lit"
+      "motion_ref": "The meteor tears across the sky trailing sparks, its light sweeping over the ice below, ending with the meteor low in frame and the ice below fully lit",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-03",
@@ -68,7 +99,11 @@
       "motion": "The meteor core tumbles as fragments break away and stream past camera, glowing brighter, ending with the core filling the frame just before impact",
       "link": "컷",
       "link_ko": "떨어지는 동작이 이어진다. 앞 컷에서 시작된 낙하가 이 컷에서 가속된다.",
-      "motion_ref": "The meteor core tumbles as fragments break away and stream past camera, glowing brighter, ending with the core filling the frame just before impact"
+      "motion_ref": "The meteor core tumbles as fragments break away and stream past camera, glowing brighter, ending with the core filling the frame just before impact",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC1-04",
@@ -92,7 +127,11 @@
         "sec": 0.45,
         "why": "유성이 얼음판에 부딪히는 순간. 빛으로 터뜨려 넘긴다"
       },
-      "motion_ref": "The meteor hits and a ring of light blasts outward across the ice, snow and shards flying, the aurora flaring in response, ending as the blast dims and settles into drifting snow"
+      "motion_ref": "The meteor hits and a ring of light blasts outward across the ice, snow and shards flying, the aurora flaring in response, ending as the blast dims and settles into drifting snow",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC1-05",
@@ -111,7 +150,11 @@
       "motion": "Steam curls up from the glowing fragments, light pulsing softly through the crater walls, ending with the camera settled on the crater floor, steam still rising",
       "link": "컷",
       "link_ko": "충격파가 가라앉은 뒤. 같은 자리를 조금 물러서서 본다.",
-      "motion_ref": "Steam curls up from the glowing fragments, light pulsing softly through the crater walls, ending with the camera settled on the crater floor, steam still rising"
+      "motion_ref": "Steam curls up from the glowing fragments, light pulsing softly through the crater walls, ending with the camera settled on the crater floor, steam still rising",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-06",
@@ -130,7 +173,11 @@
       "motion": "Waves of golden-teal light travel through the ice and sink into the egg, the shell slowly brightening, ending with the egg centred and glowing steadily in frame",
       "link": "연속",
       "link_ko": "앞 컷 끝 위치에서 카메라가 그대로 크레이터 벽의 알 쪽으로 밀고 들어간다.",
-      "motion_ref": "Waves of golden-teal light travel through the ice and sink into the egg, the shell slowly brightening, ending with the egg centred and glowing steadily in frame"
+      "motion_ref": "Waves of golden-teal light travel through the ice and sink into the egg, the shell slowly brightening, ending with the egg centred and glowing steadily in frame",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC1-07",
@@ -149,7 +196,9 @@
       "motion": "The light inside the egg pulses once, then again, slower and stronger, like a first breath, ending on a held close-up as the light inside settles into a slow steady pulse",
       "link": "연속",
       "link_ko": "밝아진 알 표면으로 그대로 더 밀고 들어간다.",
-      "motion_ref": "The light inside the egg pulses once, then again, slower and stronger, like a first breath, ending on a held close-up as the light inside settles into a slow steady pulse"
+      "motion_ref": "The light inside the egg pulses once, then again, slower and stronger, like a first breath, ending on a held close-up as the light inside settles into a slow steady pulse",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -168,7 +217,11 @@
       "motion": "Camera rises and pulls back over the frozen land, the egg's glow shrinking to a single warm point beneath the aurora, ending with the glow reduced to one small warm point in a vast dark field",
       "link": "컷",
       "link_ko": "알에서 물러나 크게 빠진다. 다음 장면(숲)으로 넘길 준비.",
-      "motion_ref": "Camera rises and pulls back over the frozen land, the egg's glow shrinking to a single warm point beneath the aurora, ending with the glow reduced to one small warm point in a vast dark field"
+      "motion_ref": "Camera rises and pulls back over the frozen land, the egg's glow shrinking to a single warm point beneath the aurora, ending with the glow reduced to one small warm point in a vast dark field",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-01",
@@ -187,7 +240,11 @@
       "motion": "Sunlight breaks through drifting clouds over the wet forest, water dripping from leaves, the swollen river rushing past, ending with the camera settled low over the wet riverbank",
       "link": "전환",
       "link_ko": "매치컷. 앞 컷 끝의 작은 따뜻한 빛점이 이 컷 첫 프레임의 아침 햇살로 바뀐다.",
-      "motion_ref": "Sunlight breaks through drifting clouds over the wet forest, water dripping from leaves, the swollen river rushing past, ending with the camera settled low over the wet riverbank"
+      "motion_ref": "Sunlight breaks through drifting clouds over the wet forest, water dripping from leaves, the swollen river rushing past, ending with the camera settled low over the wet riverbank",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-02",
@@ -212,7 +269,13 @@
       "motion": "The five friends come out of the trees splashing through puddles, looking around at the storm damage, ending with the five spread across the bank, all facing right",
       "link": "컷",
       "link_ko": "그 강가로 다섯이 들어온다. 화면 왼쪽에서 오른쪽으로 이동 — 이후 컷도 이 방향을 지킨다.",
-      "motion_ref": "The five friends come out of the trees splashing through puddles, looking around at the storm damage, ending with the five spread across the bank, all facing right"
+      "motion_ref": "The five friends come out of the trees splashing through puddles, looking around at the storm damage, ending with the five spread across the bank, all facing right",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "물_첨벙",
+        "천둥"
+      ]
     },
     {
       "id": "SC2-03",
@@ -233,7 +296,9 @@
       "motion": "The puppy bounds ahead sniffing the ground, tail whipping, then freezes and lifts his head sharply, ending with the puppy frozen still, head up and locked on something off-frame right",
       "link": "컷",
       "link_ko": "티니만 앞서 나간다. 이동 방향은 그대로 오른쪽.",
-      "motion_ref": "The puppy bounds ahead sniffing the ground, tail whipping, then freezes and lifts his head sharply, ending with the puppy frozen still, head up and locked on something off-frame right"
+      "motion_ref": "The puppy bounds ahead sniffing the ground, tail whipping, then freezes and lifts his head sharply, ending with the puppy frozen still, head up and locked on something off-frame right",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -259,7 +324,11 @@
       "motion": "Camera pushes in past the friends toward the ice block, sunlight refracting through it, water rushing around its base, ending with the ice block filling frame and the pale shape inside just readable",
       "link": "연속",
       "link_ko": "시선 이동. 앞 컷에서 티니가 본 방향으로 카메라가 그대로 밀고 들어간다.",
-      "motion_ref": "Camera pushes in past 쿵쿵, 루카, 후안, 미미, 티니, 루비 toward the ice block, sunlight refracting through it, water rushing around its base, ending with the ice block filling frame and the pale shape inside just readable"
+      "motion_ref": "Camera pushes in past 쿵쿵, 루카, 후안, 미미, 티니, 루비 toward the ice block, sunlight refracting through it, water rushing around its base, ending with the ice block filling frame and the pale shape inside just readable",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-05",
@@ -284,7 +353,11 @@
       "motion": "The friends stop short and stare upward, [루카] flinging out an arm to hold them back, ending frozen in a held tableau, every face tilted up",
       "link": "컷",
       "link_ko": "얼음을 본 다섯의 반응. 앞 컷의 밀고 들어가던 속도를 반응 컷에서 멈춘다.",
-      "motion_ref": "The friends stop short and stare upward, 루카 flinging out an arm to hold them back, ending frozen in a held tableau, every face tilted up"
+      "motion_ref": "The friends stop short and stare upward, 루카 flinging out an arm to hold them back, ending frozen in a held tableau, every face tilted up",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-06",
@@ -307,7 +380,11 @@
       "image_suffix": "The goggles are a prop he takes out of his pocket in this shot only — everything else about him stays exactly as the registered design.",
       "link": "컷",
       "link_ko": "그중 루카만 앞으로 나온다. 앞 컷 마지막 자세에서 이어진다.",
-      "motion_ref": "The tiger cub digs the goggles out of his overall pocket, snaps them on over his eyes, and presses close to the ice, eyes going wide behind the lenses, ending with his goggled eyes pressed right against the ice"
+      "motion_ref": "The tiger cub digs the goggles out of his overall pocket, snaps them on over his eyes, and presses close to the ice, eyes going wide behind the lenses, ending with his goggled eyes pressed right against the ice",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC2-07",
@@ -326,7 +403,11 @@
       "motion": "The camera drifts through the clearing ice as the egg's shape resolves, a slow ripple of teal light crossing its surface, ending held on the egg's curve with one last ripple of teal crossing it",
       "link": "연속",
       "link_ko": "루카의 시선 그대로. 고글 너머로 보이는 것이 이 컷이다.",
-      "motion_ref": "The camera drifts through the clearing ice as the egg's shape resolves, a slow ripple of teal light crossing its surface, ending held on the egg's curve with one last ripple of teal crossing it"
+      "motion_ref": "The camera drifts through the clearing ice as the egg's shape resolves, a slow ripple of teal light crossing its surface, ending held on the egg's curve with one last ripple of teal crossing it",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-08",
@@ -347,7 +428,11 @@
       "motion": "The koala pushes her glasses up and leans in, the teal glow moving across her lenses as she studies it, ending with her still leaning in, the glow steady on her lenses",
       "link": "컷",
       "link_ko": "같은 얼음, 다른 인물. 미미가 루카가 있던 자리 옆으로 들어온다.",
-      "motion_ref": "The koala pushes her glasses up and leans in, the teal glow moving across her lenses as she studies it, ending with her still leaning in, the glow steady on her lenses"
+      "motion_ref": "The koala pushes her glasses up and leans in, the teal glow moving across her lenses as she studies it, ending with her still leaning in, the glow steady on her lenses",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-09",
@@ -368,7 +453,12 @@
       "motion": "The penguin presses his flippers and cheek to the ice, then jerks back with a shiver and shakes himself, ending with him a step back from the ice, shaking off the cold",
       "link": "컷",
       "link_ko": "후안이 반대쪽에서 다가온다. 화면 방향 유지.",
-      "motion_ref": "The penguin presses his flippers and cheek to the ice, then jerks back with a shiver and shakes himself, ending with him a step back from the ice, shaking off the cold"
+      "motion_ref": "The penguin presses his flippers and cheek to the ice, then jerks back with a shiver and shakes himself, ending with him a step back from the ice, shaking off the cold",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-10",
@@ -389,7 +479,11 @@
       "motion": "The rabbit presses both paws to the ice and turns to the others with a determined, gentle look, ending with her turned fully to the others, paws still on the ice",
       "link": "컷",
       "link_ko": "루비가 앞으로 나선다. 이 장면의 결정적 대사.",
-      "motion_ref": "The rabbit presses both paws to the ice and turns to the others with a determined, gentle look, ending with her turned fully to the others, paws still on the ice"
+      "motion_ref": "The rabbit presses both paws to the ice and turns to the others with a determined, gentle look, ending with her turned fully to the others, paws still on the ice",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-11",
@@ -414,7 +508,11 @@
       "motion": "The friends exchange looks around the circle, each nodding in turn, resolve building, ending with all five nodding and turning back toward the ice together",
       "link": "컷",
       "link_ko": "루비의 말에 대한 반응. 다섯이 서로를 본다.",
-      "motion_ref": "The friends exchange looks around the circle, each nodding in turn, resolve building, ending with all five nodding and turning back toward the ice together"
+      "motion_ref": "The friends exchange looks around the circle, each nodding in turn, resolve building, ending with all five nodding and turning back toward the ice together",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-12",
@@ -439,7 +537,12 @@
       "motion": "The friends step in together and wrap themselves against the ice from all sides, hugging it tight, ending with all five pressed to the ice, holding still, breath steaming",
       "link": "연속",
       "link_ko": "앞 컷에서 돌아선 그 동작 그대로 다섯이 얼음으로 다가간다.",
-      "motion_ref": "The friends step in together and wrap themselves against the ice from all sides, hugging it tight, ending with all five pressed to the ice, holding still, breath steaming"
+      "motion_ref": "The friends step in together and wrap themselves against the ice from all sides, hugging it tight, ending with all five pressed to the ice, holding still, breath steaming",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-01",
@@ -469,7 +572,11 @@
         "sec": 0.7,
         "why": "낮에서 밤으로. 시간이 크게 건너뛴다"
       },
-      "motion_ref": "The sleeping friends breathe slowly together, mist drifting past, meltwater trickling from the ice, ending held on the sleeping circle, meltwater still trickling"
+      "motion_ref": "The sleeping friends breathe slowly together, mist drifting past, meltwater trickling from the ice, ending held on the sleeping circle, meltwater still trickling",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-02",
@@ -488,7 +595,11 @@
       "motion": "Dawn light sweeps across the valley and climbs the riverbank, the sky warming from blue to gold, ending with full dawn light across the bank and the ice visibly thinner",
       "link": "연속",
       "link_ko": "같은 구도에서 빛만 바뀐다. 밤 → 새벽.",
-      "motion_ref": "Dawn light sweeps across the valley and climbs the riverbank, the sky warming from blue to gold, ending with full dawn light across the bank and the ice visibly thinner"
+      "motion_ref": "Dawn light sweeps across the valley and climbs the riverbank, the sky warming from blue to gold, ending with full dawn light across the bank and the ice visibly thinner",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-03",
@@ -507,7 +618,13 @@
       "motion": "A crack shoots across the ice and branches rapidly, water sheeting down the surface, ending with the crack reaching the top of frame",
       "link": "컷",
       "link_ko": "그 얇아진 얼음으로 들어간다.",
-      "motion_ref": "A crack shoots across the ice and branches rapidly, water sheeting down the surface, ending with the crack reaching the top of frame"
+      "motion_ref": "A crack shoots across the ice and branches rapidly, water sheeting down the surface, ending with the crack reaching the top of frame",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "종이",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-04",
@@ -526,7 +643,11 @@
       "motion": "The ice breaks apart and slides away in shining pieces, the egg revealed standing free, ending with the egg standing free and the last ice sliding out of frame",
       "link": "연속",
       "link_ko": "금이 끝까지 간 그 순간 얼음이 무너진다.",
-      "motion_ref": "The ice breaks apart and slides away in shining pieces, the egg revealed standing free, ending with the egg standing free and the last ice sliding out of frame"
+      "motion_ref": "The ice breaks apart and slides away in shining pieces, the egg revealed standing free, ending with the egg standing free and the last ice sliding out of frame",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC3-05",
@@ -551,7 +672,11 @@
       "motion": "The friends startle awake all at once, heads snapping up, scrambling upright, ending with all five upright and staring at the egg",
       "link": "컷",
       "link_ko": "소리에 다섯이 깬다. 앞 컷의 얼음 깨지는 소리가 이 컷을 부른다.",
-      "motion_ref": "The friends startle awake all at once, heads snapping up, scrambling upright, ending with all five upright and staring at the egg"
+      "motion_ref": "The friends startle awake all at once, heads snapping up, scrambling upright, ending with all five upright and staring at the egg",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC3-06",
@@ -570,7 +695,9 @@
       "motion": "Cracks spread across the shell and golden-teal light pours out through them, pieces beginning to lift, ending with the shell splitting wide open",
       "link": "컷",
       "link_ko": "다섯의 시선 끝. 알 표면으로 들어간다.",
-      "motion_ref": "Cracks spread across the shell and golden-teal light pours out through them, pieces beginning to lift, ending with the shell splitting wide open"
+      "motion_ref": "Cracks spread across the shell and golden-teal light pours out through them, pieces beginning to lift, ending with the shell splitting wide open",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -596,7 +723,11 @@
         "sec": 0.4,
         "why": "알이 깨지며 빛이 쏟아진다"
       },
-      "motion_ref": "The shell bursts apart and the baby triceratops pushes his head out, blinking hard against the light, ending with his head fully out and eyes squeezed shut"
+      "motion_ref": "The shell bursts apart and the baby triceratops pushes his head out, blinking hard against the light, ending with his head fully out and eyes squeezed shut",
+      "sig": null,
+      "sfx": [
+        "문_열림"
+      ]
     },
     {
       "id": "SC3-08",
@@ -617,7 +748,9 @@
       "motion": "The eyes open wide, pupils adjusting, the sunrise blooming in the reflection, ending held wide open, the sunrise clear in the reflection",
       "link": "연속",
       "link_ko": "감았던 눈이 이 컷에서 떠진다.",
-      "motion_ref": "The eyes open wide, pupils adjusting, the sunrise blooming in the reflection, ending held wide open, the sunrise clear in the reflection"
+      "motion_ref": "The eyes open wide, pupils adjusting, the sunrise blooming in the reflection, ending held wide open, the sunrise clear in the reflection",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -643,7 +776,9 @@
       "motion": "The baby throws his head back and cries out at the sky, birds scattering from the trees, golden light flaring, ending with his head still thrown back, the cry trailing off",
       "link": "컷",
       "link_ko": "첫 울음. 앞 컷의 정지를 깨고 크게 벌어진다.",
-      "motion_ref": "The baby throws his head back and cries out at the sky, birds scattering from the trees, golden light flaring, ending with his head still thrown back, the cry trailing off"
+      "motion_ref": "The baby throws his head back and cries out at the sky, birds scattering from the trees, golden light flaring, ending with his head still thrown back, the cry trailing off",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -664,7 +799,9 @@
       "motion": "He strains upward, legs shaking and sliding out from under him, wobbling badly, ending with him tipping forward off balance",
       "link": "컷",
       "link_ko": "일어서려 애쓴다.",
-      "motion_ref": "He strains upward, legs shaking and sliding out from under him, wobbling badly, ending with him tipping forward off balance"
+      "motion_ref": "He strains upward, legs shaking and sliding out from under him, wobbling badly, ending with him tipping forward off balance",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -685,7 +822,9 @@
       "motion": "He pitches forward and slams both front paws down hard to stop his fall, the ground shuddering, ending with both paws planted and the ground still shuddering",
       "link": "연속",
       "link_ko": "기울어진 그 자세 그대로 앞발이 땅에 닿는다.",
-      "motion_ref": "He pitches forward and slams both front paws down hard to stop his fall, the ground shuddering, ending with both paws planted and the ground still shuddering"
+      "motion_ref": "He pitches forward and slams both front paws down hard to stop his fall, the ground shuddering, ending with both paws planted and the ground still shuddering",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -706,7 +845,11 @@
       "motion": "Light races up the horns and blazes at their tips, aurora colors swirling through them, ending with the horn tips at maximum brightness",
       "link": "연속",
       "link_ko": "앞발이 땅을 친 그 순간 뿔에 빛이 오른다.",
-      "motion_ref": "Light races up the horns and blazes at their tips, aurora colors swirling through them, ending with the horn tips at maximum brightness"
+      "motion_ref": "Light races up the horns and blazes at their tips, aurora colors swirling through them, ending with the horn tips at maximum brightness",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC3-13",
@@ -727,7 +870,11 @@
       "motion": "A ring of golden-teal light races outward across the ground, grass flattening and springing back as it passes, ending with the ring passing beyond frame edge, grass still settling",
       "link": "연속",
       "link_ko": "뿔의 빛이 앞발 자리에서 고리가 되어 나간다.",
-      "motion_ref": "A ring of golden-teal light races outward across the ground, grass flattening and springing back as it passes, ending with the ring passing beyond frame edge, grass still settling"
+      "motion_ref": "A ring of golden-teal light races outward across the ground, grass flattening and springing back as it passes, ending with the ring passing beyond frame edge, grass still settling",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-14",
@@ -746,7 +893,11 @@
       "motion": "The ring of light sweeps through the forest, every branch shivering in turn, flocks of birds bursting up into the dawn sky, ending with the light fading into the far treeline, birds still circling",
       "link": "연속",
       "link_ko": "그 고리가 숲까지 간다. 앞 컷보다 카메라가 넓다.",
-      "motion_ref": "The ring of light sweeps through the forest, every branch shivering in turn, flocks of birds bursting up into the dawn sky, ending with the light fading into the far treeline, birds still circling"
+      "motion_ref": "The ring of light sweeps through the forest, every branch shivering in turn, flocks of birds bursting up into the dawn sky, ending with the light fading into the far treeline, birds still circling",
+      "sig": "쿵쿵_파워",
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC3-15",
@@ -769,7 +920,11 @@
       "motion": "The puppy rolls onto his back with paws in the air, barking happily, the others catching their balance behind him, ending with the puppy still on his back, legs waving",
       "link": "컷",
       "link_ko": "빛이 지나간 뒤 친구들의 반응.",
-      "motion_ref": "The puppy rolls onto his back with paws in the air, barking happily, the others catching their balance behind him, ending with the puppy still on his back, legs waving"
+      "motion_ref": "The puppy rolls onto his back with paws in the air, barking happily, the others catching their balance behind him, ending with the puppy still on his back, legs waving",
+      "sig": null,
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC3-16",
@@ -791,7 +946,11 @@
       "motion": "The tiger cub steps forward, chest out, and raises a paw, grinning hugely as he speaks, ending with his raised paw held out toward the baby",
       "link": "컷",
       "link_ko": "루카가 앞으로 나선다. 이름 짓는 컷.",
-      "motion_ref": "The tiger cub steps forward, chest out, and raises a paw, grinning hugely as he speaks, ending with his raised paw held out toward the baby"
+      "motion_ref": "The tiger cub steps forward, chest out, and raises a paw, grinning hugely as he speaks, ending with his raised paw held out toward the baby",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-17",
@@ -812,7 +971,9 @@
       "motion": "The baby's whole face lights up and he bounces on his front paws with excitement, ending with his whole face lit up mid-bounce",
       "link": "컷",
       "link_ko": "그 손끝의 대상. 이름을 처음 들은 얼굴.",
-      "motion_ref": "The baby's whole face lights up and he bounces on his front paws with excitement, ending with his whole face lit up mid-bounce"
+      "motion_ref": "The baby's whole face lights up and he bounces on his front paws with excitement, ending with his whole face lit up mid-bounce",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-18",
@@ -838,7 +999,12 @@
       "motion": "The friends erupt cheering and crowd around him, [티니] running circles, everyone laughing in the morning sun, ending with all six packed together, still cheering",
       "link": "컷",
       "link_ko": "여섯이 몰려든다. 장면을 닫는 컷.",
-      "motion_ref": "The friends erupt cheering and crowd around him, 티니 running circles, everyone laughing in the morning sun, ending with all six packed together, still cheering"
+      "motion_ref": "The friends erupt cheering and crowd around him, 티니 running circles, everyone laughing in the morning sun, ending with all six packed together, still cheering",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "환호"
+      ]
     },
     {
       "id": "SC4-01",
@@ -857,7 +1023,13 @@
       "motion": "The stream rushes past, water churning over the rocks, small clods of earth dropping from the bank, ending with the camera settled on the churning water and crumbling bank",
       "link": "전환",
       "link_ko": "소리 브릿지. 앞 컷의 환호가 잦아들면서 물소리가 먼저 들어온다.",
-      "motion_ref": "The stream rushes past, water churning over the rocks, small clods of earth dropping from the bank, ending with the camera settled on the churning water and crumbling bank"
+      "motion_ref": "The stream rushes past, water churning over the rocks, small clods of earth dropping from the bank, ending with the camera settled on the churning water and crumbling bank",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "천둥",
+        "삽_흙"
+      ]
     },
     {
       "id": "SC4-02",
@@ -883,7 +1055,11 @@
       "motion": "The friends move along the bank playing, the baby triceratops wobbling along in the middle, ending with the group strung out along the bank, {루비} nearest the water",
       "link": "컷",
       "link_ko": "그 개울가에서 여섯이 논다. 이동 방향은 오른쪽.",
-      "motion_ref": "The friends move along the bank playing, the baby triceratops wobbling along in the middle, ending with the group strung out along the bank, 루비 nearest the water"
+      "motion_ref": "The friends move along the bank playing, the baby triceratops wobbling along in the middle, ending with the group strung out along the bank, 루비 nearest the water",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC4-03",
@@ -904,7 +1080,9 @@
       "motion": "The rabbit waves her wand happily as the wet earth under her feet begins to crack and sag, ending with the ground under her paws visibly cracking",
       "link": "컷",
       "link_ko": "그중 루비만 따로 본다. 물가에 가장 가깝다.",
-      "motion_ref": "The rabbit waves her wand happily as the wet earth under her feet begins to crack and sag, ending with the ground under her paws visibly cracking"
+      "motion_ref": "The rabbit waves her wand happily as the wet earth under her feet begins to crack and sag, ending with the ground under her paws visibly cracking",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -925,7 +1103,11 @@
       "motion": "The bank gives way and slabs of mud drop into the water, her footing vanishing, ending with her footing gone and her body dropping out of frame",
       "link": "연속",
       "link_ko": "갈라지던 그 흙이 이 컷에서 무너진다.",
-      "motion_ref": "The bank gives way and slabs of mud drop into the water, her footing vanishing, ending with her footing gone and her body dropping out of frame"
+      "motion_ref": "The bank gives way and slabs of mud drop into the water, her footing vanishing, ending with her footing gone and her body dropping out of frame",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC4-05",
@@ -946,7 +1128,11 @@
       "motion": "The rabbit is swept into the current and carried downstream fast, thrashing and reaching upward, ending with her carried far downstream, one paw still raised",
       "link": "연속",
       "link_ko": "떨어진 그대로 물에 휩쓸린다.",
-      "motion_ref": "The rabbit is swept into the current and carried downstream fast, thrashing and reaching upward, ending with her carried far downstream, one paw still raised"
+      "motion_ref": "The rabbit is swept into the current and carried downstream fast, thrashing and reaching upward, ending with her carried far downstream, one paw still raised",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC4-06",
@@ -972,7 +1158,12 @@
       "motion": "The friends freeze for one beat then break into a run along the bank, shouting, ending with all of them running hard to the right along the bank",
       "link": "컷",
       "link_ko": "둑 위 반응. 앞 컷의 급류 속도를 그대로 받는다.",
-      "motion_ref": "The friends freeze for one beat then break into a run along the bank, shouting, ending with all of them running hard to the right along the bank"
+      "motion_ref": "The friends freeze for one beat then break into a run along the bank, shouting, ending with all of them running hard to the right along the bank",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "환호"
+      ]
     },
     {
       "id": "SC4-07",
@@ -993,7 +1184,9 @@
       "motion": "His frightened expression sets hard into determination, eyes narrowing on the stream, ending with his eyes locked forward, jaw set",
       "link": "컷",
       "link_ko": "달리는 무리 중 쿵쿵이 얼굴만.",
-      "motion_ref": "His frightened expression sets hard into determination, eyes narrowing on the stream, ending with his eyes locked forward, jaw set"
+      "motion_ref": "His frightened expression sets hard into determination, eyes narrowing on the stream, ending with his eyes locked forward, jaw set",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1014,7 +1207,11 @@
       "motion": "The baby charges along the bank, legs pounding unsteadily, mud kicking up behind him, ending with him pulling ahead of the others at the water's edge",
       "link": "컷",
       "link_ko": "그 결의 그대로 달린다. 방향은 계속 오른쪽.",
-      "motion_ref": "The baby charges along the bank, legs pounding unsteadily, mud kicking up behind him, ending with him pulling ahead of the others at the water's edge"
+      "motion_ref": "The baby charges along the bank, legs pounding unsteadily, mud kicking up behind him, ending with him pulling ahead of the others at the water's edge",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC4-09",
@@ -1035,7 +1232,11 @@
       "motion": "He skids to a halt and drives both front paws down into the earth, the ground buckling under the blow, ending with both paws buried in the earth, his body braced",
       "link": "연속",
       "link_ko": "달리던 그 속도로 미끄러지며 멈추고 그대로 내리찍는다.",
-      "motion_ref": "He skids to a halt and drives both front paws down into the earth, the ground buckling under the blow, ending with both paws buried in the earth, his body braced"
+      "motion_ref": "He skids to a halt and drives both front paws down into the earth, the ground buckling under the blow, ending with both paws buried in the earth, his body braced",
+      "sig": null,
+      "sfx": [
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC4-10",
@@ -1061,7 +1262,9 @@
         "sec": 0.35,
         "why": "뿔이 터지는 순간"
       },
-      "motion_ref": "Light explodes along the horns, blazing brighter and wilder than the first time, ending with the horns blazing at their brightest"
+      "motion_ref": "Light explodes along the horns, blazing brighter and wilder than the first time, ending with the horns blazing at their brightest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-11",
@@ -1082,7 +1285,11 @@
       "motion": "The ring of light races out across the ground and strikes the fallen log, which shudders and begins to move, ending with the log torn loose and rolling toward the water",
       "link": "연속",
       "link_ko": "뿔의 빛이 고리가 되어 통나무까지 간다.",
-      "motion_ref": "The ring of light races out across the ground and strikes the fallen log, which shudders and begins to move, ending with the log torn loose and rolling toward the water"
+      "motion_ref": "The ring of light races out across the ground and strikes the fallen log, which shudders and begins to move, ending with the log torn loose and rolling toward the water",
+      "sig": "쿵쿵_파워",
+      "sfx": [
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC4-12",
@@ -1101,7 +1308,12 @@
       "motion": "The log rolls into the water and jams across the stream, the current piling up white against it, ending with the log wedged fast, water piling white against it",
       "link": "연속",
       "link_ko": "굴러가던 통나무가 이 컷에서 개울에 걸린다.",
-      "motion_ref": "The log rolls into the water and jams across the stream, the current piling up white against it, ending with the log wedged fast, water piling white against it"
+      "motion_ref": "The log rolls into the water and jams across the stream, the current piling up white against it, ending with the log wedged fast, water piling white against it",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC4-13",
@@ -1122,7 +1334,9 @@
       "motion": "The rabbit is swept into the log and grabs on with both paws, pulling herself up against it, gasping, ending with her clinging to the log, safe and gasping",
       "link": "컷",
       "link_ko": "그 통나무로 루비가 떠내려온다.",
-      "motion_ref": "The rabbit is swept into the log and grabs on with both paws, pulling herself up against it, gasping, ending with her clinging to the log, safe and gasping"
+      "motion_ref": "The rabbit is swept into the log and grabs on with both paws, pulling herself up against it, gasping, ending with her clinging to the log, safe and gasping",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-14",
@@ -1144,7 +1358,9 @@
       "motion": "The soaked rabbit takes his paw in both of hers and looks up at his horns, the others crowding in around them, ending with her holding his paw, the others closing in around them",
       "link": "컷",
       "link_ko": "둑 위. 구조 뒤 첫 대사.",
-      "motion_ref": "The soaked rabbit takes his paw in both of hers and looks up at his horns, the others crowding in around them, ending with her holding his paw, the others closing in around them"
+      "motion_ref": "The soaked rabbit takes his paw in both of hers and looks up at his horns, the others crowding in around them, ending with her holding his paw, the others closing in around them",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1165,7 +1381,9 @@
       "motion": "The baby ducks his head shyly, scuffs one foot, then looks up with a growing proud smile, ending with the proud smile held, cheeks still pink",
       "link": "전환",
       "link_ko": "엔딩 시작. 앞 장면의 환호가 잦아들고 이 컷에서 조용해진다.",
-      "motion_ref": "The baby ducks his head shyly, scuffs one foot, then looks up with a growing proud smile, ending with the proud smile held, cheeks still pink"
+      "motion_ref": "The baby ducks his head shyly, scuffs one foot, then looks up with a growing proud smile, ending with the proud smile held, cheeks still pink",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1191,7 +1409,11 @@
       "motion": "The friends laugh together in the sun, [티니] shaking water over everyone, all of them recoiling and laughing, ending with all six laughing together, facing right",
       "link": "컷",
       "link_ko": "쿵쿵이의 웃음에서 여섯 전체로 넓힌다.",
-      "motion_ref": "The friends laugh together in the sun, 티니 shaking water over everyone, all of them recoiling and laughing, ending with all six laughing together, facing right"
+      "motion_ref": "The friends laugh together in the sun, 티니 shaking water over everyone, all of them recoiling and laughing, ending with all six laughing together, facing right",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "EN-03",
@@ -1217,7 +1439,11 @@
       "motion": "The six walk away together down the sunlit path, shadows stretching ahead, leaves drifting down around them, ending with the six well down the path, backs to camera",
       "link": "컷",
       "link_ko": "그 자리에서 그대로 걷기 시작한다. 이동 방향은 계속 오른쪽.",
-      "motion_ref": "The six walk away together down the sunlit path, shadows stretching ahead, leaves drifting down around them, ending with the six well down the path, backs to camera"
+      "motion_ref": "The six walk away together down the sunlit path, shadows stretching ahead, leaves drifting down around them, ending with the six well down the path, backs to camera",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "EN-04",
@@ -1238,7 +1464,9 @@
       "motion": "He stops, turns back and plants both paws on his hips proudly, his foot stamping down and puffing a small ring of dust, ending with both paws planted on his hips, holding the pose",
       "link": "연속",
       "link_ko": "걷던 쿵쿵이가 앞 컷 끝 위치에서 그대로 멈춰 돌아선다.",
-      "motion_ref": "He stops, turns back and plants both paws on his hips proudly, his foot stamping down and puffing a small ring of dust, ending with both paws planted on his hips, holding the pose"
+      "motion_ref": "He stops, turns back and plants both paws on his hips proudly, his foot stamping down and puffing a small ring of dust, ending with both paws planted on his hips, holding the pose",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1264,7 +1492,11 @@
       "motion": "The five wave and walk off down separate trails, ending with the paths empty and {쿵쿵} alone in the centre of frame",
       "link": "컷",
       "link_ko": "포즈를 풀고 다시 걸은 뒤의 갈림길. 여기서 다섯이 흩어지고 쿵쿵이만 남는다.",
-      "motion_ref": "The five wave and walk off down separate trails, ending with the paths empty and 쿵쿵 alone in the centre of frame"
+      "motion_ref": "The five wave and walk off down separate trails, ending with the paths empty and 쿵쿵 alone in the centre of frame",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "EN-06",
@@ -1285,7 +1517,9 @@
       "motion": "His head turns slowly across the empty paths, ending with the smile gone and his eyes lowered",
       "link": "연속",
       "link_ko": "앞 컷에서 혼자 남은 그 자리 그대로. 표정만 바뀐다 — 대사 없이 관객이 알아채야 한다.",
-      "motion_ref": "His head turns slowly across the empty paths, ending with the smile gone and his eyes lowered"
+      "motion_ref": "His head turns slowly across the empty paths, ending with the smile gone and his eyes lowered",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1307,7 +1541,11 @@
       "motion": "The tiger cub runs back into frame and pulls up short, ending with his paw held out and steady between them",
       "link": "컷",
       "link_ko": "앞 컷 끝에서 쿵쿵이가 고개를 숙인 그 순간 루카가 프레임 안으로 들어온다.",
-      "motion_ref": "The tiger cub runs back into frame and pulls up short, ending with his paw held out and steady between them"
+      "motion_ref": "The tiger cub runs back into frame and pulls up short, ending with his paw held out and steady between them",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "EN-08",
@@ -1329,7 +1567,11 @@
       "motion": "The small paw closes on the larger one and they walk off side by side, ending with both of them small against the sunset and the treehouse visible ahead",
       "link": "연속",
       "link_ko": "내민 손을 잡는 동작이 앞 컷에서 시작해 이 컷에서 끝난다.",
-      "motion_ref": "The small paw closes on the larger one and they walk off side by side, ending with both of them small against the sunset and the treehouse visible ahead"
+      "motion_ref": "The small paw closes on the larger one and they walk off side by side, ending with both of them small against the sunset and the treehouse visible ahead",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "EN-09",
@@ -1348,7 +1590,9 @@
       "motion": "The camera holds on the far mountains, and beyond the ridge a small golden-teal light pulses once, then fades, ending on the dark ridge with the light gone",
       "link": "컷",
       "link_ko": "둘이 프레임 밖으로 나간 뒤 카메라가 그대로 먼 산을 본다.",
-      "motion_ref": "The camera holds on the far mountains, and beyond the ridge a small golden-teal light pulses once, then fades, ending on the dark ridge with the light gone"
+      "motion_ref": "The camera holds on the far mountains, and beyond the ridge a small golden-teal light pulses once, then fades, ending on the dark ridge with the light gone",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-10",
@@ -1374,7 +1618,9 @@
       "motion": "Gentle push in on the end card, light sparkles drifting, everything settling into stillness",
       "link": "컷",
       "link_ko": "엔딩 카드. 앞 컷의 어두운 하늘에서 밝은 언덕으로 넘어간다.",
-      "motion_ref": "Gentle push in on the end card, light sparkles drifting, everything settling into stillness"
+      "motion_ref": "Gentle push in on the end card, light sparkles drifting, everything settling into stillness",
+      "sig": null,
+      "sfx": []
     }
   ],
   "episode_cast": [

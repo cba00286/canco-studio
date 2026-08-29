@@ -7,6 +7,13 @@
   "sections": {
     "SH": "쇼츠 · 혼자서는 못 버텨"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "실내_집",
+      "bgm": "벅찬_감동",
+      "weather": "비"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +36,12 @@
       "motion": "The paws crash down, ending with the spray at its highest",
       "link": "전환",
       "link_ko": "첫 컷. 비와 진흙으로 시작해 상황을 1초에 알린다.",
-      "motion_ref": "The paws crash down, ending with the spray at its highest"
+      "motion_ref": "The paws crash down, ending with the spray at its highest",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵",
+        "삽_흙"
+      ]
     },
     {
       "id": "P03-02",
@@ -55,7 +67,9 @@
         "sec": 0.3,
         "why": "방어막이 솟는 순간"
       },
-      "motion_ref": "The light arcs up and closes over, ending with the dome complete and rain bursting off it"
+      "motion_ref": "The light arcs up and closes over, ending with the dome complete and rain bursting off it",
+      "sig": "쿵쿵_방어막",
+      "sfx": []
     },
     {
       "id": "P03-03",
@@ -76,7 +90,11 @@
       "motion": "His foot slides further back, ending with the dome visibly dimming",
       "link": "연속",
       "link_ko": "돔을 만든 대가가 이 컷에서 드러난다.",
-      "motion_ref": "His foot slides further back, ending with the dome visibly dimming"
+      "motion_ref": "His foot slides further back, ending with the dome visibly dimming",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "P03-04",
@@ -102,7 +120,11 @@
       "motion": "Hand after hand presses down, ending with the dome blazing and steady",
       "link": "연속",
       "link_ko": "미끄러지던 그 순간 다섯이 도착한다.",
-      "motion_ref": "Hand after hand presses down, ending with the dome blazing and steady"
+      "motion_ref": "Hand after hand presses down, ending with the dome blazing and steady",
+      "sig": null,
+      "sfx": [
+        "발소리_나무마루"
+      ]
     },
     {
       "id": "P03-05",
@@ -128,7 +150,12 @@
       "motion": "The dome breaks apart, ending with the house clear and the six laughing in the mud",
       "link": "컷",
       "link_ko": "마무리. 무엇을 지켰는지 보여주고 끝낸다.",
-      "motion_ref": "The dome breaks apart, ending with the house clear and the six laughing in the mud"
+      "motion_ref": "The dome breaks apart, ending with the house clear and the six laughing in the mud",
+      "sig": null,
+      "sfx": [
+        "환호",
+        "삽_흙"
+      ]
     }
   ]
 }

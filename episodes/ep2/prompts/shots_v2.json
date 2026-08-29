@@ -16,6 +16,28 @@
     "SC4": "Act 4 · SC#4 언덕 위 참나무 아래 — 보물상자를 열다",
     "EN": "엔딩 · 진짜 보물은 함께한 순간"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "마을_광장",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "숲_낮",
+      "bgm": "익살_소동"
+    },
+    "SC3": {
+      "amb": "정상",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "눈밭",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "참나무숲",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -34,7 +56,11 @@
       "motion": "Light beams shift between the swaying leaves, camera slowly craning up toward the treehouse, ending held on the treehouse with the rope ladder swaying",
       "link": "전환",
       "link_ko": "2화 첫 컷. 검은 화면에서 아침 빛이 차오른다.",
-      "motion_ref": "Light beams shift between the swaying leaves, camera slowly craning up toward the treehouse, ending held on the treehouse with the rope ladder swaying"
+      "motion_ref": "Light beams shift between the swaying leaves, camera slowly craning up toward the treehouse, ending held on the treehouse with the rope ladder swaying",
+      "sig": null,
+      "sfx": [
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC1-02",
@@ -53,7 +79,12 @@
       "motion": "Dust motes drift and sparkle slowly in the shaft of light, ending settled on the crates in the corner",
       "link": "연속",
       "link_ko": "앞 컷에서 올라간 카메라가 그대로 창문을 통과해 안으로 들어간다.",
-      "motion_ref": "Dust motes drift and sparkle slowly in the shaft of light, ending settled on the crates in the corner"
+      "motion_ref": "Dust motes drift and sparkle slowly in the shaft of light, ending settled on the crates in the corner",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍",
+        "종이"
+      ]
     },
     {
       "id": "SC1-03",
@@ -74,7 +105,11 @@
       "motion": "The tiger cub digs through the crate, sending rope and cans tumbling out, ending with him elbow-deep in the crate, going still",
       "link": "컷",
       "link_ko": "그 상자를 루카가 뒤지고 있다.",
-      "motion_ref": "The tiger cub digs through the crate, sending rope and cans tumbling out, ending with him elbow-deep in the crate, going still"
+      "motion_ref": "The tiger cub digs through the crate, sending rope and cans tumbling out, ending with him elbow-deep in the crate, going still",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC1-04",
@@ -95,7 +130,11 @@
       "motion": "The paw lifts the paper slowly, the old folds opening, ending with the folded paper clear of the crate",
       "link": "연속",
       "link_ko": "뒤지던 손이 이 컷에서 무언가를 잡는다.",
-      "motion_ref": "The paw lifts the paper slowly, the old folds opening, ending with the folded paper clear of the crate"
+      "motion_ref": "The paw lifts the paper slowly, the old folds opening, ending with the folded paper clear of the crate",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-05",
@@ -116,7 +155,11 @@
       "motion": "The tiger cub jumps up, raising the map triumphantly over his head, ending with the map held high above his head",
       "link": "연속",
       "link_ko": "잡은 종이를 그대로 들어 올린다.",
-      "motion_ref": "The tiger cub jumps up, raising the map triumphantly over his head, ending with the map held high above his head"
+      "motion_ref": "The tiger cub jumps up, raising the map triumphantly over his head, ending with the map held high above his head",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-06",
@@ -135,7 +178,11 @@
       "motion": "The camera drifts across the map and settles on the red X, ending held on the red X",
       "link": "컷",
       "link_ko": "들어 올린 그 지도로 들어간다.",
-      "motion_ref": "The camera drifts across the map and settles on the red X, ending held on the red X"
+      "motion_ref": "The camera drifts across the map and settles on the red X, ending held on the red X",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-07",
@@ -158,7 +205,9 @@
       "motion": "The three of them climb up through the hatch, heads popping into the room one by one, ending with all three fully up through the hatch",
       "link": "컷",
       "link_ko": "지도를 본 뒤 문 쪽 소리로 돌아본다.",
-      "motion_ref": "The three of them climb up through the hatch, heads popping into the room one by one, ending with all three fully up through the hatch"
+      "motion_ref": "The three of them climb up through the hatch, heads popping into the room one by one, ending with all three fully up through the hatch",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -179,7 +228,11 @@
       "motion": "The koala nudges her glasses up and walks over toward the map, ending with her paw reaching for the map",
       "link": "컷",
       "link_ko": "올라온 셋 중 미미가 앞으로 나온다.",
-      "motion_ref": "The koala nudges her glasses up and walks over toward the map, ending with her paw reaching for the map"
+      "motion_ref": "The koala nudges her glasses up and walks over toward the map, ending with her paw reaching for the map",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-09",
@@ -200,7 +253,11 @@
       "motion": "Her eyes track left and right behind the lenses as she reads the map, ending with her eyes stopping on one point",
       "link": "연속",
       "link_ko": "뻗은 손이 이 컷에서 지도를 받아 든다.",
-      "motion_ref": "Her eyes track left and right behind the lenses as she reads the map, ending with her eyes stopping on one point"
+      "motion_ref": "Her eyes track left and right behind the lenses as she reads the map, ending with her eyes stopping on one point",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-10",
@@ -221,7 +278,11 @@
       "motion": "The koala taps the marked spot twice and lifts her head toward her friends, ending with her looking up from the map at the others",
       "link": "연속",
       "link_ko": "살피던 시선이 멈춘 그 지점을 짚는다.",
-      "motion_ref": "The koala taps the marked spot twice and lifts her head toward her friends, ending with her looking up from the map at the others"
+      "motion_ref": "The koala taps the marked spot twice and lifts her head toward her friends, ending with her looking up from the map at the others",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-11",
@@ -242,7 +303,9 @@
       "motion": "The puppy hops up and down, tail wagging in a blur, ending mid-bounce with her tail still blurring",
       "link": "컷",
       "link_ko": "미미의 말에 티니가 반응한다.",
-      "motion_ref": "The puppy hops up and down, tail wagging in a blur, ending mid-bounce with her tail still blurring"
+      "motion_ref": "The puppy hops up and down, tail wagging in a blur, ending mid-bounce with her tail still blurring",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -263,7 +326,9 @@
       "motion": "The baby dinosaur tips his head sideways and blinks, ending held with his head still tilted",
       "link": "컷",
       "link_ko": "신난 티니 옆에서 쿵쿵이만 어리둥절하다.",
-      "motion_ref": "The baby dinosaur tips his head sideways and blinks, ending held with his head still tilted"
+      "motion_ref": "The baby dinosaur tips his head sideways and blinks, ending held with his head still tilted",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -284,7 +349,11 @@
       "motion": "The tiger cub snaps the map shut, pockets it and strides off ahead, ending with him already at the hatch, map pocketed",
       "link": "컷",
       "link_ko": "쿵쿵이의 질문에 루카가 답하며 앞장선다.",
-      "motion_ref": "The tiger cub snaps the map shut, pockets it and strides off ahead, ending with him already at the hatch, map pocketed"
+      "motion_ref": "The tiger cub snaps the map shut, pockets it and strides off ahead, ending with him already at the hatch, map pocketed",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC1-14",
@@ -308,7 +377,12 @@
       "motion": "The four walk off along the path, leaf shadows sliding over their backs, ending with the four small on the path, walking right",
       "link": "연속",
       "link_ko": "문을 나선 그대로 사다리를 내려와 숲길로 이어진다.",
-      "motion_ref": "The four walk off along the path, leaf shadows sliding over their backs, ending with the four small on the path, walking right"
+      "motion_ref": "The four walk off along the path, leaf shadows sliding over their backs, ending with the four small on the path, walking right",
+      "sig": null,
+      "sfx": [
+        "발소리_돌",
+        "나뭇잎"
+      ]
     },
     {
       "id": "SC2-01",
@@ -327,7 +401,11 @@
       "motion": "The camera glides through the mouth of the ravine and inward, ending settled inside the ravine mouth",
       "link": "전환",
       "link_ko": "숲길이 끝나고 골짜기가 열린다. 나무 사이에서 바위로 바뀐다.",
-      "motion_ref": "The camera glides through the mouth of the ravine and inward, ending settled inside the ravine mouth"
+      "motion_ref": "The camera glides through the mouth of the ravine and inward, ending settled inside the ravine mouth",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-02",
@@ -346,7 +424,12 @@
       "motion": "Dry grass flattens in the wind, dust skimming across the pebbles, ending with the dry grass all bent one way",
       "link": "컷",
       "link_ko": "골짜기 바닥을 가까이 본다.",
-      "motion_ref": "Dry grass flattens in the wind, dust skimming across the pebbles, ending with the dry grass all bent one way"
+      "motion_ref": "Dry grass flattens in the wind, dust skimming across the pebbles, ending with the dry grass all bent one way",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC2-03",
@@ -370,7 +453,12 @@
       "motion": "The tiger cub leads with the open map, the others following him in, ending with the four well inside the ravine, {루카} leading",
       "link": "컷",
       "link_ko": "그 바닥 위로 넷이 들어온다. 이동 방향은 계속 오른쪽.",
-      "motion_ref": "The tiger cub leads with the open map, the others following him in, ending with the four well inside the ravine, 루카 leading"
+      "motion_ref": "The tiger cub leads with the open map, the others following him in, ending with the four well inside the ravine, 루카 leading",
+      "sig": null,
+      "sfx": [
+        "발소리_풀",
+        "종이"
+      ]
     },
     {
       "id": "SC2-04",
@@ -391,7 +479,13 @@
       "motion": "Pebbles skid and scatter under the foot, ending with the stones settled and one still rolling",
       "link": "컷",
       "link_ko": "걷는 발밑을 본다.",
-      "motion_ref": "Pebbles skid and scatter under the foot, ending with the stones settled and one still rolling"
+      "motion_ref": "Pebbles skid and scatter under the foot, ending with the stones settled and one still rolling",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "돌_굴림",
+        "얼음_미끄럼"
+      ]
     },
     {
       "id": "SC2-05",
@@ -412,7 +506,9 @@
       "motion": "The koala halts and raises her head, the end of her scarf stirring, ending with her head fully back, looking up at the cliff top",
       "link": "컷",
       "link_ko": "그 소리에 미미가 멈춰 선다.",
-      "motion_ref": "The koala halts and raises her head, the end of her scarf stirring, ending with her head fully back, looking up at the cliff top"
+      "motion_ref": "The koala halts and raises her head, the end of her scarf stirring, ending with her head fully back, looking up at the cliff top",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -431,7 +527,11 @@
       "motion": "Dust whirls up and rushes down the length of the ravine, ending with the dust column sweeping down toward the four",
       "link": "연속",
       "link_ko": "미미가 올려다본 그 절벽 위에서 바람이 내려온다.",
-      "motion_ref": "Dust whirls up and rushes down the length of the ravine, ending with the dust column sweeping down toward the four"
+      "motion_ref": "Dust whirls up and rushes down the length of the ravine, ending with the dust column sweeping down toward the four",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC2-07",
@@ -455,7 +555,11 @@
       "motion": "The four brace against the gust, fur and clothing whipping back, ending with all four leaning hard into the gust",
       "link": "연속",
       "link_ko": "내려온 바람이 그대로 넷을 덮친다.",
-      "motion_ref": "The four brace against the gust, fur and clothing whipping back, ending with all four leaning hard into the gust"
+      "motion_ref": "The four brace against the gust, fur and clothing whipping back, ending with all four leaning hard into the gust",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC2-08",
@@ -476,7 +580,11 @@
       "motion": "The map rips free, his paw closing on nothing, ending with his paw closed on nothing",
       "link": "연속",
       "link_ko": "바람에 밀리던 그 순간 지도가 손에서 뜯긴다.",
-      "motion_ref": "The map rips free, his paw closing on nothing, ending with his paw closed on nothing"
+      "motion_ref": "The map rips free, his paw closing on nothing, ending with his paw closed on nothing",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-09",
@@ -495,7 +603,13 @@
       "motion": "The map whirls upward, tumbling toward the cliff, ending with the map high against the cliff face",
       "link": "연속",
       "link_ko": "빠져나간 지도가 그대로 하늘로 치솟는다.",
-      "motion_ref": "The map whirls upward, tumbling toward the cliff, ending with the map high against the cliff face"
+      "motion_ref": "The map whirls upward, tumbling toward the cliff, ending with the map high against the cliff face",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍",
+        "충돌_쿵",
+        "종이"
+      ]
     },
     {
       "id": "SC2-10",
@@ -519,7 +633,11 @@
       "motion": "Their heads tip back, camera rising to follow the map, ending with all four heads tipped fully back",
       "link": "컷",
       "link_ko": "날아가는 지도를 넷이 올려다본다.",
-      "motion_ref": "Their heads tip back, camera rising to follow the map, ending with all four heads tipped fully back"
+      "motion_ref": "Their heads tip back, camera rising to follow the map, ending with all four heads tipped fully back",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC2-11",
@@ -538,7 +656,13 @@
       "motion": "The paper snaps and flutters in the crack but stays caught, ending with the map caught fast and flapping",
       "link": "연속",
       "link_ko": "올려다본 그 끝에서 지도가 바위 틈에 걸린다.",
-      "motion_ref": "The paper snaps and flutters in the crack but stays caught, ending with the map caught fast and flapping"
+      "motion_ref": "The paper snaps and flutters in the crack but stays caught, ending with the map caught fast and flapping",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "나무_삐걱",
+        "종이"
+      ]
     },
     {
       "id": "SC2-12",
@@ -559,7 +683,11 @@
       "motion": "The tiger cub dashes to the cliff and throws his head back to look up, ending with him at the cliff base looking straight up",
       "link": "컷",
       "link_ko": "걸린 지도를 보고 루카가 달려간다.",
-      "motion_ref": "The tiger cub dashes to the cliff and throws his head back to look up, ending with him at the cliff base looking straight up"
+      "motion_ref": "The tiger cub dashes to the cliff and throws his head back to look up, ending with him at the cliff base looking straight up",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-13",
@@ -580,7 +708,11 @@
       "motion": "He climbs two steps, loses his footing and slides down in a cloud of dust, ending with him back on the ground in a cloud of dust",
       "link": "연속",
       "link_ko": "올려다본 그대로 오르려 하지만 미끄러진다.",
-      "motion_ref": "He climbs two steps, loses his footing and slides down in a cloud of dust, ending with him back on the ground in a cloud of dust"
+      "motion_ref": "He climbs two steps, loses his footing and slides down in a cloud of dust, ending with him back on the ground in a cloud of dust",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-14",
@@ -601,7 +733,9 @@
       "motion": "The puppy stretches a paw up, lets it fall, ears sagging, ending with her paw dropped and ears flat",
       "link": "컷",
       "link_ko": "루카가 실패한 뒤 티니도 손을 뻗어본다.",
-      "motion_ref": "The puppy stretches a paw up, lets it fall, ears sagging, ending with her paw dropped and ears flat"
+      "motion_ref": "The puppy stretches a paw up, lets it fall, ears sagging, ending with her paw dropped and ears flat",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -622,7 +756,9 @@
       "motion": "The tiger cub drops to the ground, shoulders falling, ending with him hunched, face against his knees",
       "link": "컷",
       "link_ko": "둘 다 안 되자 루카가 주저앉는다.",
-      "motion_ref": "The tiger cub drops to the ground, shoulders falling, ending with him hunched, face against his knees"
+      "motion_ref": "The tiger cub drops to the ground, shoulders falling, ending with him hunched, face against his knees",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -644,7 +780,9 @@
       "motion": "The baby dinosaur toddles over and halts at his friend's side, ending with him standing still at {루카}'s side, looking down",
       "link": "연속",
       "link_ko": "주저앉은 그 옆으로 쿵쿵이가 걸어와 선다.",
-      "motion_ref": "The baby dinosaur toddles over and halts at his friend's side, ending with him standing still at 루카's side, looking down"
+      "motion_ref": "The baby dinosaur toddles over and halts at his friend's side, ending with him standing still at 루카's side, looking down",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -665,7 +803,9 @@
       "motion": "The baby dinosaur tucks his chin, expression turning determined, ending with his jaw set and eyes forward",
       "link": "전환",
       "link_ko": "주저앉은 루카에서 결심한 쿵쿵이로. 장면의 무게가 넘어간다.",
-      "motion_ref": "The baby dinosaur tucks his chin, expression turning determined, ending with his jaw set and eyes forward"
+      "motion_ref": "The baby dinosaur tucks his chin, expression turning determined, ending with his jaw set and eyes forward",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -686,7 +826,9 @@
       "motion": "The baby dinosaur rears up, front paws raised high, ending with both front paws at their highest",
       "link": "연속",
       "link_ko": "결심한 그 얼굴 그대로 앞발을 든다.",
-      "motion_ref": "The baby dinosaur rears up, front paws raised high, ending with both front paws at their highest"
+      "motion_ref": "The baby dinosaur rears up, front paws raised high, ending with both front paws at their highest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -707,7 +849,11 @@
       "motion": "The paws crash down and a ring of dust bursts outward, ending with the dust ring at its widest",
       "link": "연속",
       "link_ko": "든 앞발이 그대로 내려온다.",
-      "motion_ref": "The paws crash down and a ring of dust bursts outward, ending with the dust ring at its widest"
+      "motion_ref": "The paws crash down and a ring of dust bursts outward, ending with the dust ring at its widest",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC3-04",
@@ -733,7 +879,9 @@
         "sec": 0.35,
         "why": "발구름이 빛으로 번지는 순간"
       },
-      "motion_ref": "Light races up along the horns as a glowing ring spreads out across the ground, ending with the horn tips at maximum brightness"
+      "motion_ref": "Light races up along the horns as a glowing ring spreads out across the ground, ending with the horn tips at maximum brightness",
+      "sig": "쿵쿵_파워",
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -752,7 +900,11 @@
       "motion": "The glowing ring sweeps outward, pebbles leaping in its wake, ending with the ring passing beyond frame, pebbles still bouncing",
       "link": "연속",
       "link_ko": "뿔의 빛이 땅 위로 퍼져 나간다.",
-      "motion_ref": "The glowing ring sweeps outward, pebbles leaping in its wake, ending with the ring passing beyond frame, pebbles still bouncing"
+      "motion_ref": "The glowing ring sweeps outward, pebbles leaping in its wake, ending with the ring passing beyond frame, pebbles still bouncing",
+      "sig": "쿵쿵_파워",
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-06",
@@ -771,7 +923,12 @@
       "motion": "The pebbles shiver and roll, gathering toward a single point, ending with all the pebbles rolling toward one point",
       "link": "연속",
       "link_ko": "빛 고리가 지나간 자리의 돌들이 움직이기 시작한다.",
-      "motion_ref": "The pebbles shiver and roll, gathering toward a single point, ending with all the pebbles rolling toward one point"
+      "motion_ref": "The pebbles shiver and roll, gathering toward a single point, ending with all the pebbles rolling toward one point",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "돌_굴림"
+      ]
     },
     {
       "id": "SC3-07",
@@ -790,7 +947,11 @@
       "motion": "The stones pile up layer by layer, settling into a stair shape, ending with the stone stair fully formed and still",
       "link": "연속",
       "link_ko": "모여든 돌들이 그대로 쌓여 올라간다.",
-      "motion_ref": "The stones pile up layer by layer, settling into a stair shape, ending with the stone stair fully formed and still"
+      "motion_ref": "The stones pile up layer by layer, settling into a stair shape, ending with the stone stair fully formed and still",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-08",
@@ -811,7 +972,11 @@
       "motion": "Her eyes widen, the glasses slipping down a little, ending with her glasses slid halfway down her nose",
       "link": "컷",
       "link_ko": "완성된 돌계단을 본 미미의 반응.",
-      "motion_ref": "Her eyes widen, the glasses slipping down a little, ending with her glasses slid halfway down her nose"
+      "motion_ref": "Her eyes widen, the glasses slipping down a little, ending with her glasses slid halfway down her nose",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-09",
@@ -833,7 +998,9 @@
       "motion": "The puppy races excitedly in circles around the baby dinosaur, ending with her still circling {쿵쿵}",
       "link": "컷",
       "link_ko": "놀란 미미 뒤에서 티니가 뛰어든다.",
-      "motion_ref": "The puppy races excitedly in circles around the baby dinosaur, ending with her still circling 쿵쿵"
+      "motion_ref": "The puppy races excitedly in circles around the baby dinosaur, ending with her still circling 쿵쿵",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -855,7 +1022,9 @@
       "motion": "The tiger cub rises and strokes the baby dinosaur's head, ending with his paw resting on {쿵쿵}'s head",
       "link": "컷",
       "link_ko": "티니 옆에서 루카가 일어난다.",
-      "motion_ref": "The tiger cub rises and strokes the baby dinosaur's head, ending with his paw resting on 쿵쿵's head"
+      "motion_ref": "The tiger cub rises and strokes the baby dinosaur's head, ending with his paw resting on 쿵쿵's head",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -876,7 +1045,11 @@
       "motion": "The tiger cub climbs the stone steps carefully, one at a time, ending with him near the top of the stair",
       "link": "연속",
       "link_ko": "머리를 쓰다듬은 뒤 그대로 돌계단으로 향한다.",
-      "motion_ref": "The tiger cub climbs the stone steps carefully, one at a time, ending with him near the top of the stair"
+      "motion_ref": "The tiger cub climbs the stone steps carefully, one at a time, ending with him near the top of the stair",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-12",
@@ -897,7 +1070,11 @@
       "motion": "He rises onto his toes, reaching as high as he can, ending stretched to full reach on tiptoe",
       "link": "연속",
       "link_ko": "계단 꼭대기에서 그대로 팔을 뻗는다.",
-      "motion_ref": "He rises onto his toes, reaching as high as he can, ending stretched to full reach on tiptoe"
+      "motion_ref": "He rises onto his toes, reaching as high as he can, ending stretched to full reach on tiptoe",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-13",
@@ -918,7 +1095,11 @@
       "motion": "The fingers grip the paper and draw it carefully free, ending with the map pulled free of the crack",
       "link": "연속",
       "link_ko": "뻗은 손끝이 이 컷에서 지도에 닿는다.",
-      "motion_ref": "The fingers grip the paper and draw it carefully free, ending with the map pulled free of the crack"
+      "motion_ref": "The fingers grip the paper and draw it carefully free, ending with the map pulled free of the crack",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC3-14",
@@ -939,7 +1120,13 @@
       "motion": "The tiger cub bounds down the steps, waving the map, ending with him landing on the ravine floor, map held high",
       "link": "연속",
       "link_ko": "지도를 쥔 그대로 계단을 뛰어 내려온다.",
-      "motion_ref": "The tiger cub bounds down the steps, waving the map, ending with him landing on the ravine floor, map held high"
+      "motion_ref": "The tiger cub bounds down the steps, waving the map, ending with him landing on the ravine floor, map held high",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "충돌_쿵",
+        "종이"
+      ]
     },
     {
       "id": "SC3-15",
@@ -963,7 +1150,11 @@
       "motion": "The four lean in together over the map, ending with all four heads together over the map",
       "link": "컷",
       "link_ko": "내려온 자리에서 넷이 지도를 둘러싼다.",
-      "motion_ref": "The four lean in together over the map, ending with all four heads together over the map"
+      "motion_ref": "The four lean in together over the map, ending with all four heads together over the map",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-01",
@@ -987,7 +1178,11 @@
       "motion": "The camera rises over the hill, the four growing small ahead, ending with the four cresting the hill",
       "link": "전환",
       "link_ko": "골짜기를 벗어난다. 회갈색 바위에서 초록 언덕으로 색이 바뀐다.",
-      "motion_ref": "The camera rises over the hill, the four growing small ahead, ending with the four cresting the hill"
+      "motion_ref": "The camera rises over the hill, the four growing small ahead, ending with the four cresting the hill",
+      "sig": null,
+      "sfx": [
+        "발소리_눈"
+      ]
     },
     {
       "id": "SC4-02",
@@ -1006,7 +1201,11 @@
       "motion": "The leaves sway in the afternoon wind, shadows rippling on the ground, ending held on the oak with its shade pooled beneath",
       "link": "연속",
       "link_ko": "언덕을 올라선 그 시야에 참나무가 들어온다.",
-      "motion_ref": "The leaves sway in the afternoon wind, shadows rippling on the ground, ending held on the oak with its shade pooled beneath"
+      "motion_ref": "The leaves sway in the afternoon wind, shadows rippling on the ground, ending held on the oak with its shade pooled beneath",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC4-03",
@@ -1030,7 +1229,11 @@
       "motion": "The four dig hard, soil spraying backward, ending with a dark shape showing in the soil",
       "link": "컷",
       "link_ko": "그 그늘 아래를 넷이 파기 시작한다.",
-      "motion_ref": "The four dig hard, soil spraying backward, ending with a dark shape showing in the soil"
+      "motion_ref": "The four dig hard, soil spraying backward, ending with a dark shape showing in the soil",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1049,7 +1252,11 @@
       "motion": "Soil falls away revealing the grain and rusted hinge of the box, ending with the box lid fully exposed",
       "link": "연속",
       "link_ko": "드러난 그 형체로 들어간다.",
-      "motion_ref": "Soil falls away revealing the grain and rusted hinge of the box, ending with the box lid fully exposed"
+      "motion_ref": "Soil falls away revealing the grain and rusted hinge of the box, ending with the box lid fully exposed",
+      "sig": null,
+      "sfx": [
+        "유리_병"
+      ]
     },
     {
       "id": "SC4-05",
@@ -1073,7 +1280,12 @@
       "motion": "The lid creaks slowly open as the others lean in, ending with the lid raised and the inside not yet visible",
       "link": "컷",
       "link_ko": "드러난 상자를 넷이 둘러싼다.",
-      "motion_ref": "The lid creaks slowly open as the others lean in, ending with the lid raised and the inside not yet visible"
+      "motion_ref": "The lid creaks slowly open as the others lean in, ending with the lid raised and the inside not yet visible",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱",
+        "유리_병"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1094,7 +1306,11 @@
       "motion": "The box opens on its meagre contents, his expression slackening, ending held on his blank surprised face",
       "link": "연속",
       "link_ko": "들린 뚜껑 아래가 이 컷에서 드러난다.",
-      "motion_ref": "The box opens on its meagre contents, his expression slackening, ending held on his blank surprised face"
+      "motion_ref": "The box opens on its meagre contents, his expression slackening, ending held on his blank surprised face",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1113,7 +1329,11 @@
       "motion": "The paper unfolds, revealing the crayon lines and paper grain, ending with the crayon drawing fully open in frame",
       "link": "컷",
       "link_ko": "상자 안의 그림으로 들어간다.",
-      "motion_ref": "The paper unfolds, revealing the crayon lines and paper grain, ending with the crayon drawing fully open in frame"
+      "motion_ref": "The paper unfolds, revealing the crayon lines and paper grain, ending with the crayon drawing fully open in frame",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1134,7 +1354,9 @@
       "motion": "The koala bends over the drawing, a smile growing, ending with her smile fully formed",
       "link": "컷",
       "link_ko": "그림을 보는 미미.",
-      "motion_ref": "The koala bends over the drawing, a smile growing, ending with her smile fully formed"
+      "motion_ref": "The koala bends over the drawing, a smile growing, ending with her smile fully formed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1155,7 +1377,9 @@
       "motion": "The tiger cub hugs the drawing close, closing and opening his eyes, ending with the drawing pressed flat against his chest",
       "link": "전환",
       "link_ko": "엔딩 시작. 그림을 보던 손이 그것을 가슴에 안는다.",
-      "motion_ref": "The tiger cub hugs the drawing close, closing and opening his eyes, ending with the drawing pressed flat against his chest"
+      "motion_ref": "The tiger cub hugs the drawing close, closing and opening his eyes, ending with the drawing pressed flat against his chest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1176,7 +1400,9 @@
       "motion": "The baby dinosaur puffs up his chest and beams, ending with his chest still puffed, smile held",
       "link": "컷",
       "link_ko": "루카의 말을 받아 쿵쿵이가 정리한다.",
-      "motion_ref": "The baby dinosaur puffs up his chest and beams, ending with his chest still puffed, smile held"
+      "motion_ref": "The baby dinosaur puffs up his chest and beams, ending with his chest still puffed, smile held",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1200,7 +1426,12 @@
       "motion": "The four laugh together, leaf shadows drifting over them, ending with all four laughing, heads back",
       "link": "컷",
       "link_ko": "쿵쿵이의 말에 넷이 함께 웃는다.",
-      "motion_ref": "The four laugh together, leaf shadows drifting over them, ending with all four laughing, heads back"
+      "motion_ref": "The four laugh together, leaf shadows drifting over them, ending with all four laughing, heads back",
+      "sig": null,
+      "sfx": [
+        "나뭇잎",
+        "환호"
+      ]
     },
     {
       "id": "EN-04",
@@ -1224,7 +1455,11 @@
       "motion": "Paws pat the earth flat and place a small stone on top, ending with the small stone set on the patted earth",
       "link": "컷",
       "link_ko": "웃음이 잦아들고 넷이 상자를 다시 묻는다.",
-      "motion_ref": "Paws pat the earth flat and place a small stone on top, ending with the small stone set on the patted earth"
+      "motion_ref": "Paws pat the earth flat and place a small stone on top, ending with the small stone set on the patted earth",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "EN-05",
@@ -1243,7 +1478,9 @@
       "motion": "The camera drifts slowly across the new crayon drawing, ending held on the four figures in the drawing",
       "link": "연속",
       "link_ko": "묻기 직전 상자 안에 넣은 새 그림을 본다.",
-      "motion_ref": "The camera drifts slowly across the new crayon drawing, ending held on the four figures in the drawing"
+      "motion_ref": "The camera drifts slowly across the new crayon drawing, ending held on the four figures in the drawing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1267,7 +1504,11 @@
       "motion": "Their shadows stretch long as the sky turns orange, ending with the four small against the sunset, shadows long",
       "link": "컷",
       "link_ko": "묻기를 마치고 넷이 언덕을 내려간다.",
-      "motion_ref": "Their shadows stretch long as the sky turns orange, ending with the four small against the sunset, shadows long"
+      "motion_ref": "Their shadows stretch long as the sky turns orange, ending with the four small against the sunset, shadows long",
+      "sig": null,
+      "sfx": [
+        "발소리_낙엽"
+      ]
     },
     {
       "id": "EN-07",
@@ -1291,7 +1532,9 @@
       "motion": "Leaves sway gently as the camera pulls back very slowly",
       "link": "컷",
       "link_ko": "엔딩 카드.",
-      "motion_ref": "Leaves sway gently as the camera pulls back very slowly"
+      "motion_ref": "Leaves sway gently as the camera pulls back very slowly",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

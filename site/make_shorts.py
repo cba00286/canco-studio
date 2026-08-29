@@ -27,7 +27,8 @@ for d in sorted(x for x in (ROOT / "shorts").iterdir()
                 if x.is_dir() and (x / "prompts" / "shots_v2.json").exists()):
     D = json.loads((d / "prompts" / "shots_v2.json").read_text(encoding="utf-8"))
     shorts.append({"id": d.name, "kind": D.get("kind", ""), "title": D.get("title", ""),
-                   "hook": D.get("hook", ""), "sec": D["total_seconds"], "shots": D["shots"]})
+                   "hook": D.get("hook", ""), "sec": D["total_seconds"], "shots": D["shots"],
+                   "audio": (D.get("audio_sections") or {}).get("SH")})
 
 idx = 0
 groups = []
@@ -56,6 +57,7 @@ for kind, blurb in KINDS:
           <pre id="p{idx}" hidden>{e(sh["image_ref"])}</pre>
           <pre id="m{idx}" hidden>{e(sh.get("motion_ref") or sh["motion"])}</pre>
           <p class="komo">{e(sh["ko_motion"])}</p>
+          {('<div class="sfx">' + ('<span class="sig">능력 소리 ' + e(sh["sig"]) + '</span>' if sh.get("sig") else "") + "".join('<span class="s">' + e(x) + '</span>' for x in (sh.get("sfx") or [])) + '</div>') if (sh.get("sig") or sh.get("sfx")) else ""}
         </div>
       </div>''')
         cards.append(f'''
@@ -66,6 +68,7 @@ for kind, blurb in KINDS:
       <span class="stat">{s["sec"]}초 · {len(s["shots"])}컷 · 9:16</span>
     </header>
     <p class="hook">훅 — {e(s["hook"])}</p>
+    {('<p class="aud"><b>소리</b> 환경음 ' + e(s["audio"]["amb"]) + ' · BGM ' + e(s["audio"]["bgm"]) + '</p>') if s.get("audio") else ""}
     {"".join(cuts)}
   </article>''')
     groups.append(f'<section class="grp"><h2>{e(kind)} <span class="n">{len(items)}편</span></h2>'
@@ -120,6 +123,13 @@ h2 .n{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--accent);f
   background:var(--accent);padding:2px 9px;border-radius:6px}
 .shh h3{font-family:"Gowun Batang",serif;font-size:20px;margin:0;flex:1;min-width:200px}
 .stat{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--faint);white-space:nowrap}
+.aud{margin:0 0 12px;padding:8px 11px;border-radius:8px;font-size:12.5px;
+  background:rgba(120,180,200,.10);border:1px solid rgba(120,180,200,.28)}
+.aud b{color:#6bb2c4;letter-spacing:.04em;margin-right:6px}
+.sfx{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.sfx .s,.sfx .sig{font-size:11.5px;padding:3px 9px;border-radius:999px;
+  background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12)}
+.sfx .sig{background:rgba(230,180,90,.16);border-color:rgba(230,180,90,.42);font-weight:600}
 .hook{margin:0;font-size:14px;color:var(--peach);font-weight:600}
 .cut{border-top:1px solid var(--line);padding-top:13px;display:grid;grid-template-columns:104px 1fr;gap:0 16px}
 .crail{display:flex;flex-direction:column;gap:5px;align-items:flex-start}

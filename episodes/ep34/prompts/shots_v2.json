@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 꽃이 피다 — 일곱 번째 칸의 색",
     "EN": "엔딩 · 정성껏 가꾼 꽃밭을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "꽃밭",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "꽃밭",
+      "bgm": "익살_소동"
+    },
+    "SC3": {
+      "amb": "꽃밭",
+      "bgm": "호기심_탐험"
+    },
+    "SC4": {
+      "amb": "꽃밭",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "꽃밭",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,9 @@
       "motion": "The dark turned soil stretches in the sun, ending on the long empty flower bed",
       "link": "전환",
       "link_ko": "34화 첫 컷. 갈아엎은 화단에서 시작한다.",
-      "motion_ref": "The dark turned soil stretches in the sun, ending on the long empty flower bed"
+      "motion_ref": "The dark turned soil stretches in the sun, ending on the long empty flower bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -66,7 +90,9 @@
       "motion": "Each stands holding a seed packet, ending with the seven in a row at the bed",
       "link": "전환",
       "link_ko": "화단에서 그 앞의 일곱으로.",
-      "motion_ref": "Each stands holding a seed packet, ending with the seven in a row at the bed"
+      "motion_ref": "Each stands holding a seed packet, ending with the seven in a row at the bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -87,7 +113,9 @@
       "motion": "She shakes her packet, ending with the packet held up",
       "link": "연속",
       "link_ko": "줄 안으로 들어간다.",
-      "motion_ref": "She shakes her packet, ending with the packet held up"
+      "motion_ref": "She shakes her packet, ending with the packet held up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -108,7 +136,9 @@
       "motion": "He draws a line in the soil with a stick, ending with the first line drawn",
       "link": "컷",
       "link_ko": "들뜬 데서 제안이 나온다.",
-      "motion_ref": "He draws a line in the soil with a stick, ending with the first line drawn"
+      "motion_ref": "He draws a line in the soil with a stick, ending with the first line drawn",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -127,7 +157,9 @@
       "motion": "Six lines divide the bed into seven, ending on the seven marked sections",
       "link": "연속",
       "link_ko": "선이 계속 그어진다.",
-      "motion_ref": "Six lines divide the bed into seven, ending on the seven marked sections"
+      "motion_ref": "Six lines divide the bed into seven, ending on the seven marked sections",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -148,7 +180,9 @@
       "motion": "Each takes a section; hers is at the end, ending with all seven at their own sections",
       "link": "연속",
       "link_ko": "나뉜 자리에 사람이 선다.",
-      "motion_ref": "Each takes a section; hers is at the end, ending with all seven at their own sections"
+      "motion_ref": "Each takes a section; hers is at the end, ending with all seven at their own sections",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -169,7 +203,9 @@
       "motion": "Her fingers show the depth and the spacing, ending with her fingers held apart",
       "link": "컷",
       "link_ko": "자리를 잡고 설명이 나온다.",
-      "motion_ref": "Her fingers show the depth and the spacing, ending with her fingers held apart"
+      "motion_ref": "Her fingers show the depth and the spacing, ending with her fingers held apart",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -188,7 +224,9 @@
       "motion": "Each plants in a slightly different way, ending with all of them working their sections",
       "link": "연속",
       "link_ko": "설명 뒤에 심는다.",
-      "motion_ref": "Each plants in a slightly different way, ending with all of them working their sections"
+      "motion_ref": "Each plants in a slightly different way, ending with all of them working their sections",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -209,7 +247,9 @@
       "motion": "He scatters seeds by the handful, ending on the badly spaced seeds",
       "link": "연속",
       "link_ko": "심는 손 중 하나다.",
-      "motion_ref": "He scatters seeds by the handful, ending on the badly spaced seeds"
+      "motion_ref": "He scatters seeds by the handful, ending on the badly spaced seeds",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-10",
@@ -230,7 +270,9 @@
       "motion": "She measures and marks each spot, ending with the marked row of spots",
       "link": "컷",
       "link_ko": "한 사람에서 반대쪽 사람으로.",
-      "motion_ref": "She measures and marks each spot, ending with the marked row of spots"
+      "motion_ref": "She measures and marks each spot, ending with the marked row of spots",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-11",
@@ -251,7 +293,9 @@
       "motion": "Six kinds of seed sit separated in the packet, ending on the six separated kinds",
       "link": "연속",
       "link_ko": "표시한 손의 봉지를 본다.",
-      "motion_ref": "Six kinds of seed sit separated in the packet, ending on the six separated kinds"
+      "motion_ref": "Six kinds of seed sit separated in the packet, ending on the six separated kinds",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -273,7 +317,9 @@
       "motion": "He leans over her section, ending with him still leaning over",
       "link": "연속",
       "link_ko": "봉지를 보고 묻는다.",
-      "motion_ref": "He leans over her section, ending with him still leaning over"
+      "motion_ref": "He leans over her section, ending with him still leaning over",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -294,7 +340,9 @@
       "motion": "She folds it away and keeps planting, ending with her still planting",
       "link": "연속",
       "link_ko": "물음에 짧게 답한다.",
-      "motion_ref": "She folds it away and keeps planting, ending with her still planting"
+      "motion_ref": "She folds it away and keeps planting, ending with her still planting",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -313,7 +361,9 @@
       "motion": "Each waters their own section, ending with the whole bed dark with water",
       "link": "컷",
       "link_ko": "심기가 끝나고 물을 준다.",
-      "motion_ref": "Each waters their own section, ending with the whole bed dark with water"
+      "motion_ref": "Each waters their own section, ending with the whole bed dark with water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -337,7 +387,9 @@
         "sec": 0.5,
         "why": "일주일이 흐른다"
       },
-      "motion_ref": "Some sections sprout; others stay bare, ending on the uneven bed"
+      "motion_ref": "Some sections sprout; others stay bare, ending on the uneven bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -358,7 +410,11 @@
       "motion": "She crouches at her section and claps, ending with her clapping over the sprouts",
       "link": "연속",
       "link_ko": "싹 난 칸 앞이다.",
-      "motion_ref": "She crouches at her section and claps, ending with her clapping over the sprouts"
+      "motion_ref": "She crouches at her section and claps, ending with her clapping over the sprouts",
+      "sig": null,
+      "sfx": [
+        "손뼉"
+      ]
     },
     {
       "id": "SC2-03",
@@ -379,7 +435,9 @@
       "motion": "Only bare soil shows in his section, ending on the empty soil",
       "link": "컷",
       "link_ko": "난 칸에서 안 난 칸으로.",
-      "motion_ref": "Only bare soil shows in his section, ending on the empty soil"
+      "motion_ref": "Only bare soil shows in his section, ending on the empty soil",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -400,7 +458,11 @@
       "motion": "He digs into his own soil, ending with soil scattered around him",
       "link": "연속",
       "link_ko": "빈 칸 앞에서 나온다.",
-      "motion_ref": "He digs into his own soil, ending with soil scattered around him"
+      "motion_ref": "He digs into his own soil, ending with soil scattered around him",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC2-05",
@@ -422,7 +484,9 @@
       "motion": "She catches his hands, ending with his hands held still",
       "link": "연속",
       "link_ko": "파헤치는 손이 잡힌다.",
-      "motion_ref": "She catches his hands, ending with his hands held still"
+      "motion_ref": "She catches his hands, ending with his hands held still",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -441,7 +505,9 @@
       "motion": "Sprouts crowd one end; the other is bare, ending on the lopsided bed",
       "link": "컷",
       "link_ko": "한 칸에서 화단 전체로.",
-      "motion_ref": "Sprouts crowd one end; the other is bare, ending on the lopsided bed"
+      "motion_ref": "Sprouts crowd one end; the other is bare, ending on the lopsided bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -462,7 +528,11 @@
       "motion": "She walks the bed, touching the soil, ending with her at the far end",
       "link": "연속",
       "link_ko": "화단 위를 훑는다.",
-      "motion_ref": "She walks the bed, touching the soil, ending with her at the far end"
+      "motion_ref": "She walks the bed, touching the soil, ending with her at the far end",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-08",
@@ -481,7 +551,9 @@
       "motion": "One handful is wet and dark, the other dry, ending on the two different handfuls",
       "link": "연속",
       "link_ko": "만져 본 흙이 다르다.",
-      "motion_ref": "One handful is wet and dark, the other dry, ending on the two different handfuls"
+      "motion_ref": "One handful is wet and dark, the other dry, ending on the two different handfuls",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -502,7 +574,11 @@
       "motion": "The channel runs only one way, ending on the one-sided water channel",
       "link": "컷",
       "link_ko": "흙에서 물길로.",
-      "motion_ref": "The channel runs only one way, ending on the one-sided water channel"
+      "motion_ref": "The channel runs only one way, ending on the one-sided water channel",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC2-10",
@@ -523,7 +599,11 @@
       "motion": "He empties a whole can onto his section, ending with his section flooded",
       "link": "컷",
       "link_ko": "다른 쪽에서 자기 칸으로.",
-      "motion_ref": "He empties a whole can onto his section, ending with his section flooded"
+      "motion_ref": "He empties a whole can onto his section, ending with his section flooded",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC2-11",
@@ -542,7 +622,11 @@
       "motion": "Water spills over into the next section, ending with the neighbouring soil flooded too",
       "link": "연속",
       "link_ko": "들이부은 물이 넘친다.",
-      "motion_ref": "Water spills over into the next section, ending with the neighbouring soil flooded too"
+      "motion_ref": "Water spills over into the next section, ending with the neighbouring soil flooded too",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC2-12",
@@ -563,7 +647,9 @@
       "motion": "He scoops the standing water out, ending with him still scooping",
       "link": "연속",
       "link_ko": "넘친 물이 옆 칸에 닿는다.",
-      "motion_ref": "He scoops the standing water out, ending with him still scooping"
+      "motion_ref": "He scoops the standing water out, ending with him still scooping",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -582,7 +668,9 @@
       "motion": "They argue, each guarding only their section, ending with the seven scattered and arguing",
       "link": "컷",
       "link_ko": "한 다툼에서 전체로 번진다.",
-      "motion_ref": "They argue, each guarding only their section, ending with the seven scattered and arguing"
+      "motion_ref": "They argue, each guarding only their section, ending with the seven scattered and arguing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -601,7 +689,9 @@
       "motion": "The middle turns to trampled footprints, ending on the trampled middle",
       "link": "연속",
       "link_ko": "다툼이 화단을 밟는다.",
-      "motion_ref": "The middle turns to trampled footprints, ending on the trampled middle"
+      "motion_ref": "The middle turns to trampled footprints, ending on the trampled middle",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -622,7 +712,9 @@
       "motion": "He spreads both arms between them, ending with him standing between them",
       "link": "컷",
       "link_ko": "밟힌 자리에서 말리는 사람으로.",
-      "motion_ref": "He spreads both arms between them, ending with him standing between them"
+      "motion_ref": "He spreads both arms between them, ending with him standing between them",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -641,7 +733,9 @@
       "motion": "They stop; the middle is a trampled mess, ending on the ruined middle of the bed",
       "link": "연속",
       "link_ko": "말이 통해 멈춘다.",
-      "motion_ref": "They stop; the middle is a trampled mess, ending on the ruined middle of the bed"
+      "motion_ref": "They stop; the middle is a trampled mess, ending on the ruined middle of the bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -662,7 +756,9 @@
       "motion": "Her hand traces the water channel, ending with her hand at the end of the channel",
       "link": "전환",
       "link_ko": "멈춘 자리에서 원인이 나온다.",
-      "motion_ref": "Her hand traces the water channel, ending with her hand at the end of the channel"
+      "motion_ref": "Her hand traces the water channel, ending with her hand at the end of the channel",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -681,7 +777,9 @@
       "motion": "The channel slopes; water never reaches the end, ending on the dry far end of the channel",
       "link": "연속",
       "link_ko": "가리킨 물길을 본다.",
-      "motion_ref": "The channel slopes; water never reaches the end, ending on the dry far end of the channel"
+      "motion_ref": "The channel slopes; water never reaches the end, ending on the dry far end of the channel",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -702,7 +800,9 @@
       "motion": "She points at the tree shading half the bed, ending with the shadow lying over half the bed",
       "link": "컷",
       "link_ko": "물길에서 그늘로.",
-      "motion_ref": "She points at the tree shading half the bed, ending with the shadow lying over half the bed"
+      "motion_ref": "She points at the tree shading half the bed, ending with the shadow lying over half the bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -723,7 +823,9 @@
       "motion": "His eyes go between his section and the rest, ending on his realising face",
       "link": "컷",
       "link_ko": "설명에서 깨달음으로.",
-      "motion_ref": "His eyes go between his section and the rest, ending on his realising face"
+      "motion_ref": "His eyes go between his section and the rest, ending on his realising face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -744,7 +846,9 @@
       "motion": "She holds up a handful of his dry soil, ending with the dry soil in her hand",
       "link": "연속",
       "link_ko": "깨달음에 답이 온다.",
-      "motion_ref": "She holds up a handful of his dry soil, ending with the dry soil in her hand"
+      "motion_ref": "She holds up a handful of his dry soil, ending with the dry soil in her hand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -765,7 +869,9 @@
       "motion": "His foot rubs out one dividing line, ending with one line gone",
       "link": "컷",
       "link_ko": "원인에서 결론으로.",
-      "motion_ref": "His foot rubs out one dividing line, ending with one line gone"
+      "motion_ref": "His foot rubs out one dividing line, ending with one line gone",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -784,7 +890,9 @@
       "motion": "They rub out the lines until the bed is one, ending with the bed unbroken",
       "link": "연속",
       "link_ko": "한 선에서 전부로 이어진다.",
-      "motion_ref": "They rub out the lines until the bed is one, ending with the bed unbroken"
+      "motion_ref": "They rub out the lines until the bed is one, ending with the bed unbroken",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -803,7 +911,11 @@
       "motion": "They dig a new channel beside the bed, ending with the new channel taking shape",
       "link": "전환",
       "link_ko": "선을 지우고 일이 시작된다.",
-      "motion_ref": "They dig a new channel beside the bed, ending with the new channel taking shape"
+      "motion_ref": "They dig a new channel beside the bed, ending with the new channel taking shape",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC3-09",
@@ -824,7 +936,11 @@
       "motion": "She checks the slope and marks the line, ending with the line marked along the bed",
       "link": "연속",
       "link_ko": "파는 자리를 정한다.",
-      "motion_ref": "She checks the slope and marks the line, ending with the line marked along the bed"
+      "motion_ref": "She checks the slope and marks the line, ending with the line marked along the bed",
+      "sig": null,
+      "sfx": [
+        "삽_흙"
+      ]
     },
     {
       "id": "SC3-10",
@@ -843,7 +959,11 @@
       "motion": "Water runs the full length of the new channel, ending with water reaching the far end",
       "link": "연속",
       "link_ko": "판 물길에 물이 든다.",
-      "motion_ref": "Water runs the full length of the new channel, ending with water reaching the far end"
+      "motion_ref": "Water runs the full length of the new channel, ending with water reaching the far end",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "SC3-11",
@@ -864,7 +984,9 @@
       "motion": "She sorts the packets into two piles, ending with two sorted piles",
       "link": "컷",
       "link_ko": "물에서 그늘 문제로.",
-      "motion_ref": "She sorts the packets into two piles, ending with two sorted piles"
+      "motion_ref": "She sorts the packets into two piles, ending with two sorted piles",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -883,7 +1005,9 @@
       "motion": "Different seeds go into shade and sun, ending with the whole bed planted",
       "link": "연속",
       "link_ko": "나눈 대로 심는다.",
-      "motion_ref": "Different seeds go into shade and sun, ending with the whole bed planted"
+      "motion_ref": "Different seeds go into shade and sun, ending with the whole bed planted",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -904,7 +1028,9 @@
       "motion": "He spaces each seed properly this time, ending with his row neatly spaced",
       "link": "컷",
       "link_ko": "전체에서 한 사람으로.",
-      "motion_ref": "He spaces each seed properly this time, ending with his row neatly spaced"
+      "motion_ref": "He spaces each seed properly this time, ending with his row neatly spaced",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -925,7 +1051,9 @@
       "motion": "She plants six different kinds in a row, ending with six kinds set in one row",
       "link": "컷",
       "link_ko": "한 사람에서 다른 사람으로.",
-      "motion_ref": "She plants six different kinds in a row, ending with six kinds set in one row"
+      "motion_ref": "She plants six different kinds in a row, ending with six kinds set in one row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -944,7 +1072,9 @@
       "motion": "The water reaches every part of the bed, ending with the whole bed evenly dark",
       "link": "연속",
       "link_ko": "심기가 끝나고 물을 준다.",
-      "motion_ref": "The water reaches every part of the bed, ending with the whole bed evenly dark"
+      "motion_ref": "The water reaches every part of the bed, ending with the whole bed evenly dark",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -968,7 +1098,9 @@
         "sec": 0.6,
         "why": "심은 날에서 한 달 뒤로"
       },
-      "motion_ref": "The whole bed blooms end to end, ending on the fully bloomed bed"
+      "motion_ref": "The whole bed blooms end to end, ending on the fully bloomed bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -989,7 +1121,9 @@
       "motion": "She buries her nose in the flowers, ending with her nose deep in the blooms",
       "link": "연속",
       "link_ko": "핀 꽃 사이로 들어간다.",
-      "motion_ref": "She buries her nose in the flowers, ending with her nose deep in the blooms"
+      "motion_ref": "She buries her nose in the flowers, ending with her nose deep in the blooms",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1010,7 +1144,9 @@
       "motion": "His row stands straight and even, ending on the neat even row",
       "link": "컷",
       "link_ko": "한 사람에서 다른 사람의 줄로.",
-      "motion_ref": "His row stands straight and even, ending on the neat even row"
+      "motion_ref": "His row stands straight and even, ending on the neat even row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1031,7 +1167,9 @@
       "motion": "He stands proudly before his row, ending on his proud stance",
       "link": "연속",
       "link_ko": "줄 앞에서 자랑한다.",
-      "motion_ref": "He stands proudly before his row, ending on his proud stance"
+      "motion_ref": "He stands proudly before his row, ending on his proud stance",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1050,7 +1188,9 @@
       "motion": "Six different colours bloom side by side, ending on the six-coloured row",
       "link": "컷",
       "link_ko": "한 줄에서 마지막 줄로.",
-      "motion_ref": "Six different colours bloom side by side, ending on the six-coloured row"
+      "motion_ref": "Six different colours bloom side by side, ending on the six-coloured row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1071,7 +1211,9 @@
       "motion": "Her finger touches each flower in turn, ending with her finger on the sixth flower",
       "link": "연속",
       "link_ko": "줄을 보다 알아챈다.",
-      "motion_ref": "Her finger touches each flower in turn, ending with her finger on the sixth flower"
+      "motion_ref": "Her finger touches each flower in turn, ending with her finger on the sixth flower",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1098,7 +1240,9 @@
       "motion": "They all turn to her; she looks away, ending with her looking off to the side",
       "link": "컷",
       "link_ko": "꽃에서 심은 사람으로.",
-      "motion_ref": "They all turn to her; she looks away, ending with her looking off to the side"
+      "motion_ref": "They all turn to her; she looks away, ending with her looking off to the side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1119,7 +1263,9 @@
       "motion": "She speaks quietly, still looking away, ending on her averted face",
       "link": "연속",
       "link_ko": "시선을 받으며 답한다.",
-      "motion_ref": "She speaks quietly, still looking away, ending on her averted face"
+      "motion_ref": "She speaks quietly, still looking away, ending on her averted face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1143,7 +1289,9 @@
         "sec": 0.6,
         "why": "꽃이 핀 날에서 다음 날로"
       },
-      "motion_ref": "One new flower stands beside the six, ending on the seven flowers in a row"
+      "motion_ref": "One new flower stands beside the six, ending on the seven flowers in a row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1162,7 +1310,9 @@
       "motion": "The deep red-orange bloom sways, ending on the red-orange flower",
       "link": "연속",
       "link_ko": "일곱 송이 중 하나로 들어간다.",
-      "motion_ref": "The deep red-orange bloom sways, ending on the red-orange flower"
+      "motion_ref": "The deep red-orange bloom sways, ending on the red-orange flower",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1184,7 +1334,9 @@
       "motion": "She nudges her and grins, ending with the two side by side",
       "link": "컷",
       "link_ko": "꽃에서 사람들로.",
-      "motion_ref": "She nudges her and grins, ending with the two side by side"
+      "motion_ref": "She nudges her and grins, ending with the two side by side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1205,7 +1357,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "장난이 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1224,7 +1378,9 @@
       "motion": "No dividing lines remain anywhere, ending on the unbroken flowering bed",
       "link": "컷",
       "link_ko": "한 송이에서 화단 전체로.",
-      "motion_ref": "No dividing lines remain anywhere, ending on the unbroken flowering bed"
+      "motion_ref": "No dividing lines remain anywhere, ending on the unbroken flowering bed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1251,7 +1407,11 @@
       "motion": "They walk the length of the bed together, ending with the seven at the far end",
       "link": "연속",
       "link_ko": "화단 위로 사람들이 걷는다.",
-      "motion_ref": "They walk the length of the bed together, ending with the seven at the far end"
+      "motion_ref": "They walk the length of the bed together, ending with the seven at the far end",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "EN-07",
@@ -1278,7 +1438,9 @@
       "motion": "The flowers sway as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The flowers sway as the camera eases back"
+      "motion_ref": "The flowers sway as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

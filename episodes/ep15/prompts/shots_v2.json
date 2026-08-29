@@ -20,6 +20,28 @@
     "SC4": "Act 4 · SC#4 폭포 위 — 마지막 한 뼘",
     "EN": "엔딩 · 네 여행을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "강가",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "폭포",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "폭포",
+      "bgm": "벅찬_감동"
+    },
+    "SC4": {
+      "amb": "폭포",
+      "bgm": "따뜻한_해결"
+    },
+    "EN": {
+      "amb": "강가",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -38,7 +60,11 @@
       "motion": "The river runs slowly between the red trees, ending on the wide autumn river",
       "link": "전환",
       "link_ko": "15화 첫 컷. 강에서 시작한다.",
-      "motion_ref": "The river runs slowly between the red trees, ending on the wide autumn river"
+      "motion_ref": "The river runs slowly between the red trees, ending on the wide autumn river",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-02",
@@ -57,7 +83,12 @@
       "motion": "The silver fish push hard against the current, ending on the school still pushing upstream",
       "link": "연속",
       "link_ko": "강물에서 그 안으로 들어간다.",
-      "motion_ref": "The silver fish push hard against the current, ending on the school still pushing upstream"
+      "motion_ref": "The silver fish push hard against the current, ending on the school still pushing upstream",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화",
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-03",
@@ -83,7 +114,11 @@
       "motion": "They walk the bank, peering into the water, ending with the six walking along the bank",
       "link": "전환",
       "link_ko": "물속에서 강가의 여섯으로.",
-      "motion_ref": "They walk the bank, peering into the water, ending with the six walking along the bank"
+      "motion_ref": "They walk the bank, peering into the water, ending with the six walking along the bank",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC1-04",
@@ -104,7 +139,9 @@
       "motion": "She points back down the river, ending with her arm pointing downstream",
       "link": "연속",
       "link_ko": "걷던 중 미미가 멈춰 설명한다.",
-      "motion_ref": "She points back down the river, ending with her arm pointing downstream"
+      "motion_ref": "She points back down the river, ending with her arm pointing downstream",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-05",
@@ -125,7 +162,9 @@
       "motion": "Her eyes widen as she looks downstream, ending on her wide staring eyes",
       "link": "연속",
       "link_ko": "가리킨 방향을 티니가 본다.",
-      "motion_ref": "Her eyes widen as she looks downstream, ending on her wide staring eyes"
+      "motion_ref": "Her eyes widen as she looks downstream, ending on her wide staring eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -146,7 +185,9 @@
       "motion": "Her staff sweeps the length of the river, ending with the staff at the end of its sweep",
       "link": "컷",
       "link_ko": "티니의 물음에 루비가 답한다.",
-      "motion_ref": "Her staff sweeps the length of the river, ending with the staff at the end of its sweep"
+      "motion_ref": "Her staff sweeps the length of the river, ending with the staff at the end of its sweep",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -165,7 +206,9 @@
       "motion": "All six lift their heads at the sound, ending with the six looking upstream",
       "link": "연속",
       "link_ko": "설명 중에 소리가 끼어든다.",
-      "motion_ref": "All six lift their heads at the sound, ending with the six looking upstream"
+      "motion_ref": "All six lift their heads at the sound, ending with the six looking upstream",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -184,7 +227,11 @@
       "motion": "The falls hammer down and throw up spray, ending on the crashing falls and pool",
       "link": "컷",
       "link_ko": "소리의 정체가 나온다.",
-      "motion_ref": "The falls hammer down and throw up spray, ending on the crashing falls and pool"
+      "motion_ref": "The falls hammer down and throw up spray, ending on the crashing falls and pool",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC1-09",
@@ -203,7 +250,11 @@
       "motion": "The fish circle in the churning pool, ending on the circling school",
       "link": "연속",
       "link_ko": "폭포에서 그 아래로 내려온다.",
-      "motion_ref": "The fish circle in the churning pool, ending on the circling school"
+      "motion_ref": "The fish circle in the churning pool, ending on the circling school",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-10",
@@ -222,7 +273,12 @@
       "motion": "It leaps, gets halfway, and falls back, ending with it splashing back into the pool",
       "link": "연속",
       "link_ko": "도는 무리 중 하나가 뛴다.",
-      "motion_ref": "It leaps, gets halfway, and falls back, ending with it splashing back into the pool"
+      "motion_ref": "It leaps, gets halfway, and falls back, ending with it splashing back into the pool",
+      "sig": null,
+      "sfx": [
+        "물_첨벙",
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-11",
@@ -243,7 +299,9 @@
       "motion": "He leans out toward the pool, ending with him leaning far out",
       "link": "컷",
       "link_ko": "실패한 도약에서 그걸 본 얼굴로.",
-      "motion_ref": "He leans out toward the pool, ending with him leaning far out"
+      "motion_ref": "He leans out toward the pool, ending with him leaning far out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-12",
@@ -264,7 +322,9 @@
       "motion": "She points above the falls, face serious, ending with her arm still raised",
       "link": "연속",
       "link_ko": "걱정에 설명이 붙는다.",
-      "motion_ref": "She points above the falls, face serious, ending with her arm still raised"
+      "motion_ref": "She points above the falls, face serious, ending with her arm still raised",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-13",
@@ -283,7 +343,11 @@
       "motion": "The small one hangs at the edge, alone, ending on the small salmon alone",
       "link": "컷",
       "link_ko": "무리에서 한 마리로 좁혀진다.",
-      "motion_ref": "The small one hangs at the edge, alone, ending on the small salmon alone"
+      "motion_ref": "The small one hangs at the edge, alone, ending on the small salmon alone",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC1-14",
@@ -304,7 +368,9 @@
       "motion": "He crouches right at the edge of the pool, ending with him crouched over the water",
       "link": "연속",
       "link_ko": "작은 연어 옆에 쿵쿵이 앉는다.",
-      "motion_ref": "He crouches right at the edge of the pool, ending with him crouched over the water"
+      "motion_ref": "He crouches right at the edge of the pool, ending with him crouched over the water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -328,7 +394,11 @@
         "sec": 0.5,
         "why": "같은 시도가 여러 번 반복된다"
       },
-      "motion_ref": "It leaps and falls, leaps and falls, ending with it back in the pool once more"
+      "motion_ref": "It leaps and falls, leaps and falls, ending with it back in the pool once more",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-02",
@@ -349,7 +419,11 @@
       "motion": "She waves both paws and shouts, ending with her paws still up",
       "link": "컷",
       "link_ko": "물속에서 응원하는 아이로.",
-      "motion_ref": "She waves both paws and shouts, ending with her paws still up"
+      "motion_ref": "She waves both paws and shouts, ending with her paws still up",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC2-03",
@@ -368,7 +442,11 @@
       "motion": "Its fin scrapes the rock as it falls, ending with it sinking back into the foam",
       "link": "컷",
       "link_ko": "응원과 반대로 결과가 나온다.",
-      "motion_ref": "Its fin scrapes the rock as it falls, ending with it sinking back into the foam"
+      "motion_ref": "Its fin scrapes the rock as it falls, ending with it sinking back into the foam",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-04",
@@ -389,7 +467,11 @@
       "motion": "He rolls up his sleeves and wades in, ending with him knee deep in the pool",
       "link": "컷",
       "link_ko": "실패를 보다 못해 나선다.",
-      "motion_ref": "He rolls up his sleeves and wades in, ending with him knee deep in the pool"
+      "motion_ref": "He rolls up his sleeves and wades in, ending with him knee deep in the pool",
+      "sig": null,
+      "sfx": [
+        "물_첨벙"
+      ]
     },
     {
       "id": "SC2-05",
@@ -410,7 +492,11 @@
       "motion": "The current knocks him over into the water, ending with him sprawled in the shallows",
       "link": "연속",
       "link_ko": "손을 뻗다 물살에 밀린다.",
-      "motion_ref": "The current knocks him over into the water, ending with him sprawled in the shallows"
+      "motion_ref": "The current knocks him over into the water, ending with him sprawled in the shallows",
+      "sig": null,
+      "sfx": [
+        "물_흐름_변화"
+      ]
     },
     {
       "id": "SC2-06",
@@ -433,7 +519,9 @@
       "motion": "They haul him back out onto the bank, ending with the three back on the bank",
       "link": "연속",
       "link_ko": "넘어진 루카를 끌어낸다.",
-      "motion_ref": "They haul him back out onto the bank, ending with the three back on the bank"
+      "motion_ref": "They haul him back out onto the bank, ending with the three back on the bank",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -454,7 +542,9 @@
       "motion": "He coughs up water, face pale, ending on his pale coughing face",
       "link": "연속",
       "link_ko": "끌려 나온 뒤의 상태다.",
-      "motion_ref": "He coughs up water, face pale, ending on his pale coughing face"
+      "motion_ref": "He coughs up water, face pale, ending on his pale coughing face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -473,7 +563,9 @@
       "motion": "The pool churns violently under the falls, ending on the violent churning water",
       "link": "컷",
       "link_ko": "사람에서 물의 힘으로 시선이 돌아간다.",
-      "motion_ref": "The pool churns violently under the falls, ending on the violent churning water"
+      "motion_ref": "The pool churns violently under the falls, ending on the violent churning water",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -492,7 +584,11 @@
       "motion": "It sets itself again, torn fin trailing, ending with it poised to leap again",
       "link": "컷",
       "link_ko": "물의 힘에서 그것을 견디는 쪽으로.",
-      "motion_ref": "It sets itself again, torn fin trailing, ending with it poised to leap again"
+      "motion_ref": "It sets itself again, torn fin trailing, ending with it poised to leap again",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC2-10",
@@ -513,7 +609,11 @@
       "motion": "He counts on his flippers and runs out, ending with all his digits folded",
       "link": "컷",
       "link_ko": "연어에서 그걸 세는 아이로.",
-      "motion_ref": "He counts on his flippers and runs out, ending with all his digits folded"
+      "motion_ref": "He counts on his flippers and runs out, ending with all his digits folded",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC2-11",
@@ -534,7 +634,9 @@
       "motion": "She looks down at the nineteen marks, ending on the row of nineteen marks",
       "link": "연속",
       "link_ko": "세던 것을 루비가 답한다.",
-      "motion_ref": "She looks down at the nineteen marks, ending on the row of nineteen marks"
+      "motion_ref": "She looks down at the nineteen marks, ending on the row of nineteen marks",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -555,7 +657,9 @@
       "motion": "His fists close as he watches, ending on his tightly closed fists",
       "link": "컷",
       "link_ko": "숫자에서 그것을 견디는 아이로.",
-      "motion_ref": "His fists close as he watches, ending on his tightly closed fists"
+      "motion_ref": "His fists close as he watches, ending on his tightly closed fists",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -576,7 +680,9 @@
       "motion": "Her eyes travel across the falling water, ending with her eyes fixed on one part of the falls",
       "link": "컷",
       "link_ko": "아이들 옆에서 다른 쪽으로 시선이 간다.",
-      "motion_ref": "Her eyes travel across the falling water, ending with her eyes fixed on one part of the falls"
+      "motion_ref": "Her eyes travel across the falling water, ending with her eyes fixed on one part of the falls",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-14",
@@ -597,7 +703,9 @@
       "motion": "She points at the left edge of the falls, ending with her arm held out toward the left edge",
       "link": "연속",
       "link_ko": "훑던 눈이 한 곳을 가리킨다.",
-      "motion_ref": "She points at the left edge of the falls, ending with her arm held out toward the left edge"
+      "motion_ref": "She points at the left edge of the falls, ending with her arm held out toward the left edge",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -619,7 +727,9 @@
       "motion": "Soaked, he looks up at her, ending with him looking up at her",
       "link": "컷",
       "link_ko": "가리킨 쪽에서 묻는 쪽으로.",
-      "motion_ref": "Soaked, he looks up at her, ending with him looking up at her"
+      "motion_ref": "Soaked, he looks up at her, ending with him looking up at her",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -640,7 +750,9 @@
       "motion": "She does not answer; her eyes stay on the falls, ending on her unmoved profile",
       "link": "연속",
       "link_ko": "물음이 답 없이 남는다.",
-      "motion_ref": "She does not answer; her eyes stay on the falls, ending on her unmoved profile"
+      "motion_ref": "She does not answer; her eyes stay on the falls, ending on her unmoved profile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -659,7 +771,11 @@
       "motion": "The thin sheet of water still races down, ending on the thin fast sheet of water",
       "link": "전환",
       "link_ko": "가리킨 곳으로 시점이 옮겨간다.",
-      "motion_ref": "The thin sheet of water still races down, ending on the thin fast sheet of water"
+      "motion_ref": "The thin sheet of water still races down, ending on the thin fast sheet of water",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-02",
@@ -678,7 +794,11 @@
       "motion": "It moves left and leaps again, ending with it mid-leap on the left",
       "link": "연속",
       "link_ko": "얕은 곳으로 연어가 옮겨 간다.",
-      "motion_ref": "It moves left and leaps again, ending with it mid-leap on the left"
+      "motion_ref": "It moves left and leaps again, ending with it mid-leap on the left",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC3-03",
@@ -697,7 +817,12 @@
       "motion": "It rises higher, then is pushed off the lip, ending with it tumbling back down",
       "link": "연속",
       "link_ko": "도약이 마지막에서 꺾인다.",
-      "motion_ref": "It rises higher, then is pushed off the lip, ending with it tumbling back down"
+      "motion_ref": "It rises higher, then is pushed off the lip, ending with it tumbling back down",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵",
+        "작은동물"
+      ]
     },
     {
       "id": "SC3-04",
@@ -718,7 +843,11 @@
       "motion": "She claps both hands over her mouth, ending with her hands over her mouth",
       "link": "컷",
       "link_ko": "실패에서 그것을 본 얼굴로.",
-      "motion_ref": "She claps both hands over her mouth, ending with her hands over her mouth"
+      "motion_ref": "She claps both hands over her mouth, ending with her hands over her mouth",
+      "sig": null,
+      "sfx": [
+        "손뼉"
+      ]
     },
     {
       "id": "SC3-05",
@@ -739,7 +868,9 @@
       "motion": "He stands and stares at the last lip, ending on him standing and staring",
       "link": "컷",
       "link_ko": "안타까움에서 결심으로.",
-      "motion_ref": "He stands and stares at the last lip, ending on him standing and staring"
+      "motion_ref": "He stands and stares at the last lip, ending on him standing and staring",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -760,7 +891,9 @@
       "motion": "She nods once, shortly, ending with her head level again",
       "link": "연속",
       "link_ko": "물음에 짧은 답이 돌아온다.",
-      "motion_ref": "She nods once, shortly, ending with her head level again"
+      "motion_ref": "She nods once, shortly, ending with her head level again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -781,7 +914,11 @@
       "motion": "He climbs the rock; the others step back, ending with him alone on the rock",
       "link": "연속",
       "link_ko": "답을 듣고 자리를 잡는다.",
-      "motion_ref": "He climbs the rock; the others step back, ending with him alone on the rock"
+      "motion_ref": "He climbs the rock; the others step back, ending with him alone on the rock",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-08",
@@ -802,7 +939,11 @@
       "motion": "He raises his paws and light starts to run, ending with his paws at their highest point",
       "link": "연속",
       "link_ko": "자리를 잡고 준비한다.",
-      "motion_ref": "He raises his paws and light starts to run, ending with his paws at their highest point"
+      "motion_ref": "He raises his paws and light starts to run, ending with his paws at their highest point",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-09",
@@ -823,7 +964,9 @@
       "motion": "The shockwave ring races out toward the water, ending with the ring reaching the base of the falls",
       "link": "연속",
       "link_ko": "든 앞발이 바위를 친다.",
-      "motion_ref": "The shockwave ring races out toward the water, ending with the ring reaching the base of the falls"
+      "motion_ref": "The shockwave ring races out toward the water, ending with the ring reaching the base of the falls",
+      "sig": "쿵쿵_파워",
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -842,7 +985,11 @@
       "motion": "The water splits and a gap opens down the middle, ending with the gap held open in the falling water",
       "link": "연속",
       "link_ko": "충격파가 물에 닿아 물을 가른다.",
-      "motion_ref": "The water splits and a gap opens down the middle, ending with the gap held open in the falling water"
+      "motion_ref": "The water splits and a gap opens down the middle, ending with the gap held open in the falling water",
+      "sig": null,
+      "sfx": [
+        "나무_삐걱"
+      ]
     },
     {
       "id": "SC3-11",
@@ -861,7 +1008,11 @@
       "motion": "Wet stone steps appear inside the gap, ending on the exposed wet steps",
       "link": "연속",
       "link_ko": "갈라진 안쪽이 보인다.",
-      "motion_ref": "Wet stone steps appear inside the gap, ending on the exposed wet steps"
+      "motion_ref": "Wet stone steps appear inside the gap, ending on the exposed wet steps",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈"
+      ]
     },
     {
       "id": "SC3-12",
@@ -882,7 +1033,11 @@
       "motion": "She jumps up and down, shouting, ending mid-jump",
       "link": "컷",
       "link_ko": "열린 길에서 응원으로.",
-      "motion_ref": "She jumps up and down, shouting, ending mid-jump"
+      "motion_ref": "She jumps up and down, shouting, ending mid-jump",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC3-13",
@@ -903,7 +1058,9 @@
       "motion": "His arms shake and the light thins, ending with the light noticeably weaker",
       "link": "컷",
       "link_ko": "응원 옆에서 버티는 쪽으로.",
-      "motion_ref": "His arms shake and the light thins, ending with the light noticeably weaker"
+      "motion_ref": "His arms shake and the light thins, ending with the light noticeably weaker",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -922,7 +1079,11 @@
       "motion": "It hurls itself into the open gap, ending with it climbing inside the gap",
       "link": "연속",
       "link_ko": "열린 길로 연어가 들어간다.",
-      "motion_ref": "It hurls itself into the open gap, ending with it climbing inside the gap"
+      "motion_ref": "It hurls itself into the open gap, ending with it climbing inside the gap",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC3-15",
@@ -941,7 +1102,12 @@
       "motion": "It bounces up the steps one by one, ending with it near the top of the steps",
       "link": "연속",
       "link_ko": "틈 안에서 위로 오른다.",
-      "motion_ref": "It bounces up the steps one by one, ending with it near the top of the steps"
+      "motion_ref": "It bounces up the steps one by one, ending with it near the top of the steps",
+      "sig": null,
+      "sfx": [
+        "발소리_자갈",
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-01",
@@ -962,7 +1128,9 @@
       "motion": "His knees give and the light goes out, ending with him down on the rock, light gone",
       "link": "전환",
       "link_ko": "버티던 힘이 끝난다.",
-      "motion_ref": "His knees give and the light goes out, ending with him down on the rock, light gone"
+      "motion_ref": "His knees give and the light goes out, ending with him down on the rock, light gone",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -981,7 +1149,11 @@
       "motion": "The water slams back together, ending with the falls whole again",
       "link": "연속",
       "link_ko": "빛이 꺼지자 물이 닫힌다.",
-      "motion_ref": "The water slams back together, ending with the falls whole again"
+      "motion_ref": "The water slams back together, ending with the falls whole again",
+      "sig": null,
+      "sfx": [
+        "충돌_쿵"
+      ]
     },
     {
       "id": "SC4-03",
@@ -1000,7 +1172,11 @@
       "motion": "It holds under the lip against the returning water, ending with it straining under the lip",
       "link": "연속",
       "link_ko": "닫힌 물 안에 연어가 남는다.",
-      "motion_ref": "It holds under the lip against the returning water, ending with it straining under the lip"
+      "motion_ref": "It holds under the lip against the returning water, ending with it straining under the lip",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-04",
@@ -1021,7 +1197,9 @@
       "motion": "He reaches out from his knees; it is too far, ending with his paw hanging in the air",
       "link": "컷",
       "link_ko": "물고기에서 그걸 보는 쿵쿵으로.",
-      "motion_ref": "He reaches out from his knees; it is too far, ending with his paw hanging in the air"
+      "motion_ref": "He reaches out from his knees; it is too far, ending with his paw hanging in the air",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1040,7 +1218,11 @@
       "motion": "One huge flick of the tail carries it over, ending with it disappearing over the top",
       "link": "컷",
       "link_ko": "도움이 끊긴 자리에서 스스로 넘는다.",
-      "motion_ref": "One huge flick of the tail carries it over, ending with it disappearing over the top"
+      "motion_ref": "One huge flick of the tail carries it over, ending with it disappearing over the top",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-06",
@@ -1066,7 +1248,11 @@
       "motion": "All six throw their arms up and cheer, ending with twelve arms raised",
       "link": "연속",
       "link_ko": "넘어간 순간에 환호가 터진다.",
-      "motion_ref": "All six throw their arms up and cheer, ending with twelve arms raised"
+      "motion_ref": "All six throw their arms up and cheer, ending with twelve arms raised",
+      "sig": null,
+      "sfx": [
+        "환호"
+      ]
     },
     {
       "id": "SC4-07",
@@ -1085,7 +1271,11 @@
       "motion": "It swims on upstream through calm water, ending with it small and far upstream",
       "link": "컷",
       "link_ko": "아래에서 위로 시점이 올라간다.",
-      "motion_ref": "It swims on upstream through calm water, ending with it small and far upstream"
+      "motion_ref": "It swims on upstream through calm water, ending with it small and far upstream",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "SC4-08",
@@ -1104,7 +1294,9 @@
       "motion": "The rock is empty; spray drifts across it, ending on the empty spray-covered rock",
       "link": "컷",
       "link_ko": "물고기에서 자리를 비운 쪽으로.",
-      "motion_ref": "The rock is empty; spray drifts across it, ending on the empty spray-covered rock"
+      "motion_ref": "The rock is empty; spray drifts across it, ending on the empty spray-covered rock",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1128,7 +1320,9 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "The six sit soaked in a row by the river, ending on the six seated in evening light"
+      "motion_ref": "The six sit soaked in a row by the river, ending on the six seated in evening light",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1149,7 +1343,9 @@
       "motion": "He hugs his knees and looks upstream, ending with him still looking upstream",
       "link": "연속",
       "link_ko": "앉은 자리에서 말이 나온다.",
-      "motion_ref": "He hugs his knees and looks upstream, ending with him still looking upstream"
+      "motion_ref": "He hugs his knees and looks upstream, ending with him still looking upstream",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1170,7 +1366,9 @@
       "motion": "She smiles quietly and nods, ending on her quiet smile",
       "link": "연속",
       "link_ko": "루카의 말에 미미가 답한다.",
-      "motion_ref": "She smiles quietly and nods, ending on her quiet smile"
+      "motion_ref": "She smiles quietly and nods, ending on her quiet smile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1191,7 +1389,9 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1212,7 +1412,9 @@
       "motion": "She stands across the river, looking upstream, ending on her figure under the far tree",
       "link": "컷",
       "link_ko": "여섯에서 건너편으로 넘어간다.",
-      "motion_ref": "She stands across the river, looking upstream, ending on her figure under the far tree"
+      "motion_ref": "She stands across the river, looking upstream, ending on her figure under the far tree",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1231,7 +1433,11 @@
       "motion": "Under the moon the fish still push upstream, ending on the moonlit river full of fish",
       "link": "컷",
       "link_ko": "저녁에서 밤으로 넘어간다.",
-      "motion_ref": "Under the moon the fish still push upstream, ending on the moonlit river full of fish"
+      "motion_ref": "Under the moon the fish still push upstream, ending on the moonlit river full of fish",
+      "sig": null,
+      "sfx": [
+        "작은동물"
+      ]
     },
     {
       "id": "EN-07",
@@ -1257,7 +1463,9 @@
       "motion": "Moonlight glitters on the water as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "Moonlight glitters on the water as the camera eases back"
+      "motion_ref": "Moonlight glitters on the water as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

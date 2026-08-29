@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 쿵쿵이의 오늘 한마디 · 4화"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "숲_낮",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "total_shots": 7,
   "total_seconds": 30,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "He rises into frame, ending centred and looking directly at camera",
       "link": "전환",
       "link_ko": "【고정】 매 편 똑같이 시작한다.",
-      "motion_ref": "He rises into frame, ending centred and looking directly at camera"
+      "motion_ref": "He rises into frame, ending centred and looking directly at camera",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D02-02",
@@ -51,7 +59,9 @@
       "motion": "He spins showing it off, ending with the car held high and {후안} still staring",
       "link": "전환",
       "link_ko": "상황. 무슨 일이 벌어지고 있는지.",
-      "motion_ref": "He spins showing it off, ending with the car held high and 후안 still staring"
+      "motion_ref": "He spins showing it off, ending with the car held high and 후안 still staring",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D02-03",
@@ -73,7 +83,9 @@
       "motion": "He turns away, ending with the flipper down and {후안} looking at the sand",
       "link": "컷",
       "link_ko": "문제. 무엇이 잘못됐는지.",
-      "motion_ref": "He turns away, ending with the flipper down and 후안 looking at the sand"
+      "motion_ref": "He turns away, ending with the flipper down and 후안 looking at the sand",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D02-04",
@@ -95,7 +107,11 @@
       "motion": "He offers it forward, ending with the car held steady between them",
       "link": "컷",
       "link_ko": "전환점. 누가 무엇을 했는지.",
-      "motion_ref": "He offers it forward, ending with the car held steady between them"
+      "motion_ref": "He offers it forward, ending with the car held steady between them",
+      "sig": null,
+      "sfx": [
+        "발소리_풀"
+      ]
     },
     {
       "id": "D02-05",
@@ -117,7 +133,12 @@
       "motion": "They run neck and neck beside the car, ending with all three level and the two of them grinning",
       "link": "컷",
       "link_ko": "해결. 그래서 어떻게 됐는지.",
-      "motion_ref": "They run neck and neck beside the car, ending with all three level and the two of them grinning"
+      "motion_ref": "They run neck and neck beside the car, ending with all three level and the two of them grinning",
+      "sig": null,
+      "sfx": [
+        "발소리_풀",
+        "환호"
+      ]
     },
     {
       "id": "D02-06",
@@ -138,7 +159,9 @@
       "motion": "He settles into the pose and beams, ending held still with the bottom third clear",
       "link": "전환",
       "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다.",
-      "motion_ref": "He settles into the pose and beams, ending held still with the bottom third clear"
+      "motion_ref": "He settles into the pose and beams, ending held still with the bottom third clear",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "D02-07",
@@ -159,7 +182,9 @@
       "motion": "He waves and the camera eases back, ending held still",
       "link": "컷",
       "link_ko": "【고정】 매 편 똑같이 끝난다.",
-      "motion_ref": "He waves and the camera eases back, ending held still"
+      "motion_ref": "He waves and the camera eases back, ending held still",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

@@ -21,6 +21,28 @@
     "SC4": "Act 4 · SC#4 빌지 않은 아이 — 그리고 뿔",
     "EN": "엔딩 · 우리들의 소원을 지켜줄게"
   },
+  "audio_sections": {
+    "SC1": {
+      "amb": "마을_밤",
+      "bgm": "일상_밝음"
+    },
+    "SC2": {
+      "amb": "밤하늘_언덕",
+      "bgm": "걱정_긴장"
+    },
+    "SC3": {
+      "amb": "밤하늘_언덕",
+      "bgm": "신비_경이"
+    },
+    "SC4": {
+      "amb": "밤하늘_언덕",
+      "bgm": "신비_경이"
+    },
+    "EN": {
+      "amb": "숲_밤",
+      "bgm": "잔잔한_엔딩"
+    }
+  },
   "shots": [
     {
       "id": "SC1-01",
@@ -39,7 +61,9 @@
       "motion": "Lamps come on under the deep violet sky, ending on the lamp-lit village at dusk",
       "link": "전환",
       "link_ko": "36화 첫 컷. 저녁 마을에서 시작한다.",
-      "motion_ref": "Lamps come on under the deep violet sky, ending on the lamp-lit village at dusk"
+      "motion_ref": "Lamps come on under the deep violet sky, ending on the lamp-lit village at dusk",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-02",
@@ -60,7 +84,9 @@
       "motion": "She holds the old book open, ending with the open book held up",
       "link": "전환",
       "link_ko": "마을에서 광장의 한 사람으로.",
-      "motion_ref": "She holds the old book open, ending with the open book held up"
+      "motion_ref": "She holds the old book open, ending with the open book held up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-03",
@@ -81,7 +107,9 @@
       "motion": "Her finger taps the drawing in the book, ending with her finger on the drawing",
       "link": "연속",
       "link_ko": "펼친 책으로 들어간다.",
-      "motion_ref": "Her finger taps the drawing in the book, ending with her finger on the drawing"
+      "motion_ref": "Her finger taps the drawing in the book, ending with her finger on the drawing",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-04",
@@ -100,7 +128,11 @@
       "motion": "The drawn stars streak across the page, ending on the drawn meteor shower",
       "link": "연속",
       "link_ko": "짚은 자리로 들어간다.",
-      "motion_ref": "The drawn stars streak across the page, ending on the drawn meteor shower"
+      "motion_ref": "The drawn stars streak across the page, ending on the drawn meteor shower",
+      "sig": null,
+      "sfx": [
+        "종이"
+      ]
     },
     {
       "id": "SC1-05",
@@ -121,7 +153,9 @@
       "motion": "She looks wildly around at the sky, ending with her still searching the sky",
       "link": "컷",
       "link_ko": "그림에서 아이의 반응으로.",
-      "motion_ref": "She looks wildly around at the sky, ending with her still searching the sky"
+      "motion_ref": "She looks wildly around at the sky, ending with her still searching the sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-06",
@@ -142,7 +176,9 @@
       "motion": "Her hand draws a long streak in the air, ending with her hand at the end of the streak",
       "link": "연속",
       "link_ko": "놀람에 설명이 붙는다.",
-      "motion_ref": "Her hand draws a long streak in the air, ending with her hand at the end of the streak"
+      "motion_ref": "Her hand draws a long streak in the air, ending with her hand at the end of the streak",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-07",
@@ -163,7 +199,9 @@
       "motion": "She closes the book and mimes shutting her eyes, ending with her eyes closed",
       "link": "컷",
       "link_ko": "설명에 이야기가 붙는다.",
-      "motion_ref": "She closes the book and mimes shutting her eyes, ending with her eyes closed"
+      "motion_ref": "She closes the book and mimes shutting her eyes, ending with her eyes closed",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-08",
@@ -184,7 +222,9 @@
       "motion": "Six faces light up; one stays blank, ending on the six bright faces and one blank one",
       "link": "컷",
       "link_ko": "이야기에서 듣는 사람들로.",
-      "motion_ref": "Six faces light up; one stays blank, ending on the six bright faces and one blank one"
+      "motion_ref": "Six faces light up; one stays blank, ending on the six bright faces and one blank one",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -205,7 +245,11 @@
       "motion": "He points at the hill and runs, ending with him already on the road",
       "link": "연속",
       "link_ko": "들뜬 데서 출발한다.",
-      "motion_ref": "He points at the hill and runs, ending with him already on the road"
+      "motion_ref": "He points at the hill and runs, ending with him already on the road",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-10",
@@ -224,7 +268,11 @@
       "motion": "They climb the hill road with blankets, ending with the line partway up the hill",
       "link": "연속",
       "link_ko": "출발이 이어진다.",
-      "motion_ref": "They climb the hill road with blankets, ending with the line partway up the hill"
+      "motion_ref": "They climb the hill road with blankets, ending with the line partway up the hill",
+      "sig": null,
+      "sfx": [
+        "불_등불"
+      ]
     },
     {
       "id": "SC1-11",
@@ -246,7 +294,11 @@
       "motion": "He walks beside her and looks up, ending with him still looking up at her",
       "link": "연속",
       "link_ko": "오르는 길에서 묻는다.",
-      "motion_ref": "He walks beside her and looks up, ending with him still looking up at her"
+      "motion_ref": "He walks beside her and looks up, ending with him still looking up at her",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-12",
@@ -267,7 +319,11 @@
       "motion": "She walks on, looking straight ahead, ending on her forward-facing profile",
       "link": "연속",
       "link_ko": "물음에 짧게 답한다.",
-      "motion_ref": "She walks on, looking straight ahead, ending on her forward-facing profile"
+      "motion_ref": "She walks on, looking straight ahead, ending on her forward-facing profile",
+      "sig": null,
+      "sfx": [
+        "발소리_돌"
+      ]
     },
     {
       "id": "SC1-13",
@@ -288,7 +344,9 @@
       "motion": "He hurries to keep up, eyes wide, ending with him at her side again",
       "link": "연속",
       "link_ko": "답이 이상해서 되묻는다.",
-      "motion_ref": "He hurries to keep up, eyes wide, ending with him at her side again"
+      "motion_ref": "He hurries to keep up, eyes wide, ending with him at her side again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC1-14",
@@ -307,7 +365,9 @@
       "motion": "They arrive and the whole sky opens, ending on the seven under the open sky",
       "link": "컷",
       "link_ko": "길이 끝나고 하늘이 열린다.",
-      "motion_ref": "They arrive and the whole sky opens, ending on the seven under the open sky"
+      "motion_ref": "They arrive and the whole sky opens, ending on the seven under the open sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-01",
@@ -326,7 +386,9 @@
       "motion": "Thick cloud covers the sky; no stars show, ending on the solid cloud cover",
       "link": "전환",
       "link_ko": "열린 하늘이 막혀 있다.",
-      "motion_ref": "Thick cloud covers the sky; no stars show, ending on the solid cloud cover"
+      "motion_ref": "Thick cloud covers the sky; no stars show, ending on the solid cloud cover",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-02",
@@ -347,7 +409,9 @@
       "motion": "She stops spreading the blanket and looks up, ending with her head tipped back",
       "link": "연속",
       "link_ko": "도착한 자리에서 알아챈다.",
-      "motion_ref": "She stops spreading the blanket and looks up, ending with her head tipped back"
+      "motion_ref": "She stops spreading the blanket and looks up, ending with her head tipped back",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-03",
@@ -368,7 +432,9 @@
       "motion": "She finishes the blanket and sits, ending with her seated on the blanket",
       "link": "연속",
       "link_ko": "불평에 답이 온다.",
-      "motion_ref": "She finishes the blanket and sits, ending with her seated on the blanket"
+      "motion_ref": "She finishes the blanket and sits, ending with her seated on the blanket",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-04",
@@ -387,7 +453,9 @@
       "motion": "They lie side by side and look up, ending with the seven lying in a row",
       "link": "연속",
       "link_ko": "앉은 자리에서 눕는다.",
-      "motion_ref": "They lie side by side and look up, ending with the seven lying in a row"
+      "motion_ref": "They lie side by side and look up, ending with the seven lying in a row",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-05",
@@ -406,7 +474,9 @@
       "motion": "The cloud moves slowly; no gaps open, ending on the unbroken cloud",
       "link": "컷",
       "link_ko": "누운 사람들에서 하늘로.",
-      "motion_ref": "The cloud moves slowly; no gaps open, ending on the unbroken cloud"
+      "motion_ref": "The cloud moves slowly; no gaps open, ending on the unbroken cloud",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -427,7 +497,9 @@
       "motion": "He pulls the blanket up to his chin, ending with the blanket at his chin",
       "link": "컷",
       "link_ko": "구름에서 걱정으로.",
-      "motion_ref": "He pulls the blanket up to his chin, ending with the blanket at his chin"
+      "motion_ref": "He pulls the blanket up to his chin, ending with the blanket at his chin",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-07",
@@ -448,7 +520,9 @@
       "motion": "He holds up one finger, ending with the finger still up",
       "link": "연속",
       "link_ko": "걱정 옆에서 말이 나온다.",
-      "motion_ref": "He holds up one finger, ending with the finger still up"
+      "motion_ref": "He holds up one finger, ending with the finger still up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-08",
@@ -469,7 +543,9 @@
       "motion": "She turns her head to look at him, ending on her turned face",
       "link": "연속",
       "link_ko": "말에 물음이 붙는다.",
-      "motion_ref": "She turns her head to look at him, ending on her turned face"
+      "motion_ref": "She turns her head to look at him, ending on her turned face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-09",
@@ -490,7 +566,9 @@
       "motion": "He puts a finger over his mouth, ending with his finger over his mouth",
       "link": "연속",
       "link_ko": "물음이 막힌다.",
-      "motion_ref": "He puts a finger over his mouth, ending with his finger over his mouth"
+      "motion_ref": "He puts a finger over his mouth, ending with his finger over his mouth",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-10",
@@ -509,7 +587,9 @@
       "motion": "They go quiet; only the cloud moves, ending on the cloud and the still figures",
       "link": "컷",
       "link_ko": "말이 끊기고 기다림이 온다.",
-      "motion_ref": "They go quiet; only the cloud moves, ending on the cloud and the still figures"
+      "motion_ref": "They go quiet; only the cloud moves, ending on the cloud and the still figures",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-11",
@@ -531,7 +611,9 @@
       "motion": "He turns his head to look at her, ending on his sideways look",
       "link": "연속",
       "link_ko": "기다리는 줄 안이다.",
-      "motion_ref": "He turns his head to look at her, ending on his sideways look"
+      "motion_ref": "He turns his head to look at her, ending on his sideways look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-12",
@@ -552,7 +634,9 @@
       "motion": "She lies with her eyes open, face still, ending on her unreadable face",
       "link": "연속",
       "link_ko": "본 쪽의 얼굴이다.",
-      "motion_ref": "She lies with her eyes open, face still, ending on her unreadable face"
+      "motion_ref": "She lies with her eyes open, face still, ending on her unreadable face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -571,7 +655,11 @@
       "motion": "Wind starts to push the cloud aside, ending with the first gap opening",
       "link": "전환",
       "link_ko": "기다림 끝에 바람이 온다.",
-      "motion_ref": "Wind starts to push the cloud aside, ending with the first gap opening"
+      "motion_ref": "Wind starts to push the cloud aside, ending with the first gap opening",
+      "sig": null,
+      "sfx": [
+        "바람_돌풍"
+      ]
     },
     {
       "id": "SC2-14",
@@ -590,7 +678,9 @@
       "motion": "One star shows and they all hold their breath, ending with the single star visible",
       "link": "연속",
       "link_ko": "틈이 벌어진다.",
-      "motion_ref": "One star shows and they all hold their breath, ending with the single star visible"
+      "motion_ref": "One star shows and they all hold their breath, ending with the single star visible",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-15",
@@ -609,7 +699,9 @@
       "motion": "The cloud sweeps away and the stars fill the sky, ending on the full field of stars",
       "link": "연속",
       "link_ko": "틈이 하늘 전체로 벌어진다.",
-      "motion_ref": "The cloud sweeps away and the stars fill the sky, ending on the full field of stars"
+      "motion_ref": "The cloud sweeps away and the stars fill the sky, ending on the full field of stars",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC2-16",
@@ -628,7 +720,9 @@
       "motion": "The stars sit reflected in their eyes, ending on the reflected stars",
       "link": "연속",
       "link_ko": "하늘에서 그것을 보는 눈으로.",
-      "motion_ref": "The stars sit reflected in their eyes, ending on the reflected stars"
+      "motion_ref": "The stars sit reflected in their eyes, ending on the reflected stars",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-01",
@@ -647,7 +741,9 @@
       "motion": "One long streak crosses the sky, ending with the streak fading out",
       "link": "전환",
       "link_ko": "별이 가득한 하늘에서 첫 별똥별로.",
-      "motion_ref": "One long streak crosses the sky, ending with the streak fading out"
+      "motion_ref": "One long streak crosses the sky, ending with the streak fading out",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-02",
@@ -668,7 +764,9 @@
       "motion": "She sits up and points at the sky, ending with her arm still up",
       "link": "연속",
       "link_ko": "별똥별에 반응한다.",
-      "motion_ref": "She sits up and points at the sky, ending with her arm still up"
+      "motion_ref": "She sits up and points at the sky, ending with her arm still up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-03",
@@ -687,7 +785,9 @@
       "motion": "Two, then three, then many streaks cross, ending with the sky full of streaks",
       "link": "컷",
       "link_ko": "한 줄기에서 여럿으로.",
-      "motion_ref": "Two, then three, then many streaks cross, ending with the sky full of streaks"
+      "motion_ref": "Two, then three, then many streaks cross, ending with the sky full of streaks",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -713,7 +813,9 @@
       "motion": "They shut their eyes and clasp their hands, ending with six pairs of clasped hands",
       "link": "컷",
       "link_ko": "하늘에서 소원 비는 사람들로.",
-      "motion_ref": "They shut their eyes and clasp their hands, ending with six pairs of clasped hands"
+      "motion_ref": "They shut their eyes and clasp their hands, ending with six pairs of clasped hands",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-05",
@@ -734,7 +836,9 @@
       "motion": "His lips move; no sound comes out, ending with his lips still",
       "link": "연속",
       "link_ko": "감은 눈 중 하나다.",
-      "motion_ref": "His lips move; no sound comes out, ending with his lips still"
+      "motion_ref": "His lips move; no sound comes out, ending with his lips still",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-06",
@@ -755,7 +859,9 @@
       "motion": "She clasps so hard her paws go pale, ending on her tightly clasped paws",
       "link": "컷",
       "link_ko": "한 사람에서 다른 사람으로.",
-      "motion_ref": "She clasps so hard her paws go pale, ending on her tightly clasped paws"
+      "motion_ref": "She clasps so hard her paws go pale, ending on her tightly clasped paws",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-07",
@@ -776,7 +882,9 @@
       "motion": "She smiles briefly, eyes closed, ending with her face calm again",
       "link": "컷",
       "link_ko": "또 다른 사람이다.",
-      "motion_ref": "She smiles briefly, eyes closed, ending with her face calm again"
+      "motion_ref": "She smiles briefly, eyes closed, ending with her face calm again",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-08",
@@ -797,7 +905,9 @@
       "motion": "He says his wish out loud, eyes shut, ending on his shut concentrated face",
       "link": "컷",
       "link_ko": "조용한 사람들 사이에서 소리가 난다.",
-      "motion_ref": "He says his wish out loud, eyes shut, ending on his shut concentrated face"
+      "motion_ref": "He says his wish out loud, eyes shut, ending on his shut concentrated face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -819,7 +929,9 @@
       "motion": "He opens his eyes and looks at him, ending with him staring at {쿵쿵}",
       "link": "연속",
       "link_ko": "소리를 듣고 눈을 뜬다.",
-      "motion_ref": "He opens his eyes and looks at him, ending with him staring at 쿵쿵"
+      "motion_ref": "He opens his eyes and looks at him, ending with him staring at 쿵쿵",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-10",
@@ -840,7 +952,9 @@
       "motion": "He opens his eyes and smiles, ending on his open smile",
       "link": "연속",
       "link_ko": "지적에 답이 온다.",
-      "motion_ref": "He opens his eyes and smiles, ending on his open smile"
+      "motion_ref": "He opens his eyes and smiles, ending on his open smile",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-11",
@@ -859,7 +973,9 @@
       "motion": "The hilltop brightens briefly with each streak, ending on the streaked bright sky",
       "link": "컷",
       "link_ko": "사람에서 하늘로 돌아간다.",
-      "motion_ref": "The hilltop brightens briefly with each streak, ending on the streaked bright sky"
+      "motion_ref": "The hilltop brightens briefly with each streak, ending on the streaked bright sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-12",
@@ -880,7 +996,9 @@
       "motion": "Her eyes stay open and her hands stay down, ending on her open eyes",
       "link": "컷",
       "link_ko": "하늘에서 안 비는 한 사람으로.",
-      "motion_ref": "Her eyes stay open and her hands stay down, ending on her open eyes"
+      "motion_ref": "Her eyes stay open and her hands stay down, ending on her open eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-13",
@@ -902,7 +1020,9 @@
       "motion": "He turns to look at her, ending on his questioning look",
       "link": "연속",
       "link_ko": "안 비는 걸 알아챈다.",
-      "motion_ref": "He turns to look at her, ending on his questioning look"
+      "motion_ref": "He turns to look at her, ending on his questioning look",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-14",
@@ -923,7 +1043,9 @@
       "motion": "She speaks without looking away from the sky, ending with her still watching the sky",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She speaks without looking away from the sky, ending with her still watching the sky"
+      "motion_ref": "She speaks without looking away from the sky, ending with her still watching the sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC3-15",
@@ -944,7 +1066,9 @@
       "motion": "She closes her eyes quietly, ending on her closed eyes",
       "link": "연속",
       "link_ko": "말 끝에 눈을 감는다.",
-      "motion_ref": "She closes her eyes quietly, ending on her closed eyes"
+      "motion_ref": "She closes her eyes quietly, ending on her closed eyes",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-01",
@@ -963,7 +1087,9 @@
       "motion": "Dozens of streaks pour across the sky, ending with the sky at its brightest",
       "link": "전환",
       "link_ko": "조용한 순간에 절정이 온다.",
-      "motion_ref": "Dozens of streaks pour across the sky, ending with the sky at its brightest"
+      "motion_ref": "Dozens of streaks pour across the sky, ending with the sky at its brightest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-02",
@@ -984,7 +1110,9 @@
       "motion": "A faint shimmer passes over his horns and fades, ending with the shimmer gone",
       "link": "컷",
       "link_ko": "하늘에서 그 아래의 뿔로.",
-      "motion_ref": "A faint shimmer passes over his horns and fades, ending with the shimmer gone"
+      "motion_ref": "A faint shimmer passes over his horns and fades, ending with the shimmer gone",
+      "sig": "뿔_반응",
+      "sfx": []
     },
     {
       "id": "SC4-03",
@@ -1005,7 +1133,9 @@
       "motion": "She sees it; her expression shifts, ending on her changed face",
       "link": "연속",
       "link_ko": "빛을 한 사람이 본다.",
-      "motion_ref": "She sees it; her expression shifts, ending on her changed face"
+      "motion_ref": "She sees it; her expression shifts, ending on her changed face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-04",
@@ -1026,7 +1156,9 @@
       "motion": "She says nothing and looks back up, ending on her upturned silent face",
       "link": "연속",
       "link_ko": "보고도 말하지 않는다.",
-      "motion_ref": "She says nothing and looks back up, ending on her upturned silent face"
+      "motion_ref": "She says nothing and looks back up, ending on her upturned silent face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-05",
@@ -1045,7 +1177,9 @@
       "motion": "The streaks thin out and the sky quiets, ending on the quiet starry sky",
       "link": "컷",
       "link_ko": "절정이 지나간다.",
-      "motion_ref": "The streaks thin out and the sky quiets, ending on the quiet starry sky"
+      "motion_ref": "The streaks thin out and the sky quiets, ending on the quiet starry sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-06",
@@ -1066,7 +1200,9 @@
       "motion": "She cannot take her eyes off the sky, ending with her still staring up",
       "link": "연속",
       "link_ko": "조용해진 뒤에 묻는다.",
-      "motion_ref": "She cannot take her eyes off the sky, ending with her still staring up"
+      "motion_ref": "She cannot take her eyes off the sky, ending with her still staring up",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-07",
@@ -1087,7 +1223,9 @@
       "motion": "She closes the book and hugs it, ending with the book against her chest",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She closes the book and hugs it, ending with the book against her chest"
+      "motion_ref": "She closes the book and hugs it, ending with the book against her chest",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "SC4-08",
@@ -1106,7 +1244,9 @@
       "motion": "They lie under the stars; nobody gets up, ending on the seven under the star field",
       "link": "컷",
       "link_ko": "한 사람에서 일곱 전체로.",
-      "motion_ref": "They lie under the stars; nobody gets up, ending on the seven under the star field"
+      "motion_ref": "They lie under the stars; nobody gets up, ending on the seven under the star field",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-01",
@@ -1130,7 +1270,9 @@
         "sec": 0.7,
         "why": "별이 쏟아진 밤에서 새벽으로"
       },
-      "motion_ref": "They sleep in a row as dawn comes, ending on the sleeping seven at dawn"
+      "motion_ref": "They sleep in a row as dawn comes, ending on the sleeping seven at dawn",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-02",
@@ -1151,7 +1293,9 @@
       "motion": "She sits up alone and watches the east, ending on her watching the eastern sky",
       "link": "연속",
       "link_ko": "잠든 줄 안에 깨어 있는 하나다.",
-      "motion_ref": "She sits up alone and watches the east, ending on her watching the eastern sky"
+      "motion_ref": "She sits up alone and watches the east, ending on her watching the eastern sky",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-03",
@@ -1170,7 +1314,9 @@
       "motion": "One morning star still hangs in the east, ending on the single morning star",
       "link": "연속",
       "link_ko": "보는 방향을 보여 준다.",
-      "motion_ref": "One morning star still hangs in the east, ending on the single morning star"
+      "motion_ref": "One morning star still hangs in the east, ending on the single morning star",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1191,7 +1337,9 @@
       "motion": "He wakes, puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "새벽별에서 깨어난 아이로.",
-      "motion_ref": "He wakes, puffs up his chest and beams, ending on his beaming face"
+      "motion_ref": "He wakes, puffs up his chest and beams, ending on his beaming face",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-05",
@@ -1213,7 +1361,9 @@
       "motion": "He comes over and sits beside her, ending with the two seated side by side",
       "link": "연속",
       "link_ko": "일어나서 옆에 앉는다.",
-      "motion_ref": "He comes over and sits beside her, ending with the two seated side by side"
+      "motion_ref": "He comes over and sits beside her, ending with the two seated side by side",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1234,7 +1384,9 @@
       "motion": "She looks at the sleepers and smiles a little, ending on her small smile in the dawn light",
       "link": "연속",
       "link_ko": "물음에 답이 온다.",
-      "motion_ref": "She looks at the sleepers and smiles a little, ending on her small smile in the dawn light"
+      "motion_ref": "She looks at the sleepers and smiles a little, ending on her small smile in the dawn light",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "EN-07",
@@ -1261,7 +1413,9 @@
       "motion": "The dawn light brightens as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The dawn light brightens as the camera eases back"
+      "motion_ref": "The dawn light brightens as the camera eases back",
+      "sig": null,
+      "sfx": []
     }
   ]
 }

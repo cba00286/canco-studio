@@ -7,6 +7,12 @@
   "sections": {
     "SH": "쇼츠 · 빛은 부술 때만 쓰는 게 아니야"
   },
+  "audio_sections": {
+    "SH": {
+      "amb": "실내_집",
+      "bgm": "벅찬_감동"
+    }
+  },
   "total_shots": 5,
   "total_seconds": 23,
   "shots": [
@@ -29,7 +35,9 @@
       "motion": "The light rises to the tips, ending held there, glowing steadily",
       "link": "전환",
       "link_ko": "첫 컷. 터지는 빛이 아니라 스며드는 빛이라는 걸 먼저 보여준다.",
-      "motion_ref": "The light rises to the tips, ending held there, glowing steadily"
+      "motion_ref": "The light rises to the tips, ending held there, glowing steadily",
+      "sig": null,
+      "sfx": []
     },
     {
       "id": "P02-02",
@@ -51,7 +59,9 @@
       "motion": "The warm wave folds around {루비}, ending with the light settled over her like dust",
       "link": "연속",
       "link_ko": "뿔의 빛이 그대로 퍼져 나간다.",
-      "motion_ref": "The warm wave folds around 루비, ending with the light settled over her like dust"
+      "motion_ref": "The warm wave folds around 루비, ending with the light settled over her like dust",
+      "sig": "쿵쿵_온기",
+      "sfx": []
     },
     {
       "id": "P02-03",
@@ -72,7 +82,9 @@
       "motion": "Dust streams inward from every corner, ending gathered into one hovering grey sphere",
       "link": "컷",
       "link_ko": "같은 빛, 다른 쓰임. 세 번째다.",
-      "motion_ref": "Dust streams inward from every corner, ending gathered into one hovering grey sphere"
+      "motion_ref": "Dust streams inward from every corner, ending gathered into one hovering grey sphere",
+      "sig": "쿵쿵_바람",
+      "sfx": []
     },
     {
       "id": "P02-04",
@@ -94,7 +106,9 @@
       "motion": "The waves roll slowly across the ceiling, ending with {후안} asleep and the light fading",
       "link": "컷",
       "link_ko": "네 번째. 재우는 빛으로 가장 조용해진다.",
-      "motion_ref": "The waves roll slowly across the ceiling, ending with 후안 asleep and the light fading"
+      "motion_ref": "The waves roll slowly across the ceiling, ending with 후안 asleep and the light fading",
+      "sig": "쿵쿵_자장가",
+      "sfx": []
     },
     {
       "id": "P02-05",
@@ -115,7 +129,9 @@
       "motion": "He settles and smiles, ending with the last of the light gone and the bottom third clear",
       "link": "컷",
       "link_ko": "마무리. 세 가지가 하나였다는 것을 한 줄로 묶는다.",
-      "motion_ref": "He settles and smiles, ending with the last of the light gone and the bottom third clear"
+      "motion_ref": "He settles and smiles, ending with the last of the light gone and the bottom third clear",
+      "sig": null,
+      "sfx": []
     }
   ]
 }
