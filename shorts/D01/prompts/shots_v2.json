@@ -28,7 +28,8 @@
       "image": "vertical close-up of {쿵쿵} popping up into frame from the bottom against a clean single-colour background, looking straight at camera",
       "motion": "He rises into frame, ending centred and looking directly at camera",
       "link": "전환",
-      "link_ko": "【고정】 매 편 똑같이 시작한다."
+      "link_ko": "【고정】 매 편 똑같이 시작한다.",
+      "motion_ref": "He rises into frame, ending centred and looking directly at camera"
     },
     {
       "id": "D01-02",
@@ -48,7 +49,8 @@
       "image": "vertical medium shot of {루비} playing at the edge of a swollen muddy stream, waving her star staff, the wet earth under her feet starting to crack",
       "motion": "She waves the staff, ending with the crack spreading right under her",
       "link": "전환",
-      "link_ko": "상황. 무슨 일이 벌어지고 있는지."
+      "link_ko": "상황. 무슨 일이 벌어지고 있는지.",
+      "motion_ref": "She waves the staff, ending with the crack spreading right under her"
     },
     {
       "id": "D01-03",
@@ -70,7 +72,8 @@
       "image": "vertical medium shot of the bank giving way and {루비} swept into the churning brown current, {루카} and {티니} frozen on the bank above",
       "motion": "She is carried downstream fast, ending with her one paw reaching up out of the water",
       "link": "컷",
-      "link_ko": "문제. 무엇이 잘못됐는지."
+      "link_ko": "문제. 무엇이 잘못됐는지.",
+      "motion_ref": "She is carried downstream fast, ending with her one paw reaching up out of the water"
     },
     {
       "id": "D01-04",
@@ -90,7 +93,8 @@
       "image": "vertical medium shot of {쿵쿵} charging along the bank and skidding to a halt at the water's edge, driving both front paws down into the earth",
       "motion": "He skids and slams down, ending with both paws buried and the ground shuddering",
       "link": "컷",
-      "link_ko": "전환점. 누가 무엇을 했는지."
+      "link_ko": "전환점. 누가 무엇을 했는지.",
+      "motion_ref": "He skids and slams down, ending with both paws buried and the ground shuddering"
     },
     {
       "id": "D01-05",
@@ -115,7 +119,8 @@
         "type": "fadewhite",
         "sec": 0.35,
         "why": "빛이 통나무를 미는 순간"
-      }
+      },
+      "motion_ref": "The log jams across and she catches it, ending with her safe on the log, gasping"
     },
     {
       "id": "D01-06",
@@ -135,7 +140,8 @@
       "image": "vertical medium shot of {쿵쿵} planting both front paws on his hips in his signature confident pose facing camera against a clean background, generous empty space along the bottom for a caption",
       "motion": "He settles into the pose and beams, ending held still with the bottom third clear",
       "link": "전환",
-      "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다."
+      "link_ko": "【고정】 앞의 이야기를 받아 한마디로 닫는다.",
+      "motion_ref": "He settles into the pose and beams, ending held still with the bottom third clear"
     },
     {
       "id": "D01-07",
@@ -155,7 +161,8 @@
       "image": "vertical end card of {쿵쿵} waving one front paw at camera against a clean warm background, clean empty space along the bottom",
       "motion": "He waves and the camera eases back, ending held still",
       "link": "컷",
-      "link_ko": "【고정】 매 편 똑같이 끝난다."
+      "link_ko": "【고정】 매 편 똑같이 끝난다.",
+      "motion_ref": "He waves and the camera eases back, ending held still"
     }
   ]
 }

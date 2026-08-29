@@ -85,7 +85,7 @@ def load_prompts(shots_file: str = "scenes.json") -> tuple[dict, dict]:
                 "image": shot["image"],
                 "image_ref": shot.get("image_ref", ""),
                 "cast": shot.get("cast", []),
-                "motion": shot["motion"],
+                "motion": shot.get("motion_ref") or shot["motion"],
                 "dialogue": shot.get("dialogue", ""),
             }
             for shot in data["shots"]

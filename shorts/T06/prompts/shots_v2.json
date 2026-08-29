@@ -28,7 +28,8 @@
       "image": "vertical extreme close-up of {티니}'s nose twitching and wrinkling up hard",
       "motion": "The nose crinkles tighter, ending at the very peak of the sneeze",
       "link": "전환",
-      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
+      "motion_ref": "The nose crinkles tighter, ending at the very peak of the sneeze"
     },
     {
       "id": "T06-02",
@@ -48,7 +49,8 @@
       "image": "vertical medium shot of {티니} sneezing hard, a cloud of dust blowing up around her, her body rocking backward",
       "motion": "The dust billows out, ending with it hanging thick in the sunbeam",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
+      "motion_ref": "The dust billows out, ending with it hanging thick in the sunbeam"
     },
     {
       "id": "T06-03",
@@ -68,7 +70,8 @@
       "image": "vertical medium shot of {미미} taking one sweep with a broom, dust billowing up worse than before, then shaking her head and setting the broom down",
       "motion": "The sweep throws dust into the air, ending with the broom set aside and the room no cleaner",
       "link": "컷",
-      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
+      "motion_ref": "The sweep throws dust into the air, ending with the broom set aside and the room no cleaner"
     },
     {
       "id": "T06-04",
@@ -88,7 +91,8 @@
       "image": "vertical wide shot of {쿵쿵} standing in the middle of a dusty bedroom lifting his front paws only slightly, the dust in the air beginning to spiral gently around him",
       "motion": "The air starts to turn, ending with the dust curling inward but not yet gathered",
       "link": "컷",
-      "link_ko": "해결의 실마리만. 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다.",
+      "motion_ref": "The air starts to turn, ending with the dust curling inward but not yet gathered"
     },
     {
       "id": "T06-05",
@@ -111,7 +115,8 @@
         "type": "fadeblack",
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
-      }
+      },
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
     }
   ]
 }

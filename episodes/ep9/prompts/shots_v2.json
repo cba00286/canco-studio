@@ -34,7 +34,8 @@
       "image": "a forest village on a spring morning, a hilltop meadow above it covered in pink blossom",
       "motion": "Petals drift on the breeze as the hillside ripples pink, ending held on the pink hillside above the village",
       "link": "전환",
-      "link_ko": "9화 첫 컷. 흩날리는 꽃잎과 함께 마을이 떠오른다."
+      "link_ko": "9화 첫 컷. 흩날리는 꽃잎과 함께 마을이 떠오른다.",
+      "motion_ref": "Petals drift on the breeze as the hillside ripples pink, ending held on the pink hillside above the village"
     },
     {
       "id": "SC1-02",
@@ -57,7 +58,8 @@
       "image": "{루카}, {미미}, {티니} and {루비} standing together outside {루카}'s front door",
       "motion": "The four stand talking outside the door, ending with the four gathered at the door",
       "link": "컷",
-      "link_ko": "언덕에서 마을의 루카네 집 앞으로 내려온다."
+      "link_ko": "언덕에서 마을의 루카네 집 앞으로 내려온다.",
+      "motion_ref": "The four stand talking outside the door, ending with the four gathered at the door"
     },
     {
       "id": "SC1-03",
@@ -77,7 +79,8 @@
       "image": "{미미} holding up three fingers to make the time clear",
       "motion": "She raises three fingers, ending with three fingers held up and steady",
       "link": "컷",
-      "link_ko": "그 넷 중 미미가 시간을 정한다."
+      "link_ko": "그 넷 중 미미가 시간을 정한다.",
+      "motion_ref": "She raises three fingers, ending with three fingers held up and steady"
     },
     {
       "id": "SC1-04",
@@ -97,7 +100,8 @@
       "image": "close-up of {루비}'s staff drawing the number three in the dirt",
       "motion": "The staff tip scratches a three into the soil, ending with the three scratched clear in the dirt",
       "link": "연속",
-      "link_ko": "세운 손가락 그대로 루비가 땅에 숫자를 그린다."
+      "link_ko": "세운 손가락 그대로 루비가 땅에 숫자를 그린다.",
+      "motion_ref": "The staff tip scratches a three into the soil, ending with the three scratched clear in the dirt"
     },
     {
       "id": "SC1-05",
@@ -117,7 +121,8 @@
       "image": "{루카} thumping his own chest confidently with a grin",
       "motion": "He thumps his chest, grinning, ending with his paw still on his chest, grinning",
       "link": "컷",
-      "link_ko": "땅의 숫자를 보고 루카가 장담한다."
+      "link_ko": "땅의 숫자를 보고 루카가 장담한다.",
+      "motion_ref": "He thumps his chest, grinning, ending with his paw still on his chest, grinning"
     },
     {
       "id": "SC1-06",
@@ -139,7 +144,8 @@
       "image": "{미미}, {티니} and {루비} waving and heading off down three different paths",
       "motion": "The three wave and scatter down separate paths, ending with the three gone down separate paths",
       "link": "컷",
-      "link_ko": "약속이 정해지고 셋이 흩어진다."
+      "link_ko": "약속이 정해지고 셋이 흩어진다.",
+      "motion_ref": "The three wave and scatter down separate paths, ending with the three gone down separate paths"
     },
     {
       "id": "SC1-07",
@@ -160,7 +166,8 @@
       "image": "{쿵쿵} looking up at {루카} and blinking with a question",
       "motion": "The baby dinosaur looks up, blinking, ending held with his head up, blinking",
       "link": "컷",
-      "link_ko": "남은 쿵쿵이가 루카에게 묻는다."
+      "link_ko": "남은 쿵쿵이가 루카에게 묻는다.",
+      "motion_ref": "The baby dinosaur looks up, blinking, ending held with his head up, blinking"
     },
     {
       "id": "SC1-08",
@@ -180,7 +187,8 @@
       "image": "{루카} pointing up at a spot in the sky to show where the sun will be",
       "motion": "He points to a place in the sky, ending with his finger held at a point in the sky",
       "link": "연속",
-      "link_ko": "쿵쿵이의 물음에 루카가 하늘을 가리킨다."
+      "link_ko": "쿵쿵이의 물음에 루카가 하늘을 가리킨다.",
+      "motion_ref": "He points to a place in the sky, ending with his finger held at a point in the sky"
     },
     {
       "id": "SC1-09",
@@ -200,7 +208,8 @@
       "image": "{루카} going inside and the front door swinging shut behind him",
       "motion": "The door closes and the yard falls quiet, ending with the door closed and the yard empty",
       "link": "컷",
-      "link_ko": "가리킨 하늘에서 문으로. 루카가 들어간다."
+      "link_ko": "가리킨 하늘에서 문으로. 루카가 들어간다.",
+      "motion_ref": "The door closes and the yard falls quiet, ending with the door closed and the yard empty"
     },
     {
       "id": "SC1-10",
@@ -218,7 +227,8 @@
       "image": "close-up of a brand new comic book sticking out of the mailbox beside the door",
       "motion": "The glossy cover catches the light, ending held on the glossy comic cover",
       "link": "컷",
-      "link_ko": "닫힌 문 옆 우편함으로."
+      "link_ko": "닫힌 문 옆 우편함으로.",
+      "motion_ref": "The glossy cover catches the light, ending held on the glossy comic cover"
     },
     {
       "id": "SC1-11",
@@ -238,7 +248,8 @@
       "image": "{루카} coming back out, spotting the comic and pulling it free, his eyes going wide",
       "motion": "He snatches the comic out, eyes widening, ending with the comic pulled free and his eyes wide",
       "link": "연속",
-      "link_ko": "그 만화책을 루카가 다시 나와 발견한다."
+      "link_ko": "그 만화책을 루카가 다시 나와 발견한다.",
+      "motion_ref": "He snatches the comic out, eyes widening, ending with the comic pulled free and his eyes wide"
     },
     {
       "id": "SC1-12",
@@ -258,7 +269,8 @@
       "image": "close-up of {루카} holding the comic cover right up in front of his face",
       "motion": "He holds the cover inches from his nose, ending with the cover filling his view",
       "link": "연속",
-      "link_ko": "꺼낸 만화책을 얼굴 앞으로 들어 올린다."
+      "link_ko": "꺼낸 만화책을 얼굴 앞으로 들어 올린다.",
+      "motion_ref": "He holds the cover inches from his nose, ending with the cover filling his view"
     },
     {
       "id": "SC1-13",
@@ -278,7 +290,8 @@
       "image": "{루카} running back inside clutching the comic to his chest",
       "motion": "He bolts inside hugging the comic, ending with him through the door and gone",
       "link": "연속",
-      "link_ko": "들여다보던 그대로 안으로 뛰어 들어간다."
+      "link_ko": "들여다보던 그대로 안으로 뛰어 들어간다.",
+      "motion_ref": "He bolts inside hugging the comic, ending with him through the door and gone"
     },
     {
       "id": "SC1-14",
@@ -298,7 +311,8 @@
       "image": "{루카} sprawled on his bed in his room, opening the comic to the first page",
       "motion": "He flops onto the bed and turns to page one, ending with the first page open in front of him",
       "link": "연속",
-      "link_ko": "뛰어 올라간 방에서 만화책을 편다."
+      "link_ko": "뛰어 올라간 방에서 만화책을 편다.",
+      "motion_ref": "He flops onto the bed and turns to page one, ending with the first page open in front of him"
     },
     {
       "id": "SC2-01",
@@ -316,7 +330,8 @@
       "image": "close-up of comic pages turning quickly one after another",
       "motion": "Pages flip past in quick succession, ending with pages still flipping fast",
       "link": "전환",
-      "link_ko": "펼친 책에서 시간이 흐르기 시작한다."
+      "link_ko": "펼친 책에서 시간이 흐르기 시작한다.",
+      "motion_ref": "Pages flip past in quick succession, ending with pages still flipping fast"
     },
     {
       "id": "SC2-02",
@@ -336,7 +351,8 @@
       "image": "{루카} completely absorbed, his eyes darting back and forth across the page",
       "motion": "His eyes race across the panels, ending with his eyes still racing across the panels",
       "link": "연속",
-      "link_ko": "넘어가는 페이지 위 루카의 얼굴."
+      "link_ko": "넘어가는 페이지 위 루카의 얼굴.",
+      "motion_ref": "His eyes race across the panels, ending with his eyes still racing across the panels"
     },
     {
       "id": "SC2-03",
@@ -354,7 +370,8 @@
       "image": "the window of the room, a shadow creeping slowly across the floor as the sun moves",
       "motion": "A shadow slides slowly across the floorboards, ending with the shadow well across the floor",
       "link": "컷",
-      "link_ko": "빠져든 루카에서 창밖 그림자로."
+      "link_ko": "빠져든 루카에서 창밖 그림자로.",
+      "motion_ref": "A shadow slides slowly across the floorboards, ending with the shadow well across the floor"
     },
     {
       "id": "SC2-04",
@@ -381,7 +398,8 @@
         "type": "dissolve",
         "sec": 0.45,
         "why": "루카의 방과 꽃밭을 오간다. 같은 시간 다른 곳"
-      }
+      },
+      "motion_ref": "They lay out a mat among the flowers, ending with the mat spread and the three seated"
     },
     {
       "id": "SC2-05",
@@ -401,7 +419,8 @@
       "image": "{티니} standing at the edge of the hill looking down the path below",
       "motion": "She peers down the empty path, ending held on the empty path below",
       "link": "컷",
-      "link_ko": "앉은 셋 중 티니가 길을 내려다본다."
+      "link_ko": "앉은 셋 중 티니가 길을 내려다본다.",
+      "motion_ref": "She peers down the empty path, ending held on the empty path below"
     },
     {
       "id": "SC2-06",
@@ -421,7 +440,8 @@
       "image": "{미미} opening a basket and taking out a packed lunch",
       "motion": "She opens the basket and lifts out lunch, ending with the lunch set out on the mat",
       "link": "컷",
-      "link_ko": "빈 길을 보다 미미가 도시락을 꺼낸다."
+      "link_ko": "빈 길을 보다 미미가 도시락을 꺼낸다.",
+      "motion_ref": "She opens the basket and lifts out lunch, ending with the lunch set out on the mat"
     },
     {
       "id": "SC2-07",
@@ -444,7 +464,8 @@
         "type": "dissolve",
         "sec": 0.45,
         "why": "꽃밭에서 다시 방으로"
-      }
+      },
+      "motion_ref": "The pile of read comics grows higher, ending held on the growing pile of finished comics"
     },
     {
       "id": "SC2-08",
@@ -467,7 +488,8 @@
         "type": "dissolve",
         "sec": 0.45,
         "why": "방에서 다시 꽃밭으로"
-      }
+      },
+      "motion_ref": "The empty boxes sit as the three keep watching, ending with the empty boxes and the three still watching"
     },
     {
       "id": "SC2-09",
@@ -487,7 +509,8 @@
       "image": "{루비} raising her staff with a deliberately cheerful smile",
       "motion": "She lifts her staff, forcing brightness, ending with the staff raised and her smile forced",
       "link": "컷",
-      "link_ko": "기다림이 길어지자 루비가 노래를 제안한다."
+      "link_ko": "기다림이 길어지자 루비가 노래를 제안한다.",
+      "motion_ref": "She lifts her staff, forcing brightness, ending with the staff raised and her smile forced"
     },
     {
       "id": "SC2-10",
@@ -509,7 +532,8 @@
       "image": "{미미}, {티니} and {루비} singing together among the blossoms, their shadows stretching longer",
       "motion": "They sing as the shadows draw out longer, ending with their shadows visibly longer",
       "link": "연속",
-      "link_ko": "제안대로 셋이 노래하며 기다린다."
+      "link_ko": "제안대로 셋이 노래하며 기다린다.",
+      "motion_ref": "They sing as the shadows draw out longer, ending with their shadows visibly longer"
     },
     {
       "id": "SC2-11",
@@ -534,7 +558,8 @@
         "type": "dissolve",
         "sec": 0.45,
         "why": "꽃밭의 그림자와 방의 노을은 같은 시각이다"
-      }
+      },
+      "motion_ref": "The light warms from white through gold to orange, ending with the light fully orange"
     },
     {
       "id": "SC2-12",
@@ -555,7 +580,8 @@
       "image": "{쿵쿵} pushing open the bedroom door and looking inside",
       "motion": "The door swings and he looks in, ending with him inside, looking at {루카}",
       "link": "컷",
-      "link_ko": "주황빛 방으로 쿵쿵이가 들어온다."
+      "link_ko": "주황빛 방으로 쿵쿵이가 들어온다.",
+      "motion_ref": "The door swings and he looks in, ending with him inside, looking at 루카"
     },
     {
       "id": "SC2-13",
@@ -575,7 +601,8 @@
       "image": "{쿵쿵} pointing a front paw urgently toward the window",
       "motion": "He points hard toward the window, ending with his paw held firmly toward the window",
       "link": "연속",
-      "link_ko": "들어온 쿵쿵이가 창밖을 가리킨다."
+      "link_ko": "들어온 쿵쿵이가 창밖을 가리킨다.",
+      "motion_ref": "He points hard toward the window, ending with his paw held firmly toward the window"
     },
     {
       "id": "SC2-14",
@@ -595,7 +622,8 @@
       "image": "close-up of {루카} lifting his head from the comic, the red evening sky reflected in his widening eyes",
       "motion": "His head snaps up, the red sky filling his eyes, ending with the red sky filling his widened eyes",
       "link": "연속",
-      "link_ko": "가리킨 곳을 루카가 본다."
+      "link_ko": "가리킨 곳을 루카가 본다.",
+      "motion_ref": "His head snaps up, the red sky filling his eyes, ending with the red sky filling his widened eyes"
     },
     {
       "id": "SC2-15",
@@ -615,7 +643,8 @@
       "image": "{루카} flinging the comic aside and leaping to his feet",
       "motion": "He hurls the comic away and springs up, ending with him upright and the comic mid-air",
       "link": "연속",
-      "link_ko": "본 순간 루카가 만화책을 던진다."
+      "link_ko": "본 순간 루카가 만화책을 던진다.",
+      "motion_ref": "He hurls the comic away and springs up, ending with him upright and the comic mid-air"
     },
     {
       "id": "SC2-16",
@@ -635,7 +664,8 @@
       "image": "{루카} bursting out of the house and sprinting up the path toward the hill",
       "motion": "He crashes out the door and tears up the path, ending with him already up the path, running",
       "link": "연속",
-      "link_ko": "일어선 그대로 문을 박차고 달린다."
+      "link_ko": "일어선 그대로 문을 박차고 달린다.",
+      "motion_ref": "He crashes out the door and tears up the path, ending with him already up the path, running"
     },
     {
       "id": "SC3-01",
@@ -655,7 +685,8 @@
       "image": "{루카} running up the hill path, chest heaving, the sky deep orange above",
       "motion": "He pounds up the slope, breathing hard, ending with him halfway up the slope",
       "link": "전환",
-      "link_ko": "집을 나선 뒤 언덕길. 숨소리가 앞선다."
+      "link_ko": "집을 나선 뒤 언덕길. 숨소리가 앞선다.",
+      "motion_ref": "He pounds up the slope, breathing hard, ending with him halfway up the slope"
     },
     {
       "id": "SC3-02",
@@ -675,7 +706,8 @@
       "image": "close-up of {루카}'s feet pounding the dirt path, dust kicking up behind",
       "motion": "His feet hammer the path, dust flying, ending with dust still hanging behind his stride",
       "link": "컷",
-      "link_ko": "달리는 발밑을 본다."
+      "link_ko": "달리는 발밑을 본다.",
+      "motion_ref": "His feet hammer the path, dust flying, ending with dust still hanging behind his stride"
     },
     {
       "id": "SC3-03",
@@ -695,7 +727,8 @@
       "image": "{루카} cresting the hilltop and stopping dead",
       "motion": "He reaches the top and freezes, ending with him stopped dead at the crest",
       "link": "연속",
-      "link_ko": "달리던 그대로 언덕 꼭대기에 올라선다."
+      "link_ko": "달리던 그대로 언덕 꼭대기에 올라선다.",
+      "motion_ref": "He reaches the top and freezes, ending with him stopped dead at the crest"
     },
     {
       "id": "SC3-04",
@@ -713,7 +746,8 @@
       "image": "the blossom meadow completely empty, only the burning red sunset and drifting petals",
       "motion": "Petals drift across the empty meadow under a red sky, ending held on the empty meadow under red sky",
       "link": "연속",
-      "link_ko": "멈춰 선 그 시야에 빈 꽃밭이 있다."
+      "link_ko": "멈춰 선 그 시야에 빈 꽃밭이 있다.",
+      "motion_ref": "Petals drift across the empty meadow under a red sky, ending held on the empty meadow under red sky"
     },
     {
       "id": "SC3-05",
@@ -731,7 +765,8 @@
       "image": "close-up of three flattened patches in the grass where they had been sitting",
       "motion": "The camera drifts over the three flattened patches, ending held on the three flattened patches",
       "link": "컷",
-      "link_ko": "빈 꽃밭에서 눌린 풀 자국으로."
+      "link_ko": "빈 꽃밭에서 눌린 풀 자국으로.",
+      "motion_ref": "The camera drifts over the three flattened patches, ending held on the three flattened patches"
     },
     {
       "id": "SC3-06",
@@ -751,7 +786,8 @@
       "image": "{루카} sinking down onto his knees in the empty meadow",
       "motion": "He drops slowly to his knees, ending with him fully down on his knees",
       "link": "컷",
-      "link_ko": "그 자국 앞에 루카가 무릎을 꿇는다."
+      "link_ko": "그 자국 앞에 루카가 무릎을 꿇는다.",
+      "motion_ref": "He drops slowly to his knees, ending with him fully down on his knees"
     },
     {
       "id": "SC3-07",
@@ -771,7 +807,8 @@
       "image": "close-up of {루카} still panting, his face filling with regret as his eyes close",
       "motion": "He gasps for breath, eyes closing in regret, ending with his eyes closed and breath still ragged",
       "link": "연속",
-      "link_ko": "무릎 꿇은 루카의 얼굴."
+      "link_ko": "무릎 꿇은 루카의 얼굴.",
+      "motion_ref": "He gasps for breath, eyes closing in regret, ending with his eyes closed and breath still ragged"
     },
     {
       "id": "SC3-08",
@@ -792,7 +829,8 @@
       "image": "{쿵쿵} arriving at the hilltop out of breath and stopping beside {루카}",
       "motion": "He arrives panting and halts at his side, ending standing beside him, panting",
       "link": "컷",
-      "link_ko": "루카 옆에 쿵쿵이가 뒤늦게 도착한다."
+      "link_ko": "루카 옆에 쿵쿵이가 뒤늦게 도착한다.",
+      "motion_ref": "He arrives panting and halts at his side, ending standing beside him, panting"
     },
     {
       "id": "SC3-09",
@@ -814,7 +852,8 @@
       "image": "the village path far below, the small silhouettes of {미미}, {티니} and {루비} walking home in the dusk",
       "motion": "Three small silhouettes recede toward the village, ending with the three silhouettes small and receding",
       "link": "컷",
-      "link_ko": "언덕 위에서 저 아래 마을 길로."
+      "link_ko": "언덕 위에서 저 아래 마을 길로.",
+      "motion_ref": "Three small silhouettes recede toward the village, ending with the three silhouettes small and receding"
     },
     {
       "id": "SC3-10",
@@ -834,7 +873,8 @@
       "image": "close-up of {루카} watching the distant figures walking away",
       "motion": "His gaze follows the shrinking figures, ending with his eyes following them until they vanish",
       "link": "연속",
-      "link_ko": "멀어지는 그들을 루카가 본다."
+      "link_ko": "멀어지는 그들을 루카가 본다.",
+      "motion_ref": "His gaze follows the shrinking figures, ending with his eyes following them until they vanish"
     },
     {
       "id": "SC3-11",
@@ -854,7 +894,8 @@
       "image": "{쿵쿵} looking up quietly, asking without accusation",
       "motion": "He looks up quietly, no blame in his face, ending held with his face turned up, waiting",
       "link": "컷",
-      "link_ko": "보고 있는 루카에게 쿵쿵이가 묻는다."
+      "link_ko": "보고 있는 루카에게 쿵쿵이가 묻는다.",
+      "motion_ref": "He looks up quietly, no blame in his face, ending held with his face turned up, waiting"
     },
     {
       "id": "SC3-12",
@@ -874,7 +915,8 @@
       "image": "{루카} lowering his head, unable to look up",
       "motion": "His head sinks down, ending with his head fully lowered",
       "link": "연속",
-      "link_ko": "쿵쿵이의 물음에 루카가 답한다."
+      "link_ko": "쿵쿵이의 물음에 루카가 답한다.",
+      "motion_ref": "His head sinks down, ending with his head fully lowered"
     },
     {
       "id": "SC3-13",
@@ -894,7 +936,8 @@
       "image": "close-up of {루카}'s paw brushing slowly over the flattened grass",
       "motion": "His paw sweeps slowly across the pressed grass, ending with his paw resting flat on the grass",
       "link": "연속",
-      "link_ko": "고개 숙인 채 눌린 풀을 쓸어본다."
+      "link_ko": "고개 숙인 채 눌린 풀을 쓸어본다.",
+      "motion_ref": "His paw sweeps slowly across the pressed grass, ending with his paw resting flat on the grass"
     },
     {
       "id": "SC3-14",
@@ -912,7 +955,8 @@
       "image": "the last of the sunset fading from the meadow as the first stars appear",
       "motion": "The red drains away and stars begin to show, ending with the first stars showing",
       "link": "컷",
-      "link_ko": "풀에서 하늘로. 노을이 사라진다."
+      "link_ko": "풀에서 하늘로. 노을이 사라진다.",
+      "motion_ref": "The red drains away and stars begin to show, ending with the first stars showing"
     },
     {
       "id": "SC3-15",
@@ -932,7 +976,8 @@
       "image": "{루카} getting to his feet and closing his paw into a determined fist",
       "motion": "He rises, fist tightening with resolve, ending with him standing, fist closed tight",
       "link": "연속",
-      "link_ko": "별이 뜨는 아래에서 루카가 일어선다."
+      "link_ko": "별이 뜨는 아래에서 루카가 일어선다.",
+      "motion_ref": "He rises, fist tightening with resolve, ending with him standing, fist closed tight"
     },
     {
       "id": "SC4-01",
@@ -957,7 +1002,8 @@
         "type": "fadeblack",
         "sec": 0.75,
         "why": "별이 뜬 밤에서 새벽으로"
-      }
+      },
+      "motion_ref": "He walks the dim path alone before dawn, ending with him walking alone down the dim path"
     },
     {
       "id": "SC4-02",
@@ -978,7 +1024,8 @@
       "image": "{루카} waiting outside {미미}'s door, fidgeting with three folded papers in his paws",
       "motion": "He waits, turning the folded papers over, ending waiting at the door, turning the papers over",
       "link": "연속",
-      "link_ko": "걸어온 그가 미미의 집 앞에 선다."
+      "link_ko": "걸어온 그가 미미의 집 앞에 선다.",
+      "motion_ref": "He waits, turning the folded papers over, ending waiting at the door, turning the papers over"
     },
     {
       "id": "SC4-03",
@@ -999,7 +1046,8 @@
       "image": "the door opening and {미미} stepping out, stopping when she sees {루카}",
       "motion": "She steps out and halts at the sight of him, ending with her stopped in the doorway, seeing him",
       "link": "연속",
-      "link_ko": "기다리던 그 문이 열린다."
+      "link_ko": "기다리던 그 문이 열린다.",
+      "motion_ref": "She steps out and halts at the sight of him, ending with her stopped in the doorway, seeing him"
     },
     {
       "id": "SC4-04",
@@ -1019,7 +1067,8 @@
       "image": "{루카} bowing deeply from the waist",
       "motion": "He bends into a deep bow, ending held in the full bow",
       "link": "연속",
-      "link_ko": "눈이 마주치자 루카가 허리를 숙인다."
+      "link_ko": "눈이 마주치자 루카가 허리를 숙인다.",
+      "motion_ref": "He bends into a deep bow, ending held in the full bow"
     },
     {
       "id": "SC4-05",
@@ -1040,7 +1089,8 @@
       "image": "{티니} and {루비} coming up the path and stopping nearby",
       "motion": "The two come up the path and stop, ending with the two stopped nearby, watching",
       "link": "컷",
-      "link_ko": "숙인 루카 옆으로 둘이 걸어온다."
+      "link_ko": "숙인 루카 옆으로 둘이 걸어온다.",
+      "motion_ref": "The two come up the path and stop, ending with the two stopped nearby, watching"
     },
     {
       "id": "SC4-06",
@@ -1058,7 +1108,8 @@
       "image": "close-up of three folded papers opening to show crayon drawings of the blossom meadow",
       "motion": "The papers unfold to reveal crayon meadows, ending with all three drawings fully open",
       "link": "연속",
-      "link_ko": "셋이 모이자 루카가 종이를 펼친다."
+      "link_ko": "셋이 모이자 루카가 종이를 펼친다.",
+      "motion_ref": "The papers unfold to reveal crayon meadows, ending with all three drawings fully open"
     },
     {
       "id": "SC4-07",
@@ -1078,7 +1129,8 @@
       "image": "{루비} taking one of the drawings and looking down at it",
       "motion": "She takes a drawing and studies it, ending with her studying the drawing",
       "link": "컷",
-      "link_ko": "펼쳐진 그림 하나를 루비가 받아 든다."
+      "link_ko": "펼쳐진 그림 하나를 루비가 받아 든다.",
+      "motion_ref": "She takes a drawing and studies it, ending with her studying the drawing"
     },
     {
       "id": "SC4-08",
@@ -1101,7 +1153,8 @@
       "image": "{미미} holding up three fingers again as {루카}, {티니} and {루비} look at each other",
       "motion": "She raises three fingers again and they exchange looks, ending with three fingers up and the four exchanging looks",
       "link": "컷",
-      "link_ko": "그림을 본 뒤 미미가 다시 손가락 세 개를 편다."
+      "link_ko": "그림을 본 뒤 미미가 다시 손가락 세 개를 편다.",
+      "motion_ref": "She raises three fingers again and they exchange looks, ending with three fingers up and the four exchanging looks"
     },
     {
       "id": "EN-01",
@@ -1121,7 +1174,8 @@
       "image": "{루카} nodding firmly, meeting their eyes this time",
       "motion": "He nods hard, holding their gaze, ending with his nod complete, eyes level",
       "link": "전환",
-      "link_ko": "엔딩 시작. 다시 정해진 약속에 루카가 답한다."
+      "link_ko": "엔딩 시작. 다시 정해진 약속에 루카가 답한다.",
+      "motion_ref": "He nods hard, holding their gaze, ending with his nod complete, eyes level"
     },
     {
       "id": "EN-02",
@@ -1146,7 +1200,8 @@
         "type": "fadewhite",
         "sec": 0.6,
         "why": "새벽에서 그날 오후로"
-      }
+      },
+      "motion_ref": "He sits waiting, eyes on the path, ending with him seated alone, watching the path"
     },
     {
       "id": "EN-03",
@@ -1164,7 +1219,8 @@
       "image": "close-up of the comic book lying closed beside him, a petal drifting down onto its cover",
       "motion": "A petal settles onto the closed comic, ending with a petal settled on the closed cover",
       "link": "연속",
-      "link_ko": "기다리는 루카 발밑에 만화책이 덮여 있다."
+      "link_ko": "기다리는 루카 발밑에 만화책이 덮여 있다.",
+      "motion_ref": "A petal settles onto the closed comic, ending with a petal settled on the closed cover"
     },
     {
       "id": "EN-04",
@@ -1187,7 +1243,8 @@
       "image": "{미미}, {티니} and {루비} coming over the hill as {루카} jumps up and waves both arms",
       "motion": "They crest the hill as he leaps up waving, ending with him on his feet, both arms waving",
       "link": "컷",
-      "link_ko": "덮인 만화책에서 언덕으로. 셋이 온다."
+      "link_ko": "덮인 만화책에서 언덕으로. 셋이 온다.",
+      "motion_ref": "They crest the hill as he leaps up waving, ending with him on his feet, both arms waving"
     },
     {
       "id": "EN-05",
@@ -1207,7 +1264,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile",
       "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
       "link": "컷",
-      "link_ko": "반가운 재회 중에 쿵쿵이의 얼굴로."
+      "link_ko": "반가운 재회 중에 쿵쿵이의 얼굴로.",
+      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held"
     },
     {
       "id": "EN-06",
@@ -1231,7 +1289,8 @@
       "image": "wide shot of {루카}, {미미}, {티니}, {루비} and {쿵쿵} sitting together on the mat in the blossom meadow, petals drifting around them",
       "motion": "Petals drift as the five laugh together, ending held wide with petals drifting over the five",
       "link": "연속",
-      "link_ko": "쿵쿵이의 말과 함께 다섯이 자리를 잡는다."
+      "link_ko": "쿵쿵이의 말과 함께 다섯이 자리를 잡는다.",
+      "motion_ref": "Petals drift as the five laugh together, ending held wide with petals drifting over the five"
     },
     {
       "id": "EN-07",
@@ -1255,7 +1314,8 @@
       "image": "end card composition, {루카}, {미미}, {티니}, {루비} and {쿵쿵} standing together in the blossom meadow, soft pink and gold colours, clean empty space along the bottom for a title",
       "motion": "Petals drift gently as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드."
+      "link_ko": "엔딩 카드.",
+      "motion_ref": "Petals drift gently as the camera eases back"
     }
   ]
 }

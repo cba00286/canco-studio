@@ -35,7 +35,8 @@
       "image": "a forest village in the rain, water drumming on the rooftops and puddles rippling in the square",
       "motion": "Rain drums on the roofs and rings spread across the puddles, ending held on the rain-soaked empty square",
       "link": "전환",
-      "link_ko": "11화 첫 컷. 빗소리에서 시작한다."
+      "link_ko": "11화 첫 컷. 빗소리에서 시작한다.",
+      "motion_ref": "Rain drums on the roofs and rings spread across the puddles, ending held on the rain-soaked empty square"
     },
     {
       "id": "SC1-02",
@@ -60,7 +61,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} crowded at a window with their faces pressed to the glass, watching the rain",
       "motion": "They press against the glass watching the rain, ending with all six still at the glass",
       "link": "전환",
-      "link_ko": "비에서 창 안으로. 밖과 안이 이어진다."
+      "link_ko": "비에서 창 안으로. 밖과 안이 이어진다.",
+      "motion_ref": "They press against the glass watching the rain, ending with all six still at the glass"
     },
     {
       "id": "SC1-03",
@@ -80,7 +82,8 @@
       "image": "close-up of {티니} with her nose flat against the wet window glass, fogging it with her breath",
       "motion": "Her breath fogs a circle on the glass, ending on the fogged circle around her nose",
       "link": "연속",
-      "link_ko": "같은 창가. 유리에 붙은 얼굴로 들어간다."
+      "link_ko": "같은 창가. 유리에 붙은 얼굴로 들어간다.",
+      "motion_ref": "Her breath fogs a circle on the glass, ending on the fogged circle around her nose"
     },
     {
       "id": "SC1-04",
@@ -100,7 +103,8 @@
       "image": "{미미} pointing at a small potted flower on the windowsill catching drips",
       "motion": "She points to the little pot on the sill, ending with the pot catching one more drip",
       "link": "연속",
-      "link_ko": "티니 옆에서 미미가 말한다."
+      "link_ko": "티니 옆에서 미미가 말한다.",
+      "motion_ref": "She points to the little pot on the sill, ending with the pot catching one more drip"
     },
     {
       "id": "SC1-05",
@@ -118,7 +122,8 @@
       "image": "close-up of the last raindrop falling into the little pot as the rain thins out",
       "motion": "The rain thins and one last drop falls, ending on the still pot with no more drops",
       "link": "연속",
-      "link_ko": "화분을 가리키던 손끝에서 이어진다."
+      "link_ko": "화분을 가리키던 손끝에서 이어진다.",
+      "motion_ref": "The rain thins and one last drop falls, ending on the still pot with no more drops"
     },
     {
       "id": "SC1-06",
@@ -136,7 +141,8 @@
       "image": "wide shot of the clouds splitting open over the village square and sunlight pouring down onto the wet stones",
       "motion": "The clouds part and light floods the wet square, ending on the sunlit square",
       "link": "전환",
-      "link_ko": "비가 그친 순간, 화면이 밝아진다."
+      "link_ko": "비가 그친 순간, 화면이 밝아진다.",
+      "motion_ref": "The clouds part and light floods the wet square, ending on the sunlit square"
     },
     {
       "id": "SC1-07",
@@ -161,7 +167,8 @@
       "image": "the front door bursting open as {쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} come tumbling out into the square",
       "motion": "The door bursts open and all six pour out, ending with the six spread across the square",
       "link": "연속",
-      "link_ko": "빛이 든 광장으로 아이들이 뛰어든다."
+      "link_ko": "빛이 든 광장으로 아이들이 뛰어든다.",
+      "motion_ref": "The door bursts open and all six pour out, ending with the six spread across the square"
     },
     {
       "id": "SC1-08",
@@ -181,7 +188,8 @@
       "image": "{후안} throwing out one flipper to point at the sky while the others all tip their heads back",
       "motion": "He flings out a flipper and every head tips back, ending with all six frozen looking up",
       "link": "연속",
-      "link_ko": "뛰어나온 아이들이 그 자리에서 멈춘다."
+      "link_ko": "뛰어나온 아이들이 그 자리에서 멈춘다.",
+      "motion_ref": "He flings out a flipper and every head tips back, ending with all six frozen looking up"
     },
     {
       "id": "SC1-09",
@@ -199,7 +207,8 @@
       "image": "wide shot of an enormous rainbow arching over the rain-washed village like a bridge, one end coming down behind the far hills",
       "motion": "The rainbow strengthens and deepens across the sky, ending on the full rainbow arch",
       "link": "컷",
-      "link_ko": "올려다본 시선의 끝. 하늘로 넘어간다."
+      "link_ko": "올려다본 시선의 끝. 하늘로 넘어간다.",
+      "motion_ref": "The rainbow strengthens and deepens across the sky, ending on the full rainbow arch"
     },
     {
       "id": "SC1-10",
@@ -219,7 +228,8 @@
       "image": "close-up of {쿵쿵} looking up open-mouthed with the rainbow colours reflected in his wide eyes",
       "motion": "His mouth hangs open and colours slide across his eyes, ending on his awed upturned face",
       "link": "컷",
-      "link_ko": "무지개에서 그것을 보는 얼굴로."
+      "link_ko": "무지개에서 그것을 보는 얼굴로.",
+      "motion_ref": "His mouth hangs open and colours slide across his eyes, ending on his awed upturned face"
     },
     {
       "id": "SC1-11",
@@ -239,7 +249,8 @@
       "image": "{티니} bouncing on the spot with her tail going wild",
       "motion": "She bounces in place, tail whipping, ending mid-bounce with her tail still going",
       "link": "연속",
-      "link_ko": "쿵쿵 옆에서 티니가 튀어 오른다."
+      "link_ko": "쿵쿵 옆에서 티니가 튀어 오른다.",
+      "motion_ref": "She bounces in place, tail whipping, ending mid-bounce with her tail still going"
     },
     {
       "id": "SC1-12",
@@ -259,7 +270,8 @@
       "image": "{루카} grinning and pointing off toward the hill road at the edge of the village",
       "motion": "He grins and points toward the hill road, ending with his arm still pointing at the hill",
       "link": "연속",
-      "link_ko": "티니의 들뜸이 루카에게 옮는다."
+      "link_ko": "티니의 들뜸이 루카에게 옮는다.",
+      "motion_ref": "He grins and points toward the hill road, ending with his arm still pointing at the hill"
     },
     {
       "id": "SC1-13",
@@ -279,7 +291,8 @@
       "image": "close-up of {미미} speaking quietly with a small worried look in her eyes",
       "motion": "She speaks softly and her eyes drop a little, ending on her quiet worried face",
       "link": "컷",
-      "link_ko": "들뜬 쪽에서 조심스러운 쪽으로 넘어간다."
+      "link_ko": "들뜬 쪽에서 조심스러운 쪽으로 넘어간다.",
+      "motion_ref": "She speaks softly and her eyes drop a little, ending on her quiet worried face"
     },
     {
       "id": "SC1-14",
@@ -299,7 +312,8 @@
       "image": "{루비} tapping her staff on the wet stones and setting off, the other five falling in behind her toward the hill road",
       "motion": "She taps her staff and leads them onto the hill road, ending with the six walking away up the road",
       "link": "컷",
-      "link_ko": "말이 끝나고 일행이 움직인다."
+      "link_ko": "말이 끝나고 일행이 움직인다.",
+      "motion_ref": "She taps her staff and leads them onto the hill road, ending with the six walking away up the road"
     },
     {
       "id": "SC2-01",
@@ -322,7 +336,8 @@
         "type": "dissolve",
         "sec": 0.45,
         "why": "마을에서 언덕길로. 같은 여정이 이어진다"
-      }
+      },
+      "motion_ref": "The six climb the wet road in single file, ending with the line partway up the road"
     },
     {
       "id": "SC2-02",
@@ -342,7 +357,8 @@
       "image": "{쿵쿵}'s short legs splashing through the puddles along the road",
       "motion": "His feet slap through puddle after puddle, ending with water still spraying from his step",
       "link": "연속",
-      "link_ko": "줄의 뒤쪽으로 들어간다."
+      "link_ko": "줄의 뒤쪽으로 들어간다.",
+      "motion_ref": "His feet slap through puddle after puddle, ending with water still spraying from his step"
     },
     {
       "id": "SC2-03",
@@ -362,7 +378,8 @@
       "image": "close-up of {쿵쿵} panting and looking up the road ahead",
       "motion": "He pants, looking up the road, ending on his panting face",
       "link": "연속",
-      "link_ko": "첨벙거리던 발에서 얼굴로 올라온다."
+      "link_ko": "첨벙거리던 발에서 얼굴로 올라온다.",
+      "motion_ref": "He pants, looking up the road, ending on his panting face"
     },
     {
       "id": "SC2-04",
@@ -383,7 +400,8 @@
       "image": "{루카} crouching down to offer his back and {쿵쿵} clambering up onto it",
       "motion": "He crouches and the little one climbs onto his back, ending with the little one settled on his back",
       "link": "연속",
-      "link_ko": "헐떡이는 쿵쿵 앞에 루카가 등을 댄다."
+      "link_ko": "헐떡이는 쿵쿵 앞에 루카가 등을 댄다.",
+      "motion_ref": "He crouches and the little one climbs onto his back, ending with the little one settled on his back"
     },
     {
       "id": "SC2-05",
@@ -401,7 +419,8 @@
       "image": "wide shot of the group much higher on the road now, but the rainbow still standing just as far away",
       "motion": "They climb higher yet the rainbow stays just as distant, ending on the unchanged distance to the rainbow",
       "link": "컷",
-      "link_ko": "시간이 조금 흘렀다."
+      "link_ko": "시간이 조금 흘렀다.",
+      "motion_ref": "They climb higher yet the rainbow stays just as distant, ending on the unchanged distance to the rainbow"
     },
     {
       "id": "SC2-06",
@@ -421,7 +440,8 @@
       "image": "{티니} stopping short and raising a paw to point at the rainbow",
       "motion": "She stops dead and lifts a paw to point, ending with her paw still up",
       "link": "연속",
-      "link_ko": "무지개에서 그걸 알아챈 티니로."
+      "link_ko": "무지개에서 그걸 알아챈 티니로.",
+      "motion_ref": "She stops dead and lifts a paw to point, ending with her paw still up"
     },
     {
       "id": "SC2-07",
@@ -441,7 +461,8 @@
       "image": "close-up of {후안} squinting up at the sky and studying it",
       "motion": "He squints, studying the sky, ending on his narrowed studying eyes",
       "link": "연속",
-      "link_ko": "티니 옆에서 후안이 확인한다."
+      "link_ko": "티니 옆에서 후안이 확인한다.",
+      "motion_ref": "He squints, studying the sky, ending on his narrowed studying eyes"
     },
     {
       "id": "SC2-08",
@@ -461,7 +482,8 @@
       "image": "{미미} shaking her head slowly and quietly",
       "motion": "She shakes her head slowly, ending with her head still lowered",
       "link": "컷",
-      "link_ko": "확인한 사실에 미미가 답한다."
+      "link_ko": "확인한 사실에 미미가 답한다.",
+      "motion_ref": "She shakes her head slowly, ending with her head still lowered"
     },
     {
       "id": "SC2-09",
@@ -479,7 +501,8 @@
       "image": "wide shot of all six standing still in the middle of the road with their shoulders sagging",
       "motion": "The six stop and their shoulders drop, ending with the six standing motionless",
       "link": "연속",
-      "link_ko": "미미의 말에 일행이 멈춘다."
+      "link_ko": "미미의 말에 일행이 멈춘다.",
+      "motion_ref": "The six stop and their shoulders drop, ending with the six standing motionless"
     },
     {
       "id": "SC2-10",
@@ -499,7 +522,8 @@
       "image": "{노을} standing beside a tree higher up the hill, looking down at the group below",
       "motion": "She stands very still, watching them from above, ending on her standing motionless by the tree",
       "link": "컷",
-      "link_ko": "처져 있는 여섯 위쪽으로 시선이 올라간다."
+      "link_ko": "처져 있는 여섯 위쪽으로 시선이 올라간다.",
+      "motion_ref": "She stands very still, watching them from above, ending on her standing motionless by the tree"
     },
     {
       "id": "SC2-11",
@@ -519,7 +543,8 @@
       "image": "close-up of {노을} speaking, her face barely moving",
       "motion": "Only her mouth moves; the rest of her face stays still, ending on her calm unreadable face",
       "link": "연속",
-      "link_ko": "위에서 내려다보던 얼굴로 들어간다."
+      "link_ko": "위에서 내려다보던 얼굴로 들어간다.",
+      "motion_ref": "Only her mouth moves; the rest of her face stays still, ending on her calm unreadable face"
     },
     {
       "id": "SC2-12",
@@ -539,7 +564,8 @@
       "image": "{루카} whipping around to look up the hill, the other five turning to look too",
       "motion": "He spins around and the others follow his eyes, ending with all six looking uphill",
       "link": "컷",
-      "link_ko": "목소리를 듣고 여섯이 돌아본다."
+      "link_ko": "목소리를 듣고 여섯이 돌아본다.",
+      "motion_ref": "He spins around and the others follow his eyes, ending with all six looking uphill"
     },
     {
       "id": "SC2-13",
@@ -559,7 +585,8 @@
       "image": "{노을} taking one step backward into the shade of the tree",
       "motion": "She takes one step back into the tree's shadow, ending with her half in shadow",
       "link": "연속",
-      "link_ko": "여섯의 시선 끝에서 노을이 답한다."
+      "link_ko": "여섯의 시선 끝에서 노을이 답한다.",
+      "motion_ref": "She takes one step back into the tree's shadow, ending with her half in shadow"
     },
     {
       "id": "SC2-14",
@@ -577,7 +604,8 @@
       "image": "wide shot of the empty space beside the tree, only the leaves still moving",
       "motion": "The spot is empty; only leaves stir, ending on the empty tree and swaying leaves",
       "link": "연속",
-      "link_ko": "한 걸음 물러난 자리가 비어 버린다."
+      "link_ko": "한 걸음 물러난 자리가 비어 버린다.",
+      "motion_ref": "The spot is empty; only leaves stir, ending on the empty tree and swaying leaves"
     },
     {
       "id": "SC2-15",
@@ -597,7 +625,8 @@
       "image": "close-up of {티니} with her eyes gone huge, completely frozen",
       "motion": "Her eyes go huge and she freezes, ending on her wide frozen stare",
       "link": "컷",
-      "link_ko": "빈자리에서 놀란 얼굴로."
+      "link_ko": "빈자리에서 놀란 얼굴로.",
+      "motion_ref": "Her eyes go huge and she freezes, ending on her wide frozen stare"
     },
     {
       "id": "SC2-16",
@@ -617,7 +646,8 @@
       "image": "{루비} adjusting her grip on the staff and starting up the road again",
       "motion": "She regrips her staff and starts climbing again, ending with her already walking uphill",
       "link": "컷",
-      "link_ko": "놀란 자리에서 루비가 먼저 움직인다."
+      "link_ko": "놀란 자리에서 루비가 먼저 움직인다.",
+      "motion_ref": "She regrips her staff and starts climbing again, ending with her already walking uphill"
     },
     {
       "id": "SC3-01",
@@ -640,7 +670,8 @@
         "type": "dissolve",
         "sec": 0.45,
         "why": "오르는 시간이 흐른다"
-      }
+      },
+      "motion_ref": "They trudge upward, tired but still climbing, ending near the top of the road"
     },
     {
       "id": "SC3-02",
@@ -661,7 +692,8 @@
       "image": "{후안} waddling behind and {미미} reaching back to take his flipper",
       "motion": "She reaches back and takes his flipper, ending with the two holding on to each other",
       "link": "연속",
-      "link_ko": "줄 뒤쪽으로 들어간다."
+      "link_ko": "줄 뒤쪽으로 들어간다.",
+      "motion_ref": "She reaches back and takes his flipper, ending with the two holding on to each other"
     },
     {
       "id": "SC3-03",
@@ -682,7 +714,8 @@
       "image": "close-up of {쿵쿵} on {루카}'s back, craning his neck to see ahead",
       "motion": "He stretches his neck to see over the shoulder, ending with his neck stretched forward",
       "link": "컷",
-      "link_ko": "뒤처진 둘에서 앞쪽 등으로."
+      "link_ko": "뒤처진 둘에서 앞쪽 등으로.",
+      "motion_ref": "He stretches his neck to see over the shoulder, ending with his neck stretched forward"
     },
     {
       "id": "SC3-04",
@@ -703,7 +736,8 @@
       "image": "wide shot of the hilltop just ahead, {루카} picking up speed toward it with {쿵쿵} on his back",
       "motion": "He speeds up toward the crest of the hill, ending with him nearly at the crest",
       "link": "연속",
-      "link_ko": "앞을 본 쿵쿵의 시선 끝이다."
+      "link_ko": "앞을 본 쿵쿵의 시선 끝이다.",
+      "motion_ref": "He speeds up toward the crest of the hill, ending with him nearly at the crest"
     },
     {
       "id": "SC3-05",
@@ -721,7 +755,8 @@
       "image": "wide shot of all six arriving at the open hilltop as the whole sky opens out in front of them",
       "motion": "They step onto the crest and the sky opens wide, ending with the six standing on the open crest",
       "link": "연속",
-      "link_ko": "달려 오른 끝에 정상이 나온다."
+      "link_ko": "달려 오른 끝에 정상이 나온다.",
+      "motion_ref": "They step onto the crest and the sky opens wide, ending with the six standing on the open crest"
     },
     {
       "id": "SC3-06",
@@ -746,7 +781,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} standing in a row, their faces falling one after another",
       "motion": "Their smiles drain away one by one, ending on six blank fallen faces",
       "link": "연속",
-      "link_ko": "넓은 하늘 앞에서 얼굴로 들어간다."
+      "link_ko": "넓은 하늘 앞에서 얼굴로 들어간다.",
+      "motion_ref": "Their smiles drain away one by one, ending on six blank fallen faces"
     },
     {
       "id": "SC3-07",
@@ -764,7 +800,8 @@
       "image": "wide shot of the empty sky with no rainbow at all, only a few pale clouds drifting",
       "motion": "The sky holds nothing but pale drifting cloud, ending on the bare empty sky",
       "link": "컷",
-      "link_ko": "굳은 얼굴이 본 것을 보여 준다."
+      "link_ko": "굳은 얼굴이 본 것을 보여 준다.",
+      "motion_ref": "The sky holds nothing but pale drifting cloud, ending on the bare empty sky"
     },
     {
       "id": "SC3-08",
@@ -784,7 +821,8 @@
       "image": "close-up of {티니}'s ears drooping all the way down",
       "motion": "Her ears sink slowly flat, ending with her ears flat against her head",
       "link": "컷",
-      "link_ko": "빈 하늘에서 처진 귀로."
+      "link_ko": "빈 하늘에서 처진 귀로.",
+      "motion_ref": "Her ears sink slowly flat, ending with her ears flat against her head"
     },
     {
       "id": "SC3-09",
@@ -805,7 +843,8 @@
       "image": "{루카} setting {쿵쿵} down and dropping onto the grass",
       "motion": "He sets the little one down and flops onto the grass, ending with him sitting on the grass",
       "link": "연속",
-      "link_ko": "처진 분위기 속에서 루카가 앉는다."
+      "link_ko": "처진 분위기 속에서 루카가 앉는다.",
+      "motion_ref": "He sets the little one down and flops onto the grass, ending with him sitting on the grass"
     },
     {
       "id": "SC3-10",
@@ -825,7 +864,8 @@
       "image": "{루카} resting his chin on his knees and staring up at the empty sky",
       "motion": "He rests his chin on his knees, staring up, ending on him slumped with chin on knees",
       "link": "연속",
-      "link_ko": "앉은 자리에서 말이 나온다."
+      "link_ko": "앉은 자리에서 말이 나온다.",
+      "motion_ref": "He rests his chin on his knees, staring up, ending on him slumped with chin on knees"
     },
     {
       "id": "SC3-11",
@@ -845,7 +885,8 @@
       "image": "close-up of {미미} closing her mouth right after speaking, her eyes dropping",
       "motion": "She shuts her mouth and looks down at once, ending on her regretful lowered eyes",
       "link": "컷",
-      "link_ko": "앉은 루카 옆에서 미미가 말한다."
+      "link_ko": "앉은 루카 옆에서 미미가 말한다.",
+      "motion_ref": "She shuts her mouth and looks down at once, ending on her regretful lowered eyes"
     },
     {
       "id": "SC3-12",
@@ -863,7 +904,8 @@
       "image": "wide shot of the six sitting scattered across the hilltop in silence, wind moving through the grass",
       "motion": "They sit apart in silence as wind combs the grass, ending on the six sitting apart in the wind",
       "link": "컷",
-      "link_ko": "말이 끊기고 정적이 온다."
+      "link_ko": "말이 끊기고 정적이 온다.",
+      "motion_ref": "They sit apart in silence as wind combs the grass, ending on the six sitting apart in the wind"
     },
     {
       "id": "SC3-13",
@@ -883,7 +925,8 @@
       "image": "{쿵쿵} getting to his feet on his own and looking down over the edge of the hill",
       "motion": "He stands up alone and looks down over the slope, ending with him standing at the edge looking down",
       "link": "연속",
-      "link_ko": "가라앉은 자리에서 쿵쿵만 일어난다."
+      "link_ko": "가라앉은 자리에서 쿵쿵만 일어난다.",
+      "motion_ref": "He stands up alone and looks down over the slope, ending with him standing at the edge looking down"
     },
     {
       "id": "SC3-14",
@@ -901,7 +944,8 @@
       "image": "wide shot looking down from the hilltop at the whole rain-washed village glittering small below",
       "motion": "The wet village glitters small far below, ending on the glittering village below",
       "link": "컷",
-      "link_ko": "쿵쿵이 내려다본 풍경이다."
+      "link_ko": "쿵쿵이 내려다본 풍경이다.",
+      "motion_ref": "The wet village glitters small far below, ending on the glittering village below"
     },
     {
       "id": "SC3-15",
@@ -926,7 +970,8 @@
       "image": "{루카}, {후안}, {미미}, {티니} and {루비} getting up one by one and coming to stand beside {쿵쿵}",
       "motion": "One by one they rise and line up beside him, ending with all six standing along the edge",
       "link": "컷",
-      "link_ko": "풍경에서 그것을 보러 오는 아이들로."
+      "link_ko": "풍경에서 그것을 보러 오는 아이들로.",
+      "motion_ref": "One by one they rise and line up beside him, ending with all six standing along the edge"
     },
     {
       "id": "SC4-01",
@@ -944,7 +989,8 @@
       "image": "wide shot of white mist rising up off the wet forest between the hilltop and the village",
       "motion": "White mist lifts off the wet trees and spreads, ending on the mist filling the valley",
       "link": "전환",
-      "link_ko": "시선이 마을 쪽 골짜기로 옮겨간다."
+      "link_ko": "시선이 마을 쪽 골짜기로 옮겨간다.",
+      "motion_ref": "White mist lifts off the wet trees and spreads, ending on the mist filling the valley"
     },
     {
       "id": "SC4-02",
@@ -962,7 +1008,8 @@
       "image": "close-up of colours beginning to bloom one by one inside the drifting mist",
       "motion": "Colours bloom one at a time inside the mist, ending with the colours fully formed in the mist",
       "link": "연속",
-      "link_ko": "안개 속으로 들어간다."
+      "link_ko": "안개 속으로 들어간다.",
+      "motion_ref": "Colours bloom one at a time inside the mist, ending with the colours fully formed in the mist"
     },
     {
       "id": "SC4-03",
@@ -980,7 +1027,8 @@
       "image": "wide shot of a small bright rainbow forming in the valley just below the hilltop, right under where the six are standing",
       "motion": "A small rainbow arcs across the valley below them, ending on the small rainbow held below the hill",
       "link": "연속",
-      "link_ko": "번진 색이 무지개가 된다."
+      "link_ko": "번진 색이 무지개가 된다.",
+      "motion_ref": "A small rainbow arcs across the valley below them, ending on the small rainbow held below the hill"
     },
     {
       "id": "SC4-04",
@@ -1000,7 +1048,8 @@
       "image": "{티니} leaping up and pointing down at the rainbow below them",
       "motion": "She leaps and points down at it, ending with her arm pointing down",
       "link": "컷",
-      "link_ko": "무지개에서 그걸 본 티니로."
+      "link_ko": "무지개에서 그걸 본 티니로.",
+      "motion_ref": "She leaps and points down at it, ending with her arm pointing down"
     },
     {
       "id": "SC4-05",
@@ -1020,7 +1069,8 @@
       "image": "{미미} breaking into a wide open smile for the first time",
       "motion": "Her face opens into a wide smile, ending on her broad smile",
       "link": "연속",
-      "link_ko": "티니 옆에서 미미가 웃는다."
+      "link_ko": "티니 옆에서 미미가 웃는다.",
+      "motion_ref": "Her face opens into a wide smile, ending on her broad smile"
     },
     {
       "id": "SC4-06",
@@ -1040,7 +1090,8 @@
       "image": "close-up of {쿵쿵} with bright shining eyes, looking side to side at his friends",
       "motion": "His eyes shine as he looks left and right, ending on his shining eyes",
       "link": "연속",
-      "link_ko": "웃음이 옆으로 번진다."
+      "link_ko": "웃음이 옆으로 번진다.",
+      "motion_ref": "His eyes shine as he looks left and right, ending on his shining eyes"
     },
     {
       "id": "SC4-07",
@@ -1058,7 +1109,8 @@
       "image": "wide shot of all six standing shoulder to shoulder along the hill edge, looking down at the rainbow beneath them",
       "motion": "The six stand shoulder to shoulder above the arc, ending on the six in a row above the rainbow",
       "link": "컷",
-      "link_ko": "한 사람씩에서 여섯 전체로 물러난다."
+      "link_ko": "한 사람씩에서 여섯 전체로 물러난다.",
+      "motion_ref": "The six stand shoulder to shoulder above the arc, ending on the six in a row above the rainbow"
     },
     {
       "id": "SC4-08",
@@ -1078,7 +1130,8 @@
       "image": "{노을} standing in the tree shade behind the hilltop, quietly looking at the same rainbow",
       "motion": "She watches the same rainbow, very still, ending on her still silhouette in the shade",
       "link": "컷",
-      "link_ko": "여섯의 뒤편으로 시선이 돌아간다."
+      "link_ko": "여섯의 뒤편으로 시선이 돌아간다.",
+      "motion_ref": "She watches the same rainbow, very still, ending on her still silhouette in the shade"
     },
     {
       "id": "EN-01",
@@ -1101,7 +1154,8 @@
         "type": "fadewhite",
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
-      }
+      },
+      "motion_ref": "They walk down the road together in evening light, ending with the six partway down the road"
     },
     {
       "id": "EN-02",
@@ -1121,7 +1175,8 @@
       "image": "{루카} scratching the back of his head with a puzzled grin",
       "motion": "He scratches his head, grinning, ending on his puzzled grin",
       "link": "연속",
-      "link_ko": "내려오는 길에서 대화가 이어진다."
+      "link_ko": "내려오는 길에서 대화가 이어진다.",
+      "motion_ref": "He scratches his head, grinning, ending on his puzzled grin"
     },
     {
       "id": "EN-03",
@@ -1141,7 +1196,8 @@
       "image": "close-up of {루비}'s staff tipping back to point at the hill behind them",
       "motion": "Her staff tips back toward the hill, ending with the staff still pointing back",
       "link": "연속",
-      "link_ko": "루카 옆에서 루비가 답한다."
+      "link_ko": "루카 옆에서 루비가 답한다.",
+      "motion_ref": "Her staff tips back toward the hill, ending with the staff still pointing back"
     },
     {
       "id": "EN-04",
@@ -1161,7 +1217,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a big beaming smile",
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
-      "link_ko": "일행의 대화가 쿵쿵의 한마디로 모인다."
+      "link_ko": "일행의 대화가 쿵쿵의 한마디로 모인다.",
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
     },
     {
       "id": "EN-05",
@@ -1179,7 +1236,8 @@
       "image": "wide shot of the hilltop in evening light with one small figure still standing on it",
       "motion": "One small figure stays on the crest, ending on the lone figure against the evening sky",
       "link": "컷",
-      "link_ko": "가까운 여섯에서 먼 언덕으로."
+      "link_ko": "가까운 여섯에서 먼 언덕으로.",
+      "motion_ref": "One small figure stays on the crest, ending on the lone figure against the evening sky"
     },
     {
       "id": "EN-06",
@@ -1204,7 +1262,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} walking into the village as the windows light up one by one",
       "motion": "They enter the village and windows light up, ending with the village windows all lit",
       "link": "컷",
-      "link_ko": "언덕에서 마을로 돌아온다."
+      "link_ko": "언덕에서 마을로 돌아온다.",
+      "motion_ref": "They enter the village and windows light up, ending with the village windows all lit"
     },
     {
       "id": "EN-07",
@@ -1229,7 +1288,8 @@
       "image": "end card composition, {쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} together on the evening hillside with warm violet and gold light, clean empty space along the bottom for a title",
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드로 마무리한다."
+      "link_ko": "엔딩 카드로 마무리한다.",
+      "motion_ref": "The evening light deepens as the camera eases back"
     }
   ]
 }

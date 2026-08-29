@@ -28,7 +28,8 @@
       "image": "vertical extreme close-up of {티니} bringing an apple to her open mouth and flinching sharply away the instant her teeth touch it",
       "motion": "She recoils hard, ending with her head turned fully away and the apple untouched",
       "link": "전환",
-      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
+      "motion_ref": "She recoils hard, ending with her head turned fully away and the apple untouched"
     },
     {
       "id": "T08-02",
@@ -48,7 +49,8 @@
       "image": "vertical medium shot of {티니} clutching her cheek with both paws and backing into the shade, the apple lying in the grass where she dropped it",
       "motion": "She retreats holding her cheek, ending with the abandoned apple alone in frame",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
+      "motion_ref": "She retreats holding her cheek, ending with the abandoned apple alone in frame"
     },
     {
       "id": "T08-03",
@@ -71,7 +73,8 @@
       "image": "vertical medium shot of {미미}, {루비} and {쿵쿵} crunching into apples while {티니} watches from the shade and swallows",
       "motion": "They bite in happily, ending with her eyes dropping to the ground",
       "link": "컷",
-      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
+      "motion_ref": "They bite in happily, ending with her eyes dropping to the ground"
     },
     {
       "id": "T08-04",
@@ -89,7 +92,8 @@
       "image": "vertical wide shot of a bathroom sink with two low step stools placed side by side and two toothbrushes standing in a cup, morning light across them",
       "motion": "Light crosses the stools, ending held on the two brushes",
       "link": "컷",
-      "link_ko": "해결의 실마리만. 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다.",
+      "motion_ref": "Light crosses the stools, ending held on the two brushes"
     },
     {
       "id": "T08-05",
@@ -112,7 +116,8 @@
         "type": "fadeblack",
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
-      }
+      },
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
     }
   ]
 }

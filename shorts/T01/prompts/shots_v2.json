@@ -26,7 +26,8 @@
       "image": "vertical extreme close-up through a huge sunlit block of river ice, a pale curved shape deep inside it, teal light moving slowly within",
       "motion": "The light inside pulses once, ending held on the shape now clearly egg-like",
       "link": "전환",
-      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
+      "motion_ref": "The light inside pulses once, ending held on the shape now clearly egg-like"
     },
     {
       "id": "T01-02",
@@ -50,7 +51,8 @@
       "image": "vertical medium shot of {루카}, {후안}, {미미}, {티니} and {루비} staring up at the ice, mouths open, {루카} flinging an arm out to hold the others back",
       "motion": "They freeze staring upward, ending with the arm held out and no one moving",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
+      "motion_ref": "They freeze staring upward, ending with the arm held out and no one moving"
     },
     {
       "id": "T01-03",
@@ -70,7 +72,8 @@
       "image": "vertical medium shot of {후안} shoving at the huge ice block with both flippers, his webbed feet skidding out from under him",
       "motion": "He pushes with everything he has, ending sat down hard on the ground, the ice unmoved",
       "link": "컷",
-      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
+      "motion_ref": "He pushes with everything he has, ending sat down hard on the ground, the ice unmoved"
     },
     {
       "id": "T01-04",
@@ -88,7 +91,8 @@
       "image": "vertical wide shot at night of the five asleep in a ring pressed against the shrinking ice block, moonlight and dripping meltwater",
       "motion": "They breathe slowly together, ending with a large crack appearing across the ice",
       "link": "컷",
-      "link_ko": "해결의 실마리만. 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다.",
+      "motion_ref": "They breathe slowly together, ending with a large crack appearing across the ice"
     },
     {
       "id": "T01-05",
@@ -113,7 +117,8 @@
         "type": "fadeblack",
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
-      }
+      },
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
     }
   ]
 }

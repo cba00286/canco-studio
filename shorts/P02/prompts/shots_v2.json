@@ -28,7 +28,8 @@
       "image": "vertical extreme close-up of soft golden-teal light welling slowly over {쿵쿵}'s three small horns, gentle and warm",
       "motion": "The light rises to the tips, ending held there, glowing steadily",
       "link": "전환",
-      "link_ko": "첫 컷. 터지는 빛이 아니라 스며드는 빛이라는 걸 먼저 보여준다."
+      "link_ko": "첫 컷. 터지는 빛이 아니라 스며드는 빛이라는 걸 먼저 보여준다.",
+      "motion_ref": "The light rises to the tips, ending held there, glowing steadily"
     },
     {
       "id": "P02-02",
@@ -49,7 +50,8 @@
       "image": "vertical medium shot of {쿵쿵_온기}",
       "motion": "The warm wave folds around {루비}, ending with the light settled over her like dust",
       "link": "연속",
-      "link_ko": "뿔의 빛이 그대로 퍼져 나간다."
+      "link_ko": "뿔의 빛이 그대로 퍼져 나간다.",
+      "motion_ref": "The warm wave folds around 루비, ending with the light settled over her like dust"
     },
     {
       "id": "P02-03",
@@ -69,7 +71,8 @@
       "image": "vertical medium shot of {쿵쿵_바람}",
       "motion": "Dust streams inward from every corner, ending gathered into one hovering grey sphere",
       "link": "컷",
-      "link_ko": "같은 빛, 다른 쓰임. 세 번째다."
+      "link_ko": "같은 빛, 다른 쓰임. 세 번째다.",
+      "motion_ref": "Dust streams inward from every corner, ending gathered into one hovering grey sphere"
     },
     {
       "id": "P02-04",
@@ -90,7 +93,8 @@
       "image": "vertical wide shot of {쿵쿵_자장가}",
       "motion": "The waves roll slowly across the ceiling, ending with {후안} asleep and the light fading",
       "link": "컷",
-      "link_ko": "네 번째. 재우는 빛으로 가장 조용해진다."
+      "link_ko": "네 번째. 재우는 빛으로 가장 조용해진다.",
+      "motion_ref": "The waves roll slowly across the ceiling, ending with 후안 asleep and the light fading"
     },
     {
       "id": "P02-05",
@@ -110,7 +114,8 @@
       "image": "vertical medium shot of {쿵쿵} facing camera with one front paw laid on his chest, the faintest trace of light still on his three small horns, clean space along the bottom of the frame",
       "motion": "He settles and smiles, ending with the last of the light gone and the bottom third clear",
       "link": "컷",
-      "link_ko": "마무리. 세 가지가 하나였다는 것을 한 줄로 묶는다."
+      "link_ko": "마무리. 세 가지가 하나였다는 것을 한 줄로 묶는다.",
+      "motion_ref": "He settles and smiles, ending with the last of the light gone and the bottom third clear"
     }
   ]
 }

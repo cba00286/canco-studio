@@ -37,7 +37,8 @@
       "image": "wide shot of a deep autumn river running between forests turned red and gold",
       "motion": "The river runs slowly between the red trees, ending on the wide autumn river",
       "link": "전환",
-      "link_ko": "15화 첫 컷. 강에서 시작한다."
+      "link_ko": "15화 첫 컷. 강에서 시작한다.",
+      "motion_ref": "The river runs slowly between the red trees, ending on the wide autumn river"
     },
     {
       "id": "SC1-02",
@@ -55,7 +56,8 @@
       "image": "close-up underwater of a school of silver salmon pushing upstream against the current",
       "motion": "The silver fish push hard against the current, ending on the school still pushing upstream",
       "link": "연속",
-      "link_ko": "강물에서 그 안으로 들어간다."
+      "link_ko": "강물에서 그 안으로 들어간다.",
+      "motion_ref": "The silver fish push hard against the current, ending on the school still pushing upstream"
     },
     {
       "id": "SC1-03",
@@ -80,7 +82,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} walking along the bank and peering into the water",
       "motion": "They walk the bank, peering into the water, ending with the six walking along the bank",
       "link": "전환",
-      "link_ko": "물속에서 강가의 여섯으로."
+      "link_ko": "물속에서 강가의 여섯으로.",
+      "motion_ref": "They walk the bank, peering into the water, ending with the six walking along the bank"
     },
     {
       "id": "SC1-04",
@@ -100,7 +103,8 @@
       "image": "{미미} pointing back downstream while she explains",
       "motion": "She points back down the river, ending with her arm pointing downstream",
       "link": "연속",
-      "link_ko": "걷던 중 미미가 멈춰 설명한다."
+      "link_ko": "걷던 중 미미가 멈춰 설명한다.",
+      "motion_ref": "She points back down the river, ending with her arm pointing downstream"
     },
     {
       "id": "SC1-05",
@@ -120,7 +124,8 @@
       "image": "close-up of {티니} with wide eyes, staring off downstream",
       "motion": "Her eyes widen as she looks downstream, ending on her wide staring eyes",
       "link": "연속",
-      "link_ko": "가리킨 방향을 티니가 본다."
+      "link_ko": "가리킨 방향을 티니가 본다.",
+      "motion_ref": "Her eyes widen as she looks downstream, ending on her wide staring eyes"
     },
     {
       "id": "SC1-06",
@@ -140,7 +145,8 @@
       "image": "wide shot of {루비} sweeping her staff across the whole length of the river",
       "motion": "Her staff sweeps the length of the river, ending with the staff at the end of its sweep",
       "link": "컷",
-      "link_ko": "티니의 물음에 루비가 답한다."
+      "link_ko": "티니의 물음에 루비가 답한다.",
+      "motion_ref": "Her staff sweeps the length of the river, ending with the staff at the end of its sweep"
     },
     {
       "id": "SC1-07",
@@ -158,7 +164,8 @@
       "image": "the six lifting their heads together as the sound of water grows louder",
       "motion": "All six lift their heads at the sound, ending with the six looking upstream",
       "link": "연속",
-      "link_ko": "설명 중에 소리가 끼어든다."
+      "link_ko": "설명 중에 소리가 끼어든다.",
+      "motion_ref": "All six lift their heads at the sound, ending with the six looking upstream"
     },
     {
       "id": "SC1-08",
@@ -176,7 +183,8 @@
       "image": "wide shot of a tall waterfall crashing white down a rock cliff into a churning pool",
       "motion": "The falls hammer down and throw up spray, ending on the crashing falls and pool",
       "link": "컷",
-      "link_ko": "소리의 정체가 나온다."
+      "link_ko": "소리의 정체가 나온다.",
+      "motion_ref": "The falls hammer down and throw up spray, ending on the crashing falls and pool"
     },
     {
       "id": "SC1-09",
@@ -194,7 +202,8 @@
       "image": "salmon crowded into the pool below the falls, circling and circling",
       "motion": "The fish circle in the churning pool, ending on the circling school",
       "link": "연속",
-      "link_ko": "폭포에서 그 아래로 내려온다."
+      "link_ko": "폭포에서 그 아래로 내려온다.",
+      "motion_ref": "The fish circle in the churning pool, ending on the circling school"
     },
     {
       "id": "SC1-10",
@@ -212,7 +221,8 @@
       "image": "wide shot of one salmon launching up the falls, getting halfway, and falling back",
       "motion": "It leaps, gets halfway, and falls back, ending with it splashing back into the pool",
       "link": "연속",
-      "link_ko": "도는 무리 중 하나가 뛴다."
+      "link_ko": "도는 무리 중 하나가 뛴다.",
+      "motion_ref": "It leaps, gets halfway, and falls back, ending with it splashing back into the pool"
     },
     {
       "id": "SC1-11",
@@ -232,7 +242,8 @@
       "image": "close-up of {후안} leaning out toward the pool",
       "motion": "He leans out toward the pool, ending with him leaning far out",
       "link": "컷",
-      "link_ko": "실패한 도약에서 그걸 본 얼굴로."
+      "link_ko": "실패한 도약에서 그걸 본 얼굴로.",
+      "motion_ref": "He leans out toward the pool, ending with him leaning far out"
     },
     {
       "id": "SC1-12",
@@ -252,7 +263,8 @@
       "image": "{미미} pointing up above the falls, her face serious",
       "motion": "She points above the falls, face serious, ending with her arm still raised",
       "link": "연속",
-      "link_ko": "걱정에 설명이 붙는다."
+      "link_ko": "걱정에 설명이 붙는다.",
+      "motion_ref": "She points above the falls, face serious, ending with her arm still raised"
     },
     {
       "id": "SC1-13",
@@ -270,7 +282,8 @@
       "image": "close-up of one unusually small salmon apart from the others at the edge of the pool",
       "motion": "The small one hangs at the edge, alone, ending on the small salmon alone",
       "link": "컷",
-      "link_ko": "무리에서 한 마리로 좁혀진다."
+      "link_ko": "무리에서 한 마리로 좁혀진다.",
+      "motion_ref": "The small one hangs at the edge, alone, ending on the small salmon alone"
     },
     {
       "id": "SC1-14",
@@ -290,7 +303,8 @@
       "image": "{쿵쿵} crouching down at the very edge of the pool",
       "motion": "He crouches right at the edge of the pool, ending with him crouched over the water",
       "link": "연속",
-      "link_ko": "작은 연어 옆에 쿵쿵이 앉는다."
+      "link_ko": "작은 연어 옆에 쿵쿵이 앉는다.",
+      "motion_ref": "He crouches right at the edge of the pool, ending with him crouched over the water"
     },
     {
       "id": "SC2-01",
@@ -313,7 +327,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "같은 시도가 여러 번 반복된다"
-      }
+      },
+      "motion_ref": "It leaps and falls, leaps and falls, ending with it back in the pool once more"
     },
     {
       "id": "SC2-02",
@@ -333,7 +348,8 @@
       "image": "{티니} waving both paws and shouting from the bank",
       "motion": "She waves both paws and shouts, ending with her paws still up",
       "link": "컷",
-      "link_ko": "물속에서 응원하는 아이로."
+      "link_ko": "물속에서 응원하는 아이로.",
+      "motion_ref": "She waves both paws and shouts, ending with her paws still up"
     },
     {
       "id": "SC2-03",
@@ -351,7 +367,8 @@
       "image": "close-up of the small salmon falling back and scraping its fin on the rock",
       "motion": "Its fin scrapes the rock as it falls, ending with it sinking back into the foam",
       "link": "컷",
-      "link_ko": "응원과 반대로 결과가 나온다."
+      "link_ko": "응원과 반대로 결과가 나온다.",
+      "motion_ref": "Its fin scrapes the rock as it falls, ending with it sinking back into the foam"
     },
     {
       "id": "SC2-04",
@@ -371,7 +388,8 @@
       "image": "{루카} rolling up his sleeves and wading into the pool",
       "motion": "He rolls up his sleeves and wades in, ending with him knee deep in the pool",
       "link": "컷",
-      "link_ko": "실패를 보다 못해 나선다."
+      "link_ko": "실패를 보다 못해 나선다.",
+      "motion_ref": "He rolls up his sleeves and wades in, ending with him knee deep in the pool"
     },
     {
       "id": "SC2-05",
@@ -391,7 +409,8 @@
       "image": "wide shot of the current shoving {루카} over into the water as he reaches",
       "motion": "The current knocks him over into the water, ending with him sprawled in the shallows",
       "link": "연속",
-      "link_ko": "손을 뻗다 물살에 밀린다."
+      "link_ko": "손을 뻗다 물살에 밀린다.",
+      "motion_ref": "The current knocks him over into the water, ending with him sprawled in the shallows"
     },
     {
       "id": "SC2-06",
@@ -413,7 +432,8 @@
       "image": "{미미} and {루비} hauling {루카} back out of the water",
       "motion": "They haul him back out onto the bank, ending with the three back on the bank",
       "link": "연속",
-      "link_ko": "넘어진 루카를 끌어낸다."
+      "link_ko": "넘어진 루카를 끌어낸다.",
+      "motion_ref": "They haul him back out onto the bank, ending with the three back on the bank"
     },
     {
       "id": "SC2-07",
@@ -433,7 +453,8 @@
       "image": "close-up of {루카} coughing up water, his face pale",
       "motion": "He coughs up water, face pale, ending on his pale coughing face",
       "link": "연속",
-      "link_ko": "끌려 나온 뒤의 상태다."
+      "link_ko": "끌려 나온 뒤의 상태다.",
+      "motion_ref": "He coughs up water, face pale, ending on his pale coughing face"
     },
     {
       "id": "SC2-08",
@@ -451,7 +472,8 @@
       "image": "wide shot of the pool below the falls churning violently, spray flying constantly",
       "motion": "The pool churns violently under the falls, ending on the violent churning water",
       "link": "컷",
-      "link_ko": "사람에서 물의 힘으로 시선이 돌아간다."
+      "link_ko": "사람에서 물의 힘으로 시선이 돌아간다.",
+      "motion_ref": "The pool churns violently under the falls, ending on the violent churning water"
     },
     {
       "id": "SC2-09",
@@ -469,7 +491,8 @@
       "image": "close-up of the small salmon setting itself again, its torn fin trailing in the water",
       "motion": "It sets itself again, torn fin trailing, ending with it poised to leap again",
       "link": "컷",
-      "link_ko": "물의 힘에서 그것을 견디는 쪽으로."
+      "link_ko": "물의 힘에서 그것을 견디는 쪽으로.",
+      "motion_ref": "It sets itself again, torn fin trailing, ending with it poised to leap again"
     },
     {
       "id": "SC2-10",
@@ -489,7 +512,8 @@
       "image": "{후안} counting on his flippers and running out of them",
       "motion": "He counts on his flippers and runs out, ending with all his digits folded",
       "link": "컷",
-      "link_ko": "연어에서 그걸 세는 아이로."
+      "link_ko": "연어에서 그걸 세는 아이로.",
+      "motion_ref": "He counts on his flippers and runs out, ending with all his digits folded"
     },
     {
       "id": "SC2-11",
@@ -509,7 +533,8 @@
       "image": "{루비} looking down at nineteen tally marks she has scratched into the ground",
       "motion": "She looks down at the nineteen marks, ending on the row of nineteen marks",
       "link": "연속",
-      "link_ko": "세던 것을 루비가 답한다."
+      "link_ko": "세던 것을 루비가 답한다.",
+      "motion_ref": "She looks down at the nineteen marks, ending on the row of nineteen marks"
     },
     {
       "id": "SC2-12",
@@ -529,7 +554,8 @@
       "image": "close-up of {쿵쿵} sitting at the water's edge watching, his fists closing",
       "motion": "His fists close as he watches, ending on his tightly closed fists",
       "link": "컷",
-      "link_ko": "숫자에서 그것을 견디는 아이로."
+      "link_ko": "숫자에서 그것을 견디는 아이로.",
+      "motion_ref": "His fists close as he watches, ending on his tightly closed fists"
     },
     {
       "id": "SC2-13",
@@ -549,7 +575,8 @@
       "image": "wide shot of {노을} on a rock beside the falls, her eyes tracking the water line by line",
       "motion": "Her eyes travel across the falling water, ending with her eyes fixed on one part of the falls",
       "link": "컷",
-      "link_ko": "아이들 옆에서 다른 쪽으로 시선이 간다."
+      "link_ko": "아이들 옆에서 다른 쪽으로 시선이 간다.",
+      "motion_ref": "Her eyes travel across the falling water, ending with her eyes fixed on one part of the falls"
     },
     {
       "id": "SC2-14",
@@ -569,7 +596,8 @@
       "image": "{노을} pointing at the far left edge of the waterfall",
       "motion": "She points at the left edge of the falls, ending with her arm held out toward the left edge",
       "link": "연속",
-      "link_ko": "훑던 눈이 한 곳을 가리킨다."
+      "link_ko": "훑던 눈이 한 곳을 가리킨다.",
+      "motion_ref": "She points at the left edge of the falls, ending with her arm held out toward the left edge"
     },
     {
       "id": "SC2-15",
@@ -590,7 +618,8 @@
       "image": "{루카}, still soaked, looking up at {노을}",
       "motion": "Soaked, he looks up at her, ending with him looking up at her",
       "link": "컷",
-      "link_ko": "가리킨 쪽에서 묻는 쪽으로."
+      "link_ko": "가리킨 쪽에서 묻는 쪽으로.",
+      "motion_ref": "Soaked, he looks up at her, ending with him looking up at her"
     },
     {
       "id": "SC2-16",
@@ -610,7 +639,8 @@
       "image": "close-up of {노을} not answering, her eyes still on the falls",
       "motion": "She does not answer; her eyes stay on the falls, ending on her unmoved profile",
       "link": "연속",
-      "link_ko": "물음이 답 없이 남는다."
+      "link_ko": "물음이 답 없이 남는다.",
+      "motion_ref": "She does not answer; her eyes stay on the falls, ending on her unmoved profile"
     },
     {
       "id": "SC3-01",
@@ -628,7 +658,8 @@
       "image": "wide shot of the left edge of the falls where the water runs thinner but still very fast",
       "motion": "The thin sheet of water still races down, ending on the thin fast sheet of water",
       "link": "전환",
-      "link_ko": "가리킨 곳으로 시점이 옮겨간다."
+      "link_ko": "가리킨 곳으로 시점이 옮겨간다.",
+      "motion_ref": "The thin sheet of water still races down, ending on the thin fast sheet of water"
     },
     {
       "id": "SC3-02",
@@ -646,7 +677,8 @@
       "image": "the small salmon moving across to the left side and launching itself again",
       "motion": "It moves left and leaps again, ending with it mid-leap on the left",
       "link": "연속",
-      "link_ko": "얕은 곳으로 연어가 옮겨 간다."
+      "link_ko": "얕은 곳으로 연어가 옮겨 간다.",
+      "motion_ref": "It moves left and leaps again, ending with it mid-leap on the left"
     },
     {
       "id": "SC3-03",
@@ -664,7 +696,8 @@
       "image": "close-up of the salmon getting higher but being shoved back at the final lip",
       "motion": "It rises higher, then is pushed off the lip, ending with it tumbling back down",
       "link": "연속",
-      "link_ko": "도약이 마지막에서 꺾인다."
+      "link_ko": "도약이 마지막에서 꺾인다.",
+      "motion_ref": "It rises higher, then is pushed off the lip, ending with it tumbling back down"
     },
     {
       "id": "SC3-04",
@@ -684,7 +717,8 @@
       "image": "{미미} clapping both hands over her mouth",
       "motion": "She claps both hands over her mouth, ending with her hands over her mouth",
       "link": "컷",
-      "link_ko": "실패에서 그것을 본 얼굴로."
+      "link_ko": "실패에서 그것을 본 얼굴로.",
+      "motion_ref": "She claps both hands over her mouth, ending with her hands over her mouth"
     },
     {
       "id": "SC3-05",
@@ -704,7 +738,8 @@
       "image": "{쿵쿵} standing up and staring hard at the final lip of the falls",
       "motion": "He stands and stares at the last lip, ending on him standing and staring",
       "link": "컷",
-      "link_ko": "안타까움에서 결심으로."
+      "link_ko": "안타까움에서 결심으로.",
+      "motion_ref": "He stands and stares at the last lip, ending on him standing and staring"
     },
     {
       "id": "SC3-06",
@@ -724,7 +759,8 @@
       "image": "{노을} giving one short nod",
       "motion": "She nods once, shortly, ending with her head level again",
       "link": "연속",
-      "link_ko": "물음에 짧은 답이 돌아온다."
+      "link_ko": "물음에 짧은 답이 돌아온다.",
+      "motion_ref": "She nods once, shortly, ending with her head level again"
     },
     {
       "id": "SC3-07",
@@ -744,7 +780,8 @@
       "image": "wide shot of {쿵쿵} climbing onto a flat rock at the water's edge while the others back away",
       "motion": "He climbs the rock; the others step back, ending with him alone on the rock",
       "link": "연속",
-      "link_ko": "답을 듣고 자리를 잡는다."
+      "link_ko": "답을 듣고 자리를 잡는다.",
+      "motion_ref": "He climbs the rock; the others step back, ending with him alone on the rock"
     },
     {
       "id": "SC3-08",
@@ -764,7 +801,8 @@
       "image": "close-up of {쿵쿵} raising his front paws high, light starting to run up his horns",
       "motion": "He raises his paws and light starts to run, ending with his paws at their highest point",
       "link": "연속",
-      "link_ko": "자리를 잡고 준비한다."
+      "link_ko": "자리를 잡고 준비한다.",
+      "motion_ref": "He raises his paws and light starts to run, ending with his paws at their highest point"
     },
     {
       "id": "SC3-09",
@@ -784,7 +822,8 @@
       "image": "close-up of {쿵쿵_파워} on a flat rock at the foot of a waterfall",
       "motion": "The shockwave ring races out toward the water, ending with the ring reaching the base of the falls",
       "link": "연속",
-      "link_ko": "든 앞발이 바위를 친다."
+      "link_ko": "든 앞발이 바위를 친다.",
+      "motion_ref": "The shockwave ring races out toward the water, ending with the ring reaching the base of the falls"
     },
     {
       "id": "SC3-10",
@@ -802,7 +841,8 @@
       "image": "wide shot of the left edge of the waterfall parting to either side, opening a gap down the middle",
       "motion": "The water splits and a gap opens down the middle, ending with the gap held open in the falling water",
       "link": "연속",
-      "link_ko": "충격파가 물에 닿아 물을 가른다."
+      "link_ko": "충격파가 물에 닿아 물을 가른다.",
+      "motion_ref": "The water splits and a gap opens down the middle, ending with the gap held open in the falling water"
     },
     {
       "id": "SC3-11",
@@ -820,7 +860,8 @@
       "image": "close-up of wet rock steps revealed inside the parted water",
       "motion": "Wet stone steps appear inside the gap, ending on the exposed wet steps",
       "link": "연속",
-      "link_ko": "갈라진 안쪽이 보인다."
+      "link_ko": "갈라진 안쪽이 보인다.",
+      "motion_ref": "Wet stone steps appear inside the gap, ending on the exposed wet steps"
     },
     {
       "id": "SC3-12",
@@ -840,7 +881,8 @@
       "image": "{티니} jumping up and down on the bank",
       "motion": "She jumps up and down, shouting, ending mid-jump",
       "link": "컷",
-      "link_ko": "열린 길에서 응원으로."
+      "link_ko": "열린 길에서 응원으로.",
+      "motion_ref": "She jumps up and down, shouting, ending mid-jump"
     },
     {
       "id": "SC3-13",
@@ -860,7 +902,8 @@
       "image": "{쿵쿵} with his arms shaking, the light on his horns thinning",
       "motion": "His arms shake and the light thins, ending with the light noticeably weaker",
       "link": "컷",
-      "link_ko": "응원 옆에서 버티는 쪽으로."
+      "link_ko": "응원 옆에서 버티는 쪽으로.",
+      "motion_ref": "His arms shake and the light thins, ending with the light noticeably weaker"
     },
     {
       "id": "SC3-14",
@@ -878,7 +921,8 @@
       "image": "wide shot of the small salmon hurling itself into the parted gap in the water",
       "motion": "It hurls itself into the open gap, ending with it climbing inside the gap",
       "link": "연속",
-      "link_ko": "열린 길로 연어가 들어간다."
+      "link_ko": "열린 길로 연어가 들어간다.",
+      "motion_ref": "It hurls itself into the open gap, ending with it climbing inside the gap"
     },
     {
       "id": "SC3-15",
@@ -896,7 +940,8 @@
       "image": "close-up of the salmon bouncing up the wet rock steps one at a time",
       "motion": "It bounces up the steps one by one, ending with it near the top of the steps",
       "link": "연속",
-      "link_ko": "틈 안에서 위로 오른다."
+      "link_ko": "틈 안에서 위로 오른다.",
+      "motion_ref": "It bounces up the steps one by one, ending with it near the top of the steps"
     },
     {
       "id": "SC4-01",
@@ -916,7 +961,8 @@
       "image": "{쿵쿵}'s knees buckling and the light on his horns going out",
       "motion": "His knees give and the light goes out, ending with him down on the rock, light gone",
       "link": "전환",
-      "link_ko": "버티던 힘이 끝난다."
+      "link_ko": "버티던 힘이 끝난다.",
+      "motion_ref": "His knees give and the light goes out, ending with him down on the rock, light gone"
     },
     {
       "id": "SC4-02",
@@ -934,7 +980,8 @@
       "image": "wide shot of the parted water crashing back together and closing the gap",
       "motion": "The water slams back together, ending with the falls whole again",
       "link": "연속",
-      "link_ko": "빛이 꺼지자 물이 닫힌다."
+      "link_ko": "빛이 꺼지자 물이 닫힌다.",
+      "motion_ref": "The water slams back together, ending with the falls whole again"
     },
     {
       "id": "SC4-03",
@@ -952,7 +999,8 @@
       "image": "close-up of the small salmon caught just under the final lip, pushed by the returned water",
       "motion": "It holds under the lip against the returning water, ending with it straining under the lip",
       "link": "연속",
-      "link_ko": "닫힌 물 안에 연어가 남는다."
+      "link_ko": "닫힌 물 안에 연어가 남는다.",
+      "motion_ref": "It holds under the lip against the returning water, ending with it straining under the lip"
     },
     {
       "id": "SC4-04",
@@ -972,7 +1020,8 @@
       "image": "{쿵쿵} on his knees reaching out a paw that cannot reach",
       "motion": "He reaches out from his knees; it is too far, ending with his paw hanging in the air",
       "link": "컷",
-      "link_ko": "물고기에서 그걸 보는 쿵쿵으로."
+      "link_ko": "물고기에서 그걸 보는 쿵쿵으로.",
+      "motion_ref": "He reaches out from his knees; it is too far, ending with his paw hanging in the air"
     },
     {
       "id": "SC4-05",
@@ -990,7 +1039,8 @@
       "image": "wide shot of the small salmon giving one huge flick of its tail and clearing the final lip",
       "motion": "One huge flick of the tail carries it over, ending with it disappearing over the top",
       "link": "컷",
-      "link_ko": "도움이 끊긴 자리에서 스스로 넘는다."
+      "link_ko": "도움이 끊긴 자리에서 스스로 넘는다.",
+      "motion_ref": "One huge flick of the tail carries it over, ending with it disappearing over the top"
     },
     {
       "id": "SC4-06",
@@ -1015,7 +1065,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} throwing both arms up at once and cheering",
       "motion": "All six throw their arms up and cheer, ending with twelve arms raised",
       "link": "연속",
-      "link_ko": "넘어간 순간에 환호가 터진다."
+      "link_ko": "넘어간 순간에 환호가 터진다.",
+      "motion_ref": "All six throw their arms up and cheer, ending with twelve arms raised"
     },
     {
       "id": "SC4-07",
@@ -1033,7 +1084,8 @@
       "image": "wide shot of the calm water above the falls, the small salmon swimming slowly on upstream",
       "motion": "It swims on upstream through calm water, ending with it small and far upstream",
       "link": "컷",
-      "link_ko": "아래에서 위로 시점이 올라간다."
+      "link_ko": "아래에서 위로 시점이 올라간다.",
+      "motion_ref": "It swims on upstream through calm water, ending with it small and far upstream"
     },
     {
       "id": "SC4-08",
@@ -1051,7 +1103,8 @@
       "image": "wide shot of the rock beside the falls now empty, only spray drifting over it",
       "motion": "The rock is empty; spray drifts across it, ending on the empty spray-covered rock",
       "link": "컷",
-      "link_ko": "물고기에서 자리를 비운 쪽으로."
+      "link_ko": "물고기에서 자리를 비운 쪽으로.",
+      "motion_ref": "The rock is empty; spray drifts across it, ending on the empty spray-covered rock"
     },
     {
       "id": "EN-01",
@@ -1074,7 +1127,8 @@
         "type": "fadewhite",
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
-      }
+      },
+      "motion_ref": "The six sit soaked in a row by the river, ending on the six seated in evening light"
     },
     {
       "id": "EN-02",
@@ -1094,7 +1148,8 @@
       "image": "{루카} hugging his knees and looking upstream",
       "motion": "He hugs his knees and looks upstream, ending with him still looking upstream",
       "link": "연속",
-      "link_ko": "앉은 자리에서 말이 나온다."
+      "link_ko": "앉은 자리에서 말이 나온다.",
+      "motion_ref": "He hugs his knees and looks upstream, ending with him still looking upstream"
     },
     {
       "id": "EN-03",
@@ -1114,7 +1169,8 @@
       "image": "close-up of {미미} smiling quietly and nodding",
       "motion": "She smiles quietly and nods, ending on her quiet smile",
       "link": "연속",
-      "link_ko": "루카의 말에 미미가 답한다."
+      "link_ko": "루카의 말에 미미가 답한다.",
+      "motion_ref": "She smiles quietly and nods, ending on her quiet smile"
     },
     {
       "id": "EN-04",
@@ -1134,7 +1190,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a big beaming smile",
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
-      "link_ko": "대화가 쿵쿵의 한마디로 모인다."
+      "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
     },
     {
       "id": "EN-05",
@@ -1154,7 +1211,8 @@
       "image": "wide shot of {노을} standing under a tree across the river, looking upstream",
       "motion": "She stands across the river, looking upstream, ending on her figure under the far tree",
       "link": "컷",
-      "link_ko": "여섯에서 건너편으로 넘어간다."
+      "link_ko": "여섯에서 건너편으로 넘어간다.",
+      "motion_ref": "She stands across the river, looking upstream, ending on her figure under the far tree"
     },
     {
       "id": "EN-06",
@@ -1172,7 +1230,8 @@
       "image": "wide shot of the river at night under moonlight, salmon still pushing upstream",
       "motion": "Under the moon the fish still push upstream, ending on the moonlit river full of fish",
       "link": "컷",
-      "link_ko": "저녁에서 밤으로 넘어간다."
+      "link_ko": "저녁에서 밤으로 넘어간다.",
+      "motion_ref": "Under the moon the fish still push upstream, ending on the moonlit river full of fish"
     },
     {
       "id": "EN-07",
@@ -1197,7 +1256,8 @@
       "image": "end card composition, {쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} together by the moonlit autumn river in cool blue and silver light, clean empty space along the bottom for a title",
       "motion": "Moonlight glitters on the water as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드로 마무리한다."
+      "link_ko": "엔딩 카드로 마무리한다.",
+      "motion_ref": "Moonlight glitters on the water as the camera eases back"
     }
   ]
 }

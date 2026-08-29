@@ -105,6 +105,25 @@ def ref_prompt(chars: dict, shot: dict, cast: list[str],
     return out
 
 
+def motion_ref(chars: dict, shot: dict, cast: list[str], mode: str = "auto") -> str:
+    """영상 프롬프트에서 이름 자리를 채운다.
+
+    motion 에도 {루카} 같은 이름 자리를 쓸 수 있어야 한다. 채우지 않으면
+    그 중괄호가 그대로 생성기에 들어간다 — 1~10화에서 실제로 21컷이 그랬다.
+    조각(쿵쿵_파워 등)은 image 쪽에만 쓰므로 여기서는 이름만 채운다.
+    """
+    text = shot["motion"]
+    for key in ALL:
+        called = name_of(chars, key, mode)
+        text = text.replace("{%s}" % key, called).replace("[%s]" % key, called)
+    for group, members in (("the five friends", FIVE), ("the six friends", SIX),
+                           ("the seven friends", SEVEN)):
+        text = text.replace(group, ", ".join(name_of(chars, m, mode) for m in members))
+    if "the friends" in text and cast:
+        text = text.replace("the friends", ", ".join(name_of(chars, m, mode) for m in cast))
+    return text
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--episode", default="ep1")
@@ -139,11 +158,16 @@ def main() -> None:
         cast = cast_of(shot, episode_cast)
         shot["cast"] = cast
         shot["image_ref"] = ref_prompt(chars, shot, cast, args.mode, args.style)
+        shot["motion_ref"] = motion_ref(chars, shot, cast, args.mode)
 
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     n_cast = sum(1 for s in data["shots"] if s["cast"])
+    left = [s["id"] for s in data["shots"]
+            if re.search(r"[{\[][^}\]]+[}\]]", s["image_ref"] + " " + s["motion_ref"])]
     print("%s 갱신 — 캐릭터 등장 %d컷 / 배경 %d컷"
           % (args.shots, n_cast, len(data["shots"]) - n_cast))
+    if left:
+        print("! 채워지지 않은 이름 자리가 남았습니다: %s" % ", ".join(left))
 
 
 if __name__ == "__main__":

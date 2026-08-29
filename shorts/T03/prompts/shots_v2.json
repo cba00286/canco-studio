@@ -28,7 +28,8 @@
       "image": "vertical extreme close-up of {루비} opening her mouth to speak, lips moving with no sound, her eyes widening in alarm",
       "motion": "Her mouth works silently, ending with both paws flying to her throat",
       "link": "전환",
-      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
+      "motion_ref": "Her mouth works silently, ending with both paws flying to her throat"
     },
     {
       "id": "T03-02",
@@ -46,7 +47,8 @@
       "image": "vertical medium shot of a rain-soaked flower meadow, blossoms bowed and heavy, completely empty and silent",
       "motion": "The wet flowers sway, ending held on the empty meadow",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
+      "motion_ref": "The wet flowers sway, ending held on the empty meadow"
     },
     {
       "id": "T03-03",
@@ -68,7 +70,8 @@
       "image": "vertical medium shot of {루비} wrapped in a blanket with tears spilling over while {미미} and {루카} look at each other helplessly",
       "motion": "The tear runs down, ending with both friends looking away, out of ideas",
       "link": "컷",
-      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
+      "motion_ref": "The tear runs down, ending with both friends looking away, out of ideas"
     },
     {
       "id": "T03-04",
@@ -88,7 +91,8 @@
       "image": "vertical wide shot of {쿵쿵} standing eyes closed before a hilltop bench, soft golden-teal light welling up over his three small horns, the grass around him going still",
       "motion": "The light climbs the horns, ending just before it spreads outward",
       "link": "컷",
-      "link_ko": "해결의 실마리만. 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다.",
+      "motion_ref": "The light climbs the horns, ending just before it spreads outward"
     },
     {
       "id": "T03-05",
@@ -117,7 +121,8 @@
         "type": "fadeblack",
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
-      }
+      },
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
     }
   ]
 }

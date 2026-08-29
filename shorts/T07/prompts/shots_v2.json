@@ -28,7 +28,8 @@
       "image": "vertical extreme close-up of {후안}'s eyes falling shut as a thick rope slides out of his flippers",
       "motion": "His eyes close and the rope slips free, ending with his flippers empty",
       "link": "전환",
-      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
+      "motion_ref": "His eyes close and the rope slips free, ending with his flippers empty"
     },
     {
       "id": "T07-02",
@@ -50,7 +51,8 @@
       "image": "vertical medium shot of a tug-of-war rope wrenching sideways, {루카}, {티니} and {쿵쿵} dragged forward and tumbling onto the sand",
       "motion": "They are hauled forward, ending in a heap on the beach",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
+      "motion_ref": "They are hauled forward, ending in a heap on the beach"
     },
     {
       "id": "T07-03",
@@ -70,7 +72,8 @@
       "image": "vertical medium shot of {후안} hugging his knees on the sand, head bowed low, shoulders drawn in",
       "motion": "He curls in tighter, ending completely folded over his own knees",
       "link": "컷",
-      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
+      "motion_ref": "He curls in tighter, ending completely folded over his own knees"
     },
     {
       "id": "T07-04",
@@ -90,7 +93,8 @@
       "image": "vertical wide shot of a dark bedroom, very faint golden-teal light welling over {쿵쿵}'s three small horns and soft waves of it beginning to ripple across the ceiling",
       "motion": "The light spreads across the ceiling, ending with the whole room faintly glowing",
       "link": "컷",
-      "link_ko": "해결의 실마리만. 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다.",
+      "motion_ref": "The light spreads across the ceiling, ending with the whole room faintly glowing"
     },
     {
       "id": "T07-05",
@@ -115,7 +119,8 @@
         "type": "fadeblack",
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
-      }
+      },
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
     }
   ]
 }

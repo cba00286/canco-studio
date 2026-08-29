@@ -28,7 +28,8 @@
       "image": "vertical close-up of {티니} popping up into frame from the bottom and looking straight at camera, long floppy ears, warm brown eyes",
       "motion": "the puppy rises into frame from below, ending centred and looking directly at camera",
       "link": "전환",
-      "link_ko": "첫 컷. 1초 안에 얼굴이 화면을 채워야 넘기지 않는다."
+      "link_ko": "첫 컷. 1초 안에 얼굴이 화면을 채워야 넘기지 않는다.",
+      "motion_ref": "the puppy rises into frame from below, ending centred and looking directly at camera"
     },
     {
       "id": "C04-02",
@@ -48,7 +49,8 @@
       "image": "vertical medium shot of {티니} nose down following a scent left and right, then snapping her head up with her tail wagging in a blur",
       "motion": "The action plays out fully, ending with the puppy holding the finished pose",
       "link": "연속",
-      "link_ko": "올려다보던 그 자세에서 그대로 행동으로 들어간다."
+      "link_ko": "올려다보던 그 자세에서 그대로 행동으로 들어간다.",
+      "motion_ref": "The action plays out fully, ending with the puppy holding the finished pose"
     },
     {
       "id": "C04-03",
@@ -73,7 +75,8 @@
       "image": "vertical medium shot of {티니} tearing between {루카}, {미미}, {후안}, {루비} and {쿵쿵}, all of them laughing as she weaves through",
       "motion": "The moment plays out fully, ending with the group settled and 티니 clearly at the centre of it",
       "link": "컷",
-      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다."
+      "link_ko": "혼자가 아니라 무리 안에서 어떤 자리인지 한 컷에 보여준다.",
+      "motion_ref": "The moment plays out fully, ending with the group settled and 티니 clearly at the centre of it"
     },
     {
       "id": "C04-04",
@@ -93,7 +96,8 @@
       "image": "vertical wide shot of {티니} in front of a two-storey log house with a patchwork quilt roof, a wooden Tini sign over the door, an outdoor spiral staircase, flowers everywhere",
       "motion": "the puppy turns and gestures to the house, ending with both arms out and the whole house in frame",
       "link": "컷",
-      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다."
+      "link_ko": "친구들 사이에서 자기 집으로. 어디 사는 아이인지 보여준다.",
+      "motion_ref": "the puppy turns and gestures to the house, ending with both arms out and the whole house in frame"
     },
     {
       "id": "C04-05",
@@ -113,7 +117,8 @@
       "image": "vertical medium shot of {티니} facing camera in a signature pose against a clean simple background, generous empty space along the bottom of the frame for a name caption",
       "motion": "the puppy settles into the pose and smiles at camera, ending held still with the bottom third clear",
       "link": "컷",
-      "link_ko": "마무리. 하단 여백에 이름 자막을 넣는다."
+      "link_ko": "마무리. 하단 여백에 이름 자막을 넣는다.",
+      "motion_ref": "the puppy settles into the pose and smiles at camera, ending held still with the bottom third clear"
     }
   ]
 }

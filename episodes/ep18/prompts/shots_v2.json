@@ -38,7 +38,8 @@
       "image": "wide shot of a hillside meadow packed with yellow and purple flowers moving in the wind",
       "motion": "The flowers roll across the hillside like water, ending on the full flowering hillside",
       "link": "전환",
-      "link_ko": "18화 첫 컷. 꽃밭에서 시작한다."
+      "link_ko": "18화 첫 컷. 꽃밭에서 시작한다.",
+      "motion_ref": "The flowers roll across the hillside like water, ending on the full flowering hillside"
     },
     {
       "id": "SC1-02",
@@ -64,7 +65,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니}, {루비} and {노을} wading in through the tall flowers",
       "motion": "They wade in through the tall flowers, ending with the seven waist deep in flowers",
       "link": "전환",
-      "link_ko": "꽃밭에서 그 안의 일곱으로."
+      "link_ko": "꽃밭에서 그 안의 일곱으로.",
+      "motion_ref": "They wade in through the tall flowers, ending with the seven waist deep in flowers"
     },
     {
       "id": "SC1-03",
@@ -84,7 +86,8 @@
       "image": "close-up of {티니}'s ears going up and swivelling to find a sound",
       "motion": "Her ears go up and swivel, ending with her ears locked in one direction",
       "link": "연속",
-      "link_ko": "걷던 중 소리를 듣는다."
+      "link_ko": "걷던 중 소리를 듣는다.",
+      "motion_ref": "Her ears go up and swivel, ending with her ears locked in one direction"
     },
     {
       "id": "SC1-04",
@@ -104,7 +107,8 @@
       "image": "{티니} walking toward the sound with her nose up",
       "motion": "She walks toward the sound, nose up, ending with her moving toward the far trees",
       "link": "연속",
-      "link_ko": "귀가 방향을 잡고 몸이 따라간다."
+      "link_ko": "귀가 방향을 잡고 몸이 따라간다.",
+      "motion_ref": "She walks toward the sound, nose up, ending with her moving toward the far trees"
     },
     {
       "id": "SC1-05",
@@ -122,7 +126,8 @@
       "image": "wide shot of an old tree at the meadow's edge, bees streaming in and out of a hole in its trunk",
       "motion": "Bees stream in and out of the trunk hole, ending on the busy trunk hole",
       "link": "컷",
-      "link_ko": "소리의 정체가 나온다."
+      "link_ko": "소리의 정체가 나온다.",
+      "motion_ref": "Bees stream in and out of the trunk hole, ending on the busy trunk hole"
     },
     {
       "id": "SC1-06",
@@ -142,7 +147,8 @@
       "image": "{후안} backing up two steps and covering his face with a flipper",
       "motion": "He backs up and covers his face, ending with his flipper over his face",
       "link": "컷",
-      "link_ko": "벌통에서 놀란 얼굴로."
+      "link_ko": "벌통에서 놀란 얼굴로.",
+      "motion_ref": "He backs up and covers his face, ending with his flipper over his face"
     },
     {
       "id": "SC1-07",
@@ -163,7 +169,8 @@
       "image": "{미미} gently lowering {후안}'s flipper away from his face",
       "motion": "She gently lowers his flipper, ending with his face uncovered",
       "link": "연속",
-      "link_ko": "놀란 사람을 진정시킨다."
+      "link_ko": "놀란 사람을 진정시킨다.",
+      "motion_ref": "She gently lowers his flipper, ending with his face uncovered"
     },
     {
       "id": "SC1-08",
@@ -183,7 +190,8 @@
       "image": "close-up of one bee flying right past {후안}'s beak and simply carrying on",
       "motion": "The bee passes his beak and carries on, ending with the bee already past him",
       "link": "연속",
-      "link_ko": "말이 곧바로 증명된다."
+      "link_ko": "말이 곧바로 증명된다.",
+      "motion_ref": "The bee passes his beak and carries on, ending with the bee already past him"
     },
     {
       "id": "SC1-09",
@@ -203,7 +211,8 @@
       "image": "wide shot of {루비} tracing the bees' flight paths in the air with her staff",
       "motion": "Her staff traces the paths of the bees, ending with the staff following the streams of bees",
       "link": "컷",
-      "link_ko": "작은 벌에서 전체 흐름으로."
+      "link_ko": "작은 벌에서 전체 흐름으로.",
+      "motion_ref": "Her staff traces the paths of the bees, ending with the staff following the streams of bees"
     },
     {
       "id": "SC1-10",
@@ -223,7 +232,8 @@
       "image": "{루카} pushing his face in close to the trunk hole",
       "motion": "He pushes his face close to the hole, ending with his nose near the hole",
       "link": "연속",
-      "link_ko": "설명에 질문이 붙는다."
+      "link_ko": "설명에 질문이 붙는다.",
+      "motion_ref": "He pushes his face close to the hole, ending with his nose near the hole"
     },
     {
       "id": "SC1-11",
@@ -243,7 +253,8 @@
       "image": "close-up of {미미} counting off on her fingers one at a time",
       "motion": "She counts off on her fingers, ending with four fingers extended",
       "link": "컷",
-      "link_ko": "질문에 답이 시작된다."
+      "link_ko": "질문에 답이 시작된다.",
+      "motion_ref": "She counts off on her fingers, ending with four fingers extended"
     },
     {
       "id": "SC1-12",
@@ -263,7 +274,8 @@
       "image": "{노을} sitting very close in front of the hole and looking inside",
       "motion": "She sits close and looks into the hole, ending with her face close to the opening",
       "link": "컷",
-      "link_ko": "설명 옆에서 한 명이 직접 본다."
+      "link_ko": "설명 옆에서 한 명이 직접 본다.",
+      "motion_ref": "She sits close and looks into the hole, ending with her face close to the opening"
     },
     {
       "id": "SC1-13",
@@ -281,7 +293,8 @@
       "image": "wide shot of all seven settling into spots under the tree to watch the hive",
       "motion": "They settle into places and watch the hive, ending with the seven all seated and watching",
       "link": "연속",
-      "link_ko": "보는 사람이 늘어난다."
+      "link_ko": "보는 사람이 늘어난다.",
+      "motion_ref": "They settle into places and watch the hive, ending with the seven all seated and watching"
     },
     {
       "id": "SC1-14",
@@ -301,7 +314,8 @@
       "image": "close-up of {쿵쿵} with his chin on his knees, following the bees with his eyes",
       "motion": "His eyes track the bees back and forth, ending on his tracking eyes",
       "link": "연속",
-      "link_ko": "앉은 줄 안으로 들어간다."
+      "link_ko": "앉은 줄 안으로 들어간다.",
+      "motion_ref": "His eyes track the bees back and forth, ending on his tracking eyes"
     },
     {
       "id": "SC2-01",
@@ -319,7 +333,8 @@
       "image": "wide shot of the hive entrance with the bees clearly moving in several separate streams",
       "motion": "The bees move in several separate streams, ending on the divided streams of bees",
       "link": "전환",
-      "link_ko": "관찰이 본격적으로 시작된다."
+      "link_ko": "관찰이 본격적으로 시작된다.",
+      "motion_ref": "The bees move in several separate streams, ending on the divided streams of bees"
     },
     {
       "id": "SC2-02",
@@ -337,7 +352,8 @@
       "image": "close-up of a bee arriving with two fat yellow pollen loads on its legs",
       "motion": "It carries two yellow loads into the hole, ending with it disappearing inside",
       "link": "연속",
-      "link_ko": "흐름 중 하나로 들어간다."
+      "link_ko": "흐름 중 하나로 들어간다.",
+      "motion_ref": "It carries two yellow loads into the hole, ending with it disappearing inside"
     },
     {
       "id": "SC2-03",
@@ -357,7 +373,8 @@
       "image": "{미미} drawing a bee into a notebook",
       "motion": "She draws the bee into her notebook, ending with the drawing done on the page",
       "link": "컷",
-      "link_ko": "본 것에 이름이 붙는다."
+      "link_ko": "본 것에 이름이 붙는다.",
+      "motion_ref": "She draws the bee into her notebook, ending with the drawing done on the page"
     },
     {
       "id": "SC2-04",
@@ -375,7 +392,8 @@
       "image": "wide shot of the trunk hole with two bees standing perfectly still on either side of the entrance",
       "motion": "The two guards hold their positions, ending on the two motionless guards",
       "link": "컷",
-      "link_ko": "드나드는 쪽에서 서 있는 쪽으로."
+      "link_ko": "드나드는 쪽에서 서 있는 쪽으로.",
+      "motion_ref": "The two guards hold their positions, ending on the two motionless guards"
     },
     {
       "id": "SC2-05",
@@ -395,7 +413,8 @@
       "image": "{루카} pointing at the two motionless bees",
       "motion": "He points at the two still bees, ending with his finger held out",
       "link": "연속",
-      "link_ko": "가만한 벌에 질문이 붙는다."
+      "link_ko": "가만한 벌에 질문이 붙는다.",
+      "motion_ref": "He points at the two still bees, ending with his finger held out"
     },
     {
       "id": "SC2-06",
@@ -415,7 +434,8 @@
       "image": "{루비} holding her staff across in front of her like a barrier",
       "motion": "She holds the staff across like a barrier, ending with the staff held across",
       "link": "연속",
-      "link_ko": "질문에 답이 나온다."
+      "link_ko": "질문에 답이 나온다.",
+      "motion_ref": "She holds the staff across like a barrier, ending with the staff held across"
     },
     {
       "id": "SC2-07",
@@ -433,7 +453,8 @@
       "image": "close-up of a strange bee approaching and a guard bee moving to block it",
       "motion": "The guard moves across to block it, ending with the stranger turned away",
       "link": "연속",
-      "link_ko": "말이 곧바로 증명된다."
+      "link_ko": "말이 곧바로 증명된다.",
+      "motion_ref": "The guard moves across to block it, ending with the stranger turned away"
     },
     {
       "id": "SC2-08",
@@ -451,7 +472,8 @@
       "image": "wide shot of one bee dancing a figure-eight pattern in front of the hive entrance",
       "motion": "One bee traces a figure eight in the air, ending with the figure eight completed",
       "link": "컷",
-      "link_ko": "문 앞에서 다른 행동으로."
+      "link_ko": "문 앞에서 다른 행동으로.",
+      "motion_ref": "One bee traces a figure eight in the air, ending with the figure eight completed"
     },
     {
       "id": "SC2-09",
@@ -471,7 +493,8 @@
       "image": "{티니} wobbling her body in imitation of the dancing bee",
       "motion": "She wobbles in imitation of the bee, ending mid-wobble",
       "link": "컷",
-      "link_ko": "춤에서 그걸 따라 하는 아이로."
+      "link_ko": "춤에서 그걸 따라 하는 아이로.",
+      "motion_ref": "She wobbles in imitation of the bee, ending mid-wobble"
     },
     {
       "id": "SC2-10",
@@ -491,7 +514,8 @@
       "image": "{미미} using both hands to link the dance direction to where the sun is",
       "motion": "Her hands link the dance to the sun, ending with both her hands still raised",
       "link": "연속",
-      "link_ko": "오해를 바로잡는다."
+      "link_ko": "오해를 바로잡는다.",
+      "motion_ref": "Her hands link the dance to the sun, ending with both her hands still raised"
     },
     {
       "id": "SC2-11",
@@ -509,7 +533,8 @@
       "image": "wide shot of a group of bees all flying off in one direction after the dance ends",
       "motion": "A group of bees all leave in one direction, ending with the group gone in one direction",
       "link": "연속",
-      "link_ko": "설명이 다시 증명된다."
+      "link_ko": "설명이 다시 증명된다.",
+      "motion_ref": "A group of bees all leave in one direction, ending with the group gone in one direction"
     },
     {
       "id": "SC2-12",
@@ -527,7 +552,8 @@
       "image": "close-up inside the hole where smaller bees are cleaning the walls",
       "motion": "Small bees work at cleaning the walls, ending on the cleaning bees",
       "link": "컷",
-      "link_ko": "밖에서 안으로 들어간다."
+      "link_ko": "밖에서 안으로 들어간다.",
+      "motion_ref": "Small bees work at cleaning the walls, ending on the cleaning bees"
     },
     {
       "id": "SC2-13",
@@ -547,7 +573,8 @@
       "image": "{후안} now right up at the hole himself, peering inside",
       "motion": "He peers into the hole, no longer afraid, ending with his face at the opening",
       "link": "컷",
-      "link_ko": "안쪽에서 그걸 보는 얼굴로."
+      "link_ko": "안쪽에서 그걸 보는 얼굴로.",
+      "motion_ref": "He peers into the hole, no longer afraid, ending with his face at the opening"
     },
     {
       "id": "SC2-14",
@@ -567,7 +594,8 @@
       "image": "{노을} silently counting off each separate stream of bees with her eyes",
       "motion": "Her eyes count the streams one by one, ending on her counting gaze",
       "link": "컷",
-      "link_ko": "떠드는 쪽에서 조용한 쪽으로."
+      "link_ko": "떠드는 쪽에서 조용한 쪽으로.",
+      "motion_ref": "Her eyes count the streams one by one, ending on her counting gaze"
     },
     {
       "id": "SC2-15",
@@ -587,7 +615,8 @@
       "image": "close-up of {쿵쿵} tilting his head with a puzzled look",
       "motion": "He tilts his head, puzzled, ending on his tilted puzzled head",
       "link": "컷",
-      "link_ko": "관찰이 질문으로 모인다."
+      "link_ko": "관찰이 질문으로 모인다.",
+      "motion_ref": "He tilts his head, puzzled, ending on his tilted puzzled head"
     },
     {
       "id": "SC2-16",
@@ -607,7 +636,8 @@
       "image": "{루비} drawing seven circles in the dirt with her staff",
       "motion": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt",
       "link": "연속",
-      "link_ko": "질문에 답이 나온다."
+      "link_ko": "질문에 답이 나온다.",
+      "motion_ref": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt"
     },
     {
       "id": "SC3-01",
@@ -625,7 +655,8 @@
       "image": "wide shot of the lower part of the meadow where the soil has cracked and the flowers hang wilted",
       "motion": "Wilted flowers hang over cracked soil, ending on the dry cracked patch",
       "link": "전환",
-      "link_ko": "벌통에서 시든 꽃밭으로."
+      "link_ko": "벌통에서 시든 꽃밭으로.",
+      "motion_ref": "Wilted flowers hang over cracked soil, ending on the dry cracked patch"
     },
     {
       "id": "SC3-02",
@@ -645,7 +676,8 @@
       "image": "{미미} cupping one wilted flower in her hand",
       "motion": "She cups a wilted flower in her hand, ending with the flower drooping in her hand",
       "link": "연속",
-      "link_ko": "시든 꽃 앞에서 말이 나온다."
+      "link_ko": "시든 꽃 앞에서 말이 나온다.",
+      "motion_ref": "She cups a wilted flower in her hand, ending with the flower drooping in her hand"
     },
     {
       "id": "SC3-03",
@@ -665,7 +697,8 @@
       "image": "{루카} pointing off toward the stream and setting off",
       "motion": "He points to the stream and sets off, ending with him already moving away",
       "link": "컷",
-      "link_ko": "문제에서 해결책으로."
+      "link_ko": "문제에서 해결책으로.",
+      "motion_ref": "He points to the stream and sets off, ending with him already moving away"
     },
     {
       "id": "SC3-04",
@@ -683,7 +716,8 @@
       "image": "wide shot of all seven running to the stream and all picking up buckets",
       "motion": "All seven run and all grab buckets, ending with seven buckets in seven hands",
       "link": "연속",
-      "link_ko": "제안대로 다 같이 움직인다."
+      "link_ko": "제안대로 다 같이 움직인다.",
+      "motion_ref": "All seven run and all grab buckets, ending with seven buckets in seven hands"
     },
     {
       "id": "SC3-05",
@@ -701,7 +735,8 @@
       "image": "the seven bumping into each other at the narrow bank, water sloshing out of the buckets",
       "motion": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets",
       "link": "연속",
-      "link_ko": "다 같이 하니 부딪힌다."
+      "link_ko": "다 같이 하니 부딪힌다.",
+      "motion_ref": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets"
     },
     {
       "id": "SC3-06",
@@ -719,7 +754,8 @@
       "image": "wide shot of the seven standing around soaked, their buckets holding only shallow puddles",
       "motion": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket",
       "link": "연속",
-      "link_ko": "부딪힌 결과다."
+      "link_ko": "부딪힌 결과다.",
+      "motion_ref": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket"
     },
     {
       "id": "SC3-07",
@@ -739,7 +775,8 @@
       "image": "{티니} standing soaked with her shoulders drooping",
       "motion": "She stands soaked, shoulders down, ending on her drooping soaked figure",
       "link": "컷",
-      "link_ko": "빈 통에서 지친 얼굴로."
+      "link_ko": "빈 통에서 지친 얼굴로.",
+      "motion_ref": "She stands soaked, shoulders down, ending on her drooping soaked figure"
     },
     {
       "id": "SC3-08",
@@ -759,7 +796,8 @@
       "image": "close-up of {쿵쿵} turning his head back toward the hive tree",
       "motion": "He turns his head back toward the hive, ending with him looking back at the tree",
       "link": "컷",
-      "link_ko": "실패에서 아까 본 것으로."
+      "link_ko": "실패에서 아까 본 것으로.",
+      "motion_ref": "He turns his head back toward the hive, ending with him looking back at the tree"
     },
     {
       "id": "SC3-09",
@@ -779,7 +817,8 @@
       "image": "{미미} redrawing seven circles in the dirt with a stick",
       "motion": "She redraws the seven circles in the dirt, ending on the seven fresh circles",
       "link": "연속",
-      "link_ko": "깨달음이 계획이 된다."
+      "link_ko": "깨달음이 계획이 된다.",
+      "motion_ref": "She redraws the seven circles in the dirt, ending on the seven fresh circles"
     },
     {
       "id": "SC3-10",
@@ -801,7 +840,8 @@
       "image": "wide shot of {루카} filling buckets at the stream, {후안} carrying them, and {티니} running between with messages",
       "motion": "Each works a different job without colliding, ending with the line of work running smoothly",
       "link": "컷",
-      "link_ko": "계획이 실행된다."
+      "link_ko": "계획이 실행된다.",
+      "motion_ref": "Each works a different job without colliding, ending with the line of work running smoothly"
     },
     {
       "id": "SC3-11",
@@ -822,7 +862,8 @@
       "image": "{미미} marking which patches get water while {루비} counts the order out",
       "motion": "She marks the patches; she counts the order, ending with both at their own stations",
       "link": "연속",
-      "link_ko": "다른 자리의 다른 일이다."
+      "link_ko": "다른 자리의 다른 일이다.",
+      "motion_ref": "She marks the patches; she counts the order, ending with both at their own stations"
     },
     {
       "id": "SC3-12",
@@ -842,7 +883,8 @@
       "image": "close-up of {쿵쿵} hoisting two heavy buckets at once",
       "motion": "He hoists two heavy buckets at once, ending with both buckets clear of the ground",
       "link": "연속",
-      "link_ko": "각자의 몫이 이어진다."
+      "link_ko": "각자의 몫이 이어진다.",
+      "motion_ref": "He hoists two heavy buckets at once, ending with both buckets clear of the ground"
     },
     {
       "id": "SC3-13",
@@ -860,7 +902,8 @@
       "image": "wide shot of the dry soil darkening as it drinks the water and the flower stems slowly lifting",
       "motion": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright",
       "link": "연속",
-      "link_ko": "일이 결과로 나타난다."
+      "link_ko": "일이 결과로 나타난다.",
+      "motion_ref": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright"
     },
     {
       "id": "SC3-14",
@@ -880,7 +923,8 @@
       "image": "{루카} wiping sweat off his face and laughing",
       "motion": "He wipes his face and laughs, ending on his laughing sweaty face",
       "link": "컷",
-      "link_ko": "결과에서 그걸 본 얼굴로."
+      "link_ko": "결과에서 그걸 본 얼굴로.",
+      "motion_ref": "He wipes his face and laughs, ending on his laughing sweaty face"
     },
     {
       "id": "SC3-15",
@@ -898,7 +942,8 @@
       "image": "wide shot of the six all working at their own stations with one place standing empty",
       "motion": "Six work; one station stands empty, ending on the one empty place",
       "link": "컷",
-      "link_ko": "웃음 뒤에 빈자리가 보인다."
+      "link_ko": "웃음 뒤에 빈자리가 보인다.",
+      "motion_ref": "Six work; one station stands empty, ending on the one empty place"
     },
     {
       "id": "SC4-01",
@@ -918,7 +963,8 @@
       "image": "wide shot of {노을} standing at the edge of the meadow holding a bucket and not moving",
       "motion": "She stands at the edge holding a bucket, ending on her motionless at the edge",
       "link": "전환",
-      "link_ko": "일하는 여섯에서 서 있는 하나로."
+      "link_ko": "일하는 여섯에서 서 있는 하나로.",
+      "motion_ref": "She stands at the edge holding a bucket, ending on her motionless at the edge"
     },
     {
       "id": "SC4-02",
@@ -938,7 +984,8 @@
       "image": "close-up of {노을} speaking very quietly to herself",
       "motion": "She speaks quietly to herself, ending on her quiet uncertain face",
       "link": "연속",
-      "link_ko": "선 자리에서 혼잣말이 나온다."
+      "link_ko": "선 자리에서 혼잣말이 나온다.",
+      "motion_ref": "She speaks quietly to herself, ending on her quiet uncertain face"
     },
     {
       "id": "SC4-03",
@@ -958,7 +1005,8 @@
       "image": "{쿵쿵} setting his buckets down and walking over toward her",
       "motion": "He puts the buckets down and walks over, ending with him arriving beside her",
       "link": "컷",
-      "link_ko": "혼잣말을 누군가 듣는다."
+      "link_ko": "혼잣말을 누군가 듣는다.",
+      "motion_ref": "He puts the buckets down and walks over, ending with him arriving beside her"
     },
     {
       "id": "SC4-04",
@@ -978,7 +1026,8 @@
       "image": "{쿵쿵} pointing back and forth between the stream and the meadow",
       "motion": "He points from the stream to the meadow, ending with his arm pointing at the meadow",
       "link": "연속",
-      "link_ko": "옆에 서서 말한다."
+      "link_ko": "옆에 서서 말한다.",
+      "motion_ref": "He points from the stream to the meadow, ending with his arm pointing at the meadow"
     },
     {
       "id": "SC4-05",
@@ -998,7 +1047,8 @@
       "image": "close-up of {노을} blinking, her face wavering just slightly",
       "motion": "She blinks; her face wavers a little, ending on her wavering expression",
       "link": "연속",
-      "link_ko": "말이 닿는다."
+      "link_ko": "말이 닿는다.",
+      "motion_ref": "She blinks; her face wavers a little, ending on her wavering expression"
     },
     {
       "id": "SC4-06",
@@ -1019,7 +1069,8 @@
       "image": "{미미} raising a hand across the meadow and calling to {노을}",
       "motion": "She raises a hand and calls across, ending with her hand still raised",
       "link": "컷",
-      "link_ko": "한 사람이 부르니 다른 쪽에서도 부른다."
+      "link_ko": "한 사람이 부르니 다른 쪽에서도 부른다.",
+      "motion_ref": "She raises a hand and calls across, ending with her hand still raised"
     },
     {
       "id": "SC4-07",
@@ -1039,7 +1090,8 @@
       "image": "wide shot of {노을} setting the bucket down, scanning the meadow, and pointing at one patch",
       "motion": "She scans the meadow and points at one patch, ending with her arm out toward the patch",
       "link": "연속",
-      "link_ko": "부름에 답이 나온다."
+      "link_ko": "부름에 답이 나온다.",
+      "motion_ref": "She scans the meadow and points at one patch, ending with her arm out toward the patch"
     },
     {
       "id": "SC4-08",
@@ -1064,7 +1116,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} all moving at once toward where she pointed",
       "motion": "All six move at once toward the spot, ending with the six converging on the patch",
       "link": "연속",
-      "link_ko": "가리킨 곳으로 전부 움직인다."
+      "link_ko": "가리킨 곳으로 전부 움직인다.",
+      "motion_ref": "All six move at once toward the spot, ending with the six converging on the patch"
     },
     {
       "id": "EN-01",
@@ -1087,7 +1140,8 @@
         "type": "fadewhite",
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
-      }
+      },
+      "motion_ref": "The wet soil darkens and the flowers stand, ending on the revived evening meadow"
     },
     {
       "id": "EN-02",
@@ -1113,7 +1167,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니}, {루비} and {노을} sitting in a row, all of them covered in dirt",
       "motion": "The seven sit in a row, filthy, ending with the seven seated in a row",
       "link": "연속",
-      "link_ko": "일이 끝나고 앉는다."
+      "link_ko": "일이 끝나고 앉는다.",
+      "motion_ref": "The seven sit in a row, filthy, ending with the seven seated in a row"
     },
     {
       "id": "EN-03",
@@ -1133,7 +1188,8 @@
       "image": "close-up of {루비}'s staff tapping each of the seven circles in the dirt",
       "motion": "The staff taps each circle in turn, ending with the staff on the seventh circle",
       "link": "연속",
-      "link_ko": "앉은 자리에서 말이 나온다."
+      "link_ko": "앉은 자리에서 말이 나온다.",
+      "motion_ref": "The staff taps each circle in turn, ending with the staff on the seventh circle"
     },
     {
       "id": "EN-04",
@@ -1153,7 +1209,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a big beaming smile",
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
-      "link_ko": "대화가 쿵쿵의 한마디로 모인다."
+      "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
     },
     {
       "id": "EN-05",
@@ -1173,7 +1230,8 @@
       "image": "{노을} widening the seventh circle a little with the tip of her foot",
       "motion": "Her foot widens the seventh circle, ending on the widened seventh circle",
       "link": "컷",
-      "link_ko": "한마디 뒤에 노을의 손이 움직인다."
+      "link_ko": "한마디 뒤에 노을의 손이 움직인다.",
+      "motion_ref": "Her foot widens the seventh circle, ending on the widened seventh circle"
     },
     {
       "id": "EN-06",
@@ -1191,7 +1249,8 @@
       "image": "wide shot of the hive tree in evening light, bees still going in and out",
       "motion": "Bees still come and go in the evening light, ending on the still-busy hive",
       "link": "컷",
-      "link_ko": "사람에서 벌로 돌아간다."
+      "link_ko": "사람에서 벌로 돌아간다.",
+      "motion_ref": "Bees still come and go in the evening light, ending on the still-busy hive"
     },
     {
       "id": "EN-07",
@@ -1217,7 +1276,8 @@
       "image": "end card composition, {쿵쿵}, {루카}, {후안}, {미미}, {티니}, {루비} and {노을} together in the evening flower meadow with warm gold and violet light, clean empty space along the bottom for a title",
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드로 마무리한다."
+      "link_ko": "엔딩 카드로 마무리한다.",
+      "motion_ref": "The evening light deepens as the camera eases back"
     }
   ]
 }

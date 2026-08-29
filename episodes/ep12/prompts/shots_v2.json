@@ -35,7 +35,8 @@
       "image": "wide shot of a deep dense forest with very tall trees, thin blades of sunlight cutting down between the branches",
       "motion": "Thin shafts of light sway between the branches, ending on the dim forest floor",
       "link": "전환",
-      "link_ko": "12화 첫 컷. 깊은 숲에서 시작한다."
+      "link_ko": "12화 첫 컷. 깊은 숲에서 시작한다.",
+      "motion_ref": "Thin shafts of light sway between the branches, ending on the dim forest floor"
     },
     {
       "id": "SC1-02",
@@ -60,7 +61,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} pushing through big low leaves as they walk deeper in",
       "motion": "They push the leaves aside and come forward, ending with the six standing among the leaves",
       "link": "전환",
-      "link_ko": "숲 풍경에서 그 안의 여섯으로."
+      "link_ko": "숲 풍경에서 그 안의 여섯으로.",
+      "motion_ref": "They push the leaves aside and come forward, ending with the six standing among the leaves"
     },
     {
       "id": "SC1-03",
@@ -80,7 +82,8 @@
       "image": "{미미} tapping the end of a rough map she has scratched into the dirt with a twig",
       "motion": "She taps the edge of the scratched map, ending with the twig resting at the map's edge",
       "link": "연속",
-      "link_ko": "걸어온 자리에서 미미가 멈춰 선다."
+      "link_ko": "걸어온 자리에서 미미가 멈춰 선다.",
+      "motion_ref": "She taps the edge of the scratched map, ending with the twig resting at the map's edge"
     },
     {
       "id": "SC1-04",
@@ -98,7 +101,8 @@
       "image": "close-up of the map scratched in the dirt, the lines simply stopping at one point",
       "motion": "The scratched lines end at a blank patch of soil, ending on the blank soil past the last line",
       "link": "연속",
-      "link_ko": "짚은 손끝으로 들어간다."
+      "link_ko": "짚은 손끝으로 들어간다.",
+      "motion_ref": "The scratched lines end at a blank patch of soil, ending on the blank soil past the last line"
     },
     {
       "id": "SC1-05",
@@ -118,7 +122,8 @@
       "image": "{티니} shooting forward with her tail straight up",
       "motion": "She darts forward, tail high, ending with her already ahead of the group",
       "link": "컷",
-      "link_ko": "지도의 끝에서 그 너머로 뛰는 티니로."
+      "link_ko": "지도의 끝에서 그 너머로 뛰는 티니로.",
+      "motion_ref": "She darts forward, tail high, ending with her already ahead of the group"
     },
     {
       "id": "SC1-06",
@@ -138,7 +143,8 @@
       "image": "wide shot of {티니} disappearing behind a huge mossy boulder with the other five following",
       "motion": "She vanishes behind the boulder and they follow, ending with the group rounding the boulder",
       "link": "연속",
-      "link_ko": "뛰어 나간 티니를 따라간다."
+      "link_ko": "뛰어 나간 티니를 따라간다.",
+      "motion_ref": "She vanishes behind the boulder and they follow, ending with the group rounding the boulder"
     },
     {
       "id": "SC1-07",
@@ -158,7 +164,8 @@
       "image": "{티니} turning back to look at the others in front of a dark opening in the rock",
       "motion": "She turns back toward the others, ending with her standing beside the dark opening",
       "link": "연속",
-      "link_ko": "바위를 돌자 티니가 서 있다."
+      "link_ko": "바위를 돌자 티니가 서 있다.",
+      "motion_ref": "She turns back toward the others, ending with her standing beside the dark opening"
     },
     {
       "id": "SC1-08",
@@ -176,7 +183,8 @@
       "image": "wide shot of a tall cave mouth hidden between mossy rocks, the darkness inside going deep",
       "motion": "The dark of the cave mouth deepens at centre frame, ending on the black cave mouth",
       "link": "컷",
-      "link_ko": "티니의 시선 끝에서 동굴 전체로."
+      "link_ko": "티니의 시선 끝에서 동굴 전체로.",
+      "motion_ref": "The dark of the cave mouth deepens at centre frame, ending on the black cave mouth"
     },
     {
       "id": "SC1-09",
@@ -194,7 +202,8 @@
       "image": "close-up of cold air flowing out of the cave and flattening the grass at its mouth",
       "motion": "Cold air pushes the grass flat at the entrance, ending with the grass held flat",
       "link": "연속",
-      "link_ko": "동굴 입구로 더 다가간다."
+      "link_ko": "동굴 입구로 더 다가간다.",
+      "motion_ref": "Cold air pushes the grass flat at the entrance, ending with the grass held flat"
     },
     {
       "id": "SC1-10",
@@ -214,7 +223,8 @@
       "image": "{루카} rolling up his sleeves and stepping forward toward the cave",
       "motion": "He rolls his sleeves and steps up, ending with him one step ahead of the others",
       "link": "컷",
-      "link_ko": "바람이 나오는 입구 앞에 루카가 선다."
+      "link_ko": "바람이 나오는 입구 앞에 루카가 선다.",
+      "motion_ref": "He rolls his sleeves and steps up, ending with him one step ahead of the others"
     },
     {
       "id": "SC1-11",
@@ -234,7 +244,8 @@
       "image": "{후안} shuffling half a step back and folding his flippers tight against himself",
       "motion": "He edges back and tucks his flippers in, ending with him standing behind the others",
       "link": "컷",
-      "link_ko": "앞으로 나선 루카와 반대쪽이다."
+      "link_ko": "앞으로 나선 루카와 반대쪽이다.",
+      "motion_ref": "He edges back and tucks his flippers in, ending with him standing behind the others"
     },
     {
       "id": "SC1-12",
@@ -255,7 +266,8 @@
       "image": "close-up of {미미}'s hand quietly taking hold of {루비}'s sleeve",
       "motion": "Her hand closes gently on the sleeve, ending with the sleeve held tight",
       "link": "연속",
-      "link_ko": "무서워하는 쪽으로 계속 간다."
+      "link_ko": "무서워하는 쪽으로 계속 간다.",
+      "motion_ref": "Her hand closes gently on the sleeve, ending with the sleeve held tight"
     },
     {
       "id": "SC1-13",
@@ -275,7 +287,8 @@
       "image": "{노을} already sitting on a rock beside the cave mouth, quietly looking down at them",
       "motion": "She sits perfectly still, looking down, ending on her seated and motionless",
       "link": "컷",
-      "link_ko": "여섯의 위쪽에 누군가 있다."
+      "link_ko": "여섯의 위쪽에 누군가 있다.",
+      "motion_ref": "She sits perfectly still, looking down, ending on her seated and motionless"
     },
     {
       "id": "SC1-14",
@@ -296,7 +309,8 @@
       "image": "wide shot of {루비} looking up at {노을} on the rock while pointing her staff toward the cave",
       "motion": "She points her staff at the cave and looks up, ending with the staff aimed at the cave",
       "link": "연속",
-      "link_ko": "앉은 노을에게 루비가 말을 건다."
+      "link_ko": "앉은 노을에게 루비가 말을 건다.",
+      "motion_ref": "She points her staff at the cave and looks up, ending with the staff aimed at the cave"
     },
     {
       "id": "SC2-01",
@@ -316,7 +330,8 @@
       "image": "wide shot of {노을} dropping down off the rock and walking straight into the dark cave mouth without pausing",
       "motion": "She drops down and walks straight into the dark, ending with her half swallowed by the darkness",
       "link": "전환",
-      "link_ko": "묻는 말에 행동으로 답한다."
+      "link_ko": "묻는 말에 행동으로 답한다.",
+      "motion_ref": "She drops down and walks straight into the dark, ending with her half swallowed by the darkness"
     },
     {
       "id": "SC2-02",
@@ -341,7 +356,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} staring open-mouthed after her",
       "motion": "All six stare after her, mouths open, ending with the six standing frozen at the mouth",
       "link": "연속",
-      "link_ko": "들어가는 뒷모습에서 남겨진 여섯으로."
+      "link_ko": "들어가는 뒷모습에서 남겨진 여섯으로.",
+      "motion_ref": "All six stare after her, mouths open, ending with the six standing frozen at the mouth"
     },
     {
       "id": "SC2-03",
@@ -361,7 +377,8 @@
       "image": "{루카} shouting after her and charging into the cave",
       "motion": "He shouts and charges in, ending with him disappearing inside",
       "link": "연속",
-      "link_ko": "놀란 자리에서 루카가 먼저 움직인다."
+      "link_ko": "놀란 자리에서 루카가 먼저 움직인다.",
+      "motion_ref": "He shouts and charges in, ending with him disappearing inside"
     },
     {
       "id": "SC2-04",
@@ -379,7 +396,8 @@
       "image": "wide shot of the remaining five glancing at each other and then hurrying in together",
       "motion": "They look at one another and hurry in as one, ending on the empty cave mouth",
       "link": "연속",
-      "link_ko": "루카를 따라 나머지가 들어간다."
+      "link_ko": "루카를 따라 나머지가 들어간다.",
+      "motion_ref": "They look at one another and hurry in as one, ending on the empty cave mouth"
     },
     {
       "id": "SC2-05",
@@ -409,7 +427,8 @@
         "type": "fadeblack",
         "sec": 0.5,
         "why": "바깥 빛에서 동굴 안으로. 어둠을 한 번 지나간다"
-      }
+      },
+      "motion_ref": "Entrance light stretches long across the wall, ending with the group inside the lit front chamber"
     },
     {
       "id": "SC2-06",
@@ -429,7 +448,8 @@
       "image": "close-up of {티니}'s claws clicking on the wet stone floor",
       "motion": "Her claws click on the wet stone, ending with one paw lifted mid-step",
       "link": "연속",
-      "link_ko": "걷는 무리의 발밑으로 들어간다."
+      "link_ko": "걷는 무리의 발밑으로 들어간다.",
+      "motion_ref": "Her claws click on the wet stone, ending with one paw lifted mid-step"
     },
     {
       "id": "SC2-07",
@@ -447,7 +467,8 @@
       "image": "wide shot from inside the cave, the bright entrance shrinking behind the group while the way ahead is black",
       "motion": "The entrance shrinks behind them; ahead is black, ending with the entrance a small distant spot",
       "link": "컷",
-      "link_ko": "시간과 거리가 흐른다."
+      "link_ko": "시간과 거리가 흐른다.",
+      "motion_ref": "The entrance shrinks behind them; ahead is black, ending with the entrance a small distant spot"
     },
     {
       "id": "SC2-08",
@@ -467,7 +488,8 @@
       "image": "{후안} stopping dead in the dark, his whole body trembling slightly",
       "motion": "He stops dead and trembles, ending with him standing rigid",
       "link": "연속",
-      "link_ko": "어두워진 앞을 마주한다."
+      "link_ko": "어두워진 앞을 마주한다.",
+      "motion_ref": "He stops dead and trembles, ending with him standing rigid"
     },
     {
       "id": "SC2-09",
@@ -487,7 +509,8 @@
       "image": "close-up of {미미} squeezing her eyes shut and lowering her head",
       "motion": "She squeezes her eyes shut, ending on her tightly shut eyes",
       "link": "연속",
-      "link_ko": "무서움이 옆으로 번진다."
+      "link_ko": "무서움이 옆으로 번진다.",
+      "motion_ref": "She squeezes her eyes shut, ending on her tightly shut eyes"
     },
     {
       "id": "SC2-10",
@@ -507,7 +530,8 @@
       "image": "{루카} speaking loudly in the dark while his tail curls tight between his legs",
       "motion": "He speaks loudly but his tail curls under, ending with his tail fully tucked",
       "link": "컷",
-      "link_ko": "떠는 둘에서 허세를 부리는 루카로."
+      "link_ko": "떠는 둘에서 허세를 부리는 루카로.",
+      "motion_ref": "He speaks loudly but his tail curls under, ending with his tail fully tucked"
     },
     {
       "id": "SC2-11",
@@ -531,7 +555,8 @@
       "image": "wide shot of {루카}, {후안}, {미미}, {티니} and {루비} pressing back to back into one tight huddle in the dark",
       "motion": "They press back to back into one huddle, ending with the five knotted together",
       "link": "연속",
-      "link_ko": "허세가 무너지고 다들 뭉친다."
+      "link_ko": "허세가 무너지고 다들 뭉친다.",
+      "motion_ref": "They press back to back into one huddle, ending with the five knotted together"
     },
     {
       "id": "SC2-12",
@@ -551,7 +576,8 @@
       "image": "close-up of {쿵쿵} outside the huddle, turning his head toward the deeper dark",
       "motion": "He turns his head toward the deeper dark, ending with him looking away into the black",
       "link": "컷",
-      "link_ko": "뭉친 다섯에서 혼자 다른 곳을 보는 쿵쿵으로."
+      "link_ko": "뭉친 다섯에서 혼자 다른 곳을 보는 쿵쿵으로.",
+      "motion_ref": "He turns his head toward the deeper dark, ending with him looking away into the black"
     },
     {
       "id": "SC2-13",
@@ -575,7 +601,8 @@
       "image": "{루카}, {후안}, {미미}, {티니} and {루비} flinching as footsteps come closer out of the darkness",
       "motion": "Footsteps approach and the five flinch, ending with the five braced and staring",
       "link": "연속",
-      "link_ko": "쿵쿵이 본 방향에서 소리가 온다."
+      "link_ko": "쿵쿵이 본 방향에서 소리가 온다.",
+      "motion_ref": "Footsteps approach and the five flinch, ending with the five braced and staring"
     },
     {
       "id": "SC2-14",
@@ -595,7 +622,8 @@
       "image": "{노을} walking calmly back out of the darkness, her expression completely unchanged",
       "motion": "She walks out of the dark, face unchanged, ending with her standing in front of the huddle",
       "link": "연속",
-      "link_ko": "발소리의 주인이 나타난다."
+      "link_ko": "발소리의 주인이 나타난다.",
+      "motion_ref": "She walks out of the dark, face unchanged, ending with her standing in front of the huddle"
     },
     {
       "id": "SC2-15",
@@ -615,7 +643,8 @@
       "image": "close-up of {노을} holding out one hand and simply waiting, her face calm",
       "motion": "She holds out a hand and waits, ending with her hand held out steady",
       "link": "연속",
-      "link_ko": "나타난 노을이 손을 내민다."
+      "link_ko": "나타난 노을이 손을 내민다.",
+      "motion_ref": "She holds out a hand and waits, ending with her hand held out steady"
     },
     {
       "id": "SC2-16",
@@ -635,7 +664,8 @@
       "image": "wide shot of {후안} taking the hand first and the rest linking on one by one into a chain",
       "motion": "Hands link one by one into a chain, ending with all of them linked in a line",
       "link": "연속",
-      "link_ko": "내민 손을 후안이 잡는다."
+      "link_ko": "내민 손을 후안이 잡는다.",
+      "motion_ref": "Hands link one by one into a chain, ending with all of them linked in a line"
     },
     {
       "id": "SC3-01",
@@ -666,7 +696,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "동굴이 더 깊어진다. 시간이 흐른다"
-      }
+      },
+      "motion_ref": "The line walks on, nearly swallowed by the dark, ending with only faint outlines visible"
     },
     {
       "id": "SC3-02",
@@ -684,7 +715,8 @@
       "image": "the linked line coming to a stop with nothing visible ahead of them at all",
       "motion": "The line halts before total blackness, ending with the line stopped and still",
       "link": "연속",
-      "link_ko": "걷던 줄이 멈춘다."
+      "link_ko": "걷던 줄이 멈춘다.",
+      "motion_ref": "The line halts before total blackness, ending with the line stopped and still"
     },
     {
       "id": "SC3-03",
@@ -704,7 +736,8 @@
       "image": "close-up of {미미} in near total darkness, only her eyes faintly catching light",
       "motion": "Only her eyes catch a little light, ending on her two faint eyes in the dark",
       "link": "연속",
-      "link_ko": "멈춘 줄 안에서 목소리가 나온다."
+      "link_ko": "멈춘 줄 안에서 목소리가 나온다.",
+      "motion_ref": "Only her eyes catch a little light, ending on her two faint eyes in the dark"
     },
     {
       "id": "SC3-04",
@@ -724,7 +757,8 @@
       "image": "{쿵쿵} letting go of the chain and stepping forward alone into the dark",
       "motion": "He lets go and steps forward alone, ending with him standing apart in front",
       "link": "컷",
-      "link_ko": "돌아가자는 말 앞에서 쿵쿵이 나선다."
+      "link_ko": "돌아가자는 말 앞에서 쿵쿵이 나선다.",
+      "motion_ref": "He lets go and steps forward alone, ending with him standing apart in front"
     },
     {
       "id": "SC3-05",
@@ -744,7 +778,8 @@
       "image": "close-up of {쿵쿵} closing his eyes and drawing a slow deep breath",
       "motion": "He shuts his eyes and breathes in slowly, ending on his closed eyes and filled chest",
       "link": "연속",
-      "link_ko": "나선 자리에서 얼굴로 들어간다."
+      "link_ko": "나선 자리에서 얼굴로 들어간다.",
+      "motion_ref": "He shuts his eyes and breathes in slowly, ending on his closed eyes and filled chest"
     },
     {
       "id": "SC3-06",
@@ -764,7 +799,8 @@
       "image": "close-up of {쿵쿵_온기} in the pitch dark cave",
       "motion": "The light wells up and pushes the dark back, ending with the warm light steady on his horns",
       "link": "연속",
-      "link_ko": "감은 눈에서 뿔로 올라간다."
+      "link_ko": "감은 눈에서 뿔로 올라간다.",
+      "motion_ref": "The light wells up and pushes the dark back, ending with the warm light steady on his horns"
     },
     {
       "id": "SC3-07",
@@ -782,7 +818,8 @@
       "image": "wide shot of the warm light spreading to reveal the cave walls for the first time, the others' eyes going wide",
       "motion": "Light spreads and the walls appear, ending with the chamber softly lit",
       "link": "연속",
-      "link_ko": "빛이 뿔에서 방 전체로 퍼진다."
+      "link_ko": "빛이 뿔에서 방 전체로 퍼진다.",
+      "motion_ref": "Light spreads and the walls appear, ending with the chamber softly lit"
     },
     {
       "id": "SC3-08",
@@ -800,7 +837,8 @@
       "image": "close-up of one small mushroom on the cave wall quivering as the light touches it",
       "motion": "The little mushroom trembles in the light, ending on the trembling mushroom",
       "link": "컷",
-      "link_ko": "퍼진 빛이 닿은 곳으로 들어간다."
+      "link_ko": "퍼진 빛이 닿은 곳으로 들어간다.",
+      "motion_ref": "The little mushroom trembles in the light, ending on the trembling mushroom"
     },
     {
       "id": "SC3-09",
@@ -818,7 +856,8 @@
       "image": "close-up of the mushroom lighting up green on its own, and the one beside it catching light too",
       "motion": "It glows green and the next one catches, ending with two mushrooms glowing green",
       "link": "연속",
-      "link_ko": "떨던 버섯이 켜진다."
+      "link_ko": "떨던 버섯이 켜진다.",
+      "motion_ref": "It glows green and the next one catches, ending with two mushrooms glowing green"
     },
     {
       "id": "SC3-10",
@@ -836,7 +875,8 @@
       "image": "wide shot of glowing mushrooms lighting up in a spreading wave across every wall and the whole ceiling of the cave",
       "motion": "Green light races across the walls and ceiling, ending with the entire cave glowing green",
       "link": "연속",
-      "link_ko": "두 개에서 온 동굴로 번진다."
+      "link_ko": "두 개에서 온 동굴로 번진다.",
+      "motion_ref": "Green light races across the walls and ceiling, ending with the entire cave glowing green"
     },
     {
       "id": "SC3-11",
@@ -856,7 +896,8 @@
       "image": "{티니} spinning slowly on the spot with her head tipped back at the ceiling",
       "motion": "She turns slowly, head tipped back, ending with her still turning, face up",
       "link": "컷",
-      "link_ko": "빛의 물결에서 그것을 보는 아이로."
+      "link_ko": "빛의 물결에서 그것을 보는 아이로.",
+      "motion_ref": "She turns slowly, head tipped back, ending with her still turning, face up"
     },
     {
       "id": "SC3-12",
@@ -877,7 +918,8 @@
       "image": "{후안} slowly letting go of {노을}'s hand now that the cave is bright",
       "motion": "He slowly releases the hand, ending with the two hands apart",
       "link": "연속",
-      "link_ko": "같은 방에서 손이 풀린다."
+      "link_ko": "같은 방에서 손이 풀린다.",
+      "motion_ref": "He slowly releases the hand, ending with the two hands apart"
     },
     {
       "id": "SC3-13",
@@ -897,7 +939,8 @@
       "image": "{노을} looking down at her own empty hand for a moment, then putting it in her pocket",
       "motion": "She looks at her hand, then pockets it, ending with her hand in her pocket",
       "link": "연속",
-      "link_ko": "놓인 손을 노을이 내려다본다."
+      "link_ko": "놓인 손을 노을이 내려다본다.",
+      "motion_ref": "She looks at her hand, then pockets it, ending with her hand in her pocket"
     },
     {
       "id": "SC3-14",
@@ -923,7 +966,8 @@
       "image": "wide shot of {쿵쿵}, {루카}, {후안}, {미미}, {티니}, {루비} and {노을} standing together in the middle of the glowing cave",
       "motion": "The seven stand together and look around, ending on the seven in the green light",
       "link": "컷",
-      "link_ko": "한 사람에서 일곱 전체로 물러난다."
+      "link_ko": "한 사람에서 일곱 전체로 물러난다.",
+      "motion_ref": "The seven stand together and look around, ending on the seven in the green light"
     },
     {
       "id": "SC3-15",
@@ -943,7 +987,8 @@
       "image": "{루비} raising her ears and pointing her staff down a passage deeper inside",
       "motion": "Her ears go up and her staff points inward, ending with the staff aimed down the passage",
       "link": "연속",
-      "link_ko": "둘러보던 중 소리를 듣는다."
+      "link_ko": "둘러보던 중 소리를 듣는다.",
+      "motion_ref": "Her ears go up and her staff points inward, ending with the staff aimed down the passage"
     },
     {
       "id": "SC4-01",
@@ -961,7 +1006,8 @@
       "image": "wide shot of a small clear spring in an inner cave chamber, the glowing ceiling reflected in the still water",
       "motion": "The water stirs slowly, holding the ceiling light, ending on the lit spring in the quiet chamber",
       "link": "전환",
-      "link_ko": "통로를 지나 안쪽 방으로 들어간다."
+      "link_ko": "통로를 지나 안쪽 방으로 들어간다.",
+      "motion_ref": "The water stirs slowly, holding the ceiling light, ending on the lit spring in the quiet chamber"
     },
     {
       "id": "SC4-02",
@@ -981,7 +1027,8 @@
       "image": "close-up of {쿵쿵} lowering his nose close to the water, his horn light reflected on the surface",
       "motion": "His nose nears the water and the light doubles, ending with his reflection steady on the water",
       "link": "연속",
-      "link_ko": "샘에서 그 앞의 쿵쿵으로."
+      "link_ko": "샘에서 그 앞의 쿵쿵으로.",
+      "motion_ref": "His nose nears the water and the light doubles, ending with his reflection steady on the water"
     },
     {
       "id": "SC4-03",
@@ -1001,7 +1048,8 @@
       "image": "{미미} turning slowly in a full circle to take in the whole chamber",
       "motion": "She turns a full slow circle, ending with her facing the group again",
       "link": "컷",
-      "link_ko": "물에서 방 전체를 보는 미미로."
+      "link_ko": "물에서 방 전체를 보는 미미로.",
+      "motion_ref": "She turns a full slow circle, ending with her facing the group again"
     },
     {
       "id": "SC4-04",
@@ -1021,7 +1069,8 @@
       "image": "{노을} taking a small notebook out of her pocket and writing something short in it",
       "motion": "She writes something short in the notebook, ending with the notebook still open in her hands",
       "link": "연속",
-      "link_ko": "방 한쪽에서 노을이 따로 움직인다."
+      "link_ko": "방 한쪽에서 노을이 따로 움직인다.",
+      "motion_ref": "She writes something short in the notebook, ending with the notebook still open in her hands"
     },
     {
       "id": "SC4-05",
@@ -1041,7 +1090,8 @@
       "image": "close-up of {쿵쿵} tilting his head to peek toward the notebook",
       "motion": "He tilts his head to peek, ending with his head still tilted",
       "link": "연속",
-      "link_ko": "적는 손 옆으로 쿵쿵이 온다."
+      "link_ko": "적는 손 옆으로 쿵쿵이 온다.",
+      "motion_ref": "He tilts his head to peek, ending with his head still tilted"
     },
     {
       "id": "SC4-06",
@@ -1061,7 +1111,8 @@
       "image": "{노을} closing the notebook and pointing back down the passage they came from",
       "motion": "She shuts the notebook and points back, ending with her arm pointing back down the passage",
       "link": "연속",
-      "link_ko": "묻는 말에 노을이 답한다."
+      "link_ko": "묻는 말에 노을이 답한다.",
+      "motion_ref": "She shuts the notebook and points back, ending with her arm pointing back down the passage"
     },
     {
       "id": "SC4-07",
@@ -1081,7 +1132,8 @@
       "image": "wide shot of the six grinning at each other while {노을} is already walking ahead down the passage",
       "motion": "They grin at each other as she walks ahead, ending with the group following her out",
       "link": "컷",
-      "link_ko": "답을 듣고 일행이 움직인다."
+      "link_ko": "답을 듣고 일행이 움직인다.",
+      "motion_ref": "They grin at each other as she walks ahead, ending with the group following her out"
     },
     {
       "id": "SC4-08",
@@ -1099,7 +1151,8 @@
       "image": "wide shot of the now empty chamber, the mushroom glow slowly fading back down",
       "motion": "The glow dims slowly in the empty chamber, ending on the chamber almost dark again",
       "link": "컷",
-      "link_ko": "일행이 나가고 방만 남는다."
+      "link_ko": "일행이 나가고 방만 남는다.",
+      "motion_ref": "The glow dims slowly in the empty chamber, ending on the chamber almost dark again"
     },
     {
       "id": "EN-01",
@@ -1130,7 +1183,8 @@
         "type": "fadewhite",
         "sec": 0.6,
         "why": "어두운 동굴에서 저녁빛으로. 눈이 부시다"
-      }
+      },
+      "motion_ref": "They step out into the light and squint, ending with the seven standing outside the cave"
     },
     {
       "id": "EN-02",
@@ -1150,7 +1204,8 @@
       "image": "{후안} puffing out his chest while glancing slightly away",
       "motion": "He puffs up his chest and looks aside, ending with him looking away, chest out",
       "link": "연속",
-      "link_ko": "나온 자리에서 대화가 이어진다."
+      "link_ko": "나온 자리에서 대화가 이어진다.",
+      "motion_ref": "He puffs up his chest and looks aside, ending with him looking away, chest out"
     },
     {
       "id": "EN-03",
@@ -1171,7 +1226,8 @@
       "image": "close-up of {루카} giving {후안}'s shoulder a friendly shove and laughing",
       "motion": "He shoves the shoulder and laughs, ending with both of them laughing",
       "link": "연속",
-      "link_ko": "허세에 루카가 웃어 준다."
+      "link_ko": "허세에 루카가 웃어 준다.",
+      "motion_ref": "He shoves the shoulder and laughs, ending with both of them laughing"
     },
     {
       "id": "EN-04",
@@ -1191,7 +1247,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a big beaming smile",
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
-      "link_ko": "웃음이 쿵쿵의 한마디로 모인다."
+      "link_ko": "웃음이 쿵쿵의 한마디로 모인다.",
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
     },
     {
       "id": "EN-05",
@@ -1211,7 +1268,8 @@
       "image": "wide shot of {노을} walking away alone down the opposite forest path without a word",
       "motion": "She walks away down the other path, ending with her small among the far trees",
       "link": "컷",
-      "link_ko": "가까운 여섯에서 떠나는 노을로."
+      "link_ko": "가까운 여섯에서 떠나는 노을로.",
+      "motion_ref": "She walks away down the other path, ending with her small among the far trees"
     },
     {
       "id": "EN-06",
@@ -1236,7 +1294,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} walking home toward the village as the cave mouth shrinks behind them",
       "motion": "They walk home; the cave mouth shrinks behind, ending with the six far along the path",
       "link": "컷",
-      "link_ko": "노을과 반대 방향이다."
+      "link_ko": "노을과 반대 방향이다.",
+      "motion_ref": "They walk home; the cave mouth shrinks behind, ending with the six far along the path"
     },
     {
       "id": "EN-07",
@@ -1261,7 +1320,8 @@
       "image": "end card composition, {쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} together on the evening forest path with warm green and gold light, clean empty space along the bottom for a title",
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드로 마무리한다."
+      "link_ko": "엔딩 카드로 마무리한다.",
+      "motion_ref": "The evening light deepens as the camera eases back"
     }
   ]
 }

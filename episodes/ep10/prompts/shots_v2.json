@@ -35,7 +35,8 @@
       "image": "a hillside above the forest village at morning, a house dug into a rocky rise almost finished, scaffolding of branches still leaning against one side, low sunlight crossing it",
       "motion": "Morning light sweeps across the hill, ending held on the nearly finished house with the scaffolding clear in frame",
       "link": "전환",
-      "link_ko": "10화 첫 컷. 검은 화면에서 아침 빛이 차오른다."
+      "link_ko": "10화 첫 컷. 검은 화면에서 아침 빛이 차오른다.",
+      "motion_ref": "Morning light sweeps across the hill, ending held on the nearly finished house with the scaffolding clear in frame"
     },
     {
       "id": "SC1-02",
@@ -58,7 +59,8 @@
         "type": "dissolve",
         "sec": 0.8,
         "why": "계절이 세 번 바뀌는 몽타주. 길게 녹인다"
-      }
+      },
+      "motion_ref": "The same frame dissolves through three seasons, ending on the autumn version matching the previous shot exactly"
     },
     {
       "id": "SC1-03",
@@ -78,7 +80,8 @@
       "image": "{루카} up on the roof of the rock house pulling a broad leaf canopy into place and pressing it down",
       "motion": "The tiger cub tugs the canopy square and leans his weight onto it, ending with the canopy seated flat",
       "link": "컷",
-      "link_ko": "완성된 집 전경에서 그 지붕 위로 들어간다."
+      "link_ko": "완성된 집 전경에서 그 지붕 위로 들어간다.",
+      "motion_ref": "The tiger cub tugs the canopy square and leans his weight onto it, ending with the canopy seated flat"
     },
     {
       "id": "SC1-04",
@@ -98,7 +101,8 @@
       "image": "{미미} standing below with a blueprint open in her paws, looking from the paper up to the roof and back",
       "motion": "Her eyes move from the plan to the roof and back, ending with a satisfied nod",
       "link": "컷",
-      "link_ko": "지붕에서 그 아래를 본다. 시선이 위아래로 이어진다."
+      "link_ko": "지붕에서 그 아래를 본다. 시선이 위아래로 이어진다.",
+      "motion_ref": "Her eyes move from the plan to the roof and back, ending with a satisfied nod"
     },
     {
       "id": "SC1-05",
@@ -116,7 +120,8 @@
       "image": "extreme close-up of a wooden mallet driving the last peg into a beam, the peg sinking flush with the wood",
       "motion": "The mallet strikes three times, ending with the peg driven flush and the mallet lifted away",
       "link": "연속",
-      "link_ko": "미미가 끄덕인 그 신호로 마지막 못을 박는다."
+      "link_ko": "미미가 끄덕인 그 신호로 마지막 못을 박는다.",
+      "motion_ref": "The mallet strikes three times, ending with the peg driven flush and the mallet lifted away"
     },
     {
       "id": "SC1-06",
@@ -136,7 +141,8 @@
       "image": "{후안} staggering under a plank almost as big as he is, wobbling from foot to foot",
       "motion": "The penguin sways under the plank, ending with it tipping toward the wall",
       "link": "컷",
-      "link_ko": "완성 직전의 마지막 한 조각. 후안이 들고 온다."
+      "link_ko": "완성 직전의 마지막 한 조각. 후안이 들고 온다.",
+      "motion_ref": "The penguin sways under the plank, ending with it tipping toward the wall"
     },
     {
       "id": "SC1-07",
@@ -156,7 +162,8 @@
       "image": "{티니} bouncing behind him and jabbing a paw to the left over and over",
       "motion": "She hops and points repeatedly, ending with her paw held steady pointing left",
       "link": "컷",
-      "link_ko": "기울어지는 판을 보고 티니가 방향을 잡아준다."
+      "link_ko": "기울어지는 판을 보고 티니가 방향을 잡아준다.",
+      "motion_ref": "She hops and points repeatedly, ending with her paw held steady pointing left"
     },
     {
       "id": "SC1-08",
@@ -174,7 +181,8 @@
       "image": "the plank sliding into its slot and seating perfectly, the rock house now complete, the five stepping back from it together",
       "motion": "The plank slots home and they all step back, ending with the finished house standing clear and no one touching it",
       "link": "연속",
-      "link_ko": "티니가 가리킨 방향으로 판이 들어가 맞는다."
+      "link_ko": "티니가 가리킨 방향으로 판이 들어가 맞는다.",
+      "motion_ref": "The plank slots home and they all step back, ending with the finished house standing clear and no one touching it"
     },
     {
       "id": "SC1-09",
@@ -194,7 +202,8 @@
       "image": "{미미} slowly folding the blueprint in half and pressing it to her chest",
       "motion": "She folds the plan and holds it against her, ending with her eyes still on the house",
       "link": "컷",
-      "link_ko": "완성된 집을 보는 미미. 앞 컷의 물러선 자리에서 이어진다."
+      "link_ko": "완성된 집을 보는 미미. 앞 컷의 물러선 자리에서 이어진다.",
+      "motion_ref": "She folds the plan and holds it against her, ending with her eyes still on the house"
     },
     {
       "id": "SC1-10",
@@ -217,7 +226,8 @@
       "image": "close-up panning across {루카}, {후안}, {티니} and {루비} turning to look at each other, smiles spreading without a word",
       "motion": "The camera pans across their faces, ending on {루비} already opening her mouth to speak",
       "link": "컷",
-      "link_ko": "미미의 시선이 다른 넷에게로 옮겨간다."
+      "link_ko": "미미의 시선이 다른 넷에게로 옮겨간다.",
+      "motion_ref": "The camera pans across their faces, ending on 루비 already opening her mouth to speak"
     },
     {
       "id": "SC1-11",
@@ -237,7 +247,8 @@
       "image": "{루비} holding her star staff upright in front of her lips like a shushing finger and winking",
       "motion": "She raises the staff to her lips and winks, ending holding the pose",
       "link": "연속",
-      "link_ko": "앞 컷 끝에서 입을 열던 루비가 그대로 말한다."
+      "link_ko": "앞 컷 끝에서 입을 열던 루비가 그대로 말한다.",
+      "motion_ref": "She raises the staff to her lips and winks, ending holding the pose"
     },
     {
       "id": "SC1-12",
@@ -261,7 +272,8 @@
       "image": "the front yard of the rock house, {루카}, {미미}, {티니}, {후안} and {루비} setting up a table and stringing colourful bunting between the branches",
       "motion": "The bunting pulls taut and the table settles, ending with the yard fully decorated",
       "link": "컷",
-      "link_ko": "비밀로 하자는 말 뒤, 준비가 시작된다."
+      "link_ko": "비밀로 하자는 말 뒤, 준비가 시작된다.",
+      "motion_ref": "The bunting pulls taut and the table settles, ending with the yard fully decorated"
     },
     {
       "id": "SC1-13",
@@ -279,7 +291,8 @@
       "image": "extreme close-up of a single candle being pressed upright into the cream on top of a layered cake",
       "motion": "The candle is pressed in and the paw withdraws, ending with the candle standing alone and still",
       "link": "연속",
-      "link_ko": "탁자가 놓인 그 위에 케이크와 초가 올라간다."
+      "link_ko": "탁자가 놓인 그 위에 케이크와 초가 올라간다.",
+      "motion_ref": "The candle is pressed in and the paw withdraws, ending with the candle standing alone and still"
     },
     {
       "id": "SC1-14",
@@ -304,7 +317,8 @@
         "type": "dissolve",
         "sec": 0.55,
         "why": "언덕의 케이크에서 공방의 잠든 쿵쿵이로"
-      }
+      },
+      "motion_ref": "His back rises and falls slowly, ending with the light reaching his face and one eye beginning to open"
     },
     {
       "id": "SC2-01",
@@ -329,7 +343,8 @@
       "image": "{루카} walking {쿵쿵} along a forest path with one paw covering his eyes, {미미}, {티니}, {후안} and {루비} following behind grinning",
       "motion": "They guide him step by step up the path, ending with the group stopped at the crest of the hill",
       "link": "전환",
-      "link_ko": "시간이 건너뛴다. 아침 공방 → 오후 숲길."
+      "link_ko": "시간이 건너뛴다. 아침 공방 → 오후 숲길.",
+      "motion_ref": "They guide him step by step up the path, ending with the group stopped at the crest of the hill"
     },
     {
       "id": "SC2-02",
@@ -350,7 +365,8 @@
       "image": "{쿵쿵} twisting his head trying to peek under the paw while {루카} presses it back down",
       "motion": "He squirms and the paw clamps back over his eyes, ending with him giving up and standing still",
       "link": "컷",
-      "link_ko": "걸어오던 둘을 가까이서 본다."
+      "link_ko": "걸어오던 둘을 가까이서 본다.",
+      "motion_ref": "He squirms and the paw clamps back over his eyes, ending with him giving up and standing still"
     },
     {
       "id": "SC2-03",
@@ -370,7 +386,8 @@
       "image": "{쿵쿵} stamping his feet impatiently, eyes still covered, rocking side to side",
       "motion": "He stamps and rocks, ending frozen mid-motion as the paw begins to lift",
       "link": "컷",
-      "link_ko": "가려진 채 묻는다. 다음 컷에서 손이 떨어진다."
+      "link_ko": "가려진 채 묻는다. 다음 컷에서 손이 떨어진다.",
+      "motion_ref": "He stamps and rocks, ending frozen mid-motion as the paw begins to lift"
     },
     {
       "id": "SC2-04",
@@ -394,7 +411,8 @@
       "image": "the paw lifting away as {루카}, {미미}, {티니}, {후안} and {루비} throw their arms wide and step aside, revealing the finished rock house behind them",
       "motion": "They fling their arms wide and clear the frame, ending with the house fully revealed and unobstructed",
       "link": "연속",
-      "link_ko": "앞 컷에서 들리기 시작한 앞발이 이 컷에서 완전히 떨어진다."
+      "link_ko": "앞 컷에서 들리기 시작한 앞발이 이 컷에서 완전히 떨어진다.",
+      "motion_ref": "They fling their arms wide and clear the frame, ending with the house fully revealed and unobstructed"
     },
     {
       "id": "SC2-05",
@@ -414,7 +432,8 @@
       "image": "extreme close-up of {쿵쿵}'s eyes opening wide, the whole house reflected in his green pupils",
       "motion": "His eyes widen and the reflection sharpens, ending held on the house clear in both eyes",
       "link": "연속",
-      "link_ko": "손이 떨어진 그 순간의 눈."
+      "link_ko": "손이 떨어진 그 순간의 눈.",
+      "motion_ref": "His eyes widen and the reflection sharpens, ending held on the house clear in both eyes"
     },
     {
       "id": "SC2-06",
@@ -432,7 +451,8 @@
       "image": "a full view of the finished rock house, its body dug into the rise, a leaf canopy pavilion above, a fire pit and small pond in the front yard, bunting swaying",
       "motion": "The camera drifts around the house, ending on the open front doorway",
       "link": "컷",
-      "link_ko": "쿵쿵이가 보고 있는 것. 시선 이동."
+      "link_ko": "쿵쿵이가 보고 있는 것. 시선 이동.",
+      "motion_ref": "The camera drifts around the house, ending on the open front doorway"
     },
     {
       "id": "SC2-07",
@@ -452,7 +472,8 @@
       "image": "{쿵쿵} taking one step toward the house then stopping, one front paw still lifted in the air",
       "motion": "He steps forward and halts, ending with the paw hanging unplaced",
       "link": "컷",
-      "link_ko": "집을 본 뒤 쿵쿵이에게 돌아온다."
+      "link_ko": "집을 본 뒤 쿵쿵이에게 돌아온다.",
+      "motion_ref": "He steps forward and halts, ending with the paw hanging unplaced"
     },
     {
       "id": "SC2-08",
@@ -472,7 +493,8 @@
       "image": "{루카} stepping up beside him and sweeping one paw out toward the house",
       "motion": "He moves in and gestures wide, ending with his paw held open toward the doorway",
       "link": "컷",
-      "link_ko": "멈춘 쿵쿵이 옆으로 루카가 들어온다."
+      "link_ko": "멈춘 쿵쿵이 옆으로 루카가 들어온다.",
+      "motion_ref": "He moves in and gestures wide, ending with his paw held open toward the doorway"
     },
     {
       "id": "SC2-09",
@@ -492,7 +514,8 @@
       "image": "close-up of {쿵쿵}'s eyes filling with tears, his lip trembling and then curving into a smile",
       "motion": "Tears well and his mouth curves up, ending with one tear running down and a wide smile",
       "link": "컷",
-      "link_ko": "루카의 말을 들은 얼굴."
+      "link_ko": "루카의 말을 들은 얼굴.",
+      "motion_ref": "Tears well and his mouth curves up, ending with one tear running down and a wide smile"
     },
     {
       "id": "SC2-10",
@@ -510,7 +533,8 @@
       "image": "beyond the hill one edge of the sky darkening to grey and spreading inward fast",
       "motion": "The grey spreads across the sky, ending with the sunlight visibly dimming over the hill",
       "link": "컷",
-      "link_ko": "웃는 얼굴 뒤로 하늘이 바뀐다. 관객만 먼저 본다."
+      "link_ko": "웃는 얼굴 뒤로 하늘이 바뀐다. 관객만 먼저 본다.",
+      "motion_ref": "The grey spreads across the sky, ending with the sunlight visibly dimming over the hill"
     },
     {
       "id": "SC2-11",
@@ -530,7 +554,8 @@
       "image": "{미미} tilting her head back to look at the sky, her scarf pulled taut in one direction",
       "motion": "Her head tips back and the scarf snaps straight, ending with her eyes narrowed at the sky",
       "link": "컷",
-      "link_ko": "하늘을 먼저 알아채는 것은 언제나 미미다."
+      "link_ko": "하늘을 먼저 알아채는 것은 언제나 미미다.",
+      "motion_ref": "Her head tips back and the scarf snaps straight, ending with her eyes narrowed at the sky"
     },
     {
       "id": "SC2-12",
@@ -548,7 +573,8 @@
       "image": "heavy grey cloud rolling right over the hill, its shadow sweeping across the yard and the rock house",
       "motion": "The shadow sweeps over the house, ending with the whole hill in shade",
       "link": "연속",
-      "link_ko": "미미가 올려다본 그 하늘이 그대로 덮인다."
+      "link_ko": "미미가 올려다본 그 하늘이 그대로 덮인다.",
+      "motion_ref": "The shadow sweeps over the house, ending with the whole hill in shade"
     },
     {
       "id": "SC2-13",
@@ -566,7 +592,8 @@
       "image": "the first hard gust ripping through the yard, the bunting line snapping and flags tearing away",
       "motion": "The line parts and flags whip off, ending with the empty rope swinging",
       "link": "연속",
-      "link_ko": "그림자가 지나간 직후 바람이 온다."
+      "link_ko": "그림자가 지나간 직후 바람이 온다.",
+      "motion_ref": "The line parts and flags whip off, ending with the empty rope swinging"
     },
     {
       "id": "SC2-14",
@@ -586,7 +613,8 @@
       "image": "{후안} flapping both flippers and pointing up at the roof, his body pushed sideways by the wind",
       "motion": "He points hard at the roof, ending with him bracing against the gust",
       "link": "컷",
-      "link_ko": "끊어진 깃발 뒤로 더 큰 위험이 보인다."
+      "link_ko": "끊어진 깃발 뒤로 더 큰 위험이 보인다.",
+      "motion_ref": "He points hard at the roof, ending with him bracing against the gust"
     },
     {
       "id": "SC2-15",
@@ -604,7 +632,8 @@
       "image": "close-up of the corner of the new leaf canopy lifting and slapping in the wind, one wooden peg working its way loose",
       "motion": "The corner lifts again and again, ending with the peg half out of the beam",
       "link": "컷",
-      "link_ko": "후안이 가리킨 곳. 아까 마지막으로 박은 그 못이다."
+      "link_ko": "후안이 가리킨 곳. 아까 마지막으로 박은 그 못이다.",
+      "motion_ref": "The corner lifts again and again, ending with the peg half out of the beam"
     },
     {
       "id": "SC2-16",
@@ -622,7 +651,8 @@
       "image": "rain hammering down across the yard, the ground darkening in seconds, water running over the cream on the cake",
       "motion": "Rain slams down, ending with the cake soaked and the candle leaning",
       "link": "연속",
-      "link_ko": "못이 반쯤 빠진 그 순간 비가 터진다."
+      "link_ko": "못이 반쯤 빠진 그 순간 비가 터진다.",
+      "motion_ref": "Rain slams down, ending with the cake soaked and the candle leaning"
     },
     {
       "id": "SC3-01",
@@ -642,7 +672,8 @@
       "image": "{루비} thrusting her staff toward shelter and shouting, soaked through, rain streaming down her face",
       "motion": "She points hard toward cover, ending with the others already moving that way",
       "link": "전환",
-      "link_ko": "빗속에서 장면이 다시 시작된다."
+      "link_ko": "빗속에서 장면이 다시 시작된다.",
+      "motion_ref": "She points hard toward cover, ending with the others already moving that way"
     },
     {
       "id": "SC3-02",
@@ -666,7 +697,8 @@
       "image": "{루카}, {미미}, {티니}, {후안} and {루비} crowding under a rock overhang while the finished house stands out in the full rain",
       "motion": "They pile under the overhang, ending with the camera holding on the exposed house alone",
       "link": "컷",
-      "link_ko": "루비가 가리킨 방향으로 다섯이 들어간다."
+      "link_ko": "루비가 가리킨 방향으로 다섯이 들어간다.",
+      "motion_ref": "They pile under the overhang, ending with the camera holding on the exposed house alone"
     },
     {
       "id": "SC3-03",
@@ -686,7 +718,8 @@
       "image": "close-up of {쿵쿵} watching the house from under the overhang, rain on his face, his expression hardening",
       "motion": "His eyes narrow and his jaw sets, ending with him already turning toward the rain",
       "link": "컷",
-      "link_ko": "비를 맞는 집을 보는 얼굴."
+      "link_ko": "비를 맞는 집을 보는 얼굴.",
+      "motion_ref": "His eyes narrow and his jaw sets, ending with him already turning toward the rain"
     },
     {
       "id": "SC3-04",
@@ -707,7 +740,8 @@
       "image": "{쿵쿵} stepping out from the overhang into the downpour as {루카} reaches after him and misses",
       "motion": "He steps out and the reaching paw closes on air, ending with him fully in the rain",
       "link": "컷",
-      "link_ko": "돌아선 그 동작 그대로 나간다."
+      "link_ko": "돌아선 그 동작 그대로 나간다.",
+      "motion_ref": "He steps out and the reaching paw closes on air, ending with him fully in the rain"
     },
     {
       "id": "SC3-05",
@@ -727,7 +761,8 @@
       "image": "{쿵쿵} walking steadily through the driving rain toward the house, the other five shouting after him from the overhang",
       "motion": "He walks on without turning, ending with him stopped directly in front of the house",
       "link": "연속",
-      "link_ko": "내딛은 발이 그대로 걸음이 된다."
+      "link_ko": "내딛은 발이 그대로 걸음이 된다.",
+      "motion_ref": "He walks on without turning, ending with him stopped directly in front of the house"
     },
     {
       "id": "SC3-06",
@@ -747,7 +782,8 @@
       "image": "{쿵쿵} planting his feet into the wet mud in front of the house and dropping into a low stance",
       "motion": "His feet work into the mud, ending braced and motionless with rain sheeting off his back",
       "link": "연속",
-      "link_ko": "걸음을 멈춘 그 자리에서 자세를 잡는다."
+      "link_ko": "걸음을 멈춘 그 자리에서 자세를 잡는다.",
+      "motion_ref": "His feet work into the mud, ending braced and motionless with rain sheeting off his back"
     },
     {
       "id": "SC3-07",
@@ -767,7 +803,8 @@
       "image": "{쿵쿵} slamming both front paws into the soaked ground, water bursting upward in a ring around him",
       "motion": "The paws crash down and water leaps up, ending with the ring of spray at its highest",
       "link": "연속",
-      "link_ko": "낮춘 자세에서 그대로 내리찍는다."
+      "link_ko": "낮춘 자세에서 그대로 내리찍는다.",
+      "motion_ref": "The paws crash down and water leaps up, ending with the ring of spray at its highest"
     },
     {
       "id": "SC3-08",
@@ -792,7 +829,8 @@
         "type": "fadewhite",
         "sec": 0.35,
         "why": "방어막이 솟는 순간"
-      }
+      },
+      "motion_ref": "Light surges up the horns as the ring spreads, ending with the horn tips at maximum brightness"
     },
     {
       "id": "SC3-09",
@@ -812,7 +850,8 @@
       "image": "wide shot of {쿵쿵_방어막}",
       "motion": "The light arcs up and closes over the house, ending with the dome fully formed and rain bursting off it",
       "link": "연속",
-      "link_ko": "뿔의 빛이 그대로 돔이 된다."
+      "link_ko": "뿔의 빛이 그대로 돔이 된다.",
+      "motion_ref": "The light arcs up and closes over the house, ending with the dome fully formed and rain bursting off it"
     },
     {
       "id": "SC3-10",
@@ -830,7 +869,8 @@
       "image": "extreme close-up of raindrops striking the surface of the glowing dome and shattering away from it",
       "motion": "Drops burst against the surface, ending held on the dome holding steady",
       "link": "컷",
-      "link_ko": "돔이 만들어진 뒤 그 표면으로 들어간다."
+      "link_ko": "돔이 만들어진 뒤 그 표면으로 들어간다.",
+      "motion_ref": "Drops burst against the surface, ending held on the dome holding steady"
     },
     {
       "id": "SC3-11",
@@ -850,7 +890,8 @@
       "image": "{쿵쿵} straining under the effort, his hind legs shaking and his feet slipping in the mud",
       "motion": "His legs shake harder, ending with one foot sliding back several inches",
       "link": "컷",
-      "link_ko": "돔에서 그것을 버티는 몸으로 돌아온다."
+      "link_ko": "돔에서 그것을 버티는 몸으로 돌아온다.",
+      "motion_ref": "His legs shake harder, ending with one foot sliding back several inches"
     },
     {
       "id": "SC3-12",
@@ -871,7 +912,8 @@
       "image": "{루카} launching himself out from the overhang and running into the rain",
       "motion": "He bursts into the downpour, ending mid-stride halfway to {쿵쿵}",
       "link": "컷",
-      "link_ko": "미끄러지는 발을 본 루카가 뛰쳐나온다."
+      "link_ko": "미끄러지는 발을 본 루카가 뛰쳐나온다.",
+      "motion_ref": "He bursts into the downpour, ending mid-stride halfway to 쿵쿵"
     },
     {
       "id": "SC3-13",
@@ -896,7 +938,8 @@
       "image": "{루카}, {미미}, {티니}, {후안} and {루비} all running out into the rain and laying their hands and flippers on {쿵쿵}'s back and shoulders",
       "motion": "They close around him one by one, ending with every hand pressed onto his back",
       "link": "연속",
-      "link_ko": "루카가 달려간 그 자리에 나머지 넷이 이어 붙는다."
+      "link_ko": "루카가 달려간 그 자리에 나머지 넷이 이어 붙는다.",
+      "motion_ref": "They close around him one by one, ending with every hand pressed onto his back"
     },
     {
       "id": "SC3-14",
@@ -914,7 +957,8 @@
       "image": "the dome flaring much brighter and steadier as the storm splits and streams past on either side, the clouds above beginning to open",
       "motion": "The dome blazes and the storm parts around it, ending with a first break of light in the clouds",
       "link": "연속",
-      "link_ko": "손이 얹히는 순간 돔이 밝아진다."
+      "link_ko": "손이 얹히는 순간 돔이 밝아진다.",
+      "motion_ref": "The dome blazes and the storm parts around it, ending with a first break of light in the clouds"
     },
     {
       "id": "SC4-01",
@@ -937,7 +981,8 @@
         "type": "fadewhite",
         "sec": 0.7,
         "why": "먹구름이 갈라지며 빛이 쏟아진다"
-      }
+      },
+      "motion_ref": "The clouds split and light floods the hill, ending with the whole yard bright and steaming"
     },
     {
       "id": "SC4-02",
@@ -955,7 +1000,8 @@
       "image": "the golden-teal dome dissolving into drifting motes, revealing the rock house standing completely undamaged beneath it",
       "motion": "The dome breaks apart, ending with the house fully clear and intact in frame",
       "link": "연속",
-      "link_ko": "구름이 갈라진 그 빛에 돔이 녹아든다."
+      "link_ko": "구름이 갈라진 그 빛에 돔이 녹아든다.",
+      "motion_ref": "The dome breaks apart, ending with the house fully clear and intact in frame"
     },
     {
       "id": "SC4-03",
@@ -973,7 +1019,8 @@
       "image": "close-up of the leaf canopy corner on the roof, the wooden peg still seated firmly in the beam",
       "motion": "The camera drifts along the canopy edge, ending held on the peg, unmoved",
       "link": "컷",
-      "link_ko": "아까 뽑히려던 그 못을 다시 본다."
+      "link_ko": "아까 뽑히려던 그 못을 다시 본다.",
+      "motion_ref": "The camera drifts along the canopy edge, ending held on the peg, unmoved"
     },
     {
       "id": "SC4-04",
@@ -993,7 +1040,8 @@
       "image": "{미미} running up to the house and pressing both paws against the wall, running them up and down",
       "motion": "She checks the wall with both paws, ending with her turning back to the others, beaming",
       "link": "컷",
-      "link_ko": "못이 무사한 것을 확인한 뒤 전체를 확인한다."
+      "link_ko": "못이 무사한 것을 확인한 뒤 전체를 확인한다.",
+      "motion_ref": "She checks the wall with both paws, ending with her turning back to the others, beaming"
     },
     {
       "id": "SC4-05",
@@ -1013,7 +1061,8 @@
       "image": "{쿵쿵} sagging down into the mud as his legs give out, the other five catching him from both sides",
       "motion": "His legs fold and they catch him, ending with all six down in the mud together",
       "link": "컷",
-      "link_ko": "확인이 끝나자 긴장이 풀린다."
+      "link_ko": "확인이 끝나자 긴장이 풀린다.",
+      "motion_ref": "His legs fold and they catch him, ending with all six down in the mud together"
     },
     {
       "id": "SC4-06",
@@ -1033,7 +1082,8 @@
       "image": "close-up of {쿵쿵} covered in mud, smiling, his eyes wet",
       "motion": "The smile spreads across his muddy face, ending held with his eyes closing",
       "link": "컷",
-      "link_ko": "주저앉은 그 자리에서 얼굴만."
+      "link_ko": "주저앉은 그 자리에서 얼굴만.",
+      "motion_ref": "The smile spreads across his muddy face, ending held with his eyes closing"
     },
     {
       "id": "SC4-07",
@@ -1053,7 +1103,8 @@
       "image": "{후안} scrambling up out of the mud and throwing both flippers toward the house",
       "motion": "He springs up flinging mud, ending with both flippers pointed at the open doorway",
       "link": "컷",
-      "link_ko": "울음이 웃음으로 바뀌는 자리."
+      "link_ko": "울음이 웃음으로 바뀌는 자리.",
+      "motion_ref": "He springs up flinging mud, ending with both flippers pointed at the open doorway"
     },
     {
       "id": "SC4-08",
@@ -1071,7 +1122,8 @@
       "image": "the party starting in the soaked yard, all six covered in mud, splashing and dancing in the puddles",
       "motion": "They splash and spin in the puddles, ending with water droplets hanging bright in the sunlight",
       "link": "연속",
-      "link_ko": "후안이 가리킨 그 마당에서 그대로 시작된다."
+      "link_ko": "후안이 가리킨 그 마당에서 그대로 시작된다.",
+      "motion_ref": "They splash and spin in the puddles, ending with water droplets hanging bright in the sunlight"
     },
     {
       "id": "SC4-09",
@@ -1089,7 +1141,8 @@
       "image": "the single candle on the rain-soaked cake being lit, the flame catching and lighting all six faces in turn",
       "motion": "The flame catches and steadies, ending with all six faces lit and leaning in",
       "link": "컷",
-      "link_ko": "춤이 잦아들고 여섯이 케이크 앞에 모인다."
+      "link_ko": "춤이 잦아들고 여섯이 케이크 앞에 모인다.",
+      "motion_ref": "The flame catches and steadies, ending with all six faces lit and leaning in"
     },
     {
       "id": "EN-01",
@@ -1109,7 +1162,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile, mud still on his cheeks, a thin line of candle smoke rising behind him",
       "motion": "He puffs up and beams, ending with the smoke curling away past his horns",
       "link": "전환",
-      "link_ko": "초를 분 직후. 화면이 잠깐 어두워졌다 이 얼굴로 밝아진다."
+      "link_ko": "초를 분 직후. 화면이 잠깐 어두워졌다 이 얼굴로 밝아진다.",
+      "motion_ref": "He puffs up and beams, ending with the smoke curling away past his horns"
     },
     {
       "id": "EN-02",
@@ -1132,7 +1186,8 @@
         "type": "fadeblack",
         "sec": 0.7,
         "why": "파티가 끝난 낮에서 그날 밤으로"
-      }
+      },
+      "motion_ref": "The window light flickers gently, ending held on the lit house under the stars"
     },
     {
       "id": "EN-03",
@@ -1157,7 +1212,8 @@
       "image": "inside the rock house, {쿵쿵} curling up on his new bed, a hand-painted mural of six friends side by side on the wall above him",
       "motion": "He settles down and turns his head toward the mural, ending with his eyes resting on it",
       "link": "컷",
-      "link_ko": "창 안으로 들어간다."
+      "link_ko": "창 안으로 들어간다.",
+      "motion_ref": "He settles down and turns his head toward the mural, ending with his eyes resting on it"
     },
     {
       "id": "EN-04",
@@ -1177,7 +1233,8 @@
       "image": "close-up of {쿵쿵} closing his eyes, a small smile still on his face",
       "motion": "His eyelids sink and his breathing deepens, ending with his face completely at rest",
       "link": "연속",
-      "link_ko": "벽화를 보던 그 자세에서 그대로 눈을 감는다."
+      "link_ko": "벽화를 보던 그 자세에서 그대로 눈을 감는다.",
+      "motion_ref": "His eyelids sink and his breathing deepens, ending with his face completely at rest"
     },
     {
       "id": "EN-05",
@@ -1195,7 +1252,8 @@
       "image": "exterior of the rock house at night, the window light going dark, moonlight glinting on the still-wet roof",
       "motion": "The light goes out, ending with only moonlight on the quiet house",
       "link": "컷",
-      "link_ko": "다시 밖으로 나온다."
+      "link_ko": "다시 밖으로 나온다.",
+      "motion_ref": "The light goes out, ending with only moonlight on the quiet house"
     },
     {
       "id": "EN-06",
@@ -1213,7 +1271,8 @@
       "image": "the silhouette of a small four-legged animal with a long bushy tail standing motionless in the tall grass below the hill, watching the house",
       "motion": "It watches without moving, its eyes catching the moonlight once, ending as it turns and slips away into the grass",
       "link": "전환",
-      "link_ko": "조용한 집에서 언덕 아래로 시선이 옮겨간다. 시즌 2 복선."
+      "link_ko": "조용한 집에서 언덕 아래로 시선이 옮겨간다. 시즌 2 복선.",
+      "motion_ref": "It watches without moving, its eyes catching the moonlight once, ending as it turns and slips away into the grass"
     },
     {
       "id": "EN-07",
@@ -1238,7 +1297,8 @@
       "image": "season finale end card, {쿵쿵}, {루카}, {미미}, {티니}, {후안} and {루비} standing together in front of the rock house under moonlight, deep blue and warm gold, clean empty space along the bottom for a title",
       "motion": "Stars twinkle slowly as the camera eases back",
       "link": "컷",
-      "link_ko": "실루엣이 사라진 자리에서 엔딩 카드로."
+      "link_ko": "실루엣이 사라진 자리에서 엔딩 카드로.",
+      "motion_ref": "Stars twinkle slowly as the camera eases back"
     }
   ]
 }

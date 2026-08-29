@@ -37,7 +37,8 @@
       "image": "wide shot of a shallow clear stream in spring, every pebble on the bottom visible through the water",
       "motion": "Light patterns slide across the pebbles, ending on the sunlit pebble bed",
       "link": "전환",
-      "link_ko": "13화 첫 컷. 개울에서 시작한다."
+      "link_ko": "13화 첫 컷. 개울에서 시작한다.",
+      "motion_ref": "Light patterns slide across the pebbles, ending on the sunlit pebble bed"
     },
     {
       "id": "SC1-02",
@@ -62,7 +63,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} crouched along the bank peering into the water",
       "motion": "They crouch in a row and peer into the water, ending with all six crouched over the water",
       "link": "전환",
-      "link_ko": "개울에서 그 앞의 여섯으로."
+      "link_ko": "개울에서 그 앞의 여섯으로.",
+      "motion_ref": "They crouch in a row and peer into the water, ending with all six crouched over the water"
     },
     {
       "id": "SC1-03",
@@ -82,7 +84,8 @@
       "image": "close-up of {티니} pointing a paw at something in the water",
       "motion": "Her paw jabs toward the water, ending with her paw held over the spot",
       "link": "연속",
-      "link_ko": "들여다보던 중 하나가 먼저 본다."
+      "link_ko": "들여다보던 중 하나가 먼저 본다.",
+      "motion_ref": "Her paw jabs toward the water, ending with her paw held over the spot"
     },
     {
       "id": "SC1-04",
@@ -100,7 +103,8 @@
       "image": "close-up underwater of dozens of little black tadpoles wriggling together in a cluster",
       "motion": "The black tadpoles wriggle and swirl together, ending on the swirling cluster",
       "link": "연속",
-      "link_ko": "가리킨 손끝의 물속으로 들어간다."
+      "link_ko": "가리킨 손끝의 물속으로 들어간다.",
+      "motion_ref": "The black tadpoles wriggle and swirl together, ending on the swirling cluster"
     },
     {
       "id": "SC1-05",
@@ -120,7 +124,8 @@
       "image": "{미미} opening a book and turning it around to show a page with a drawing on it",
       "motion": "She opens the book and turns it toward them, ending with the open page held up",
       "link": "컷",
-      "link_ko": "물속에서 설명하는 미미로."
+      "link_ko": "물속에서 설명하는 미미로.",
+      "motion_ref": "She opens the book and turns it toward them, ending with the open page held up"
     },
     {
       "id": "SC1-06",
@@ -138,7 +143,8 @@
       "image": "close-up of the book page showing a drawn sequence from tadpole to back legs to front legs to frog",
       "motion": "The drawn sequence runs to the frog at the end, ending on the frog at the end of the row",
       "link": "연속",
-      "link_ko": "펼친 책으로 들어간다."
+      "link_ko": "펼친 책으로 들어간다.",
+      "motion_ref": "The drawn sequence runs to the frog at the end, ending on the frog at the end of the row"
     },
     {
       "id": "SC1-07",
@@ -158,7 +164,8 @@
       "image": "{루카} looking back and forth between the book and the water with his eyebrows up",
       "motion": "His eyes flick between book and water, ending with him staring at the water",
       "link": "컷",
-      "link_ko": "그림에서 못 믿는 얼굴로."
+      "link_ko": "그림에서 못 믿는 얼굴로.",
+      "motion_ref": "His eyes flick between book and water, ending with him staring at the water"
     },
     {
       "id": "SC1-08",
@@ -178,7 +185,8 @@
       "image": "wide shot of the six sitting around a rock by the stream as {루비} raises her staff to begin a story",
       "motion": "They gather and she lifts her staff to begin, ending with the six settled around her",
       "link": "컷",
-      "link_ko": "물가에서 이야기 자리로."
+      "link_ko": "물가에서 이야기 자리로.",
+      "motion_ref": "They gather and she lifts her staff to begin, ending with the six settled around her"
     },
     {
       "id": "SC1-09",
@@ -198,7 +206,8 @@
       "image": "{루비} drawing a crown shape in the air with the tip of her staff",
       "motion": "The staff traces a crown in the air, ending with the traced shape fading in the air",
       "link": "연속",
-      "link_ko": "이야기가 시작된다."
+      "link_ko": "이야기가 시작된다.",
+      "motion_ref": "The staff traces a crown in the air, ending with the traced shape fading in the air"
     },
     {
       "id": "SC1-10",
@@ -218,7 +227,8 @@
       "image": "close-up of {티니} jumping up and leaning hard toward the water",
       "motion": "She springs up and leans toward the water, ending with her leaning far over the water",
       "link": "컷",
-      "link_ko": "이야기에서 그걸 믿는 아이로."
+      "link_ko": "이야기에서 그걸 믿는 아이로.",
+      "motion_ref": "She springs up and leans toward the water, ending with her leaning far over the water"
     },
     {
       "id": "SC1-11",
@@ -239,7 +249,8 @@
       "image": "{루카} grabbing {티니}'s tail and hauling her back from the edge",
       "motion": "He grabs the tail and hauls her back, ending with her pulled back onto the bank",
       "link": "연속",
-      "link_ko": "빠지기 직전에 붙잡힌다."
+      "link_ko": "빠지기 직전에 붙잡힌다.",
+      "motion_ref": "He grabs the tail and hauls her back, ending with her pulled back onto the bank"
     },
     {
       "id": "SC1-12",
@@ -259,7 +270,8 @@
       "image": "{쿵쿵} planting both feet on the bank and puffing out his chest",
       "motion": "He plants his feet and puffs up, ending with him standing firm on the bank",
       "link": "컷",
-      "link_ko": "소동에서 쿵쿵의 선언으로."
+      "link_ko": "소동에서 쿵쿵의 선언으로.",
+      "motion_ref": "He plants his feet and puffs up, ending with him standing firm on the bank"
     },
     {
       "id": "SC1-13",
@@ -283,7 +295,8 @@
       "image": "wide shot of {루카}, {후안}, {미미}, {티니} and {루비} laughing and putting their hands up one by one",
       "motion": "Five hands go up, one after another, ending with all five hands raised",
       "link": "연속",
-      "link_ko": "선언에 다섯이 답한다."
+      "link_ko": "선언에 다섯이 답한다.",
+      "motion_ref": "Five hands go up, one after another, ending with all five hands raised"
     },
     {
       "id": "SC1-14",
@@ -301,7 +314,8 @@
       "image": "close-up underwater of one single tadpole drifting away from the cluster to swim alone",
       "motion": "One tadpole slips away from the group, ending on the lone tadpole in open water",
       "link": "컷",
-      "link_ko": "약속에서 물속의 주인공으로."
+      "link_ko": "약속에서 물속의 주인공으로.",
+      "motion_ref": "One tadpole slips away from the group, ending on the lone tadpole in open water"
     },
     {
       "id": "SC2-01",
@@ -324,7 +338,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "같은 자리, 다른 날. 겹쳐 넘긴다"
-      }
+      },
+      "motion_ref": "They sit in the same spot under different light, ending with the six in the same row"
     },
     {
       "id": "SC2-02",
@@ -342,7 +357,8 @@
       "image": "close-up underwater of the tadpole looking exactly the same as before",
       "motion": "The tadpole swims, unchanged, ending on the unchanged tadpole",
       "link": "연속",
-      "link_ko": "같은 자리에서 같은 물속을 본다."
+      "link_ko": "같은 자리에서 같은 물속을 본다.",
+      "motion_ref": "The tadpole swims, unchanged, ending on the unchanged tadpole"
     },
     {
       "id": "SC2-03",
@@ -362,7 +378,8 @@
       "image": "{루카} propping his chin on his hand and swallowing a yawn",
       "motion": "He props his chin and stifles a yawn, ending with him slumped on his hand",
       "link": "컷",
-      "link_ko": "물속에서 지루한 얼굴로."
+      "link_ko": "물속에서 지루한 얼굴로.",
+      "motion_ref": "He props his chin and stifles a yawn, ending with him slumped on his hand"
     },
     {
       "id": "SC2-04",
@@ -385,7 +402,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "하루가 또 지난다"
-      }
+      },
+      "motion_ref": "Five sit on the bank with one gap in the line, ending on the five and the empty place"
     },
     {
       "id": "SC2-05",
@@ -403,7 +421,8 @@
       "image": "close-up underwater of two very small bumps beginning to form beside the tadpole's tail",
       "motion": "Two tiny bumps sit beside the tail, ending on the two small bumps",
       "link": "연속",
-      "link_ko": "빈자리 옆에서 물속으로."
+      "link_ko": "빈자리 옆에서 물속으로.",
+      "motion_ref": "Two tiny bumps sit beside the tail, ending on the two small bumps"
     },
     {
       "id": "SC2-06",
@@ -423,7 +442,8 @@
       "image": "{쿵쿵} pressing his face right down close to the water surface to look",
       "motion": "He puts his face right down to the water, ending with his face inches from the surface",
       "link": "컷",
-      "link_ko": "물속에서 그걸 보는 쿵쿵으로."
+      "link_ko": "물속에서 그걸 보는 쿵쿵으로.",
+      "motion_ref": "He puts his face right down to the water, ending with his face inches from the surface"
     },
     {
       "id": "SC2-07",
@@ -450,7 +470,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "날이 계속 지나간다"
-      }
+      },
+      "motion_ref": "Only three remain on the wide empty bank, ending on the three and the empty bank"
     },
     {
       "id": "SC2-08",
@@ -470,7 +491,8 @@
       "image": "{미미} glancing at the empty space and closing her book",
       "motion": "She glances at the gap and shuts the book, ending with the book closed on her lap",
       "link": "연속",
-      "link_ko": "남은 셋 안에서 말이 나온다."
+      "link_ko": "남은 셋 안에서 말이 나온다.",
+      "motion_ref": "She glances at the gap and shuts the book, ending with the book closed on her lap"
     },
     {
       "id": "SC2-09",
@@ -490,7 +512,8 @@
       "image": "close-up of {쿵쿵} speaking without ever taking his eyes off the water",
       "motion": "He speaks with his eyes fixed on the water, ending on his fixed unblinking stare",
       "link": "연속",
-      "link_ko": "미미 옆에서 쿵쿵이 답한다."
+      "link_ko": "미미 옆에서 쿵쿵이 답한다.",
+      "motion_ref": "He speaks with his eyes fixed on the water, ending on his fixed unblinking stare"
     },
     {
       "id": "SC2-10",
@@ -508,7 +531,8 @@
       "image": "wide shot of the bushes on the far side of the stream moving very slightly",
       "motion": "The far bushes stir just a little, ending with the bushes settling still again",
       "link": "컷",
-      "link_ko": "이쪽에서 건너편으로 시선이 넘어간다."
+      "link_ko": "이쪽에서 건너편으로 시선이 넘어간다.",
+      "motion_ref": "The far bushes stir just a little, ending with the bushes settling still again"
     },
     {
       "id": "SC2-11",
@@ -528,7 +552,8 @@
       "image": "{쿵쿵} lifting his head to look across the stream at nothing",
       "motion": "He lifts his head; the far bank is empty, ending with him staring at the empty far bank",
       "link": "연속",
-      "link_ko": "움직임을 쿵쿵이 알아챈다."
+      "link_ko": "움직임을 쿵쿵이 알아챈다.",
+      "motion_ref": "He lifts his head; the far bank is empty, ending with him staring at the empty far bank"
     },
     {
       "id": "SC2-12",
@@ -553,7 +578,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "또 며칠이 지나 혼자가 된다"
-      }
+      },
+      "motion_ref": "He sits alone on the long empty bank, ending on the single small figure by the water"
     },
     {
       "id": "SC2-13",
@@ -571,7 +597,8 @@
       "image": "close-up underwater of the tadpole with two proper back legs now, kicking as it swims",
       "motion": "Its new back legs kick as it swims, ending on the kicking back legs",
       "link": "연속",
-      "link_ko": "혼자 앉은 시선의 끝이다."
+      "link_ko": "혼자 앉은 시선의 끝이다.",
+      "motion_ref": "Its new back legs kick as it swims, ending on the kicking back legs"
     },
     {
       "id": "SC2-14",
@@ -591,7 +618,8 @@
       "image": "close-up of {쿵쿵} jumping up and looking around, finding no one there",
       "motion": "He jumps up, looks around, finds no one, ending on his face falling in the empty air",
       "link": "연속",
-      "link_ko": "본 것을 말할 사람이 없다."
+      "link_ko": "본 것을 말할 사람이 없다.",
+      "motion_ref": "He jumps up, looks around, finds no one, ending on his face falling in the empty air"
     },
     {
       "id": "SC2-15",
@@ -611,7 +639,8 @@
       "image": "wide shot of {쿵쿵} sitting back down alone, his shoulders dropping a little",
       "motion": "He sits back down and his shoulders sink, ending with him small and seated on the empty bank",
       "link": "연속",
-      "link_ko": "기쁨이 갈 곳을 잃는다."
+      "link_ko": "기쁨이 갈 곳을 잃는다.",
+      "motion_ref": "He sits back down and his shoulders sink, ending with him small and seated on the empty bank"
     },
     {
       "id": "SC2-16",
@@ -629,7 +658,8 @@
       "image": "the sky darkening over the stream as a single raindrop hits the water",
       "motion": "The sky darkens and one drop strikes the water, ending on the single ring spreading on the water",
       "link": "컷",
-      "link_ko": "앉은 아이 위로 날씨가 바뀐다."
+      "link_ko": "앉은 아이 위로 날씨가 바뀐다.",
+      "motion_ref": "The sky darkens and one drop strikes the water, ending on the single ring spreading on the water"
     },
     {
       "id": "SC3-01",
@@ -654,7 +684,8 @@
         "type": "fadeblack",
         "sec": 0.5,
         "why": "맑은 날에서 비 오는 날로"
-      }
+      },
+      "motion_ref": "Rain falls; he holds the leaf over his head, ending with him hunched under the leaf"
     },
     {
       "id": "SC3-02",
@@ -674,7 +705,8 @@
       "image": "{쿵쿵} watching the rising stream anxiously from under his leaf",
       "motion": "The stream rises; he watches it anxiously, ending with him leaning toward the water",
       "link": "연속",
-      "link_ko": "같은 자리에서 물이 불어난다."
+      "link_ko": "같은 자리에서 물이 불어난다.",
+      "motion_ref": "The stream rises; he watches it anxiously, ending with him leaning toward the water"
     },
     {
       "id": "SC3-03",
@@ -692,7 +724,8 @@
       "image": "wide shot of the far bushes moving properly this time, branches swinging",
       "motion": "The far bushes swing hard, ending with the branches still swinging",
       "link": "컷",
-      "link_ko": "물에서 건너편으로 시선이 간다."
+      "link_ko": "물에서 건너편으로 시선이 간다.",
+      "motion_ref": "The far bushes swing hard, ending with the branches still swinging"
     },
     {
       "id": "SC3-04",
@@ -712,7 +745,8 @@
       "image": "{쿵쿵} throwing the leaf aside and splashing into the stream",
       "motion": "He throws the leaf and splashes into the water, ending with him mid-stream in the rain",
       "link": "연속",
-      "link_ko": "움직임을 보고 쿵쿵이 건넌다."
+      "link_ko": "움직임을 보고 쿵쿵이 건넌다.",
+      "motion_ref": "He throws the leaf and splashes into the water, ending with him mid-stream in the rain"
     },
     {
       "id": "SC3-05",
@@ -733,7 +767,8 @@
       "image": "wide shot of {쿵쿵} pushing the bushes apart to reveal {노을} crouched behind them",
       "motion": "The bushes part and she is there, crouched, ending with the two facing each other in the rain",
       "link": "연속",
-      "link_ko": "건너간 끝에 노을이 있다."
+      "link_ko": "건너간 끝에 노을이 있다.",
+      "motion_ref": "The bushes part and she is there, crouched, ending with the two facing each other in the rain"
     },
     {
       "id": "SC3-06",
@@ -753,7 +788,8 @@
       "image": "close-up of a small notebook held tight against {노을}'s chest, kept out of the rain",
       "motion": "Rain spatters around the sheltered notebook, ending on the dry notebook held tight",
       "link": "연속",
-      "link_ko": "마주 선 자리에서 품으로 들어간다."
+      "link_ko": "마주 선 자리에서 품으로 들어간다.",
+      "motion_ref": "Rain spatters around the sheltered notebook, ending on the dry notebook held tight"
     },
     {
       "id": "SC3-07",
@@ -774,7 +810,8 @@
       "image": "{쿵쿵} pointing at the notebook while {노을} whips it behind her back",
       "motion": "He points; she snaps it behind her back, ending with the notebook hidden behind her",
       "link": "연속",
-      "link_ko": "수첩이 들켰다."
+      "link_ko": "수첩이 들켰다.",
+      "motion_ref": "He points; she snaps it behind her back, ending with the notebook hidden behind her"
     },
     {
       "id": "SC3-08",
@@ -795,7 +832,8 @@
       "image": "{쿵쿵} and {노을} standing facing each other without moving in the rain",
       "motion": "Neither moves; only the rain sounds, ending with the two still facing each other",
       "link": "연속",
-      "link_ko": "감춘 채로 시간이 흐른다."
+      "link_ko": "감춘 채로 시간이 흐른다.",
+      "motion_ref": "Neither moves; only the rain sounds, ending with the two still facing each other"
     },
     {
       "id": "SC3-09",
@@ -815,7 +853,8 @@
       "image": "{노을} slowly bringing the notebook back out and holding it forward",
       "motion": "She slowly holds the notebook out, ending with the notebook offered between them",
       "link": "연속",
-      "link_ko": "침묵 끝에 노을이 내민다."
+      "link_ko": "침묵 끝에 노을이 내민다.",
+      "motion_ref": "She slowly holds the notebook out, ending with the notebook offered between them"
     },
     {
       "id": "SC3-10",
@@ -833,7 +872,8 @@
       "image": "close-up of the open notebook, page after page of the same tadpole drawn slightly differently under each date",
       "motion": "Pages turn and the drawing changes a little each time, ending on the last drawn page",
       "link": "연속",
-      "link_ko": "내민 수첩이 펼쳐진다."
+      "link_ko": "내민 수첩이 펼쳐진다.",
+      "motion_ref": "Pages turn and the drawing changes a little each time, ending on the last drawn page"
     },
     {
       "id": "SC3-11",
@@ -854,7 +894,8 @@
       "image": "close-up of {쿵쿵} raising his eyes from the notebook to look at {노을}",
       "motion": "His eyes lift from the page to her, ending on his questioning look",
       "link": "연속",
-      "link_ko": "그림에서 그린 사람에게로."
+      "link_ko": "그림에서 그린 사람에게로.",
+      "motion_ref": "His eyes lift from the page to her, ending on his questioning look"
     },
     {
       "id": "SC3-12",
@@ -874,7 +915,8 @@
       "image": "{노을} turning her face slightly away and avoiding his eyes",
       "motion": "She turns her face away a little, ending with her looking off to the side",
       "link": "연속",
-      "link_ko": "답이 짧게 돌아온다."
+      "link_ko": "답이 짧게 돌아온다.",
+      "motion_ref": "She turns her face away a little, ending with her looking off to the side"
     },
     {
       "id": "SC3-13",
@@ -895,7 +937,8 @@
       "image": "wide shot of the rain thinning as {쿵쿵} and {노을} stand side by side looking at the stream",
       "motion": "The rain thins as the two look at the water, ending with the two side by side",
       "link": "컷",
-      "link_ko": "마주 보던 둘이 같은 쪽을 본다."
+      "link_ko": "마주 보던 둘이 같은 쪽을 본다.",
+      "motion_ref": "The rain thins as the two look at the water, ending with the two side by side"
     },
     {
       "id": "SC3-14",
@@ -913,7 +956,8 @@
       "image": "close-up underwater of the tadpole now with front legs too, its tail noticeably shorter",
       "motion": "Front legs now, and the tail is shorter, ending on the four-legged tadpole",
       "link": "연속",
-      "link_ko": "둘의 시선 끝이다."
+      "link_ko": "둘의 시선 끝이다.",
+      "motion_ref": "Front legs now, and the tail is shorter, ending on the four-legged tadpole"
     },
     {
       "id": "SC3-15",
@@ -933,7 +977,8 @@
       "image": "{노을} opening the notebook to a fresh page and starting a new drawing right there",
       "motion": "She opens to a fresh page and starts drawing, ending with the pencil moving on the new page",
       "link": "컷",
-      "link_ko": "본 것을 바로 기록한다."
+      "link_ko": "본 것을 바로 기록한다.",
+      "motion_ref": "She opens to a fresh page and starts drawing, ending with the pencil moving on the new page"
     },
     {
       "id": "SC4-01",
@@ -963,7 +1008,8 @@
         "type": "fadewhite",
         "sec": 0.6,
         "why": "비 오는 저녁에서 맑은 아침으로"
-      }
+      },
+      "motion_ref": "The six gather on the bank again in the morning, ending with the six settled along the bank"
     },
     {
       "id": "SC4-02",
@@ -988,7 +1034,8 @@
       "image": "{쿵쿵} holding the open notebook out to show {루카}, {후안}, {미미}, {티니} and {루비}",
       "motion": "He holds the open notebook out to them, ending with the five leaning in over the page",
       "link": "연속",
-      "link_ko": "모인 자리에서 수첩이 나온다."
+      "link_ko": "모인 자리에서 수첩이 나온다.",
+      "motion_ref": "He holds the open notebook out to them, ending with the five leaning in over the page"
     },
     {
       "id": "SC4-03",
@@ -1008,7 +1055,8 @@
       "image": "close-up of {루카} turning the notebook pages one at a time, his face going quiet",
       "motion": "He turns page after page and goes quiet, ending with his hand resting on the last page",
       "link": "연속",
-      "link_ko": "펼친 수첩으로 들어간다."
+      "link_ko": "펼친 수첩으로 들어간다.",
+      "motion_ref": "He turns page after page and goes quiet, ending with his hand resting on the last page"
     },
     {
       "id": "SC4-04",
@@ -1026,7 +1074,8 @@
       "image": "close-up underwater of the tail almost gone now, a small frog shape instead",
       "motion": "The tail is nearly gone; a small frog remains, ending on the small frog in the water",
       "link": "컷",
-      "link_ko": "수첩에서 실제 물속으로."
+      "link_ko": "수첩에서 실제 물속으로.",
+      "motion_ref": "The tail is nearly gone; a small frog remains, ending on the small frog in the water"
     },
     {
       "id": "SC4-05",
@@ -1044,7 +1093,8 @@
       "image": "wide shot of the little frog leaping out of the water onto a rock, droplets flying, the six frozen watching",
       "motion": "It leaps onto the rock and droplets fly, ending with the frog sitting on the rock",
       "link": "연속",
-      "link_ko": "물속에서 물 밖으로 나온다."
+      "link_ko": "물속에서 물 밖으로 나온다.",
+      "motion_ref": "It leaps onto the rock and droplets fly, ending with the frog sitting on the rock"
     },
     {
       "id": "SC4-06",
@@ -1064,7 +1114,8 @@
       "image": "{티니} peering closely at the top of the frog's head",
       "motion": "She peers hard at the frog's head, ending with her nose close to the frog",
       "link": "컷",
-      "link_ko": "개구리에서 그걸 보는 티니로."
+      "link_ko": "개구리에서 그걸 보는 티니로.",
+      "motion_ref": "She peers hard at the frog's head, ending with her nose close to the frog"
     },
     {
       "id": "SC4-07",
@@ -1084,7 +1135,8 @@
       "image": "{미미} smiling and closing her book onto her lap",
       "motion": "She smiles and closes the book on her lap, ending with the closed book on her knees",
       "link": "연속",
-      "link_ko": "티니의 물음에 미미가 답한다."
+      "link_ko": "티니의 물음에 미미가 답한다.",
+      "motion_ref": "She smiles and closes the book on her lap, ending with the closed book on her knees"
     },
     {
       "id": "SC4-08",
@@ -1104,7 +1156,8 @@
       "image": "wide shot across the stream of {노을} drawing one last picture and then closing the notebook",
       "motion": "She draws one last picture and closes the book, ending with the notebook closed in her hands",
       "link": "컷",
-      "link_ko": "이쪽에서 건너편으로 넘어간다."
+      "link_ko": "이쪽에서 건너편으로 넘어간다.",
+      "motion_ref": "She draws one last picture and closes the book, ending with the notebook closed in her hands"
     },
     {
       "id": "EN-01",
@@ -1122,7 +1175,8 @@
       "image": "wide shot of the little frog hopping away off the rock and into the tall grass",
       "motion": "It hops away into the tall grass, ending on the empty rock and moving grass",
       "link": "전환",
-      "link_ko": "개구리가 떠난다."
+      "link_ko": "개구리가 떠난다.",
+      "motion_ref": "It hops away into the tall grass, ending on the empty rock and moving grass"
     },
     {
       "id": "EN-02",
@@ -1147,7 +1201,8 @@
       "image": "{쿵쿵}, {루카}, {후안}, {미미}, {티니} and {루비} waving after it and smiling",
       "motion": "They wave after it, smiling, ending with six raised waving hands",
       "link": "연속",
-      "link_ko": "떠나는 쪽을 향해 손을 흔든다."
+      "link_ko": "떠나는 쪽을 향해 손을 흔든다.",
+      "motion_ref": "They wave after it, smiling, ending with six raised waving hands"
     },
     {
       "id": "EN-03",
@@ -1167,7 +1222,8 @@
       "image": "{루비} beckoning across the stream with her free hand",
       "motion": "She beckons across the water, ending with her hand still beckoning",
       "link": "컷",
-      "link_ko": "여섯에서 건너편으로 손이 뻗는다."
+      "link_ko": "여섯에서 건너편으로 손이 뻗는다.",
+      "motion_ref": "She beckons across the water, ending with her hand still beckoning"
     },
     {
       "id": "EN-04",
@@ -1187,7 +1243,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a big beaming smile",
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
-      "link_ko": "손짓 옆에서 쿵쿵의 한마디로."
+      "link_ko": "손짓 옆에서 쿵쿵의 한마디로.",
+      "motion_ref": "He puffs up his chest and beams, ending on his beaming face"
     },
     {
       "id": "EN-05",
@@ -1207,7 +1264,8 @@
       "image": "wide shot of {노을} crossing the stream and stopping a little apart from the group",
       "motion": "She crosses and stops a little apart, ending with her standing slightly apart from the six",
       "link": "컷",
-      "link_ko": "불러 준 손짓에 노을이 답한다."
+      "link_ko": "불러 준 손짓에 노을이 답한다.",
+      "motion_ref": "She crosses and stops a little apart, ending with her standing slightly apart from the six"
     },
     {
       "id": "EN-06",
@@ -1225,7 +1283,8 @@
       "image": "close-up of the last notebook page, a drawing of seven figures standing along the stream bank",
       "motion": "The drawing of seven sits steady on the page, ending on the drawing of the seven",
       "link": "컷",
-      "link_ko": "사람에서 그 그림으로 넘어간다."
+      "link_ko": "사람에서 그 그림으로 넘어간다.",
+      "motion_ref": "The drawing of seven sits steady on the page, ending on the drawing of the seven"
     },
     {
       "id": "EN-07",
@@ -1251,7 +1310,8 @@
       "image": "end card composition, {쿵쿵}, {루카}, {후안}, {미미}, {티니}, {루비} and {노을} together by the spring stream in soft green and gold light, clean empty space along the bottom for a title",
       "motion": "Light glitters on the water as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드로 마무리한다."
+      "link_ko": "엔딩 카드로 마무리한다.",
+      "motion_ref": "Light glitters on the water as the camera eases back"
     }
   ]
 }

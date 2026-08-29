@@ -29,7 +29,7 @@ data = {
       "dur": s["duration"], "who": s.get("speaker", ""), "line": s.get("dialogue", ""),
       "ko": s["ko"], "komo": s["ko_motion"], "cast": s["cast"],
       "link": s.get("link", ""), "linkko": s.get("link_ko", ""),
-      "img": s["image_ref"], "mo": s["motion"]} for s in SHOTS["shots"]],
+      "img": s["image_ref"], "mo": s.get("motion_ref") or s["motion"]} for s in SHOTS["shots"]],
 }
 
 HTML = '''<title>쿵쿵이 __NO__ 컷 시트</title>

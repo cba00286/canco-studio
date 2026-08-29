@@ -26,7 +26,8 @@
       "image": "vertical extreme close-up of a leaf canopy corner lifting and slapping in high wind, one wooden peg working its way loose from the beam",
       "motion": "The corner lifts again and again, ending with the peg half out",
       "link": "전환",
-      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다."
+      "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
+      "motion_ref": "The corner lifts again and again, ending with the peg half out"
     },
     {
       "id": "T10-02",
@@ -47,7 +48,8 @@
       "image": "vertical medium shot of {쿵쿵} stepping out from shelter into driving rain while {루카} reaches after him and misses",
       "motion": "He walks out and the paw closes on air, ending with him fully in the rain",
       "link": "연속",
-      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다."
+      "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
+      "motion_ref": "He walks out and the paw closes on air, ending with him fully in the rain"
     },
     {
       "id": "T10-03",
@@ -67,7 +69,8 @@
       "image": "vertical medium shot of {쿵쿵} straining under a glowing dome in heavy rain, his hind legs shaking and one foot sliding back in the mud, the dome flickering",
       "motion": "His foot slides back, ending with the dome visibly dimming",
       "link": "컷",
-      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다."
+      "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
+      "motion_ref": "His foot slides back, ending with the dome visibly dimming"
     },
     {
       "id": "T10-04",
@@ -92,7 +95,8 @@
       "image": "vertical wide shot of {루카}, {미미}, {티니}, {후안} and {루비} running into the rain and laying their hands and flippers on {쿵쿵}'s back",
       "motion": "Hand after hand presses down, ending with the dome flaring bright again",
       "link": "컷",
-      "link_ko": "해결의 실마리만. 결말은 감춘다."
+      "link_ko": "해결의 실마리만. 결말은 감춘다.",
+      "motion_ref": "Hand after hand presses down, ending with the dome flaring bright again"
     },
     {
       "id": "T10-05",
@@ -115,7 +119,8 @@
         "type": "fadeblack",
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
-      }
+      },
+      "motion_ref": "The frame settles and holds, ending with the lower third completely clear"
     }
   ]
 }

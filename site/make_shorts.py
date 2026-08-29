@@ -54,7 +54,7 @@ for kind, blurb in KINDS:
           <div class="row"><button class="copy" data-c="p{idx}">이미지 프롬프트 복사</button>
             <button class="copy" data-c="m{idx}">영상 프롬프트 복사</button></div>
           <pre id="p{idx}" hidden>{e(sh["image_ref"])}</pre>
-          <pre id="m{idx}" hidden>{e(sh["motion"])}</pre>
+          <pre id="m{idx}" hidden>{e(sh.get("motion_ref") or sh["motion"])}</pre>
           <p class="komo">{e(sh["ko_motion"])}</p>
         </div>
       </div>''')

@@ -77,7 +77,7 @@ def episode_block(meta, doc, morals, prompts):
             o.append("**이미지**\n")
             o.append("```\n%s\n```\n" % x["image_ref"])
             o.append("**영상**\n")
-            o.append("```\n%s\n```\n" % x["motion"])
+            o.append("```\n%s\n```\n" % (x.get("motion_ref") or x["motion"]))
             o.append("</details>\n")
 
     o.append("\n### %s 대사 전체 — 녹음용\n" % meta["no"])

@@ -33,7 +33,8 @@
       "image": "a small bathroom sink with a low wooden step stool, a cup and two toothbrushes, morning light through the window",
       "motion": "A drop falls from the tap as morning light crosses the sink, ending held on the sink with the drop hanging",
       "link": "전환",
-      "link_ko": "8화 첫 컷. 물 떨어지는 소리와 함께 세면대가 떠오른다."
+      "link_ko": "8화 첫 컷. 물 떨어지는 소리와 함께 세면대가 떠오른다.",
+      "motion_ref": "A drop falls from the tap as morning light crosses the sink, ending held on the sink with the drop hanging"
     },
     {
       "id": "SC1-02",
@@ -53,7 +54,8 @@
       "image": "{미미} squeezing toothpaste onto a brush and calling over her shoulder",
       "motion": "She squeezes the tube and turns her head to call, ending with the paste squeezed and her head turned to call",
       "link": "컷",
-      "link_ko": "세면대 앞의 미미를 본다."
+      "link_ko": "세면대 앞의 미미를 본다.",
+      "motion_ref": "She squeezes the tube and turns her head to call, ending with the paste squeezed and her head turned to call"
     },
     {
       "id": "SC1-03",
@@ -73,7 +75,8 @@
       "image": "{티니} already bolting away down the hallway in the opposite direction, paws skidding",
       "motion": "The puppy scrambles away down the corridor, ending with her skidding out of frame down the hall",
       "link": "연속",
-      "link_ko": "부르는 소리에 복도 끝의 티니가 달아난다."
+      "link_ko": "부르는 소리에 복도 끝의 티니가 달아난다.",
+      "motion_ref": "The puppy scrambles away down the corridor, ending with her skidding out of frame down the hall"
     },
     {
       "id": "SC1-04",
@@ -93,7 +96,8 @@
       "image": "{티니} diving behind a sofa and curling up out of sight",
       "motion": "She dives behind the sofa and tucks herself in, ending fully hidden behind the sofa",
       "link": "연속",
-      "link_ko": "달아난 티니가 소파 뒤로 숨는다."
+      "link_ko": "달아난 티니가 소파 뒤로 숨는다.",
+      "motion_ref": "She dives behind the sofa and tucks herself in, ending fully hidden behind the sofa"
     },
     {
       "id": "SC1-05",
@@ -113,7 +117,8 @@
       "image": "close-up behind the sofa, {티니} clamping both front paws over her muzzle",
       "motion": "She clamps her paws tightly over her muzzle, ending with both paws clamped over her muzzle",
       "link": "연속",
-      "link_ko": "숨은 소파 뒤로 들어간다."
+      "link_ko": "숨은 소파 뒤로 들어간다.",
+      "motion_ref": "She clamps her paws tightly over her muzzle, ending with both paws clamped over her muzzle"
     },
     {
       "id": "SC1-06",
@@ -133,7 +138,8 @@
       "image": "{루비} leaning around the sofa with her staff to peer at her",
       "motion": "She leans past the sofa arm to look, ending leaning past the sofa arm, looking at her",
       "link": "컷",
-      "link_ko": "숨은 티니를 루비가 찾아낸다."
+      "link_ko": "숨은 티니를 루비가 찾아낸다.",
+      "motion_ref": "She leans past the sofa arm to look, ending leaning past the sofa arm, looking at her"
     },
     {
       "id": "SC1-07",
@@ -153,7 +159,8 @@
       "image": "{티니} scrunching up her nose and shaking her head",
       "motion": "She wrinkles her nose and shakes her head, ending with her nose fully wrinkled, head shaking",
       "link": "연속",
-      "link_ko": "들킨 티니가 이유를 말한다."
+      "link_ko": "들킨 티니가 이유를 말한다.",
+      "motion_ref": "She wrinkles her nose and shakes her head, ending with her nose fully wrinkled, head shaking"
     },
     {
       "id": "SC1-08",
@@ -174,7 +181,8 @@
       "image": "{미미} standing with the toothbrush and sighing, {쿵쿵} watching from beside her with his head tilted",
       "motion": "She sags with the brush in hand as he tilts his head, ending with her shoulders sagging, brush still in paw",
       "link": "컷",
-      "link_ko": "소파 뒤에서 세면대의 미미로 돌아온다."
+      "link_ko": "소파 뒤에서 세면대의 미미로 돌아온다.",
+      "motion_ref": "She sags with the brush in hand as he tilts his head, ending with her shoulders sagging, brush still in paw"
     },
     {
       "id": "SC1-09",
@@ -192,7 +200,8 @@
       "image": "a wall calendar where several days in a row have been left blank and unmarked",
       "motion": "The camera drifts across the row of unmarked days, ending held on the row of unmarked days",
       "link": "컷",
-      "link_ko": "포기한 미미에서 달력으로. 문제의 크기가 보인다."
+      "link_ko": "포기한 미미에서 달력으로. 문제의 크기가 보인다.",
+      "motion_ref": "The camera drifts across the row of unmarked days, ending held on the row of unmarked days"
     },
     {
       "id": "SC1-10",
@@ -212,7 +221,8 @@
       "image": "close-up of {티니} peeking just her eyes out from behind the sofa",
       "motion": "Only her eyes appear around the sofa edge, ending with only her eyes showing past the sofa",
       "link": "컷",
-      "link_ko": "달력에서 소파 뒤로. 티니가 살핀다."
+      "link_ko": "달력에서 소파 뒤로. 티니가 살핀다.",
+      "motion_ref": "Only her eyes appear around the sofa edge, ending with only her eyes showing past the sofa"
     },
     {
       "id": "SC1-11",
@@ -232,7 +242,8 @@
       "image": "{미미} putting the toothbrush back in the cup and turning to leave the bathroom",
       "motion": "She sets the brush back and turns away, ending with the bathroom empty and the brush back in the cup",
       "link": "컷",
-      "link_ko": "살피는 티니 시점의 세면대. 미미가 나간다."
+      "link_ko": "살피는 티니 시점의 세면대. 미미가 나간다.",
+      "motion_ref": "She sets the brush back and turns away, ending with the bathroom empty and the brush back in the cup"
     },
     {
       "id": "SC1-12",
@@ -252,7 +263,8 @@
       "image": "{티니} crawling out from behind the sofa and letting out a big relieved breath",
       "motion": "She creeps out and exhales in relief, ending with her fully out and exhaling",
       "link": "연속",
-      "link_ko": "비워진 것을 확인하고 티니가 기어 나온다."
+      "link_ko": "비워진 것을 확인하고 티니가 기어 나온다.",
+      "motion_ref": "She creeps out and exhales in relief, ending with her fully out and exhaling"
     },
     {
       "id": "SC1-13",
@@ -272,7 +284,8 @@
       "image": "extreme close-up of {티니}'s teeth as she yawns, dull and stained yellowish",
       "motion": "Her mouth opens in a yawn revealing dull stained teeth, ending held on the dull stained teeth",
       "link": "연속",
-      "link_ko": "안도한 티니가 하품한다. 이가 드러난다."
+      "link_ko": "안도한 티니가 하품한다. 이가 드러난다.",
+      "motion_ref": "Her mouth opens in a yawn revealing dull stained teeth, ending held on the dull stained teeth"
     },
     {
       "id": "SC1-14",
@@ -292,7 +305,8 @@
       "image": "{티니} bounding happily out the door into the sunny yard",
       "motion": "She shoulders the door open and bounds outside, ending with her out the door into the sunlight",
       "link": "컷",
-      "link_ko": "얼룩진 이에서 마당으로 뛰어나간다."
+      "link_ko": "얼룩진 이에서 마당으로 뛰어나간다.",
+      "motion_ref": "She shoulders the door open and bounds outside, ending with her out the door into the sunlight"
     },
     {
       "id": "SC2-01",
@@ -320,7 +334,8 @@
         "type": "dissolve",
         "sec": 0.6,
         "why": "며칠이 지난다"
-      }
+      },
+      "motion_ref": "Leaves shift as the red apples sway above them, ending held on the apple tree heavy with fruit"
     },
     {
       "id": "SC2-02",
@@ -340,7 +355,8 @@
       "image": "{루비} tapping a low branch with her staff, apples dropping into the grass",
       "motion": "The staff knocks the branch and apples tumble down, ending with several apples down in the grass",
       "link": "컷",
-      "link_ko": "그 나무를 루비가 지팡이로 친다."
+      "link_ko": "그 나무를 루비가 지팡이로 친다.",
+      "motion_ref": "The staff knocks the branch and apples tumble down, ending with several apples down in the grass"
     },
     {
       "id": "SC2-03",
@@ -363,7 +379,8 @@
       "image": "{티니}, {미미}, {루비} and {쿵쿵} each picking up an apple from the grass",
       "motion": "The four stoop and collect an apple each, ending with each of them holding an apple",
       "link": "연속",
-      "link_ko": "떨어진 사과를 넷이 하나씩 줍는다."
+      "link_ko": "떨어진 사과를 넷이 하나씩 줍는다.",
+      "motion_ref": "The four stoop and collect an apple each, ending with each of them holding an apple"
     },
     {
       "id": "SC2-04",
@@ -383,7 +400,8 @@
       "image": "close-up of {티니} opening her mouth wide and bringing the apple toward it",
       "motion": "Her jaws open wide as the apple comes in, ending with her jaws wide and the apple almost in",
       "link": "연속",
-      "link_ko": "주운 사과를 티니가 입으로 가져간다."
+      "link_ko": "주운 사과를 티니가 입으로 가져간다.",
+      "motion_ref": "Her jaws open wide as the apple comes in, ending with her jaws wide and the apple almost in"
     },
     {
       "id": "SC2-05",
@@ -403,7 +421,8 @@
       "image": "close-up of {티니} flinching sharply and jerking her head back from the apple",
       "motion": "She recoils, snapping her head away from the apple, ending with her head snapped fully away",
       "link": "연속",
-      "link_ko": "닿는 순간 티니가 움찔한다."
+      "link_ko": "닿는 순간 티니가 움찔한다.",
+      "motion_ref": "She recoils, snapping her head away from the apple, ending with her head snapped fully away"
     },
     {
       "id": "SC2-06",
@@ -423,7 +442,8 @@
       "image": "{티니} clutching her cheek with both paws, the apple falling into the grass",
       "motion": "The apple drops as she cradles her cheek, ending with the apple in the grass and both paws on her cheek",
       "link": "연속",
-      "link_ko": "물러난 티니가 볼을 감싸고 사과를 떨어뜨린다."
+      "link_ko": "물러난 티니가 볼을 감싸고 사과를 떨어뜨린다.",
+      "motion_ref": "The apple drops as she cradles her cheek, ending with the apple in the grass and both paws on her cheek"
     },
     {
       "id": "SC2-07",
@@ -443,7 +463,8 @@
       "image": "{미미} hurrying over and crouching down in concern",
       "motion": "She hurries over and drops to a crouch, ending crouched in front of her",
       "link": "컷",
-      "link_ko": "떨어뜨린 것을 보고 미미가 다가온다."
+      "link_ko": "떨어뜨린 것을 보고 미미가 다가온다.",
+      "motion_ref": "She hurries over and drops to a crouch, ending crouched in front of her"
     },
     {
       "id": "SC2-08",
@@ -463,7 +484,8 @@
       "image": "close-up of {티니} nodding, her eyes welling up",
       "motion": "She nods, tears gathering, ending with tears gathered at her lower lids",
       "link": "연속",
-      "link_ko": "미미의 물음에 티니가 끄덕인다."
+      "link_ko": "미미의 물음에 티니가 끄덕인다.",
+      "motion_ref": "She nods, tears gathering, ending with tears gathered at her lower lids"
     },
     {
       "id": "SC2-09",
@@ -483,7 +505,8 @@
       "image": "{티니} walking away into the shade, leaving her apple lying in the grass",
       "motion": "She retreats into the shade, the apple left behind, ending with her in the shade and the apple left behind",
       "link": "연속",
-      "link_ko": "끄덕인 티니가 그늘로 물러난다."
+      "link_ko": "끄덕인 티니가 그늘로 물러난다.",
+      "motion_ref": "She retreats into the shade, the apple left behind, ending with her in the shade and the apple left behind"
     },
     {
       "id": "SC2-10",
@@ -506,7 +529,8 @@
       "image": "{미미}, {루비} and {쿵쿵} crunching into their apples while {티니} watches from the shade",
       "motion": "The three bite into their apples as she watches, ending with the three chewing, her watching",
       "link": "컷",
-      "link_ko": "그늘의 티니와 사과 먹는 셋."
+      "link_ko": "그늘의 티니와 사과 먹는 셋.",
+      "motion_ref": "The three bite into their apples as she watches, ending with the three chewing, her watching"
     },
     {
       "id": "SC2-11",
@@ -526,7 +550,8 @@
       "image": "close-up of {티니} swallowing and lowering her gaze, envious and miserable",
       "motion": "She swallows and drops her eyes, ending with her eyes dropped to the ground",
       "link": "연속",
-      "link_ko": "보고 있는 티니의 얼굴."
+      "link_ko": "보고 있는 티니의 얼굴.",
+      "motion_ref": "She swallows and drops her eyes, ending with her eyes dropped to the ground"
     },
     {
       "id": "SC2-12",
@@ -546,7 +571,8 @@
       "image": "{티니} lying down and resting her chin on her front paws in the shade",
       "motion": "She lies down, chin sinking onto her paws, ending with her chin resting on her paws",
       "link": "연속",
-      "link_ko": "시선을 떨군 티니가 그대로 엎드린다."
+      "link_ko": "시선을 떨군 티니가 그대로 엎드린다.",
+      "motion_ref": "She lies down, chin sinking onto her paws, ending with her chin resting on her paws"
     },
     {
       "id": "SC2-13",
@@ -567,7 +593,8 @@
       "image": "{쿵쿵} carrying his apple and waddling over to sit beside {티니}",
       "motion": "He toddles over with his apple and settles beside her, ending seated beside her, apple in paw",
       "link": "컷",
-      "link_ko": "엎드린 티니에게 쿵쿵이가 다가간다."
+      "link_ko": "엎드린 티니에게 쿵쿵이가 다가간다.",
+      "motion_ref": "He toddles over with his apple and settles beside her, ending seated beside her, apple in paw"
     },
     {
       "id": "SC2-14",
@@ -588,7 +615,8 @@
       "image": "{쿵쿵} setting his own apple down gently in front of {티니}",
       "motion": "He places his apple carefully in front of her, ending with the apple placed in front of her",
       "link": "연속",
-      "link_ko": "다가온 쿵쿵이가 자기 사과를 내려놓는다."
+      "link_ko": "다가온 쿵쿵이가 자기 사과를 내려놓는다.",
+      "motion_ref": "He places his apple carefully in front of her, ending with the apple placed in front of her"
     },
     {
       "id": "SC2-15",
@@ -608,7 +636,8 @@
       "image": "close-up of {티니} nudging the apple away with a paw, her voice small",
       "motion": "She pushes the apple away weakly, ending with the apple nudged back toward him",
       "link": "연속",
-      "link_ko": "내려놓은 사과를 티니가 밀어낸다."
+      "link_ko": "내려놓은 사과를 티니가 밀어낸다.",
+      "motion_ref": "She pushes the apple away weakly, ending with the apple nudged back toward him"
     },
     {
       "id": "SC2-16",
@@ -628,7 +657,8 @@
       "image": "{쿵쿵} standing up and pointing a front paw toward the house",
       "motion": "He gets up and points toward the house, ending with his paw pointing at the house",
       "link": "컷",
-      "link_ko": "거절당한 쿵쿵이가 일어선다."
+      "link_ko": "거절당한 쿵쿵이가 일어선다.",
+      "motion_ref": "He gets up and points toward the house, ending with his paw pointing at the house"
     },
     {
       "id": "SC3-01",
@@ -648,7 +678,8 @@
       "image": "{쿵쿵} dragging a second step stool over and setting it beside the first at the bathroom sink",
       "motion": "He hauls a second stool over and sets it alongside, ending with the two stools side by side",
       "link": "전환",
-      "link_ko": "마당에서 세면대로. 쿵쿵이가 먼저 가 있다."
+      "link_ko": "마당에서 세면대로. 쿵쿵이가 먼저 가 있다.",
+      "motion_ref": "He hauls a second stool over and sets it alongside, ending with the two stools side by side"
     },
     {
       "id": "SC3-02",
@@ -668,7 +699,8 @@
       "image": "{쿵쿵} climbing onto one stool and picking up a toothbrush",
       "motion": "He climbs up and takes hold of a brush, ending with the brush in his paw, waiting",
       "link": "연속",
-      "link_ko": "놓은 발판에 쿵쿵이가 올라선다."
+      "link_ko": "놓은 발판에 쿵쿵이가 올라선다.",
+      "motion_ref": "He climbs up and takes hold of a brush, ending with the brush in his paw, waiting"
     },
     {
       "id": "SC3-03",
@@ -688,7 +720,8 @@
       "image": "{티니} hesitating in the doorway, then padding slowly toward the sink",
       "motion": "She lingers at the door, then edges forward, ending with her halfway to the sink",
       "link": "컷",
-      "link_ko": "기다리는 쿵쿵이 뒤로 티니가 나타난다."
+      "link_ko": "기다리는 쿵쿵이 뒤로 티니가 나타난다.",
+      "motion_ref": "She lingers at the door, then edges forward, ending with her halfway to the sink"
     },
     {
       "id": "SC3-04",
@@ -709,7 +742,8 @@
       "image": "{티니} stepping up onto the second stool so that she and {쿵쿵} stand side by side facing the mirror",
       "motion": "She climbs up beside him, both reflected in the mirror, ending with both of them reflected side by side",
       "link": "연속",
-      "link_ko": "다가온 티니가 옆 발판에 올라선다."
+      "link_ko": "다가온 티니가 옆 발판에 올라선다.",
+      "motion_ref": "She climbs up beside him, both reflected in the mirror, ending with both of them reflected side by side"
     },
     {
       "id": "SC3-05",
@@ -729,7 +763,8 @@
       "image": "close-up of {미미} squeezing a small line of toothpaste onto each of the two brushes",
       "motion": "Toothpaste curls onto each brush in turn, ending with paste on both brushes",
       "link": "컷",
-      "link_ko": "나란히 선 둘의 칫솔에 미미가 치약을 짠다."
+      "link_ko": "나란히 선 둘의 칫솔에 미미가 치약을 짠다.",
+      "motion_ref": "Toothpaste curls onto each brush in turn, ending with paste on both brushes"
     },
     {
       "id": "SC3-06",
@@ -750,7 +785,8 @@
       "image": "{미미} patting {티니}'s back reassuringly",
       "motion": "She pats the puppy's back gently, ending with her paw resting on {티니}'s back",
       "link": "컷",
-      "link_ko": "치약을 짜준 뒤 미미가 등을 두드린다."
+      "link_ko": "치약을 짜준 뒤 미미가 등을 두드린다.",
+      "motion_ref": "She pats the puppy's back gently, ending with her paw resting on 티니's back"
     },
     {
       "id": "SC3-07",
@@ -770,7 +806,8 @@
       "image": "close-up of {티니} putting the brush into her mouth and squeezing her eyes shut",
       "motion": "The brush goes in and her eyes clamp shut, ending with her eyes squeezed completely shut",
       "link": "연속",
-      "link_ko": "다독임을 받고 티니가 칫솔을 입에 넣는다."
+      "link_ko": "다독임을 받고 티니가 칫솔을 입에 넣는다.",
+      "motion_ref": "The brush goes in and her eyes clamp shut, ending with her eyes squeezed completely shut"
     },
     {
       "id": "SC3-08",
@@ -790,7 +827,8 @@
       "image": "{쿵쿵} brushing beside her with big exaggerated back-and-forth strokes to show her how",
       "motion": "He brushes in big showy strokes beside her, ending with his mouth full of foam, brushing wide",
       "link": "컷",
-      "link_ko": "눈 감은 티니 옆에서 쿵쿵이가 시범을 보인다."
+      "link_ko": "눈 감은 티니 옆에서 쿵쿵이가 시범을 보인다.",
+      "motion_ref": "He brushes in big showy strokes beside her, ending with his mouth full of foam, brushing wide"
     },
     {
       "id": "SC3-09",
@@ -811,7 +849,8 @@
       "image": "close-up of {티니} cracking one eye open to glance sideways at {쿵쿵}, whose mouth is full of foam",
       "motion": "She peeks sideways at his foam-filled grin, ending with one eye open, watching him",
       "link": "연속",
-      "link_ko": "옆의 기척에 티니가 실눈을 뜬다."
+      "link_ko": "옆의 기척에 티니가 실눈을 뜬다.",
+      "motion_ref": "She peeks sideways at his foam-filled grin, ending with one eye open, watching him"
     },
     {
       "id": "SC3-10",
@@ -831,7 +870,8 @@
       "image": "{루비} tapping her staff on the floor in rhythm from the doorway, cheering them on",
       "motion": "The staff taps out a rhythm as she cheers, ending with the staff tapping a steady beat",
       "link": "컷",
-      "link_ko": "엿보는 티니에게 문가에서 박자가 들어온다."
+      "link_ko": "엿보는 티니에게 문가에서 박자가 들어온다.",
+      "motion_ref": "The staff taps out a rhythm as she cheers, ending with the staff tapping a steady beat"
     },
     {
       "id": "SC3-11",
@@ -852,7 +892,8 @@
       "image": "wide shot of {티니} and {쿵쿵} brushing side by side at the mirror, swaying together in rhythm",
       "motion": "The two brush in time, swaying side to side, ending with both swaying in the same rhythm",
       "link": "연속",
-      "link_ko": "그 박자에 맞춰 둘이 함께 닦는다."
+      "link_ko": "그 박자에 맞춰 둘이 함께 닦는다.",
+      "motion_ref": "The two brush in time, swaying side to side, ending with both swaying in the same rhythm"
     },
     {
       "id": "SC3-12",
@@ -870,7 +911,8 @@
       "image": "extreme close-up of foam building up over teeth, the dull stains slowly lifting away",
       "motion": "Foam builds as the staining gradually lifts, ending with the stains visibly lifted",
       "link": "연속",
-      "link_ko": "닦는 그 입 안으로 들어간다."
+      "link_ko": "닦는 그 입 안으로 들어간다.",
+      "motion_ref": "Foam builds as the staining gradually lifts, ending with the stains visibly lifted"
     },
     {
       "id": "SC3-13",
@@ -891,7 +933,8 @@
       "image": "{티니} and {쿵쿵} rinsing their mouths from the cup and spitting into the sink together",
       "motion": "They rinse and spit together into the basin, ending with both spitting into the basin together",
       "link": "연속",
-      "link_ko": "닦기를 마치고 둘이 헹군다."
+      "link_ko": "닦기를 마치고 둘이 헹군다.",
+      "motion_ref": "They rinse and spit together into the basin, ending with both spitting into the basin together"
     },
     {
       "id": "SC3-14",
@@ -911,7 +954,8 @@
       "image": "close-up of {티니} baring her teeth at the mirror, now clean and white",
       "motion": "She grins at her reflection, teeth clean and bright, ending held on her clean white grin in the mirror",
       "link": "연속",
-      "link_ko": "헹군 뒤 티니가 거울에 이를 비춰본다."
+      "link_ko": "헹군 뒤 티니가 거울에 이를 비춰본다.",
+      "motion_ref": "She grins at her reflection, teeth clean and bright, ending held on her clean white grin in the mirror"
     },
     {
       "id": "SC3-15",
@@ -929,7 +973,8 @@
       "image": "the wall calendar, circles now being drawn into each of the previously blank days",
       "motion": "Circles fill in one by one across the calendar, ending with every day circled",
       "link": "컷",
-      "link_ko": "거울에서 달력으로. 빈칸이 채워진다."
+      "link_ko": "거울에서 달력으로. 빈칸이 채워진다.",
+      "motion_ref": "Circles fill in one by one across the calendar, ending with every day circled"
     },
     {
       "id": "SC4-01",
@@ -957,7 +1002,8 @@
         "type": "dissolve",
         "sec": 0.6,
         "why": "일주일이 지난다"
-      }
+      },
+      "motion_ref": "The apples sway as the four gather beneath, ending with the four gathered under the tree"
     },
     {
       "id": "SC4-02",
@@ -978,7 +1024,8 @@
       "image": "{루비} holding an apple out to {티니}, who takes it in both paws",
       "motion": "The apple passes from one to the other, ending with the apple in {티니}'s paws",
       "link": "컷",
-      "link_ko": "루비가 티니에게 사과를 건넨다."
+      "link_ko": "루비가 티니에게 사과를 건넨다.",
+      "motion_ref": "The apple passes from one to the other, ending with the apple in 티니's paws"
     },
     {
       "id": "SC4-03",
@@ -998,7 +1045,8 @@
       "image": "close-up of {티니} holding the apple, hesitating for a moment",
       "motion": "She pauses, blinking at the apple, ending with the apple lifted but not bitten",
       "link": "연속",
-      "link_ko": "건네받은 사과를 티니가 들고 망설인다."
+      "link_ko": "건네받은 사과를 티니가 들고 망설인다.",
+      "motion_ref": "She pauses, blinking at the apple, ending with the apple lifted but not bitten"
     },
     {
       "id": "SC4-04",
@@ -1018,7 +1066,8 @@
       "image": "extreme close-up of {티니}'s clean white teeth sinking into the red apple, juice spraying",
       "motion": "The teeth break the skin, juice spraying out, ending with the bite taken and juice in the air",
       "link": "연속",
-      "link_ko": "망설이던 티니가 마침내 문다."
+      "link_ko": "망설이던 티니가 마침내 문다.",
+      "motion_ref": "The teeth break the skin, juice spraying out, ending with the bite taken and juice in the air"
     },
     {
       "id": "SC4-05",
@@ -1038,7 +1087,8 @@
       "image": "{티니} bouncing on the spot while chewing, overjoyed",
       "motion": "She bounces in place, chewing happily, ending mid-bounce, still chewing",
       "link": "연속",
-      "link_ko": "베어 문 티니가 펄쩍 뛴다."
+      "link_ko": "베어 문 티니가 펄쩍 뛴다.",
+      "motion_ref": "She bounces in place, chewing happily, ending mid-bounce, still chewing"
     },
     {
       "id": "SC4-06",
@@ -1061,7 +1111,8 @@
       "image": "{티니}, {미미}, {루비} and {쿵쿵} sitting in a row under the tree crunching their apples together",
       "motion": "The four sit in a row biting into their apples, ending with all four in a row, biting in",
       "link": "컷",
-      "link_ko": "뛰는 티니 옆으로 넷이 함께 앉는다."
+      "link_ko": "뛰는 티니 옆으로 넷이 함께 앉는다.",
+      "motion_ref": "The four sit in a row biting into their apples, ending with all four in a row, biting in"
     },
     {
       "id": "SC4-07",
@@ -1082,7 +1133,8 @@
       "image": "{미미} pointing at {티니}'s smile with a grin",
       "motion": "She points at the smile, laughing, ending with her paw pointed at the smile",
       "link": "컷",
-      "link_ko": "먹는 중에 미미가 티니의 이를 가리킨다."
+      "link_ko": "먹는 중에 미미가 티니의 이를 가리킨다.",
+      "motion_ref": "She points at the smile, laughing, ending with her paw pointed at the smile"
     },
     {
       "id": "SC4-08",
@@ -1102,7 +1154,8 @@
       "image": "close-up of {티니}'s white teeth catching the sunlight in a wide happy smile",
       "motion": "Sunlight glints across her bright smile, ending held on the sunlit white teeth",
       "link": "연속",
-      "link_ko": "가리킨 그 미소로 들어간다."
+      "link_ko": "가리킨 그 미소로 들어간다.",
+      "motion_ref": "Sunlight glints across her bright smile, ending held on the sunlit white teeth"
     },
     {
       "id": "EN-01",
@@ -1122,7 +1175,8 @@
       "image": "close-up of {쿵쿵} puffing out his chest with a proud beaming smile",
       "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
       "link": "전환",
-      "link_ko": "엔딩 시작. 미소에서 쿵쿵이의 얼굴로."
+      "link_ko": "엔딩 시작. 미소에서 쿵쿵이의 얼굴로.",
+      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held"
     },
     {
       "id": "EN-02",
@@ -1145,7 +1199,8 @@
         "type": "dissolve",
         "sec": 0.5,
         "why": "그 뒤로 이어지는 아침들"
-      }
+      },
+      "motion_ref": "Morning light falls across the two stools and two brushes, ending held on the two stools and two brushes"
     },
     {
       "id": "EN-03",
@@ -1166,7 +1221,8 @@
       "image": "{티니} and {쿵쿵} standing side by side brushing their teeth in the morning",
       "motion": "The two brush together in the same rhythm, ending with both brushing in the same rhythm",
       "link": "연속",
-      "link_ko": "그 발판 위에 둘이 올라선다."
+      "link_ko": "그 발판 위에 둘이 올라선다.",
+      "motion_ref": "The two brush together in the same rhythm, ending with both brushing in the same rhythm"
     },
     {
       "id": "EN-04",
@@ -1187,7 +1243,8 @@
       "image": "{티니} and {쿵쿵} baring their clean teeth at each other in the mirror",
       "motion": "They grin at each other's reflections, ending with both grins fully bared",
       "link": "연속",
-      "link_ko": "닦던 둘이 거울 속 서로를 본다."
+      "link_ko": "닦던 둘이 거울 속 서로를 본다.",
+      "motion_ref": "They grin at each other's reflections, ending with both grins fully bared"
     },
     {
       "id": "EN-05",
@@ -1205,7 +1262,8 @@
       "image": "close-up of the mirror holding two bright clean smiles side by side",
       "motion": "Two bright smiles sit side by side in the glass, ending held on the two bright smiles side by side",
       "link": "연속",
-      "link_ko": "거울 속 두 미소로 들어간다."
+      "link_ko": "거울 속 두 미소로 들어간다.",
+      "motion_ref": "Two bright smiles sit side by side in the glass, ending held on the two bright smiles side by side"
     },
     {
       "id": "EN-06",
@@ -1228,7 +1286,8 @@
       "image": "wide shot of the sunny yard, {티니}, {미미}, {루비} and {쿵쿵} laughing together under the apple tree",
       "motion": "Sunlight spreads across the yard as they laugh, ending held wide with all four laughing",
       "link": "전환",
-      "link_ko": "세면대에서 마당으로. 다시 사과나무 아래."
+      "link_ko": "세면대에서 마당으로. 다시 사과나무 아래.",
+      "motion_ref": "Sunlight spreads across the yard as they laugh, ending held wide with all four laughing"
     },
     {
       "id": "EN-07",
@@ -1251,7 +1310,8 @@
       "image": "end card composition, {티니}, {미미}, {루비} and {쿵쿵} standing together under the apple tree, fresh green and red colours, clean empty space along the bottom for a title",
       "motion": "Leaves sway as the camera eases back",
       "link": "컷",
-      "link_ko": "엔딩 카드."
+      "link_ko": "엔딩 카드.",
+      "motion_ref": "Leaves sway as the camera eases back"
     }
   ]
 }
