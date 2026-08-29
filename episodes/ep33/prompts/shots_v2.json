@@ -31,7 +31,7 @@
       "bgm": "걱정_긴장"
     },
     "SC3": {
-      "amb": "밤하늘_언덕",
+      "amb": "산길",
       "bgm": "호기심_탐험"
     },
     "SC4": {
@@ -997,7 +997,7 @@
       "motion_ref": "He steps out before they can stop him, ending with him out in the open",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -1022,7 +1022,7 @@
       "motion_ref": "She jumps up to run, then stops, ending with her frozen, half turned away",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
