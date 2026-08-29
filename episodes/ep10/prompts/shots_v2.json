@@ -24,21 +24,21 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "산길",
       "bgm": "익살_소동",
       "weather": "비"
     },
     "SC3": {
-      "amb": "실내_집",
+      "amb": "마을_광장",
       "bgm": "벅찬_감동",
       "weather": "비"
     },
     "SC4": {
-      "amb": "실내_집",
+      "amb": "마을_광장",
       "bgm": "따뜻한_해결"
     },
     "EN": {
-      "amb": "실내_집",
+      "amb": "마을_밤",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -413,7 +413,7 @@
       "motion_ref": "They guide him step by step up the path, ending with the group stopped at the crest of the hill",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -489,7 +489,7 @@
       "motion_ref": "They fling their arms wide and clear the frame, ending with the house fully revealed and unobstructed",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -561,7 +561,7 @@
       "motion_ref": "He steps forward and halts, ending with the paw hanging unplaced",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -586,7 +586,7 @@
       "motion_ref": "He moves in and gestures wide, ending with his paw held open toward the doorway",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -611,7 +611,7 @@
       "motion_ref": "Tears well and his mouth curves up, ending with one tear running down and a wide smile",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -776,7 +776,7 @@
       "motion_ref": "Rain slams down, ending with the cake soaked and the candle leaning",
       "sig": null,
       "sfx": [
-        "발소리_풀",
+        "발소리_자갈",
         "불_등불"
       ]
     },
@@ -878,7 +878,7 @@
       "motion_ref": "He steps out and the reaching paw closes on air, ending with him fully in the rain",
       "sig": null,
       "sfx": [
-        "발소리_나무마루"
+        "발소리_돌"
       ]
     },
     {
@@ -903,7 +903,7 @@
       "motion_ref": "He walks on without turning, ending with him stopped directly in front of the house",
       "sig": null,
       "sfx": [
-        "발소리_나무마루",
+        "발소리_돌",
         "환호"
       ]
     },
@@ -929,7 +929,6 @@
       "motion_ref": "His feet work into the mud, ending braced and motionless with rain sheeting off his back",
       "sig": null,
       "sfx": [
-        "종이",
         "삽_흙"
       ]
     },
@@ -1080,7 +1079,7 @@
       "motion_ref": "He bursts into the downpour, ending mid-stride halfway to 쿵쿵",
       "sig": null,
       "sfx": [
-        "발소리_나무마루"
+        "발소리_돌"
       ]
     },
     {
@@ -1110,7 +1109,7 @@
       "motion_ref": "They close around him one by one, ending with every hand pressed onto his back",
       "sig": null,
       "sfx": [
-        "발소리_나무마루"
+        "발소리_돌"
       ]
     },
     {
@@ -1230,7 +1229,7 @@
       "motion_ref": "She checks the wall with both paws, ending with her turning back to the others, beaming",
       "sig": null,
       "sfx": [
-        "발소리_나무마루"
+        "발소리_돌"
       ]
     },
     {

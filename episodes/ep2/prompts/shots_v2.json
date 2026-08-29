@@ -22,19 +22,19 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "골짜기",
       "bgm": "익살_소동"
     },
     "SC3": {
-      "amb": "정상",
+      "amb": "골짜기",
       "bgm": "벅찬_감동"
     },
     "SC4": {
-      "amb": "눈밭",
+      "amb": "골짜기",
       "bgm": "따뜻한_해결"
     },
     "EN": {
-      "amb": "참나무숲",
+      "amb": "마을_광장",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -1181,7 +1181,7 @@
       "motion_ref": "The camera rises over the hill, the four growing small ahead, ending with the four cresting the hill",
       "sig": null,
       "sfx": [
-        "발소리_눈"
+        "발소리_풀"
       ]
     },
     {
@@ -1458,7 +1458,7 @@
       "motion_ref": "Paws pat the earth flat and place a small stone on top, ending with the small stone set on the patted earth",
       "sig": null,
       "sfx": [
-        "발소리_낙엽"
+        "발소리_돌"
       ]
     },
     {
@@ -1507,7 +1507,7 @@
       "motion_ref": "Their shadows stretch long as the sky turns orange, ending with the four small against the sunset, shadows long",
       "sig": null,
       "sfx": [
-        "발소리_낙엽"
+        "발소리_돌"
       ]
     },
     {

@@ -34,7 +34,7 @@
       "bgm": "따뜻한_해결"
     },
     "EN": {
-      "amb": "마을_광장",
+      "amb": "실내_집",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -1356,7 +1356,7 @@
       "motion_ref": "He races over the sand, flippers flung wide, ending with him running with both flippers spread",
       "sig": null,
       "sfx": [
-        "발소리_돌"
+        "발소리_나무마루"
       ]
     },
     {

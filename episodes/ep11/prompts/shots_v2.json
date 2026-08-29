@@ -25,19 +25,19 @@
       "weather": "비"
     },
     "SC2": {
-      "amb": "숲_낮",
-      "bgm": "신비_경이"
+      "amb": "산길",
+      "bgm": "걱정_긴장"
     },
     "SC3": {
-      "amb": "정상",
-      "bgm": "신비_경이"
+      "amb": "산길",
+      "bgm": "조용한_슬픔"
     },
     "SC4": {
-      "amb": "숲_낮",
+      "amb": "골짜기",
       "bgm": "신비_경이"
     },
     "EN": {
-      "amb": "정상",
+      "amb": "산길",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -432,7 +432,7 @@
       "motion_ref": "His feet slap through puddle after puddle, ending with water still spraying from his step",
       "sig": null,
       "sfx": [
-        "발소리_풀",
+        "발소리_자갈",
         "물_첨벙"
       ]
     },
@@ -685,7 +685,7 @@
       "motion_ref": "She takes one step back into the tree's shadow, ending with her half in shadow",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -756,7 +756,7 @@
       "motion_ref": "She regrips her staff and starts climbing again, ending with her already walking uphill",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -784,7 +784,7 @@
       "motion_ref": "They trudge upward, tired but still climbing, ending near the top of the road",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -879,7 +879,7 @@
       "motion_ref": "They step onto the crest and the sky opens wide, ending with the six standing on the open crest",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -1320,7 +1320,7 @@
       "motion_ref": "They walk down the road together in evening light, ending with the six partway down the road",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -1440,7 +1440,7 @@
       "motion_ref": "They enter the village and windows light up, ending with the village windows all lit",
       "sig": null,
       "sfx": [
-        "발소리_풀",
+        "발소리_자갈",
         "바람_돌풍"
       ]
     },

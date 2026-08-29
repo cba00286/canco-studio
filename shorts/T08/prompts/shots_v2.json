@@ -9,7 +9,7 @@
   },
   "audio_sections": {
     "SH": {
-      "amb": "숲_낮",
+      "amb": "실내_집",
       "bgm": "호기심_탐험"
     }
   },
@@ -108,7 +108,7 @@
       "motion_ref": "Light crosses the stools, ending held on the two brushes",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_나무마루"
       ]
     },
     {

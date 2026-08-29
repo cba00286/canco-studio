@@ -9,7 +9,7 @@
   },
   "audio_sections": {
     "SH": {
-      "amb": "정상",
+      "amb": "실내_집",
       "bgm": "호기심_탐험"
     }
   },
@@ -36,7 +36,7 @@
       "motion_ref": "The crack runs the length of the branch, ending with the branch giving way",
       "sig": null,
       "sfx": [
-        "발소리_풀",
+        "발소리_나무마루",
         "나뭇잎"
       ]
     },

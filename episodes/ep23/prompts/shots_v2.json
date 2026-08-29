@@ -27,7 +27,7 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "참나무숲",
       "bgm": "걱정_긴장"
     },
     "SC3": {
@@ -627,7 +627,7 @@
       "motion_ref": "The three drawn paths run to three places, ending on the completed three-way map",
       "sig": null,
       "sfx": [
-        "발소리_풀",
+        "발소리_낙엽",
         "종이"
       ]
     },
@@ -749,7 +749,7 @@
       "motion_ref": "She drops a twig on the path every few steps, ending with a line of twigs behind them",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_낙엽"
       ]
     },
     {

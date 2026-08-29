@@ -23,6 +23,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 AUDIO = json.loads((ROOT / "bible" / "audio.json").read_text(encoding="utf-8"))
+_OV = ROOT / "bible" / "audio_overrides.json"
+OVERRIDES = json.loads(_OV.read_text(encoding="utf-8")) if _OV.exists() else {}
 
 # ── 환경음: 장면의 한국어 설명에서 장소와 날씨를 읽는다 ────────────────
 # 장소와 날씨는 다른 겹이다. 숲에 비가 오면 «숲» 위에 «비»를 얹는다.
@@ -39,34 +41,38 @@ PLACE = [
     ("참나무|낙엽|도토리|타임캡슐", "참나무숲"),
     ("꽃밭|화단|엉겅퀴|씨앗", "꽃밭"),
     ("산길|산봉우리|비탈|중턱", "산길"),
-    ("정상|봉우리 위|꼭대기", "정상"),
+    ("정상|봉우리", "정상"),
     ("운동장|운동회|줄다리기", "운동장"),
     ("밤하늘|별똥별|밤 언덕|언덕 위 밤", "밤하늘_언덕"),
-    ("광장|놀이터|장터|벤치", "마을_광장"),
+    ("광장|놀이터|장터|벤치|화단|고목", "마을_광장"),
     ("방 |집 안|곳간|작업실|창가|정자|집 앞", "실내_집"),
     ("마을", "마을_광장"),
-    ("숲|나무", "숲_낮"),
+    ("모래사장|모래 트랙|모래밭", "모래사장"),
+    ("골짜기|절벽", "골짜기"),
+    ("과수원", "과수원"),
+    ("세면대|욕실|부엌", "실내_집"),
+    ("마당", "마당"),
+    ("벌통", "꽃밭"),
+    ("언덕길|언덕을|언덕 위|언덕", "산길"),
+    ("숲", "숲_낮"),
 ]
-NIGHT = re.compile(r"밤|한밤|새벽|초저녁|달빛|별빛|잠들|어둠|캄캄|검다|등불|해가 지|해 질")
+NIGHT = re.compile(r"밤|한밤|새벽|초저녁|달빛|별빛|잠들|어둠|캄캄|검다|등불|해가 지|해 질|반딧불")
 STORM = re.compile(r"폭풍우|집중호우|장대비|둑이 터|사흘째 비|굵은 비|비바람")
 # «루비가»의 «비가»에 걸리지 않게 앞이 한글이면 제외한다
 RAIN = re.compile(r"(?<![가-힣])(비가 |비를 |비 오는|비 내리)|빗줄기|빗방울|소나기")
 
 
-def ambience_for(title: str, cuts: list[dict]) -> tuple[str, str | None]:
-    head = title + " " + " ".join(c["ko"] for c in cuts[:5])
+def ambience_for(title: str, cuts: list[dict], whole: bool = False) -> tuple[str | None, str | None]:
+    """장소를 못 찾으면 None 을 준다 — 부르는 쪽에서 앞 장면을 이어받는다."""
+    head = title + " " + " ".join(c["ko"] for c in (cuts if whole else cuts[:5]))
     body = title + " " + " ".join(c["ko"] for c in cuts)
-    # 장면이 «어디서 시작하는가»가 기준이다. 앞부분에서 먼저 찾고,
-    # 없을 때만 장면 전체를 본다. 안 그러면 뒷컷 한 줄이 장소를 바꿔 버린다.
+    # 장면 제목과 앞부분만 본다. 못 찾으면 None 이고, 부르는 쪽이 앞 장면을
+    # 이어받는다 — 이야기가 이어지는 중이라는 뜻이다.
     place = None
-    for scope in (head, body):
-        for pat, key in PLACE:
-            if re.search(pat, scope):
-                place = key
-                break
-        if place:
+    for pat, key in PLACE:
+        if re.search(pat, head):
+            place = key
             break
-    place = place or "숲_낮"
     if place == "숲_낮" and NIGHT.search(head):
         place = "숲_밤"
     elif place == "마을_광장" and NIGHT.search(head):
@@ -76,7 +82,7 @@ def ambience_for(title: str, cuts: list[dict]) -> tuple[str, str | None]:
 
 
 # ── BGM: 장면의 성격에서 고른다 ────────────────────────────────────────
-CRISIS = re.compile(r"위험|무너|터지|터진|쏟아지|갇히|사고|다치|삐끗|불어난|폭풍|넘어질|휩쓸")
+CRISIS = re.compile(r"위험|무너|터지|터진|쏟아지|갇히|사고|다치|삐끗|폭풍|넘어질|휩쓸|넘치려")
 # «신비»는 남발하면 값이 떨어진다. 정말 설명이 안 되는 장면에만 쓴다.
 WONDER = re.compile(r"반딧불|야광 버섯|별똥별|무지개가|무지개 다리|내려오는 빛|유성|초록빛이 켜")
 FUNNY = re.compile(r"우당탕|엉망|미끄러져|쏟아진|소동|또 넘어")
@@ -89,17 +95,17 @@ SHORTS_BGM = {"캐릭터 소개": "일상_밝음", "파워": "벅찬_감동",
 
 
 def bgm_for(key: str, title: str, cuts: list[dict], has_power: bool, has_react: bool,
-            kind: str | None = None) -> str:
+            kind: str | None = None, wonder: bool = False) -> str:
     if kind:
         return "벅찬_감동" if has_power else SHORTS_BGM.get(kind, "일상_밝음")
     body = title + " " + " ".join(c["ko"] for c in cuts)
     moves = " ".join(c["ko_motion"] for c in cuts)
-    if has_react or WONDER.search(body):
-        return "신비_경이"
     if key == "EN":
         return "잔잔한_엔딩"
+    if has_react or wonder:
+        return "신비_경이"
     if key == "SC1":
-        return "일상_밝음"
+        return "위기_긴박" if CRISIS.search(body) else "일상_밝음"
     if key == "SC2":
         if CRISIS.search(body):
             return "위기_긴박"
@@ -189,18 +195,32 @@ def build(ep_dir: Path) -> dict:
     D = json.loads(path.read_text(encoding="utf-8"))
     shots = D["shots"]
 
-    sections = {}
+    # «신비»는 남발하면 값이 떨어진다. 한 화에서 가장 강하게 걸리는 두 장면만 준다.
+    score = {}
+    for key, title in D["sections"].items():
+        cuts = [s for s in shots if s["section"] == key]
+        score[key] = len(WONDER.findall(" ".join(c["ko"] for c in cuts)))
+    order = list(D["sections"])
+    top = {k for k, v in sorted(score.items(),
+                                key=lambda kv: (-kv[1], -order.index(kv[0])))[:2] if v}
+
+    sections, prev_place = {}, None
     for key, title in D["sections"].items():
         cuts = [s for s in shots if s["section"] == key]
         sigs = [signature_for(s) for s in cuts]
         has_power = any(x in FRAGMENTS for x in sigs)
         has_react = "뿔_반응" in sigs
         place, weather = ambience_for(title, cuts)
+        if place is None:                       # 이야기가 이어지는 장면이다
+            place = prev_place or ambience_for(title, cuts, whole=True)[0] or "숲_낮"
+        prev_place = place
         entry = {"amb": place,
-                 "bgm": bgm_for(key, title, cuts, has_power, has_react, D.get("kind"))}
+                 "bgm": bgm_for(key, title, cuts, has_power, has_react,
+                                D.get("kind"), key in top)}
         if weather:
             entry["weather"] = weather
-        over = (D.get("audio_overrides") or {}).get(key) or {}
+        over = dict((D.get("audio_overrides") or {}).get(key) or {})
+        over.update(OVERRIDES.get("%s:%s" % (ep_dir.name, key)) or {})
         entry.update({k: v for k, v in over.items() if v})
         if over.get("weather") == "":          # 빈 문자열은 «날씨 없음»
             entry.pop("weather", None)

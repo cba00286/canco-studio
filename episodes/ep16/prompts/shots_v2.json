@@ -26,7 +26,7 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "산길",
       "bgm": "걱정_긴장"
     },
     "SC3": {
@@ -34,11 +34,11 @@
       "bgm": "벅찬_감동"
     },
     "SC4": {
-      "amb": "숲_낮",
+      "amb": "산길",
       "bgm": "따뜻한_해결"
     },
     "EN": {
-      "amb": "숲_낮",
+      "amb": "산길",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -494,7 +494,7 @@
       "motion_ref": "They run to the edge; the kite is gone, ending with the six at the hill edge, hands empty",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -679,7 +679,7 @@
       "motion_ref": "He starts to argue; she is already walking, ending with her ahead and him mid-sentence",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -749,7 +749,7 @@
       "motion_ref": "She walks on, looking straight ahead, ending with the two walking on together",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {

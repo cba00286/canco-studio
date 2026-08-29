@@ -31,7 +31,7 @@
       "bgm": "걱정_긴장"
     },
     "SC3": {
-      "amb": "숲_낮",
+      "amb": "계곡",
       "bgm": "호기심_탐험"
     },
     "SC4": {
@@ -233,9 +233,7 @@
       "link_ko": "붙인 종이로 들어간다.",
       "motion_ref": "Six lines of writing sit on the sheet, ending on the six written lines",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "SC1-09",
@@ -494,9 +492,7 @@
       "link_ko": "가리킨 줄을 본다.",
       "motion_ref": "The sixth line stands out on the sheet, ending on the sixth line",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "SC2-06",
@@ -667,9 +663,7 @@
       "link_ko": "앉아서 조용히 묻는다.",
       "motion_ref": "He glances at the sheet, then back at her, ending on his steady look",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "SC2-13",
@@ -832,9 +826,7 @@
       "link_ko": "물음에 답이 온다.",
       "motion_ref": "She recites them without looking, ending with her finishing the last line",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "SC3-04",
@@ -952,9 +944,7 @@
       "link_ko": "친 자리에 글씨가 적힌다.",
       "motion_ref": "A seventh line goes onto the sheet, ending on the new seventh line",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "SC3-09",
@@ -1024,7 +1014,7 @@
       "motion_ref": "She steps down and her feet touch the water, ending with her ankles in the water",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -1095,7 +1085,7 @@
       "motion_ref": "She takes one more step; the water rises, ending with the water at her calves",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_자갈"
       ]
     },
     {
@@ -1378,9 +1368,7 @@
       "link_ko": "조끼에서 종이로.",
       "motion_ref": "He peels the sheet off and waves it, ending with the sheet held up",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "EN-04",
@@ -1426,9 +1414,7 @@
       "link_ko": "한마디 뒤에 노을로.",
       "motion_ref": "She folds the sheet into her bag, ending with the sheet inside the bag",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "EN-06",
@@ -1449,9 +1435,7 @@
       "link_ko": "가방에서 다음 여름으로 건너뛴다.",
       "motion_ref": "The same sheet sits on the same rock, ending on the sheet in the summer light",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "EN-07",

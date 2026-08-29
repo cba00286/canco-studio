@@ -27,7 +27,7 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "참나무숲",
       "bgm": "걱정_긴장"
     },
     "SC3": {
@@ -623,7 +623,7 @@
       "motion_ref": "The smooth stone settles into the jar, ending with the stone inside",
       "sig": null,
       "sfx": [
-        "발소리_자갈",
+        "발소리_낙엽",
         "유리_병"
       ]
     },
@@ -649,7 +649,7 @@
       "motion_ref": "He looks down at where it landed, ending with him still looking in",
       "sig": null,
       "sfx": [
-        "발소리_자갈"
+        "발소리_낙엽"
       ]
     },
     {
@@ -864,9 +864,7 @@
       "link_ko": "같은 동작이 반복된다.",
       "motion_ref": "She takes the sheet out and puts it back too, ending with the sheet back inside",
       "sig": null,
-      "sfx": [
-        "종이"
-      ]
+      "sfx": []
     },
     {
       "id": "SC3-05",

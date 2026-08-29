@@ -25,7 +25,7 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "참나무숲",
+      "amb": "실내_집",
       "bgm": "걱정_긴장"
     },
     "SC3": {
@@ -584,7 +584,7 @@
       "motion_ref": "The door stays shut; only prints in the snow, ending on the closed door and prints",
       "sig": null,
       "sfx": [
-        "발소리_낙엽"
+        "발소리_나무마루"
       ]
     },
     {
@@ -614,7 +614,7 @@
       "motion_ref": "They gather in the square carrying their food, ending with the six standing in a ring",
       "sig": null,
       "sfx": [
-        "발소리_낙엽",
+        "발소리_나무마루",
         "유리_병"
       ]
     },
@@ -638,7 +638,7 @@
       "motion_ref": "The big empty basket settles on the stones, ending on the empty basket",
       "sig": null,
       "sfx": [
-        "발소리_낙엽"
+        "발소리_나무마루"
       ]
     },
     {

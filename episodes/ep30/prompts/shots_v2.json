@@ -27,7 +27,7 @@
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "마을_광장",
       "bgm": "걱정_긴장"
     },
     "SC3": {
@@ -35,7 +35,7 @@
       "bgm": "호기심_탐험"
     },
     "SC4": {
-      "amb": "숲_낮",
+      "amb": "마을_광장",
       "bgm": "따뜻한_해결"
     },
     "EN": {
@@ -478,7 +478,7 @@
       "motion_ref": "He runs off and comes straight back, ending with him back where he started",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_돌"
       ]
     },
     {

@@ -211,6 +211,22 @@
     "정상": {
       "소리": "탁 트인 바람 · 새 없음",
       "검색어": "mountain summit open wind"
+    },
+    "모래사장": {
+      "소리": "물가 모래밭 · 잔물결 · 가벼운 바람",
+      "검색어": "sandy riverbank small waves breeze"
+    },
+    "골짜기": {
+      "소리": "바위 사이 바람 · 아주 옅은 메아리",
+      "검색어": "rocky ravine wind faint echo"
+    },
+    "과수원": {
+      "소리": "잎 스치는 소리 · 벌 · 먼 새",
+      "검색어": "orchard trees bees birds ambience"
+    },
+    "마당": {
+      "소리": "가까운 새 · 빨래 펄럭임 · 아주 먼 사람 소리",
+      "검색어": "backyard birds cloth flapping"
     }
   },
   "sfx": {

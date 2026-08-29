@@ -22,7 +22,7 @@
   "audio_sections": {
     "SC1": {
       "amb": "마을_밤",
-      "bgm": "일상_밝음",
+      "bgm": "위기_긴박",
       "weather": "폭우"
     },
     "SC2": {
@@ -30,11 +30,11 @@
       "bgm": "걱정_긴장"
     },
     "SC3": {
-      "amb": "숲_낮",
+      "amb": "마을_광장",
       "bgm": "호기심_탐험"
     },
     "SC4": {
-      "amb": "숲_낮",
+      "amb": "마을_광장",
       "bgm": "따뜻한_해결"
     },
     "EN": {
@@ -765,7 +765,7 @@
       "motion_ref": "She walks one slow circle around the trunk, ending with her back where she started",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_돌"
       ]
     },
     {
@@ -1068,7 +1068,7 @@
       "motion_ref": "He walks forward and faces the trunk, ending with him standing before the split",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_돌"
       ]
     },
     {
@@ -1137,7 +1137,7 @@
       "motion_ref": "Light runs up the split and over the whole tree, ending with the entire tree glowing warm",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_돌"
       ]
     },
     {
@@ -1184,7 +1184,7 @@
       "motion_ref": "His legs shake; she steadies his shoulder, ending with her hand on his shoulder",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_돌"
       ]
     },
     {

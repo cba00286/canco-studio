@@ -23,7 +23,7 @@
   },
   "audio_sections": {
     "SC1": {
-      "amb": "숲_낮",
+      "amb": "산길",
       "bgm": "일상_밝음"
     },
     "SC2": {
@@ -35,7 +35,7 @@
       "bgm": "호기심_탐험"
     },
     "SC4": {
-      "amb": "눈밭",
+      "amb": "산길",
       "bgm": "따뜻한_해결"
     },
     "EN": {
@@ -64,7 +64,7 @@
       "motion_ref": "Meltwater runs between the patches of snow, ending on the patchy brown hillside",
       "sig": null,
       "sfx": [
-        "발소리_눈"
+        "발소리_자갈"
       ]
     },
     {

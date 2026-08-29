@@ -18,23 +18,23 @@
   },
   "audio_sections": {
     "SC1": {
-      "amb": "숲_낮",
+      "amb": "실내_집",
       "bgm": "일상_밝음"
     },
     "SC2": {
-      "amb": "숲_낮",
+      "amb": "마당",
       "bgm": "걱정_긴장"
     },
     "SC3": {
-      "amb": "숲_낮",
+      "amb": "실내_집",
       "bgm": "호기심_탐험"
     },
     "SC4": {
-      "amb": "숲_낮",
+      "amb": "마당",
       "bgm": "따뜻한_해결"
     },
     "EN": {
-      "amb": "숲_낮",
+      "amb": "실내_집",
       "bgm": "잔잔한_엔딩"
     }
   },
@@ -59,7 +59,7 @@
       "motion_ref": "A drop falls from the tap as morning light crosses the sink, ending held on the sink with the drop hanging",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_나무마루"
       ]
     },
     {
@@ -782,7 +782,7 @@
       "motion_ref": "He hauls a second stool over and sets it alongside, ending with the two stools side by side",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_나무마루"
       ]
     },
     {
@@ -856,7 +856,7 @@
       "motion_ref": "She climbs up beside him, both reflected in the mirror, ending with both of them reflected side by side",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_나무마루"
       ]
     },
     {
@@ -1361,7 +1361,7 @@
       "motion_ref": "Morning light falls across the two stools and two brushes, ending held on the two stools and two brushes",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_나무마루"
       ]
     },
     {

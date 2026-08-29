@@ -9,7 +9,7 @@
   },
   "audio_sections": {
     "SH": {
-      "amb": "정상",
+      "amb": "실내_집",
       "bgm": "일상_밝음"
     }
   },
@@ -113,7 +113,7 @@
       "motion_ref": "the tiger cub turns and gestures to the house, ending with both arms out and the whole house in frame",
       "sig": null,
       "sfx": [
-        "발소리_풀"
+        "발소리_나무마루"
       ]
     },
     {
