@@ -33,7 +33,7 @@
       "motion": "The light inside pulses once, ending held on the shape now clearly egg-like",
       "link": "전환",
       "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
-      "motion_ref": "The light inside pulses once, ending held on the shape now clearly egg-like",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 얼음 속 빛이 한 번 맥동하고 카메라가 조금 더 밀고 들어간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -62,7 +62,7 @@
       "motion": "They freeze staring upward, ending with the arm held out and no one moving",
       "link": "연속",
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
-      "motion_ref": "They freeze staring upward, ending with the arm held out and no one moving",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 다섯이 고개를 젖히고 굳어 있고 루카의 팔이 옆으로 뻗어 나간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -87,7 +87,7 @@
       "motion": "He pushes with everything he has, ending sat down hard on the ground, the ice unmoved",
       "link": "컷",
       "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
-      "motion_ref": "He pushes with everything he has, ending sat down hard on the ground, the ice unmoved",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 온몸으로 얼음을 밀다가 발이 미끄러져 뒤로 주저앉는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -110,7 +110,7 @@
       "motion": "They breathe slowly together, ending with a large crack appearing across the ice",
       "link": "컷",
       "link_ko": "해결의 실마리만. 결말은 감춘다.",
-      "motion_ref": "They breathe slowly together, ending with a large crack appearing across the ice",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 잠든 다섯의 숨이 천천히 맞춰지고 얼음에서 물이 흘러내린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 물방울, 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물방울",
@@ -141,7 +141,7 @@
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
       },
-      "motion_ref": "The frame settles and holds, ending with the lower third completely clear",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     }

@@ -56,7 +56,7 @@
       "motion": "Window lights wink out one after another beneath the stars, ending with almost every window dark",
       "link": "전환",
       "link_ko": "7화 첫 컷. 파도 소리와 함께 밤 마을이 떠오른다.",
-      "motion_ref": "Window lights wink out one after another beneath the stars, ending with almost every window dark",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 창문 불빛이 하나씩 꺼지고 별이 반짝인다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 훅 지나가는 바람. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "바람_돌풍"
@@ -79,7 +79,7 @@
       "motion": "A single lit window glows, a shadow shifting inside, ending held on the single lit window",
       "link": "연속",
       "link_ko": "꺼진 창들 사이에서 하나만 남는다.",
-      "motion_ref": "A single lit window glows, a shadow shifting inside, ending held on the single lit window",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 그 집 창문만 노랗게 빛나고 그림자가 움직인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 훅 지나가는 바람. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "바람_돌풍"
@@ -104,7 +104,7 @@
       "motion": "The penguin bounces among the toys, wide awake, ending with him bouncing among the toys",
       "link": "연속",
       "link_ko": "그 창을 통과해 방 안으로 들어간다.",
-      "motion_ref": "The penguin bounces among the toys, wide awake, ending with him bouncing among the toys",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 장난감 사이에서 신나게 몸을 흔든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -125,7 +125,7 @@
       "motion": "The second hand sweeps steadily around, ending held on eleven with the second hand sweeping",
       "link": "컷",
       "link_ko": "노는 후안에서 벽시계로.",
-      "motion_ref": "The second hand sweeps steadily around, ending held on eleven with the second hand sweeping",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 초침이 째깍째깍 돌아간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -148,7 +148,7 @@
       "motion": "He shoves the toy boat along the floor, chattering to himself, ending with the boat pushed to the far wall",
       "link": "컷",
       "link_ko": "시계에서 후안으로 돌아온다.",
-      "motion_ref": "He shoves the toy boat along the floor, chattering to himself, ending with the boat pushed to the far wall",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 장난감 배를 바닥에 밀며 몸을 흔든다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"조금만 더! 딱 한 번만 더 하고 잘 거야.\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -169,7 +169,7 @@
       "motion": "The moon slides past a thin cloud over the still sea, ending held on the moon over the still sea",
       "link": "컷",
       "link_ko": "방에서 창밖 달로.",
-      "motion_ref": "The moon slides past a thin cloud over the still sea, ending held on the moon over the still sea",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 달이 구름 사이로 지나가고 바다가 잔잔하다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 훅 지나가는 바람. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "바람_돌풍"
@@ -194,7 +194,7 @@
       "motion": "He yawns wide, then shakes his head to fight it off, ending with his head shaken hard, eyes forced open",
       "link": "컷",
       "link_ko": "달에서 방으로. 후안이 하품한다.",
-      "motion_ref": "He yawns wide, then shakes his head to fight it off, ending with his head shaken hard, eyes forced open",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 크게 하품하고 고개를 세차게 흔든다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -217,7 +217,7 @@
       "motion": "The box tips and toys clatter out across the floor, ending with the toys fully spilled across the floor",
       "link": "연속",
       "link_ko": "졸음을 쫓고 다시 상자를 뒤집는다.",
-      "motion_ref": "The box tips and toys clatter out across the floor, ending with the toys fully spilled across the floor",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 상자를 뒤집자 장난감이 쏟아진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -238,7 +238,7 @@
       "motion": "The hands creep past midnight, ending held on the hands past midnight",
       "link": "컷",
       "link_ko": "쏟아진 장난감에서 시계로. 시간이 흘렀다.",
-      "motion_ref": "The hands creep past midnight, ending held on the hands past midnight",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 바늘이 열두 시를 지나 움직인다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -261,7 +261,7 @@
       "motion": "His head droops forward and snaps back up, ending with his head dropping and not coming back up",
       "link": "컷",
       "link_ko": "시계에서 후안으로. 이번엔 못 버틴다.",
-      "motion_ref": "His head droops forward and snaps back up, ending with his head dropping and not coming back up",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄의 고개가 앞으로 꾸벅 떨어졌다 올라온다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 나무가 갈라지거나 삐걱대는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "나무_삐걱"
@@ -286,7 +286,7 @@
       "motion": "He keels over onto the toys and sleeps, ending with him fully down on the toy pile, asleep",
       "link": "연속",
       "link_ko": "떨어진 고개가 그대로 몸까지 쓰러진다.",
-      "motion_ref": "He keels over onto the toys and sleeps, ending with him fully down on the toy pile, asleep",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 옆으로 쓰러지며 장난감 위에 눕는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -309,7 +309,7 @@
       "motion": "The room falls still, only the clock moving, ending held on the still room with the light on",
       "link": "컷",
       "link_ko": "쓰러진 후안에서 방 전체로.",
-      "motion_ref": "The room falls still, only the clock moving, ending held on the still room with the light on",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 불빛 아래 방이 고요해지고 시계만 움직인다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -330,7 +330,7 @@
       "motion": "The sky lightens slowly from black toward blue, ending with the sky fully deep blue",
       "link": "컷",
       "link_ko": "방에서 창밖 하늘로.",
-      "motion_ref": "The sky lightens slowly from black toward blue, ending with the sky fully deep blue",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 하늘색이 검정에서 남색으로 천천히 바뀐다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 훅 지나가는 바람. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "바람_돌풍"
@@ -353,7 +353,7 @@
       "motion": "Sunlight pours over the sill and fills the room, ending with sunlight full across the toy-strewn floor",
       "link": "연속",
       "link_ko": "밝아지던 하늘에서 해가 뜬다.",
-      "motion_ref": "Sunlight pours over the sill and fills the room, ending with sunlight full across the toy-strewn floor",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 햇빛이 창을 넘어 방 안 가득 쏟아진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 물살이 세지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물_흐름_변화"
@@ -381,7 +381,7 @@
         "sec": 0.6,
         "why": "밤새운 방에서 대낮 해변으로. 눈이 부시게"
       },
-      "motion_ref": "Flags snap in the breeze above the waiting rope, ending held on the laid-out rope and the crowd",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 깃발이 바닷바람에 펄럭이고 밧줄이 팽팽하게 놓여 있다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -407,7 +407,7 @@
       "motion": "The four grip the rope and set their feet, ending with all four gripping, feet set",
       "link": "컷",
       "link_ko": "그 밧줄을 넷이 잡는다.",
-      "motion_ref": "The four grip the rope and set their feet, ending with all four gripping, feet set",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 넷이 밧줄을 잡고 자세를 잡는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -430,7 +430,7 @@
       "motion": "He twists around to shout back along the line, ending with him twisted back, mid-shout",
       "link": "컷",
       "link_ko": "줄 앞에서 루카가 뒤를 향해 외친다.",
-      "motion_ref": "He twists around to shout back along the line, ending with him twisted back, mid-shout",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 고개를 돌려 뒤쪽을 향해 외친다.\n[대사] 호랑이가 입을 크게 벌려 또박또박 한국어로 말한다: \"다들 준비됐지? 후안, 너 뒤쪽 맡아!\" 여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서.\n[소리] 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "환호"
@@ -455,7 +455,7 @@
       "motion": "His eyelids sink halfway closed, ending with his eyelids halfway down",
       "link": "연속",
       "link_ko": "루카가 외친 그 뒤쪽. 후안의 눈이 감긴다.",
-      "motion_ref": "His eyelids sink halfway closed, ending with his eyelids halfway down",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄의 눈꺼풀이 반쯤 내려온다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -476,7 +476,7 @@
       "motion": "The rope snaps tight, feet gouging into the sand, ending with the rope snapped fully taut",
       "link": "컷",
       "link_ko": "호루라기가 울리고 시합이 시작된다.",
-      "motion_ref": "The rope snaps tight, feet gouging into the sand, ending with the rope snapped fully taut",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 밧줄이 팽팽해지고 발들이 모래를 파고든다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 나무가 갈라지거나 삐걱대는 소리, 흙 파는 소리, 호루라기. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "나무_삐걱",
@@ -504,7 +504,7 @@
       "motion": "They haul back hard, gaining ground, ending with both leaning far back, gaining",
       "link": "컷",
       "link_ko": "팽팽한 줄을 루카와 티니가 당긴다.",
-      "motion_ref": "They haul back hard, gaining ground, ending with both leaning far back, gaining",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다, 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 데님 오버올·앞주머니의 고글·늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 둘이 온몸으로 밧줄을 당기고 몸이 뒤로 기운다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -527,7 +527,7 @@
       "motion": "The rope slips free as his eyes close, ending with the rope free and his eyes fully shut",
       "link": "연속",
       "link_ko": "당기는 그 줄이 후안의 손에서 미끄러진다.",
-      "motion_ref": "The rope slips free as his eyes close, ending with the rope free and his eyes fully shut",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄의 날개에서 밧줄이 미끄러지고 눈이 완전히 감긴다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -550,7 +550,7 @@
       "motion": "He sways asleep on his feet as the rope wrenches away, ending with the rope wrenched hard away",
       "link": "연속",
       "link_ko": "놓친 줄이 그대로 반대쪽으로 끌려간다.",
-      "motion_ref": "He sways asleep on his feet as the rope wrenches away, ending with the rope wrenched hard away",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 선 채로 흔들리고 밧줄이 반대쪽으로 확 끌려간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -575,7 +575,7 @@
       "motion": "The three are hauled forward and spill onto the sand, ending with the three in a heap on the sand",
       "link": "연속",
       "link_ko": "끌려간 줄에 셋이 딸려가 넘어진다.",
-      "motion_ref": "The three are hauled forward and spill onto the sand, ending with the three in a heap on the sand",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 셋이 줄줄이 끌려가 모래에 넘어진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 부딪히거나 넘어지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "충돌_쿵"
@@ -602,7 +602,7 @@
       "motion": "The other side erupts as the three pick themselves up, ending with the three sitting up, brushing sand",
       "link": "컷",
       "link_ko": "넘어진 셋과 반대쪽 환호.",
-      "motion_ref": "The other side erupts as the three pick themselves up, ending with the three sitting up, brushing sand",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 반대편 사람들이 환호하고 넷은 모래를 털며 일어난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "환호"
@@ -627,7 +627,7 @@
       "motion": "He blinks awake, bewildered, ending with him blinking, looking around, lost",
       "link": "컷",
       "link_ko": "일어나는 셋 옆에서 후안이 눈을 뜬다.",
-      "motion_ref": "He blinks awake, bewildered, ending with him blinking, looking around, lost",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 눈을 깜빡이며 주위를 둘러본다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -650,7 +650,7 @@
       "motion": "She dusts herself off and comes over, head tilted, ending with her head tilted, waiting",
       "link": "컷",
       "link_ko": "깬 후안에게 티니가 다가온다.",
-      "motion_ref": "She dusts herself off and comes over, head tilted, ending with her head tilted, waiting",
+      "motion_ref": "[외형] 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지가 모래를 털며 다가와 고개를 갸웃한다.\n[대사] 강아지가 입을 크게 벌려 또박또박 한국어로 말한다: \"후안 오빠, 자고 있었어?\" 다섯 살 여자아이 목소리, 아주 빠르고 높게, 숨이 살짝 찬 채로.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -673,7 +673,7 @@
       "motion": "His head sinks low, shoulders collapsing, ending with his beak pointed at the sand",
       "link": "연속",
       "link_ko": "티니의 물음에 후안이 고개를 숙인다.",
-      "motion_ref": "His head sinks low, shoulders collapsing, ending with his beak pointed at the sand",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 고개를 깊이 숙이고 어깨가 처진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"...미안해. 진짜 미안해.\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -697,7 +697,7 @@
       "motion": "He drops into a crouch beside his friend, ending with him crouched at eye level",
       "link": "컷",
       "link_ko": "숙인 후안 옆에 루카가 앉는다.",
-      "motion_ref": "He drops into a crouch beside his friend, ending with him crouched at eye level",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다, 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 데님 오버올·앞주머니의 고글·빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 몸을 낮춰 옆에 앉는다.\n[대사] 호랑이가 입을 크게 벌려 또박또박 한국어로 말한다: \"괜찮아. 근데 너 요즘 계속 졸잖아.\" 여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -720,7 +720,7 @@
       "motion": "He draws his knees in and hugs them, ending curled tight around his own knees",
       "link": "연속",
       "link_ko": "루카의 말에 후안이 무릎을 안는다.",
-      "motion_ref": "He draws his knees in and hugs them, ending curled tight around his own knees",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 몸을 웅크리고 무릎을 끌어안는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"밤에 자기 싫어. 자면 재미있는 게 끝나잖아.\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -744,7 +744,7 @@
       "motion": "The baby dinosaur watches him in silence, ending held on {쿵쿵} watching, unmoving",
       "link": "컷",
       "link_ko": "웅크린 후안을 쿵쿵이가 본다.",
-      "motion_ref": "The baby dinosaur watches him in silence, ending held on 쿵쿵 watching, unmoving",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나·빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 가만히 서서 후안을 바라본다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -773,7 +773,7 @@
         "sec": 0.7,
         "why": "낮 해변에서 그날 밤 방으로"
       },
-      "motion_ref": "He rests his paws on the sill and peers inside, ending with him at the sill, looking in",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나·빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 창턱에 앞발을 얹고 안을 들여다본다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 훅 지나가는 바람. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "바람_돌풍"
@@ -798,7 +798,7 @@
       "motion": "He pushes toys around amid the clutter, ending with the toys spread and him still playing",
       "link": "연속",
       "link_ko": "창 너머로 보이는 것이 이 컷이다.",
-      "motion_ref": "He pushes toys around amid the clutter, ending with the toys spread and him still playing",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 장난감을 밀며 놀고 있다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -822,7 +822,7 @@
       "motion": "The baby dinosaur pads in and sits down beside him, ending seated on the floor beside {후안}",
       "link": "컷",
       "link_ko": "보고 있던 쿵쿵이가 방으로 들어온다.",
-      "motion_ref": "The baby dinosaur pads in and sits down beside him, ending seated on the floor beside 후안",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나·빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 방으로 들어와 옆자리에 앉는다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"후안 형, 나랑 같이 자자. 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -845,7 +845,7 @@
       "motion": "He turns his back on the offer, ending with his back fully turned",
       "link": "컷",
       "link_ko": "쿵쿵이의 제안을 후안이 거절한다.",
-      "motion_ref": "He turns his back on the offer, ending with his back fully turned",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 몸을 돌려 등을 보인다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"싫어. 안 졸려.\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -868,7 +868,7 @@
       "motion": "His eyes close, breathing slow and gentle, ending with his breathing slowed and eyes closed",
       "link": "컷",
       "link_ko": "돌아앉은 후안 뒤에서 쿵쿵이가 눈을 감는다.",
-      "motion_ref": "His eyes close, breathing slow and gentle, ending with his breathing slowed and eyes closed",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 눈을 감고 숨을 천천히 들이쉰다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -891,7 +891,7 @@
       "motion": "The faint light creeps slowly up the horns, ending with the faint light at the horn tips",
       "link": "연속",
       "link_ko": "감은 눈과 함께 뿔에 빛이 차오른다.",
-      "motion_ref": "The faint light creeps slowly up the horns, ending with the faint light at the horn tips",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 빛이 아주 느리게 뿔을 타고 번져 오른다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 느리게 내려가는 실로폰 자장가 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": "쿵쿵_자장가",
       "sfx": []
     },
@@ -912,7 +912,7 @@
       "motion": "Waves of light ripple across the walls like an aurora, ending with the walls and ceiling fully rippling",
       "link": "연속",
       "link_ko": "뿔의 빛이 방 전체로 번진다.",
-      "motion_ref": "Waves of light ripple across the walls like an aurora, ending with the walls and ceiling fully rippling",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 빛의 물결이 벽과 천장을 따라 오로라처럼 일렁인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 느리게 내려가는 실로폰 자장가 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": "쿵쿵_자장가",
       "sfx": []
     },
@@ -935,7 +935,7 @@
       "motion": "He turns and gazes up at the glowing room, ending with him looking straight up at the ceiling",
       "link": "연속",
       "link_ko": "번진 빛에 후안이 돌아본다.",
-      "motion_ref": "He turns and gazes up at the glowing room, ending with him looking straight up at the ceiling",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 천천히 돌아보며 천장을 올려다본다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -956,7 +956,7 @@
       "motion": "The ceiling light rolls in slow waves, like water, ending held on the slow rolling waves of light",
       "link": "연속",
       "link_ko": "후안이 올려다본 그 천장.",
-      "motion_ref": "The ceiling light rolls in slow waves, like water, ending held on the slow rolling waves of light",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 천장의 빛무늬가 파도처럼 밀려왔다 물러간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 돌이나 덩어리가 굴러가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "돌_굴림"
@@ -981,7 +981,7 @@
       "motion": "His eyelids drift down, unresisting, ending with his eyelids drifting almost shut",
       "link": "컷",
       "link_ko": "천장에서 후안의 눈으로.",
-      "motion_ref": "His eyelids drift down, unresisting, ending with his eyelids drifting almost shut",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄의 눈꺼풀이 천천히 내려온다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1004,7 +1004,7 @@
       "motion": "He mumbles sleepily, eyes half shut, ending with his eyes almost fully closed",
       "link": "연속",
       "link_ko": "감기는 눈으로 후안이 웅얼거린다.",
-      "motion_ref": "He mumbles sleepily, eyes half shut, ending with his eyes almost fully closed",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 눈을 반쯤 감고 작게 웅얼거린다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"...쿵쿵아. 이거 예쁘다.\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1027,7 +1027,7 @@
       "motion": "He clambers into bed and drags the blanket up, ending with the blanket pulled up to his chin",
       "link": "연속",
       "link_ko": "웅얼거리던 후안이 침대로 올라간다.",
-      "motion_ref": "He clambers into bed and drags the blanket up, ending with the blanket pulled up to his chin",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 침대로 올라가 이불을 끌어당긴다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1050,7 +1050,7 @@
       "motion": "He sits by the bed, the gentle light still flowing, ending with him seated still, the light continuing",
       "link": "컷",
       "link_ko": "침대 옆에 쿵쿵이가 앉는다.",
-      "motion_ref": "He sits by the bed, the gentle light still flowing, ending with him seated still, the light continuing",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 침대 옆에 앉아 있고 빛이 계속 흐른다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1073,7 +1073,7 @@
       "motion": "The blanket lifts and settles in a slow, even rhythm, ending with the rhythm slow and completely even",
       "link": "컷",
       "link_ko": "앉은 쿵쿵이 옆 이불의 움직임.",
-      "motion_ref": "The blanket lifts and settles in a slow, even rhythm, ending with the rhythm slow and completely even",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 이불이 숨결에 맞춰 천천히 오르내린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1096,7 +1096,7 @@
       "motion": "The glow thins slowly and the room settles into dark, ending with the glow gone and the room dark and quiet",
       "link": "컷",
       "link_ko": "이불에서 방 전체로. 빛이 잦아든다.",
-      "motion_ref": "The glow thins slowly and the room settles into dark, ending with the glow gone and the room dark and quiet",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 빛이 천천히 잦아들고 방이 어두워진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1124,7 +1124,7 @@
         "sec": 0.75,
         "why": "현실에서 꿈으로 들어간다"
       },
-      "motion_ref": "He drifts slowly among the stars, ending with him drifting among the stars",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 별들 사이를 천천히 떠간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1147,7 +1147,7 @@
       "motion": "His flippers spread and he sweeps upward, ending with him sweeping upward, flippers full out",
       "link": "연속",
       "link_ko": "떠 있던 후안이 날개를 편다.",
-      "motion_ref": "His flippers spread and he sweeps upward, ending with him sweeping upward, flippers full out",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 날개를 펼치고 위로 솟구친다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1170,7 +1170,7 @@
       "motion": "He banks into a curve, laughing with joy, ending mid-bank, grinning wide",
       "link": "연속",
       "link_ko": "솟아오른 그대로 곡선을 그린다.",
-      "motion_ref": "He banks into a curve, laughing with joy, ending mid-bank, grinning wide",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 몸을 기울여 곡선을 그리며 웃는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"나 난다! 진짜로 날고 있어!\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "환호"
@@ -1195,7 +1195,7 @@
       "motion": "He passes through the aurora, light streaming over him, ending with light streaming over his whole body",
       "link": "연속",
       "link_ko": "곡선을 그리다 오로라 띠로 들어간다.",
-      "motion_ref": "He passes through the aurora, light streaming over him, ending with light streaming over his whole body",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 오로라 띠를 통과하며 빛에 감싸인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1223,7 +1223,7 @@
         "sec": 0.45,
         "why": "꿈에서 잠깐 잠든 얼굴로"
       },
-      "motion_ref": "A smile spreads over his sleeping face, ending with the smile fully spread",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 잠든 얼굴에 미소가 번진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1251,7 +1251,7 @@
         "sec": 0.45,
         "why": "다시 꿈으로"
       },
-      "motion_ref": "He glides low over the tiny dream village, ending gliding low over the dream village",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 마을 위를 낮게 스치듯 날아간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -1279,7 +1279,7 @@
       "motion": "They wave up and he waves a flipper in return, ending with the flipper raised in return",
       "link": "연속",
       "link_ko": "낮게 날다 아래의 친구들과 눈이 마주친다.",
-      "motion_ref": "They wave up and he waves a flipper in return, ending with the flipper raised in return",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 아래에서 친구들이 손을 흔들고 후안이 날개를 흔든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1302,7 +1302,7 @@
       "motion": "He recedes into the starlight as the frame brightens, ending with the frame washed to white",
       "link": "연속",
       "link_ko": "손을 흔든 그대로 별빛 속으로 멀어진다.",
-      "motion_ref": "He recedes into the starlight as the frame brightens, ending with the frame washed to white",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 별빛 속으로 멀어지며 화면이 밝아진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1330,7 +1330,7 @@
         "sec": 0.7,
         "why": "별빛 속에서 아침으로 깨어난다"
       },
-      "motion_ref": "Morning light crosses the tidy, empty room, ending held on the tidy empty room",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아침 빛이 정돈된 방을 비춘다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1353,7 +1353,7 @@
       "motion": "He races over the sand, flippers flung wide, ending with him running with both flippers spread",
       "link": "컷",
       "link_ko": "빈 방에서 해변으로. 후안은 이미 나가 있다.",
-      "motion_ref": "He races over the sand, flippers flung wide, ending with him running with both flippers spread",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 모래 위를 달리며 날개를 활짝 편다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"오늘은 하나도 안 졸려!\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 나무 마루 발소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_나무마루"
@@ -1381,7 +1381,7 @@
       "motion": "They grip the rope, the penguin's eyes wide awake, ending with all four gripping, his eyes wide awake",
       "link": "연속",
       "link_ko": "달려온 후안이 밧줄 앞에 선다.",
-      "motion_ref": "They grip the rope, the penguin's eyes wide awake, ending with all four gripping, his eyes wide awake",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 넷이 밧줄을 잡고 자세를 잡고 후안이 눈을 크게 뜬다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1402,7 +1402,7 @@
       "motion": "They lean back as one, the rope coming over, ending with the rope coming steadily their way",
       "link": "연속",
       "link_ko": "잡은 밧줄을 넷이 당긴다.",
-      "motion_ref": "They lean back as one, the rope coming over, ending with the rope coming steadily their way",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 넷이 뒤로 기울며 밧줄을 끌어당긴다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1425,7 +1425,7 @@
       "motion": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
       "link": "컷",
       "link_ko": "당기는 중에 쿵쿵이의 얼굴로.",
-      "motion_ref": "The baby dinosaur puffs up and beams, ending with his chest puffed and smile held",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 가슴을 펴고 활짝 웃는다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"잘 자라 후안, 꿈속에서도 씩씩하게 날아가렴, 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1451,7 +1451,7 @@
       "motion": "They lift the rope and cheer, the sea flashing behind, ending with the rope held up and all four cheering",
       "link": "연속",
       "link_ko": "쿵쿵이의 말과 함께 넷이 이긴다.",
-      "motion_ref": "They lift the rope and cheer, the sea flashing behind, ending with the rope held up and all four cheering",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 넷이 밧줄을 들어 올리며 환호하고 파도가 반짝인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "환호"
@@ -1479,7 +1479,7 @@
       "motion": "Waves roll in as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드.",
-      "motion_ref": "Waves roll in as the camera eases back",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 파도가 밀려오고 화면이 아주 느리게 물러난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     }

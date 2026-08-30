@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""컷 시트 — 컷별 한국어 설명과 영문 프롬프트. 어느 화든 인자로 받는다.
+"""컷 시트 — 컷별 한국어 설명과 생성 프롬프트(이미지=영어, 영상=한국어). 어느 화든 인자로 받는다.
 
 저장소 데이터(episodes/<ep>/prompts/*.json)에서 직접 읽어 site/dist/ 에 HTML을 만든다.
     python3 site/build.py            # 세 페이지 전부
@@ -272,7 +272,7 @@ footer{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);color:v
 <header class="top">
   <p class="eyebrow">쿵쿵이와 친구들 · 시즌 __SEASON__</p>
   <h1>__NO__ 「__TITLE__」 컷 시트</h1>
-  <p class="sub">대본을 __CUTS__컷으로 분해한 작업 시트입니다. 컷 내용은 한국어로 읽고, 붙여넣을 영문 프롬프트는 버튼 한 번으로 복사하세요. 완료한 컷을 체크해 두면 진행 상황이 이 브라우저에 저장됩니다.</p>
+  <p class="sub">대본을 __CUTS__컷으로 분해한 작업 시트입니다. 컷 내용은 한국어로 읽고, 붙여넣을 프롬프트는 버튼 한 번으로 복사하세요. 이미지 프롬프트는 영어, 영상 프롬프트는 한국어입니다. 완료한 컷을 체크해 두면 진행 상황이 이 브라우저에 저장됩니다.</p>
 
   <div class="guide">
     <h2>OpenArt 작업 순서</h2>
@@ -321,7 +321,7 @@ footer{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);color:v
     </div>
     <ol>
       <li><strong>화면</strong> 설명대로 키프레임 이미지를 만듭니다. 비율 <code>16:9</code>, 모델은 <strong>Nano Banana 2</strong>. 컷에 적힌 <strong>등장 캐릭터를 지정</strong>하고 <strong>영문 프롬프트 복사</strong>를 눌러 붙여넣습니다. <strong>배경</strong>이라고 적힌 18컷은 캐릭터가 없으니 그냥 만들면 됩니다.</li>
-      <li>키프레임을 <strong>Image to Video</strong>에 넣고 <strong>움직임</strong> 쪽 영문 프롬프트를 붙여넣습니다. 모델은 <strong>MiniMax H3</strong>(무제한), 길이는 컷에 적힌 초.</li>
+      <li>키프레임을 <strong>Image to Video</strong>에 넣고 <strong>움직임</strong> 쪽 <strong>영상 프롬프트</strong>를 붙여넣습니다. 이건 <strong>한국어</strong>입니다 &mdash; 영어로 바꾸면 대사를 통째로 건너뜁니다. 모델은 <strong>MiniMax H3</strong>(무제한), 길이는 컷에 적힌 초.</li>
       <li>받은 mp4를 <code>SC1-01.mp4</code>처럼 <strong>컷 번호 그대로</strong> 저장합니다. 이어붙일 때 이 이름이 기준이 됩니다.</li>
       <li><strong>나레이션</strong>은 화면 밖 목소리라 립싱크가 필요 없습니다. TTS로 만들어 편집에서 얹으면 됩니다.</li>
     </ol>
@@ -422,9 +422,9 @@ for (const s of DATA.shots) {
         <details class="en"><summary>영문 프롬프트 보기</summary><pre id="i${idx}">${esc(s.img)}</pre></details>
       </div>
       <div class="block">
-        <div class="label"><span>카메라 · 움직임</span><span class="tools"><button class="copy" data-copy="m${idx}">영문 프롬프트 복사</button></span></div>
+        <div class="label"><span>카메라 · 움직임</span><span class="tools"><button class="copy" data-copy="m${idx}">영상 프롬프트 복사</button></span></div>
         <p class="ko">${esc(s.komo)}</p>
-        <details class="en"><summary>영문 프롬프트 보기</summary><pre id="m${idx}">${esc(s.mo)}</pre></details>
+        <details class="en"><summary>영상 프롬프트 보기 (한국어)</summary><pre id="m${idx}">${esc(s.mo)}</pre></details>
       </div>
       ${(s.sig || s.sfx.length) ? `<div class="sfx">${s.sig ? `<span class="sig">능력 소리 ${esc(s.sig)}</span>` : ""}${s.sfx.map(x => `<span class="s">${esc(x)}</span>`).join("")}</div>` : ""}
     </div>

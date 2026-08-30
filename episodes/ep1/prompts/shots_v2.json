@@ -53,7 +53,7 @@
       "motion": "The aurora ripples slowly across the sky, fine snow drifting over the ice, camera creeping forward, settling into a slow hold with the aurora filling the upper frame",
       "link": "전환",
       "link_ko": "1화 첫 컷. 검은 화면에서 오로라가 서서히 떠오른다.",
-      "motion_ref": "The aurora ripples slowly across the sky, fine snow drifting over the ice, camera creeping forward, settling into a slow hold with the aurora filling the upper frame",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 오로라가 천천히 물결치고 눈가루가 얼음 위를 흐른다. 카메라가 아주 느리게 앞으로 밀고 들어간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 눈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_눈"
@@ -76,7 +76,7 @@
       "motion": "The meteor tears across the sky trailing sparks, its light sweeping over the ice below, ending with the meteor low in frame and the ice below fully lit",
       "link": "연속",
       "link_ko": "앞 컷의 오로라 하늘 그대로. 그 하늘 위쪽에서 유성이 프레임 안으로 들어온다.",
-      "motion_ref": "The meteor tears across the sky trailing sparks, its light sweeping over the ice below, ending with the meteor low in frame and the ice below fully lit",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 유성이 불꽃을 흩뿌리며 하늘을 찢고 지나가고, 그 빛이 얼음 위를 훑고 간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -99,7 +99,7 @@
       "motion": "The meteor core tumbles as fragments break away and stream past camera, glowing brighter, ending with the core filling the frame just before impact",
       "link": "컷",
       "link_ko": "떨어지는 동작이 이어진다. 앞 컷에서 시작된 낙하가 이 컷에서 가속된다.",
-      "motion_ref": "The meteor core tumbles as fragments break away and stream past camera, glowing brighter, ending with the core filling the frame just before impact",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 유성 핵이 회전하며 파편이 카메라 옆으로 스쳐 흐르고, 빛은 점점 강해진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 부딪히거나 넘어지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "충돌_쿵"
@@ -127,7 +127,7 @@
         "sec": 0.45,
         "why": "유성이 얼음판에 부딪히는 순간. 빛으로 터뜨려 넘긴다"
       },
-      "motion_ref": "The meteor hits and a ring of light blasts outward across the ice, snow and shards flying, the aurora flaring in response, ending as the blast dims and settles into drifting snow",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 충돌과 동시에 빛의 고리가 얼음 위로 터져 나가고, 하늘의 오로라도 함께 크게 일렁인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 눈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_눈"
@@ -150,7 +150,7 @@
       "motion": "Steam curls up from the glowing fragments, light pulsing softly through the crater walls, ending with the camera settled on the crater floor, steam still rising",
       "link": "컷",
       "link_ko": "충격파가 가라앉은 뒤. 같은 자리를 조금 물러서서 본다.",
-      "motion_ref": "Steam curls up from the glowing fragments, light pulsing softly through the crater walls, ending with the camera settled on the crater floor, steam still rising",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 파편에서 김이 피어오르고 크레이터 벽을 따라 빛이 은은하게 맥동한다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -173,7 +173,7 @@
       "motion": "Waves of golden-teal light travel through the ice and sink into the egg, the shell slowly brightening, ending with the egg centred and glowing steadily in frame",
       "link": "연속",
       "link_ko": "앞 컷 끝 위치에서 카메라가 그대로 크레이터 벽의 알 쪽으로 밀고 들어간다.",
-      "motion_ref": "Waves of golden-teal light travel through the ice and sink into the egg, the shell slowly brightening, ending with the egg centred and glowing steadily in frame",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 황금빛 청록 파장이 얼음을 통과해 알로 스며들고, 껍질이 서서히 밝아진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -196,7 +196,7 @@
       "motion": "The light inside the egg pulses once, then again, slower and stronger, like a first breath, ending on a held close-up as the light inside settles into a slow steady pulse",
       "link": "연속",
       "link_ko": "밝아진 알 표면으로 그대로 더 밀고 들어간다.",
-      "motion_ref": "The light inside the egg pulses once, then again, slower and stronger, like a first breath, ending on a held close-up as the light inside settles into a slow steady pulse",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 알 속 빛이 한 번, 다시 한 번 — 더 느리고 더 강하게 맥동한다. 첫 숨 같은 느낌. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -217,7 +217,7 @@
       "motion": "Camera rises and pulls back over the frozen land, the egg's glow shrinking to a single warm point beneath the aurora, ending with the glow reduced to one small warm point in a vast dark field",
       "link": "컷",
       "link_ko": "알에서 물러나 크게 빠진다. 다음 장면(숲)으로 넘길 준비.",
-      "motion_ref": "Camera rises and pulls back over the frozen land, the egg's glow shrinking to a single warm point beneath the aurora, ending with the glow reduced to one small warm point in a vast dark field",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 카메라가 상승하며 뒤로 빠지고, 알의 빛이 오로라 아래 작은 점 하나로 줄어든다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -240,7 +240,7 @@
       "motion": "Sunlight breaks through drifting clouds over the wet forest, water dripping from leaves, the swollen river rushing past, ending with the camera settled low over the wet riverbank",
       "link": "전환",
       "link_ko": "매치컷. 앞 컷 끝의 작은 따뜻한 빛점이 이 컷 첫 프레임의 아침 햇살로 바뀐다.",
-      "motion_ref": "Sunlight breaks through drifting clouds over the wet forest, water dripping from leaves, the swollen river rushing past, ending with the camera settled low over the wet riverbank",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 구름 사이로 햇살이 들어오고, 잎에서 물방울이 떨어지며 불어난 강이 세차게 흐른다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -269,7 +269,7 @@
       "motion": "The five friends come out of the trees splashing through puddles, looking around at the storm damage, ending with the five spread across the bank, all facing right",
       "link": "컷",
       "link_ko": "그 강가로 다섯이 들어온다. 화면 왼쪽에서 오른쪽으로 이동 — 이후 컷도 이 방향을 지킨다.",
-      "motion_ref": "The five friends come out of the trees splashing through puddles, looking around at the storm damage, ending with the five spread across the bank, all facing right",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 다섯이 물웅덩이를 첨벙이며 숲에서 나와 폭풍이 남긴 자리를 둘러본다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 물에 발이 들어가는 소리, 먼 천둥. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈",
@@ -296,7 +296,7 @@
       "motion": "The puppy bounds ahead sniffing the ground, tail whipping, then freezes and lifts his head sharply, ending with the puppy frozen still, head up and locked on something off-frame right",
       "link": "컷",
       "link_ko": "티니만 앞서 나간다. 이동 방향은 그대로 오른쪽.",
-      "motion_ref": "The puppy bounds ahead sniffing the ground, tail whipping, then freezes and lifts his head sharply, ending with the puppy frozen still, head up and locked on something off-frame right",
+      "motion_ref": "[외형] 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지가 냄새를 맡으며 앞서 뛰다가 갑자기 멈춰 고개를 번쩍 든다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -324,7 +324,7 @@
       "motion": "Camera pushes in past the friends toward the ice block, sunlight refracting through it, water rushing around its base, ending with the ice block filling frame and the pale shape inside just readable",
       "link": "연속",
       "link_ko": "시선 이동. 앞 컷에서 티니가 본 방향으로 카메라가 그대로 밀고 들어간다.",
-      "motion_ref": "Camera pushes in past 쿵쿵, 루카, 후안, 미미, 티니, 루비 toward the ice block, sunlight refracting through it, water rushing around its base, ending with the ice block filling frame and the pale shape inside just readable",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 카메라가 친구들을 지나 얼음덩어리로 밀고 들어간다. 햇빛이 얼음에 굴절되고 물이 밑둥을 감아 흐른다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -353,7 +353,7 @@
       "motion": "The friends stop short and stare upward, [루카] flinging out an arm to hold them back, ending frozen in a held tableau, every face tilted up",
       "link": "컷",
       "link_ko": "얼음을 본 다섯의 반응. 앞 컷의 밀고 들어가던 속도를 반응 컷에서 멈춘다.",
-      "motion_ref": "The friends stop short and stare upward, 루카 flinging out an arm to hold them back, ending frozen in a held tableau, every face tilted up",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 급히 멈춰 서서 위를 올려다보고, 루카가 팔을 뻗어 친구들을 막는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -380,7 +380,7 @@
       "image_suffix": "The goggles are a prop he takes out of his pocket in this shot only — everything else about him stays exactly as the registered design.",
       "link": "컷",
       "link_ko": "그중 루카만 앞으로 나온다. 앞 컷 마지막 자세에서 이어진다.",
-      "motion_ref": "The tiger cub digs the goggles out of his overall pocket, snaps them on over his eyes, and presses close to the ice, eyes going wide behind the lenses, ending with his goggled eyes pressed right against the ice",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 주머니에서 고글을 꺼내 척 쓰고 얼음에 바짝 붙는다. 렌즈 너머로 눈이 커진다.\n[대사] 호랑이가 입을 크게 벌려 또박또박 한국어로 말한다: \"우와! 이것 좀 봐! 얼음 안에 진짜 커다란 알이 있어!\" 여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서.\n[소리] 나무가 갈라지거나 삐걱대는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "나무_삐걱"
@@ -403,7 +403,7 @@
       "motion": "The camera drifts through the clearing ice as the egg's shape resolves, a slow ripple of teal light crossing its surface, ending held on the egg's curve with one last ripple of teal crossing it",
       "link": "연속",
       "link_ko": "루카의 시선 그대로. 고글 너머로 보이는 것이 이 컷이다.",
-      "motion_ref": "The camera drifts through the clearing ice as the egg's shape resolves, a slow ripple of teal light crossing its surface, ending held on the egg's curve with one last ripple of teal crossing it",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 카메라가 맑아지는 얼음을 통과하며 알의 형태가 드러나고, 청록 빛이 표면을 느리게 훑고 지나간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -428,7 +428,7 @@
       "motion": "The koala pushes her glasses up and leans in, the teal glow moving across her lenses as she studies it, ending with her still leaning in, the glow steady on her lenses",
       "link": "컷",
       "link_ko": "같은 얼음, 다른 인물. 미미가 루카가 있던 자리 옆으로 들어온다.",
-      "motion_ref": "The koala pushes her glasses up and leans in, the teal glow moving across her lenses as she studies it, ending with her still leaning in, the glow steady on her lenses",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 안경을 올려 쓰고 몸을 기울이자 청록 빛이 렌즈 위를 지나간다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"이상해... 얼음 속에서 따뜻한 오로라 빛이 흘러나오고 있어.\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -453,7 +453,7 @@
       "motion": "The penguin presses his flippers and cheek to the ice, then jerks back with a shiver and shakes himself, ending with him a step back from the ice, shaking off the cold",
       "link": "컷",
       "link_ko": "후안이 반대쪽에서 다가온다. 화면 방향 유지.",
-      "motion_ref": "The penguin presses his flippers and cheek to the ice, then jerks back with a shiver and shakes himself, ending with him a step back from the ice, shaking off the cold",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 얼음에 몸을 붙였다가 부르르 떨며 뒤로 물러나 몸을 턴다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈",
@@ -479,7 +479,7 @@
       "motion": "The rabbit presses both paws to the ice and turns to the others with a determined, gentle look, ending with her turned fully to the others, paws still on the ice",
       "link": "컷",
       "link_ko": "루비가 앞으로 나선다. 이 장면의 결정적 대사.",
-      "motion_ref": "The rabbit presses both paws to the ice and turns to the others with a determined, gentle look, ending with her turned fully to the others, paws still on the ice",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 두 발을 얼음에 대고 친구들 쪽으로 돌아보며 다정하고 단호한 표정을 짓는다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"알이 추워 보여. 우리가 꼭 안아줘서 녹여주자!\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -508,7 +508,7 @@
       "motion": "The friends exchange looks around the circle, each nodding in turn, resolve building, ending with all five nodding and turning back toward the ice together",
       "link": "컷",
       "link_ko": "루비의 말에 대한 반응. 다섯이 서로를 본다.",
-      "motion_ref": "The friends exchange looks around the circle, each nodding in turn, resolve building, ending with all five nodding and turning back toward the ice together",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 서로 눈빛을 주고받고 차례로 고개를 끄덕이며 각오를 다진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -537,7 +537,7 @@
       "motion": "The friends step in together and wrap themselves against the ice from all sides, hugging it tight, ending with all five pressed to the ice, holding still, breath steaming",
       "link": "연속",
       "link_ko": "앞 컷에서 돌아선 그 동작 그대로 다섯이 얼음으로 다가간다.",
-      "motion_ref": "The friends step in together and wrap themselves against the ice from all sides, hugging it tight, ending with all five pressed to the ice, holding still, breath steaming",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 동시에 다가가 사방에서 얼음을 꼭 끌어안는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈",
@@ -572,7 +572,7 @@
         "sec": 0.7,
         "why": "낮에서 밤으로. 시간이 크게 건너뛴다"
       },
-      "motion_ref": "The sleeping friends breathe slowly together, mist drifting past, meltwater trickling from the ice, ending held on the sleeping circle, meltwater still trickling",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 잠든 친구들의 숨이 함께 오르내리고 안개가 흐르며 얼음에서 녹은 물이 똑똑 떨어진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -595,7 +595,7 @@
       "motion": "Dawn light sweeps across the valley and climbs the riverbank, the sky warming from blue to gold, ending with full dawn light across the bank and the ice visibly thinner",
       "link": "연속",
       "link_ko": "같은 구도에서 빛만 바뀐다. 밤 → 새벽.",
-      "motion_ref": "Dawn light sweeps across the valley and climbs the riverbank, the sky warming from blue to gold, ending with full dawn light across the bank and the ice visibly thinner",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 새벽빛이 계곡을 훑고 강둑을 타고 올라오며 하늘이 파랑에서 금빛으로 물든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -618,7 +618,7 @@
       "motion": "A crack shoots across the ice and branches rapidly, water sheeting down the surface, ending with the crack reaching the top of frame",
       "link": "컷",
       "link_ko": "그 얇아진 얼음으로 들어간다.",
-      "motion_ref": "A crack shoots across the ice and branches rapidly, water sheeting down the surface, ending with the crack reaching the top of frame",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 금이 얼음을 가로질러 뻗어 나가며 빠르게 갈라지고, 물이 표면을 타고 쏟아진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 잎이 스치거나 떨어지는 소리, 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "나뭇잎",
@@ -642,7 +642,7 @@
       "motion": "The ice breaks apart and slides away in shining pieces, the egg revealed standing free, ending with the egg standing free and the last ice sliding out of frame",
       "link": "연속",
       "link_ko": "금이 끝까지 간 그 순간 얼음이 무너진다.",
-      "motion_ref": "The ice breaks apart and slides away in shining pieces, the egg revealed standing free, ending with the egg standing free and the last ice sliding out of frame",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 얼음이 빛나는 조각으로 갈라져 미끄러져 내리고 알이 홀로 우뚝 드러난다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -671,7 +671,7 @@
       "motion": "The friends startle awake all at once, heads snapping up, scrambling upright, ending with all five upright and staring at the egg",
       "link": "컷",
       "link_ko": "소리에 다섯이 깬다. 앞 컷의 얼음 깨지는 소리가 이 컷을 부른다.",
-      "motion_ref": "The friends startle awake all at once, heads snapping up, scrambling upright, ending with all five upright and staring at the egg",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 동시에 놀라 깨어나 고개를 들고 벌떡 일어난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 나무가 갈라지거나 삐걱대는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "나무_삐걱"
@@ -694,7 +694,7 @@
       "motion": "Cracks spread across the shell and golden-teal light pours out through them, pieces beginning to lift, ending with the shell splitting wide open",
       "link": "컷",
       "link_ko": "다섯의 시선 끝. 알 표면으로 들어간다.",
-      "motion_ref": "Cracks spread across the shell and golden-teal light pours out through them, pieces beginning to lift, ending with the shell splitting wide open",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 껍질 전체로 금이 번지며 빛이 쏟아지고 조각들이 들리기 시작한다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -722,7 +722,7 @@
         "sec": 0.4,
         "why": "알이 깨지며 빛이 쏟아진다"
       },
-      "motion_ref": "The shell bursts apart and the baby triceratops pushes his head out, blinking hard against the light, ending with his head fully out and eyes squeezed shut",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 껍질이 터지고 아기 트리케라톱스가 머리를 내밀며 빛에 눈을 세게 껌뻑인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 나무 문 여닫는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "문_열림"
@@ -747,7 +747,7 @@
       "motion": "The eyes open wide, pupils adjusting, the sunrise blooming in the reflection, ending held wide open, the sunrise clear in the reflection",
       "link": "연속",
       "link_ko": "감았던 눈이 이 컷에서 떠진다.",
-      "motion_ref": "The eyes open wide, pupils adjusting, the sunrise blooming in the reflection, ending held wide open, the sunrise clear in the reflection",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 눈이 크게 떠지고 동공이 빛에 적응하며 일출이 눈동자 안에 피어난다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -775,7 +775,7 @@
       "motion": "The baby throws his head back and cries out at the sky, birds scattering from the trees, golden light flaring, ending with his head still thrown back, the cry trailing off",
       "link": "컷",
       "link_ko": "첫 울음. 앞 컷의 정지를 깨고 크게 벌어진다.",
-      "motion_ref": "The baby throws his head back and cries out at the sky, birds scattering from the trees, golden light flaring, ending with his head still thrown back, the cry trailing off",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 아기가 고개를 젖히고 하늘을 향해 소리치자 나무에서 새들이 흩어지고 금빛이 확 번진다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"우와아아아!! 나 일어났다!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -798,7 +798,7 @@
       "motion": "He strains upward, legs shaking and sliding out from under him, wobbling badly, ending with him tipping forward off balance",
       "link": "컷",
       "link_ko": "일어서려 애쓴다.",
-      "motion_ref": "He strains upward, legs shaking and sliding out from under him, wobbling badly, ending with him tipping forward off balance",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 몸을 일으키려 힘을 주지만 다리가 떨리고 미끄러지며 크게 휘청인다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -821,7 +821,7 @@
       "motion": "He pitches forward and slams both front paws down hard to stop his fall, the ground shuddering, ending with both paws planted and the ground still shuddering",
       "link": "연속",
       "link_ko": "기울어진 그 자세 그대로 앞발이 땅에 닿는다.",
-      "motion_ref": "He pitches forward and slams both front paws down hard to stop his fall, the ground shuddering, ending with both paws planted and the ground still shuddering",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 앞으로 고꾸라지려다 두 앞발을 땅에 세게 내리치고, 그 순간 땅이 울린다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -844,7 +844,7 @@
       "motion": "Light races up the horns and blazes at their tips, aurora colors swirling through them, ending with the horn tips at maximum brightness",
       "link": "연속",
       "link_ko": "앞발이 땅을 친 그 순간 뿔에 빛이 오른다.",
-      "motion_ref": "Light races up the horns and blazes at their tips, aurora colors swirling through them, ending with the horn tips at maximum brightness",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 빛이 뿔을 타고 달려 올라가 끝에서 폭발하듯 타오르고 오로라색이 소용돌이친다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 물살이 세지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물_흐름_변화"
@@ -869,7 +869,7 @@
       "motion": "A ring of golden-teal light races outward across the ground, grass flattening and springing back as it passes, ending with the ring passing beyond frame edge, grass still settling",
       "link": "연속",
       "link_ko": "뿔의 빛이 앞발 자리에서 고리가 되어 나간다.",
-      "motion_ref": "A ring of golden-teal light races outward across the ground, grass flattening and springing back as it passes, ending with the ring passing beyond frame edge, grass still settling",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 빛의 고리가 땅을 가로질러 퍼져 나가고, 지나가는 자리마다 풀이 눕었다 다시 일어선다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -892,7 +892,7 @@
       "motion": "The ring of light sweeps through the forest, every branch shivering in turn, flocks of birds bursting up into the dawn sky, ending with the light fading into the far treeline, birds still circling",
       "link": "연속",
       "link_ko": "그 고리가 숲까지 간다. 앞 컷보다 카메라가 넓다.",
-      "motion_ref": "The ring of light sweeps through the forest, every branch shivering in turn, flocks of birds bursting up into the dawn sky, ending with the light fading into the far treeline, birds still circling",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 빛의 고리가 숲을 훑고 지나가며 가지가 차례로 떨리고 새떼가 새벽 하늘로 솟구친다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 잎이 스치거나 떨어지는 소리, 땅이 울리는 낮은 «쿵» 소리와 위로 올라가는 빛 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": "쿵쿵_파워",
       "sfx": [
         "나뭇잎"
@@ -919,7 +919,7 @@
       "motion": "The puppy rolls onto his back with paws in the air, barking happily, the others catching their balance behind him, ending with the puppy still on his back, legs waving",
       "link": "컷",
       "link_ko": "빛이 지나간 뒤 친구들의 반응.",
-      "motion_ref": "The puppy rolls onto his back with paws in the air, barking happily, the others catching their balance behind him, ending with the puppy still on his back, legs waving",
+      "motion_ref": "[외형] 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지가 배를 보이고 뒹굴며 신나게 짖고, 뒤에서 둘이 비틀거리다 균형을 잡는다.\n[대사] 강아지가 입을 크게 벌려 또박또박 한국어로 말한다: \"쿵! 하고 땅이 울렸어! 멍멍!\" 다섯 살 여자아이 목소리, 아주 빠르고 높게, 숨이 살짝 찬 채로.\n[소리] 돌이나 덩어리가 굴러가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "돌_굴림"
@@ -945,7 +945,7 @@
       "motion": "The tiger cub steps forward, chest out, and raises a paw, grinning hugely as he speaks, ending with his raised paw held out toward the baby",
       "link": "컷",
       "link_ko": "루카가 앞으로 나선다. 이름 짓는 컷.",
-      "motion_ref": "The tiger cub steps forward, chest out, and raises a paw, grinning hugely as he speaks, ending with his raised paw held out toward the baby",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 뿔 세 개·목 프릴·꽃무늬 반다나·데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 가슴을 펴고 앞으로 나서며 발을 들어 올리고 크게 웃으며 말한다.\n[대사] 호랑이가 입을 크게 벌려 또박또박 한국어로 말한다: \"너는 오늘부터 '쿵쿵이'야!\" 여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -970,7 +970,7 @@
       "motion": "The baby's whole face lights up and he bounces on his front paws with excitement, ending with his whole face lit up mid-bounce",
       "link": "컷",
       "link_ko": "그 손끝의 대상. 이름을 처음 들은 얼굴.",
-      "motion_ref": "The baby's whole face lights up and he bounces on his front paws with excitement, ending with his whole face lit up mid-bounce",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기의 얼굴 전체가 환해지고 신이 나서 앞발로 통통 뛴다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"좋아! 나는 쿵쿵이야!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -998,7 +998,7 @@
       "motion": "The friends erupt cheering and crowd around him, [티니] running circles, everyone laughing in the morning sun, ending with all six packed together, still cheering",
       "link": "컷",
       "link_ko": "여섯이 몰려든다. 장면을 닫는 컷.",
-      "motion_ref": "The friends erupt cheering and crowd around him, 티니 running circles, everyone laughing in the morning sun, ending with all six packed together, still cheering",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 환호하며 몰려들고 티니가 주위를 빙빙 돌며 모두가 아침 햇살 속에서 웃는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈",
@@ -1022,7 +1022,7 @@
       "motion": "The stream rushes past, water churning over the rocks, small clods of earth dropping from the bank, ending with the camera settled on the churning water and crumbling bank",
       "link": "전환",
       "link_ko": "소리 브릿지. 앞 컷의 환호가 잦아들면서 물소리가 먼저 들어온다.",
-      "motion_ref": "The stream rushes past, water churning over the rocks, small clods of earth dropping from the bank, ending with the camera settled on the churning water and crumbling bank",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 개울물이 바위를 넘어 세차게 흐르고 둑에서 흙덩이가 툭툭 떨어진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 먼 천둥, 흙 파는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈",
@@ -1054,7 +1054,7 @@
       "motion": "The friends move along the bank playing, the baby triceratops wobbling along in the middle, ending with the group strung out along the bank, {루비} nearest the water",
       "link": "컷",
       "link_ko": "그 개울가에서 여섯이 논다. 이동 방향은 오른쪽.",
-      "motion_ref": "The friends move along the bank playing, the baby triceratops wobbling along in the middle, ending with the group strung out along the bank, 루비 nearest the water",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 둑을 따라 놀며 이동하고, 아기 트리케라톱스가 가운데서 뒤뚱거리며 따라간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1079,7 +1079,7 @@
       "motion": "The rabbit waves her wand happily as the wet earth under her feet begins to crack and sag, ending with the ground under her paws visibly cracking",
       "link": "컷",
       "link_ko": "그중 루비만 따로 본다. 물가에 가장 가깝다.",
-      "motion_ref": "The rabbit waves her wand happily as the wet earth under her feet begins to crack and sag, ending with the ground under her paws visibly cracking",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 신나게 지팡이를 흔드는 사이 발밑 젖은 흙이 갈라지며 내려앉기 시작한다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1102,7 +1102,7 @@
       "motion": "The bank gives way and slabs of mud drop into the water, her footing vanishing, ending with her footing gone and her body dropping out of frame",
       "link": "연속",
       "link_ko": "갈라지던 그 흙이 이 컷에서 무너진다.",
-      "motion_ref": "The bank gives way and slabs of mud drop into the water, her footing vanishing, ending with her footing gone and her body dropping out of frame",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 둑이 무너지며 진흙 덩어리가 물속으로 떨어지고 발 디딜 곳이 사라진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 흙 파는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "삽_흙"
@@ -1127,7 +1127,7 @@
       "motion": "The rabbit is swept into the current and carried downstream fast, thrashing and reaching upward, ending with her carried far downstream, one paw still raised",
       "link": "연속",
       "link_ko": "떨어진 그대로 물에 휩쓸린다.",
-      "motion_ref": "The rabbit is swept into the current and carried downstream fast, thrashing and reaching upward, ending with her carried far downstream, one paw still raised",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 급류에 휩쓸려 빠르게 떠내려가며 허우적대고 위로 손을 뻗는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"꺄악! 도와줘! 물살이 너무 세!\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 물살이 세지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물_흐름_변화"
@@ -1157,7 +1157,7 @@
       "motion": "The friends freeze for one beat then break into a run along the bank, shouting, ending with all of them running hard to the right along the bank",
       "link": "컷",
       "link_ko": "둑 위 반응. 앞 컷의 급류 속도를 그대로 받는다.",
-      "motion_ref": "The friends freeze for one beat then break into a run along the bank, shouting, ending with all of them running hard to the right along the bank",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 한 박자 굳었다가 소리치며 둑을 따라 달려 나간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈",
@@ -1183,7 +1183,7 @@
       "motion": "His frightened expression sets hard into determination, eyes narrowing on the stream, ending with his eyes locked forward, jaw set",
       "link": "컷",
       "link_ko": "달리는 무리 중 쿵쿵이 얼굴만.",
-      "motion_ref": "His frightened expression sets hard into determination, eyes narrowing on the stream, ending with his eyes locked forward, jaw set",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 겁먹은 표정이 단단한 결의로 굳어지고 눈이 개울 쪽으로 가늘어진다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"루비야, 기다려!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1206,7 +1206,7 @@
       "motion": "The baby charges along the bank, legs pounding unsteadily, mud kicking up behind him, ending with him pulling ahead of the others at the water's edge",
       "link": "컷",
       "link_ko": "그 결의 그대로 달린다. 방향은 계속 오른쪽.",
-      "motion_ref": "The baby charges along the bank, legs pounding unsteadily, mud kicking up behind him, ending with him pulling ahead of the others at the water's edge",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기가 둑을 따라 달리며 다리가 불안정하게 구르고 진흙이 뒤로 튄다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 흙 파는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "삽_흙"
@@ -1231,7 +1231,7 @@
       "motion": "He skids to a halt and drives both front paws down into the earth, the ground buckling under the blow, ending with both paws buried in the earth, his body braced",
       "link": "연속",
       "link_ko": "달리던 그 속도로 미끄러지며 멈추고 그대로 내리찍는다.",
-      "motion_ref": "He skids to a halt and drives both front paws down into the earth, the ground buckling under the blow, ending with both paws buried in the earth, his body braced",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 미끄러지며 멈춰 서서 두 앞발을 땅에 내리꽂고, 그 충격에 땅이 움푹 꺼진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 얼음 위 미끄러지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "얼음_미끄럼"
@@ -1261,7 +1261,7 @@
         "sec": 0.35,
         "why": "뿔이 터지는 순간"
       },
-      "motion_ref": "Light explodes along the horns, blazing brighter and wilder than the first time, ending with the horns blazing at their brightest",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 빛이 뿔을 따라 폭발하듯 번지며 처음보다 더 밝고 거칠게 타오른다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1284,7 +1284,7 @@
       "motion": "The ring of light races out across the ground and strikes the fallen log, which shudders and begins to move, ending with the log torn loose and rolling toward the water",
       "link": "연속",
       "link_ko": "뿔의 빛이 고리가 되어 통나무까지 간다.",
-      "motion_ref": "The ring of light races out across the ground and strikes the fallen log, which shudders and begins to move, ending with the log torn loose and rolling toward the water",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 빛의 고리가 땅을 가로질러 달려가 통나무를 때리고, 통나무가 흔들리며 움직이기 시작한다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 돌이나 덩어리가 굴러가는 소리, 땅이 울리는 낮은 «쿵» 소리와 위로 올라가는 빛 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": "쿵쿵_파워",
       "sfx": [
         "돌_굴림"
@@ -1307,7 +1307,7 @@
       "motion": "The log rolls into the water and jams across the stream, the current piling up white against it, ending with the log wedged fast, water piling white against it",
       "link": "연속",
       "link_ko": "굴러가던 통나무가 이 컷에서 개울에 걸린다.",
-      "motion_ref": "The log rolls into the water and jams across the stream, the current piling up white against it, ending with the log wedged fast, water piling white against it",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 통나무가 물속으로 굴러 들어가 개울을 가로막고, 물살이 하얗게 부딪혀 쌓인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 물살이 세지는 소리, 돌이나 덩어리가 굴러가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물_흐름_변화",
@@ -1333,7 +1333,7 @@
       "motion": "The rabbit is swept into the log and grabs on with both paws, pulling herself up against it, gasping, ending with her clinging to the log, safe and gasping",
       "link": "컷",
       "link_ko": "그 통나무로 루비가 떠내려온다.",
-      "motion_ref": "The rabbit is swept into the log and grabs on with both paws, pulling herself up against it, gasping, ending with her clinging to the log, safe and gasping",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 통나무에 부딪혀 두 발로 붙잡고 몸을 끌어 올리며 숨을 몰아쉰다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1357,7 +1357,7 @@
       "motion": "The soaked rabbit takes his paw in both of hers and looks up at his horns, the others crowding in around them, ending with her holding his paw, the others closing in around them",
       "link": "컷",
       "link_ko": "둑 위. 구조 뒤 첫 대사.",
-      "motion_ref": "The soaked rabbit takes his paw in both of hers and looks up at his horns, the others crowding in around them, ending with her holding his paw, the others closing in around them",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 뿔 세 개·목 프릴·꽃무늬 반다나·귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 젖은 토끼가 그의 앞발을 두 손으로 잡고 뿔을 올려다보고, 친구들이 둘러싼다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"고마워 쿵쿵아! 네 뿔에서 예쁜 빛이 났어!\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1380,7 +1380,7 @@
       "motion": "The baby ducks his head shyly, scuffs one foot, then looks up with a growing proud smile, ending with the proud smile held, cheeks still pink",
       "link": "전환",
       "link_ko": "엔딩 시작. 앞 장면의 환호가 잦아들고 이 컷에서 조용해진다.",
-      "motion_ref": "The baby ducks his head shyly, scuffs one foot, then looks up with a growing proud smile, ending with the proud smile held, cheeks still pink",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기가 수줍게 고개를 숙이고 발끝으로 땅을 문지르다가 고개를 들며 자랑스러운 미소를 띤다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"헤헤, 내가 친구들을 지켜줄게, 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1408,7 +1408,7 @@
       "motion": "The friends laugh together in the sun, [티니] shaking water over everyone, all of them recoiling and laughing, ending with all six laughing together, facing right",
       "link": "컷",
       "link_ko": "쿵쿵이의 웃음에서 여섯 전체로 넓힌다.",
-      "motion_ref": "The friends laugh together in the sun, 티니 shaking water over everyone, all of them recoiling and laughing, ending with all six laughing together, facing right",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 친구들이 햇살 속에서 웃고, 티니가 몸을 털어 물을 뿌리자 모두 움찔하며 더 크게 웃는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "환호"
@@ -1438,7 +1438,7 @@
       "motion": "The six walk away together down the sunlit path, shadows stretching ahead, leaves drifting down around them, ending with the six well down the path, backs to camera",
       "link": "컷",
       "link_ko": "그 자리에서 그대로 걷기 시작한다. 이동 방향은 계속 오른쪽.",
-      "motion_ref": "The six walk away together down the sunlit path, shadows stretching ahead, leaves drifting down around them, ending with the six well down the path, backs to camera",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 여섯이 함께 햇살 든 길을 걸어가고, 그림자가 앞으로 길게 늘어지며 나뭇잎이 흩날린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1463,7 +1463,7 @@
       "motion": "He stops, turns back and plants both paws on his hips proudly, his foot stamping down and puffing a small ring of dust, ending with both paws planted on his hips, holding the pose",
       "link": "연속",
       "link_ko": "걷던 쿵쿵이가 앞 컷 끝 위치에서 그대로 멈춰 돌아선다.",
-      "motion_ref": "He stops, turns back and plants both paws on his hips proudly, his foot stamping down and puffing a small ring of dust, ending with both paws planted on his hips, holding the pose",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 멈춰 서서 돌아보며 허리에 발을 얹고, 발을 쿵 구르자 작은 먼지 고리가 피어오른다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"친구들을 지켜줄게, 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1491,7 +1491,7 @@
       "motion": "The five wave and walk off down separate trails, ending with the paths empty and {쿵쿵} alone in the centre of frame",
       "link": "컷",
       "link_ko": "포즈를 풀고 다시 걸은 뒤의 갈림길. 여기서 다섯이 흩어지고 쿵쿵이만 남는다.",
-      "motion_ref": "The five wave and walk off down separate trails, ending with the paths empty and 쿵쿵 alone in the centre of frame",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 다섯이 서로 손을 흔들며 각기 다른 길로 걸어 나가고, 길 위에 쿵쿵이 혼자 남는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1516,7 +1516,7 @@
       "motion": "His head turns slowly across the empty paths, ending with the smile gone and his eyes lowered",
       "link": "연속",
       "link_ko": "앞 컷에서 혼자 남은 그 자리 그대로. 표정만 바뀐다 — 대사 없이 관객이 알아채야 한다.",
-      "motion_ref": "His head turns slowly across the empty paths, ending with the smile gone and his eyes lowered",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 고개가 좌우로 천천히 돌아가며 빈 길들을 훑고, 입꼬리가 서서히 내려간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1540,7 +1540,7 @@
       "motion": "The tiger cub runs back into frame and pulls up short, ending with his paw held out and steady between them",
       "link": "컷",
       "link_ko": "앞 컷 끝에서 쿵쿵이가 고개를 숙인 그 순간 루카가 프레임 안으로 들어온다.",
-      "motion_ref": "The tiger cub runs back into frame and pulls up short, ending with his paw held out and steady between them",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 뿔 세 개·목 프릴·꽃무늬 반다나·데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 뛰어 돌아와 멈춰 서서 앞발을 내밀고, 반대 손으로 자기 나무집 쪽을 가리킨다.\n[대사] 호랑이가 입을 크게 벌려 또박또박 한국어로 말한다: \"쿵쿵아, 오늘은 우리 집에서 자자. 네 집은 우리가 같이 지어줄게!\" 여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1566,7 +1566,7 @@
       "motion": "The small paw closes on the larger one and they walk off side by side, ending with both of them small against the sunset and the treehouse visible ahead",
       "link": "연속",
       "link_ko": "내민 손을 잡는 동작이 앞 컷에서 시작해 이 컷에서 끝난다.",
-      "motion_ref": "The small paw closes on the larger one and they walk off side by side, ending with both of them small against the sunset and the treehouse visible ahead",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나, 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 뿔 세 개·목 프릴·꽃무늬 반다나·데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 쿵쿵이가 앞발을 잡고 둘이 함께 걷기 시작하며, 노을 속에서 두 그림자가 길게 늘어진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1589,7 +1589,7 @@
       "motion": "The camera holds on the far mountains, and beyond the ridge a small golden-teal light pulses once, then fades, ending on the dark ridge with the light gone",
       "link": "컷",
       "link_ko": "둘이 프레임 밖으로 나간 뒤 카메라가 그대로 먼 산을 본다.",
-      "motion_ref": "The camera holds on the far mountains, and beyond the ridge a small golden-teal light pulses once, then fades, ending on the dark ridge with the light gone",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 카메라가 먼 산을 응시하고, 능선 너머에서 작은 빛이 한 번 맥동했다가 사라진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1617,7 +1617,7 @@
       "motion": "Gentle push in on the end card, light sparkles drifting, everything settling into stillness",
       "link": "컷",
       "link_ko": "엔딩 카드. 앞 컷의 어두운 하늘에서 밝은 언덕으로 넘어간다.",
-      "motion_ref": "Gentle push in on the end card, light sparkles drifting, everything settling into stillness",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 엔딩 카드로 부드럽게 밀고 들어가며 빛 입자가 떠다니고 모든 것이 고요해진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     }

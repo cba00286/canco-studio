@@ -33,7 +33,7 @@
       "motion": "The camera drifts across the map, ending stopped on the red X",
       "link": "전환",
       "link_ko": "첫 컷. 위기의 한 장면을 설명 없이 던진다.",
-      "motion_ref": "The camera drifts across the map, ending stopped on the red X",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 카메라가 지도 위를 훑다가 X 표시에서 멈춘다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 종이 넘기거나 찢는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "종이"
@@ -58,7 +58,7 @@
       "motion": "The map tears free and whirls upward, ending wedged high in a crack in the rock",
       "link": "연속",
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
-      "motion_ref": "The map tears free and whirls upward, ending wedged high in a crack in the rock",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 지도가 손가락 사이로 빠져나가 회전하며 절벽 쪽으로 솟구친다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 종이 넘기거나 찢는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "종이"
@@ -83,7 +83,7 @@
       "motion": "He slides down and sits, ending hunched with the map still stuck far above him",
       "link": "컷",
       "link_ko": "막힌 순간. 여기가 있어야 다음 컷이 궁금해진다.",
-      "motion_ref": "He slides down and sits, ending hunched with the map still stuck far above him",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 두어 걸음 오르다 미끄러져 내려오고 어깨가 축 처진다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 종이 넘기거나 찢는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "종이"
@@ -108,7 +108,7 @@
       "motion": "He rears up and the pebbles shiver, ending with his paws at their highest, not yet down",
       "link": "컷",
       "link_ko": "해결의 실마리만. 결말은 감춘다.",
-      "motion_ref": "He rears up and the pebbles shiver, ending with his paws at their highest, not yet down",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 몸을 뒤로 젖히며 앞발을 높이 들고 발밑 돌들이 살짝 떨린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 낙엽 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_낙엽"
@@ -136,7 +136,7 @@
         "sec": 0.55,
         "why": "예고 끝. 제목 카드로 넘긴다"
       },
-      "motion_ref": "The frame settles and holds, ending with the lower third completely clear",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     }

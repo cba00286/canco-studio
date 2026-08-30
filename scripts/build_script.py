@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """컷 리스트에서 대본집을 만든다. 이것 하나로 한 화를 만들 수 있게.
 
-컷마다 화면 설명 · 대사 · 카메라 · 컷 연결 · 영문 프롬프트(이미지/영상)가
+컷마다 화면 설명 · 대사 · 카메라 · 컷 연결 · 생성 프롬프트(이미지/영상)가
 다 들어간다. 화 끝에는 대사만 모은 녹음용 표가 붙는다.
 
     python3 scripts/build_script.py                 # 1~10화, 프롬프트 포함
@@ -87,10 +87,10 @@ def episode_block(meta, doc, morals, prompts):
             t = x["transition"]
             o.append("*전환 효과 — `%s` %s초. %s*\n" % (t["type"], t["sec"], t.get("why", "")))
         if prompts:
-            o.append("<details><summary>영문 프롬프트</summary>\n")
-            o.append("**이미지**\n")
+            o.append("<details><summary>생성 프롬프트</summary>\n")
+            o.append("**이미지** — 영어. 캐릭터는 등록된 트리거 워드로만 부르고 외형은 적지 않습니다.\n")
             o.append("```\n%s\n```\n" % x["image_ref"])
-            o.append("**영상**\n")
+            o.append("**영상** — 한국어. 통째로 붙여 넣으세요. 영어로 바꾸면 대사를 건너뜁니다.\n")
             o.append("```\n%s\n```\n" % (x.get("motion_ref") or x["motion"]))
             o.append("</details>\n")
 

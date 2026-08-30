@@ -241,14 +241,16 @@
         "trudg"
       ],
       "소리": "풀밭 위 발소리",
-      "검색어": "footsteps grass"
+      "검색어": "footsteps grass",
+      "en": "footsteps on grass"
     },
     "발소리_눈": {
       "match": [
         "snow"
       ],
       "소리": "눈 밟는 소리",
-      "검색어": "footsteps snow crunch"
+      "검색어": "footsteps snow crunch",
+      "en": "footsteps crunching in snow"
     },
     "발소리_자갈": {
       "match": [
@@ -258,32 +260,38 @@
         "gravel"
       ],
       "소리": "자갈 밟는 소리",
-      "검색어": "footsteps gravel"
+      "검색어": "footsteps gravel",
+      "en": "footsteps on gravel"
     },
     "발소리_돌": {
       "match": [],
       "소리": "돌바닥 발소리",
-      "검색어": "footsteps stone floor"
+      "검색어": "footsteps stone floor",
+      "en": "footsteps on stone"
     },
     "발소리_흙": {
       "match": [],
       "소리": "마른 흙 발소리",
-      "검색어": "footsteps dirt dry ground"
+      "검색어": "footsteps dirt dry ground",
+      "en": "footsteps on dry dirt"
     },
     "발소리_나무마루": {
       "match": [],
       "소리": "나무 마루 발소리",
-      "검색어": "footsteps wooden floor"
+      "검색어": "footsteps wooden floor",
+      "en": "footsteps on a wooden floor"
     },
     "발소리_얼음": {
       "match": [],
       "소리": "얼음 위 발소리",
-      "검색어": "footsteps ice"
+      "검색어": "footsteps ice",
+      "en": "feet sliding on ice"
     },
     "발소리_낙엽": {
       "match": [],
       "소리": "낙엽 밟는 소리",
-      "검색어": "footsteps dry leaves"
+      "검색어": "footsteps dry leaves",
+      "en": "footsteps through dry leaves"
     },
     "물_첨벙": {
       "match": [
@@ -293,7 +301,8 @@
         "puddle"
       ],
       "소리": "물에 발이 들어가는 소리",
-      "검색어": "water splash footsteps"
+      "검색어": "water splash footsteps",
+      "en": "water splashing"
     },
     "물_흐름_변화": {
       "match": [
@@ -303,7 +312,8 @@
         "torrent"
       ],
       "소리": "물살이 세지는 소리",
-      "검색어": "rushing water surge"
+      "검색어": "rushing water surge",
+      "en": "water rushing and surging"
     },
     "문_열림": {
       "match": [
@@ -311,7 +321,8 @@
         "bursting open"
       ],
       "소리": "나무 문 여닫는 소리",
-      "검색어": "wooden door open close"
+      "검색어": "wooden door open close",
+      "en": "a wooden door opening"
     },
     "바람_돌풍": {
       "match": [
@@ -319,7 +330,8 @@
         "wind"
       ],
       "소리": "훅 지나가는 바람",
-      "검색어": "wind gust whoosh"
+      "검색어": "wind gust whoosh",
+      "en": "a gust of wind"
     },
     "나뭇잎": {
       "match": [
@@ -329,7 +341,8 @@
         "branches"
       ],
       "소리": "잎이 스치거나 떨어지는 소리",
-      "검색어": "leaves rustle fall"
+      "검색어": "leaves rustle fall",
+      "en": "leaves rustling"
     },
     "천둥": {
       "match": [
@@ -338,7 +351,8 @@
         "storm"
       ],
       "소리": "먼 천둥",
-      "검색어": "distant thunder rumble"
+      "검색어": "distant thunder rumble",
+      "en": "distant thunder"
     },
     "나무_삐걱": {
       "match": [
@@ -349,7 +363,8 @@
         "snaps"
       ],
       "소리": "나무가 갈라지거나 삐걱대는 소리",
-      "검색어": "wood creak crack"
+      "검색어": "wood creak crack",
+      "en": "wood creaking"
     },
     "돌_굴림": {
       "match": [
@@ -358,7 +373,8 @@
         "rolls"
       ],
       "소리": "돌이나 덩어리가 굴러가는 소리",
-      "검색어": "rock rolling ground"
+      "검색어": "rock rolling ground",
+      "en": "a heavy object rolling on the ground"
     },
     "충돌_쿵": {
       "match": [
@@ -372,7 +388,8 @@
         "lands hard"
       ],
       "소리": "부딪히거나 넘어지는 소리",
-      "검색어": "body fall thud soft"
+      "검색어": "body fall thud soft",
+      "en": "a soft thud of something falling"
     },
     "종이": {
       "match": [
@@ -383,7 +400,8 @@
         "map"
       ],
       "소리": "종이 넘기거나 찢는 소리",
-      "검색어": "paper page turn tear"
+      "검색어": "paper page turn tear",
+      "en": "paper rustling"
     },
     "금속_도구": {
       "match": [
@@ -393,7 +411,8 @@
         "tool"
       ],
       "소리": "공구 소리",
-      "검색어": "metal wrench tool"
+      "검색어": "metal wrench tool",
+      "en": "a metal tool clinking"
     },
     "유리_병": {
       "match": [
@@ -402,7 +421,8 @@
         "bottle"
       ],
       "소리": "유리병 · 뚜껑 소리",
-      "검색어": "glass jar lid"
+      "검색어": "glass jar lid",
+      "en": "a glass jar and lid"
     },
     "불_등불": {
       "match": [
@@ -412,7 +432,8 @@
         "candle"
       ],
       "소리": "등불 켜지고 흔들리는 소리",
-      "검색어": "lantern light flame flicker"
+      "검색어": "lantern light flame flicker",
+      "en": "a lantern flame flickering"
     },
     "작은동물": {
       "match": [
@@ -429,7 +450,8 @@
         "fireflies"
       ],
       "소리": "그 동물의 소리 또는 움직임",
-      "검색어": "small animal movement squeak"
+      "검색어": "small animal movement squeak",
+      "en": "a small animal squeaking and moving"
     },
     "환호": {
       "match": [
@@ -441,7 +463,8 @@
         "shout"
       ],
       "소리": "아이들 환호 · 웃음",
-      "검색어": "children cheer laugh group"
+      "검색어": "children cheer laugh group",
+      "en": "children cheering and laughing"
     },
     "손뼉": {
       "match": [
@@ -449,7 +472,8 @@
         "clapping"
       ],
       "소리": "손뼉",
-      "검색어": "hand clap single"
+      "검색어": "hand clap single",
+      "en": "a hand clap"
     },
     "삽_흙": {
       "match": [
@@ -460,7 +484,8 @@
         "mud"
       ],
       "소리": "흙 파는 소리",
-      "검색어": "digging soil shovel"
+      "검색어": "digging soil shovel",
+      "en": "digging in soil"
     },
     "물방울": {
       "match": [
@@ -469,7 +494,8 @@
         "drop of water"
       ],
       "소리": "물방울",
-      "검색어": "water drip single"
+      "검색어": "water drip single",
+      "en": "a single water drop"
     },
     "얼음_미끄럼": {
       "match": [
@@ -480,17 +506,20 @@
         "skate"
       ],
       "소리": "얼음 위 미끄러지는 소리",
-      "검색어": "ice skate glide"
+      "검색어": "ice skate glide",
+      "en": "skates gliding on ice"
     },
     "호루라기": {
       "match": [
         "whistle"
       ],
       "소리": "호루라기",
-      "검색어": "sports whistle"
+      "검색어": "sports whistle",
+      "en": "a sports whistle"
     },
     "_floor_comment": "발소리는 «바닥»을 따라간다. match 가 빈 것들은 낱말로 찾지 않고, 그 장면의 환경음을 보고 build_audio.py 가 골라 준다 — 동굴에서 풀밭 발소리가 나면 바로 티가 난다.",
-    "_match_comment": "match 는 영문 모션 프롬프트에서 **낱말 앞머리**로 찾는다. 가운데를 찾으면 voice 의 ice, window glass 의 glass 처럼 엉뚱한 데 붙는다."
+    "_match_comment": "match 는 영문 모션 프롬프트에서 **낱말 앞머리**로 찾는다. 가운데를 찾으면 voice 의 ice, window glass 의 glass 처럼 엉뚱한 데 붙는다.",
+    "_en_comment": "en 은 영상 생성 프롬프트에 그대로 들어간다. 생성기에 한글 키를 넣을 수 없다. 로컬에서 파일로 넣을 때는 키 이름을 쓴다."
   },
   "signature": {
     "_comment": "쿵쿵의 능력 소리. **40화 내내 고정한다.** 화마다 다르게 만들면 «같은 능력»으로 안 들린다. 다섯 가지 능력에 각각 하나씩, 그리고 «반응» 하나. 이건 무료 음원을 그대로 쓰지 말고 두세 개를 겹쳐 만드는 편이 낫다.",
@@ -498,37 +527,43 @@
       "구성": "① 저음 임팩트(60~80Hz) ② 위로 올라가는 하모닉 스윕 0.4초 ③ 지면 럼블 꼬리 1.5초",
       "타이밍": "앞발이 땅에 닿는 프레임에 ①. 빛이 퍼지기 시작할 때 ②. 고리가 화면 밖으로 나갈 때까지 ③",
       "레벨": "-10 dBFS. 이 시리즈에서 가장 큰 효과음",
-      "검색어": "deep impact boom + riser sweep + ground rumble"
+      "검색어": "deep impact boom + riser sweep + ground rumble",
+      "소리": "땅이 울리는 낮은 «쿵» 소리와 위로 올라가는 빛 소리"
     },
     "쿵쿵_온기": {
       "구성": "① 어택 없는 벨 패드 스웰 2초 ② 아주 가는 shimmer",
       "타이밍": "«쿵» 하는 순간이 없다. 빛이 차오르는 것과 같은 속도로 소리도 차오른다",
       "레벨": "-16 dBFS. 조용해야 따뜻하게 들린다",
-      "검색어": "warm bell pad swell soft shimmer"
+      "검색어": "warm bell pad swell soft shimmer",
+      "소리": "따뜻하게 차오르는 종소리"
     },
     "쿵쿵_바람": {
       "구성": "① 위로 올라가는 휘슬 ② 공기가 도는 소리(루프) ③ 끝날 때 아래로 풀리는 한 번",
       "타이밍": "②는 능력이 유지되는 내내 깔린다. 능력이 끝나는 컷에서 ③",
       "레벨": "-13 dBFS",
-      "검색어": "rising whistle updraft air swirl loop"
+      "검색어": "rising whistle updraft air swirl loop",
+      "소리": "위로 올라가는 휘파람 같은 바람 소리"
     },
     "쿵쿵_자장가": {
       "구성": "① 글로켄슈필 아르페지오(느리게 내려가는) ② 아주 낮은 패드",
       "타이밍": "빛이 벽을 훑는 속도에 맞춰 아르페지오를 느리게",
       "레벨": "-18 dBFS. 재우는 소리이므로 가장 작다",
-      "검색어": "glockenspiel lullaby descending soft pad"
+      "검색어": "glockenspiel lullaby descending soft pad",
+      "소리": "느리게 내려가는 실로폰 자장가 소리"
     },
     "쿵쿵_방어막": {
       "구성": "① 저음 붐 ② 돔이 닫히는 «후웁» ③ 유리 같은 지속 shimmer(유지되는 동안)",
       "타이밍": "③은 돔이 서 있는 내내. 돔이 꺼지는 컷에서 shimmer 가 한 번에 끊긴다",
       "레벨": "-11 dBFS",
-      "검색어": "low boom + energy dome close + glass shimmer sustain"
+      "검색어": "low boom + energy dome close + glass shimmer sustain",
+      "소리": "«후웁» 하고 돔이 닫히는 소리와 유리 같은 울림"
     },
     "뿔_반응": {
       "구성": "아주 낮은 사인 스웰 하나. **임팩트가 없다.**",
       "타이밍": "36화 SC4-02 · 40화 SC4-06 두 컷에만. 쿵쿵이 쓰는 게 아니라 저절로 반응하는 것이므로 «시작»하는 소리가 있으면 안 된다",
       "레벨": "-20 dBFS. 있는지 없는지 헷갈릴 만큼 작게",
-      "검색어": "very low sine swell subsonic no attack"
+      "검색어": "very low sine swell subsonic no attack",
+      "소리": "뿔에서 나는 아주 작은 «띵» 소리"
     }
   },
   "rules": {

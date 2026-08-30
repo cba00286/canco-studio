@@ -1,6 +1,8 @@
 {
   "_comment": "캐릭터 고정 묘사. 2026-08-21 전면 개정 — 공식 3D 모델링 마스터 시트와 새 1화 대본에 맞춰 다시 썼다. 씬 프롬프트에서 {이름}은 desc(전체 묘사), [이름]은 desc_short(축약 묘사), characters에 없는 {이름}은 fragments에서 찾는다. 고정 묘사에는 표정과 포즈를 넣지 않는다 — 그건 각 컷이 정한다. origin/power/note는 연출 참고용이며 프롬프트에 직접 들어가지 않는다.",
   "style_tag": "3D Pixar/DreamWorks style animated film still, high detail fur and scale texture, cinematic lighting, family animation movie quality, 16:9 cinematic composition",
+  "style_tag_video": "3D Pixar/DreamWorks style animated film, high detail fur and scale texture, cinematic lighting, family animation movie quality",
+  "_style_video_comment": "영상 생성 프롬프트 앞에 붙인다. image2video 라도 스타일을 다시 적어 주는 편이 안전하다 — 안 적으면 실사 쪽으로 흐르는 경우가 있다. «still» 은 뺀다.",
   "negative_prompt": "text, watermark, signature, copyright, blurry, low resolution, deformed, extra limbs, scary, photorealistic human, off-model character, redesigned character, changed face, different proportions, inconsistent character design, different outfit, enlarged horns, oversized horns, elongated horns, long horns, thick horns, prominent horns, adult triceratops horns, growing horns, extra horns",
   "_negative_comment": "negative_prompt 은 40화 전 컷 공통이다. 화면 안에 무엇이 있어도 틀린 것들만 여기 둔다. 장소를 막는 말은 여기 두면 안 된다 — «cave, indoor» 를 공통으로 넣어 두었더니 6·7·12화처럼 실내가 나오는 화와 정면으로 싸웠다. 장소를 막는 말은 negative_prompt_extras 에 넣고, 그 화의 shots_v2.json 에 negative_extras 로 골라 쓴다.",
   "negative_prompt_extras": {
@@ -57,7 +59,13 @@
         "built": "10화",
         "timeline": "1화에서 갓 태어난 쿵쿵이에게는 집이 없다. 1화 엔딩에서 루카가 데려가 그날부터 10화까지 **루카의 나무집 아래층 공방**에서 지낸다. 둥지 바위는 그 사이 친구들이 조금씩 지어 10화에서 완성되고, 10화 파티가 곧 집들이다. 11화부터 쿵쿵이는 둥지 바위에 산다.",
         "_주의": "1~9화 배경에 둥지 바위가 완성된 모습으로 나오면 안 된다. 짓는 중이거나 아예 안 보여야 한다."
-      }
+      },
+      "voice_tag": "a 5-year-old boy's voice, high and round with a slight husky edge, sentences rising at the end, breathless when excited",
+      "look_ko": "민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나",
+      "look_ko_short": "민트색 아기 공룡",
+      "voice_ko": "다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서",
+      "noun_ko": "아기 공룡",
+      "props_ko": "뿔 세 개·목 프릴·꽃무늬 반다나"
     },
     "루카": {
       "id": "luca",
@@ -95,7 +103,13 @@
         "plot": "280 × 350 × 220cm",
         "zone": "마을에서 가장 큰 나무 위 — 제일 높은 곳",
         "village": "숲속마을"
-      }
+      },
+      "voice_tag": "an 8-year-old boy's voice, clear bright mid-range, the lowest of the group, finishes every word even when he speeds up",
+      "look_ko": "주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다",
+      "look_ko_short": "주황 아기 호랑이",
+      "voice_ko": "여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서",
+      "noun_ko": "호랑이",
+      "props_ko": "데님 오버올·앞주머니의 고글"
     },
     "후안": {
       "id": "juan",
@@ -131,7 +145,13 @@
         "plot": "200 × 150 × 180cm",
         "zone": "북쪽 유빙 해변 — 눈과 얼음이 남아 있는 곳",
         "village": "해변마을"
-      }
+      },
+      "voice_tag": "a 5-year-old boy's voice, small and soft with a little nasal tone, more gasps and exclamations than sentences",
+      "look_ko": "남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나",
+      "look_ko_short": "빨간 모자 아기 펭귄",
+      "voice_ko": "다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서",
+      "noun_ko": "펭귄",
+      "props_ko": "빨간 니트 모자·주황 반다나"
     },
     "미미": {
       "id": "mimi",
@@ -168,7 +188,13 @@
         "plot": "200 × 150 × 180cm",
         "zone": "학교 옆 큰 나무 위",
         "village": "숲속마을"
-      }
+      },
+      "voice_tag": "a 7-year-old girl's voice, low and calm and very clearly articulated, the slowest speaker, small pause before she starts",
+      "look_ko": "회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프",
+      "look_ko_short": "안경 쓴 아기 코알라",
+      "voice_ko": "일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히",
+      "noun_ko": "코알라",
+      "props_ko": "금테 안경·보라 조끼·목스카프"
     },
     "티니": {
       "id": "tini",
@@ -205,7 +231,13 @@
         "plot": "280 × 320 × 220cm",
         "zone": "부두 옆 언덕 — 바다가 내려다보인다",
         "village": "해변마을"
-      }
+      },
+      "voice_tag": "a 5-year-old girl's voice, very fast and high with a bouncy ending on every sentence, always slightly out of breath",
+      "look_ko": "황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나",
+      "look_ko_short": "황금빛 아기 강아지",
+      "voice_ko": "다섯 살 여자아이 목소리, 아주 빠르고 높게, 숨이 살짝 찬 채로",
+      "noun_ko": "강아지",
+      "props_ko": "늘어진 귀·꽃무늬 반다나"
     },
     "루비": {
       "id": "ruby",
@@ -243,7 +275,13 @@
         "plot": "200 × 150 × 180cm",
         "zone": "마을 한복판 강 옆 밭",
         "village": "숲속마을"
-      }
+      },
+      "voice_tag": "a 6-year-old girl's voice, clear and high and almost singing, the widest emotional range of the group",
+      "look_ko": "연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이",
+      "look_ko_short": "분홍 아기 토끼",
+      "voice_ko": "여섯 살 여자아이 목소리, 맑고 높게 노래하듯",
+      "noun_ko": "토끼",
+      "props_ko": "귀의 리본·나비넥타이·별 지팡이"
     },
     "노을": {
       "id": "noeul",
@@ -285,7 +323,13 @@
           "식량 저장고",
           "아늑한 잠자리"
         ]
-      }
+      },
+      "voice_tag": "an 8-year-old girl's voice, low and dry and flat, short sentences, never trails off, almost no emotion in it",
+      "look_ko": "적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방",
+      "look_ko_short": "적갈색 아기 여우",
+      "voice_ko": "여덟 살 여자아이 목소리, 낮고 건조하고 평평하게, 감정을 싣지 않고",
+      "noun_ko": "여우",
+      "props_ko": "초록 후드 조끼·허리 가죽 가방"
     }
   },
   "master_sheet_prompts": {
@@ -361,5 +405,15 @@
   "_style_comment": "style_tag 은 본편(16:9), style_tag_shorts 는 쇼츠(9:16)용이다. 본편 컷을 잘라서 쇼츠로 쓸 수 없다 — 16:9 로 잡은 구도는 세로로 자르면 얼굴과 시그니처 포즈가 화면 밖으로 나간다. 쇼츠는 처음부터 세로로 만든다.",
   "horn_lock": "{쿵쿵}'s three horns stay exactly the size, shape and proportion of his registered character design — small baby horns. Only the light on them changes; the horns themselves do not grow, lengthen, thicken or become more prominent.",
   "_horn_comment": "능력 연출에서 «빛이 뿔을 타고 오른다»고 쓰면 생성 모델이 뿔을 주인공으로 읽고 크게 그린다. 조각에서 뿔을 주어 자리에서 빼고(빛이 주어), 능력 컷에는 horn_lock 을 자동으로 붙인다. negative_prompt 에도 뿔이 커지는 표현을 넣어 능력 컷이 아닌 곳까지 막는다.",
-  "_cast_comment": "여섯은 1~10화, 노을이 합류해 일곱이 되는 것은 11화부터다. 10화 엔딩에 실루엣으로만 나온다 — 거기서는 이름도 얼굴도 쓰지 않는다."
+  "_cast_comment": "여섯은 1~10화, 노을이 합류해 일곱이 되는 것은 11화부터다. 10화 엔딩에 실루엣으로만 나온다 — 거기서는 이름도 얼굴도 쓰지 않는다.",
+  "_voice_comment": "voice_tag 는 영상 생성 프롬프트에 그대로 들어간다. profile.voice 는 사람이 읽는 연기 지시라 길고, 이건 생성기에 넣는 한 줄이다. 둘이 어긋나지 않게 같이 고칠 것.",
+  "narration_voice_tag": "a warm adult female narrator's voice, calm and gentle, reading a picture book aloud to a small child",
+  "_narration_comment": "**나레이션은 생성기에 맡기지 않는다.** 컷마다 따로 생성하면 60컷에서 나레이터 목소리가 60가지가 된다. 나레이션은 로컬에서 한 번에 녹음하거나 만들어서 얹는다. 그래서 나레이션만 있는 컷의 영상 프롬프트에는 «아무도 말하지 않는다» 고 적는다 — 안 적으면 생성기가 알아서 아무 말이나 시킨다.",
+  "_look_ko_comment": "**모든 컷의 영상 프롬프트에 반복해서 넣는다.** 1컷에만 적으면 소품이 중간에 생기거나 사라진다 — 루카 고글이 실제로 그랬다. look_ko 는 한두 명 나오는 컷용, look_ko_short 는 셋 이상 나오는 컷용이다 (다 적으면 프롬프트가 길어져 대사 지시가 묻힌다).",
+  "style_ko": "픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질",
+  "_style_ko_comment": "영상 프롬프트 맨 끝에 붙인다. **한 컷이라도 빠지면 그 컷만 톤이 달라져 이어붙였을 때 티가 난다.** 영어 style_tag 는 이미지 생성용이고, 이건 영상용이다 — 영상 프롬프트는 통째로 한글이어야 한다(대사가 묻히지 않게).",
+  "sound_ko": "배경음악 없이 목소리와 효과음만",
+  "_sound_ko_comment": "영상 프롬프트에 반드시 넣는다. 안 넣으면 모델이 곡을 깔고, 클립마다 다른 곡이 붙어서 이어붙이면 딴 영상이 된다. BGM 은 편집에서 하나만 쓴다.",
+  "_noun_ko_comment": "영상 프롬프트에서 이 캐릭터를 부르는 말. 영상 프롬프트는 통째로 한국어로 쓰고 트리거 워드 대신 «토끼가 …» 처럼 종(種)으로 부른다. 얼굴은 [외형] 줄의 look_ko 가 잡는다.",
+  "_props_ko_comment": "«처음부터 끝까지 그대로 유지된다» 문장에 들어가는 소품 목록. 컷 하나에 한두 명만 나올 때 붙인다. 루카의 고글이 중간에 얼굴로 올라온 사고가 이 줄이 없어서 났다."
 }

@@ -61,7 +61,7 @@
       "motion": "The flowers roll across the hillside like water, ending on the full flowering hillside",
       "link": "전환",
       "link_ko": "18화 첫 컷. 꽃밭에서 시작한다.",
-      "motion_ref": "The flowers roll across the hillside like water, ending on the full flowering hillside",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 꽃들이 바람에 크게 일렁이며 언덕을 물결처럼 덮는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 훅 지나가는 바람. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "바람_돌풍"
@@ -92,7 +92,7 @@
       "motion": "They wade in through the tall flowers, ending with the seven waist deep in flowers",
       "link": "전환",
       "link_ko": "꽃밭에서 그 안의 일곱으로.",
-      "motion_ref": "They wade in through the tall flowers, ending with the seven waist deep in flowers",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼, 적갈색 아기 여우. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 일곱이 꽃 사이를 헤치며 천천히 걸어 들어온다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 물에 발이 들어가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물_첨벙"
@@ -117,7 +117,7 @@
       "motion": "Her ears go up and swivel, ending with her ears locked in one direction",
       "link": "연속",
       "link_ko": "걷던 중 소리를 듣는다.",
-      "motion_ref": "Her ears go up and swivel, ending with her ears locked in one direction",
+      "motion_ref": "[외형] 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지의 귀가 쫑긋 서고 방향을 찾아 움직인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -140,7 +140,7 @@
       "motion": "She walks toward the sound, nose up, ending with her moving toward the far trees",
       "link": "연속",
       "link_ko": "귀가 방향을 잡고 몸이 따라간다.",
-      "motion_ref": "She walks toward the sound, nose up, ending with her moving toward the far trees",
+      "motion_ref": "[외형] 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지가 코를 들고 소리 나는 쪽으로 걸어간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 풀밭 위 발소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_풀"
@@ -163,7 +163,7 @@
       "motion": "Bees stream in and out of the trunk hole, ending on the busy trunk hole",
       "link": "컷",
       "link_ko": "소리의 정체가 나온다.",
-      "motion_ref": "Bees stream in and out of the trunk hole, ending on the busy trunk hole",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 늙은 나무 밑동 구멍에서 벌들이 쉴 새 없이 드나든다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -188,7 +188,7 @@
       "motion": "He backs up and covers his face, ending with his flipper over his face",
       "link": "컷",
       "link_ko": "벌통에서 놀란 얼굴로.",
-      "motion_ref": "He backs up and covers his face, ending with his flipper over his face",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 두 걸음 물러나며 날개로 얼굴을 가린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 풀밭 위 발소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_풀"
@@ -214,7 +214,7 @@
       "motion": "She gently lowers his flipper, ending with his face uncovered",
       "link": "연속",
       "link_ko": "놀란 사람을 진정시킨다.",
-      "motion_ref": "She gently lowers his flipper, ending with his face uncovered",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나, 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 빨간 니트 모자·주황 반다나·금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 펭귄의 날개를 조심스럽게 내려 준다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"가만히 있으면 안 쏴. 벌은 바빠서 우리한테 관심 없어.\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -237,7 +237,7 @@
       "motion": "The bee passes his beak and carries on, ending with the bee already past him",
       "link": "연속",
       "link_ko": "말이 곧바로 증명된다.",
-      "motion_ref": "The bee passes his beak and carries on, ending with the bee already past him",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 벌 한 마리가 펭귄의 코앞을 지나 그냥 날아간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -262,7 +262,7 @@
       "motion": "Her staff traces the paths of the bees, ending with the staff following the streams of bees",
       "link": "컷",
       "link_ko": "작은 벌에서 전체 흐름으로.",
-      "motion_ref": "Her staff traces the paths of the bees, ending with the staff following the streams of bees",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 지팡이로 벌들이 오가는 길을 따라 그린다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"저 안에 수천 마리가 살아. 그런데 한 번도 안 부딪혀.\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -287,7 +287,7 @@
       "motion": "He pushes his face close to the hole, ending with his nose near the hole",
       "link": "연속",
       "link_ko": "설명에 질문이 붙는다.",
-      "motion_ref": "He pushes his face close to the hole, ending with his nose near the hole",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 구멍 가까이 얼굴을 들이민다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -310,7 +310,7 @@
       "motion": "She counts off on her fingers, ending with four fingers extended",
       "link": "컷",
       "link_ko": "질문에 답이 시작된다.",
-      "motion_ref": "She counts off on her fingers, ending with four fingers extended",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 손가락을 하나씩 펴며 센다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"대장이 있는 게 아니야. 다들 자기 할 일이 다르거든.\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -333,7 +333,7 @@
       "motion": "She sits close and looks into the hole, ending with her face close to the opening",
       "link": "컷",
       "link_ko": "설명 옆에서 한 명이 직접 본다.",
-      "motion_ref": "She sits close and looks into the hole, ending with her face close to the opening",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 구멍 앞에 가까이 앉아 안을 들여다본다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -354,7 +354,7 @@
       "motion": "They settle into places and watch the hive, ending with the seven all seated and watching",
       "link": "연속",
       "link_ko": "보는 사람이 늘어난다.",
-      "motion_ref": "They settle into places and watch the hive, ending with the seven all seated and watching",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 일곱이 나무 아래에 자리를 잡고 앉아 벌통을 지켜본다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -377,7 +377,7 @@
       "motion": "His eyes track the bees back and forth, ending on his tracking eyes",
       "link": "연속",
       "link_ko": "앉은 줄 안으로 들어간다.",
-      "motion_ref": "His eyes track the bees back and forth, ending on his tracking eyes",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 턱을 괴고 벌들을 눈으로 쫓는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -400,7 +400,7 @@
       "motion": "The bees move in several separate streams, ending on the divided streams of bees",
       "link": "전환",
       "link_ko": "관찰이 본격적으로 시작된다.",
-      "motion_ref": "The bees move in several separate streams, ending on the divided streams of bees",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 벌들이 여러 갈래로 나뉘어 서로 다른 방향으로 움직인다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -423,7 +423,7 @@
       "motion": "It carries two yellow loads into the hole, ending with it disappearing inside",
       "link": "연속",
       "link_ko": "흐름 중 하나로 들어간다.",
-      "motion_ref": "It carries two yellow loads into the hole, ending with it disappearing inside",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 다리에 노란 꽃가루 덩이를 매단 벌이 구멍으로 들어간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -448,7 +448,7 @@
       "motion": "She draws the bee into her notebook, ending with the drawing done on the page",
       "link": "컷",
       "link_ko": "본 것에 이름이 붙는다.",
-      "motion_ref": "She draws the bee into her notebook, ending with the drawing done on the page",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 수첩에 벌 그림을 그린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 종이 넘기거나 찢는 소리, 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "종이",
@@ -472,7 +472,7 @@
       "motion": "The two guards hold their positions, ending on the two motionless guards",
       "link": "컷",
       "link_ko": "드나드는 쪽에서 서 있는 쪽으로.",
-      "motion_ref": "The two guards hold their positions, ending on the two motionless guards",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 구멍 옆의 벌 두 마리가 꼼짝 않고 자리를 지킨다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -497,7 +497,7 @@
       "motion": "He points at the two still bees, ending with his finger held out",
       "link": "연속",
       "link_ko": "가만한 벌에 질문이 붙는다.",
-      "motion_ref": "He points at the two still bees, ending with his finger held out",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 서 있는 벌들을 손가락으로 가리킨다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -522,7 +522,7 @@
       "motion": "She holds the staff across like a barrier, ending with the staff held across",
       "link": "연속",
       "link_ko": "질문에 답이 나온다.",
-      "motion_ref": "She holds the staff across like a barrier, ending with the staff held across",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 지팡이로 문 앞을 가로막는 시늉을 한다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"서 있는 게 일이야. 문지기거든.\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -543,7 +543,7 @@
       "motion": "The guard moves across to block it, ending with the stranger turned away",
       "link": "연속",
       "link_ko": "말이 곧바로 증명된다.",
-      "motion_ref": "The guard moves across to block it, ending with the stranger turned away",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 낯선 벌이 다가오자 문지기 벌이 앞을 막아선다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -566,7 +566,7 @@
       "motion": "One bee traces a figure eight in the air, ending with the figure eight completed",
       "link": "컷",
       "link_ko": "문 앞에서 다른 행동으로.",
-      "motion_ref": "One bee traces a figure eight in the air, ending with the figure eight completed",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 벌 한 마리가 구멍 앞에서 여덟 팔자를 그리며 춤을 춘다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -591,7 +591,7 @@
       "motion": "She wobbles in imitation of the bee, ending mid-wobble",
       "link": "컷",
       "link_ko": "춤에서 그걸 따라 하는 아이로.",
-      "motion_ref": "She wobbles in imitation of the bee, ending mid-wobble",
+      "motion_ref": "[외형] 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지가 벌의 춤을 흉내 내며 몸을 흔든다.\n[대사] 강아지가 입을 크게 벌려 또박또박 한국어로 말한다: \"춤춘다! 놀고 있어!\" 다섯 살 여자아이 목소리, 아주 빠르고 높게, 숨이 살짝 찬 채로.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -616,7 +616,7 @@
       "motion": "Her hands link the dance to the sun, ending with both her hands still raised",
       "link": "연속",
       "link_ko": "오해를 바로잡는다.",
-      "motion_ref": "Her hands link the dance to the sun, ending with both her hands still raised",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 손으로 춤의 방향과 해의 위치를 이어 보인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"노는 게 아니라 알려 주는 거야. 꽃이 어느 쪽에 있는지.\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -637,7 +637,7 @@
       "motion": "A group of bees all leave in one direction, ending with the group gone in one direction",
       "link": "연속",
       "link_ko": "설명이 다시 증명된다.",
-      "motion_ref": "A group of bees all leave in one direction, ending with the group gone in one direction",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 춤이 끝나자 벌 여럿이 한 방향으로 우르르 날아간다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -660,7 +660,7 @@
       "motion": "Small bees work at cleaning the walls, ending on the cleaning bees",
       "link": "컷",
       "link_ko": "밖에서 안으로 들어간다.",
-      "motion_ref": "Small bees work at cleaning the walls, ending on the cleaning bees",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 구멍 안쪽에서 작은 벌들이 벽을 닦고 있다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -685,7 +685,7 @@
       "motion": "He peers into the hole, no longer afraid, ending with his face at the opening",
       "link": "컷",
       "link_ko": "안쪽에서 그걸 보는 얼굴로.",
-      "motion_ref": "He peers into the hole, no longer afraid, ending with his face at the opening",
+      "motion_ref": "[외형] 남색 아기 펭귄, 흰 방울 달린 빨간 니트 모자, 목에 주황 반다나. 빨간 니트 모자·주황 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 펭귄이 어느새 구멍 앞까지 다가와 안을 들여다본다.\n[대사] 펭귄이 입을 크게 벌려 또박또박 한국어로 말한다: \"저 안에서 청소하는 애도 있어…\" 다섯 살 남자아이 목소리, 작고 몽글몽글하게, 콧소리를 살짝 섞어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -708,7 +708,7 @@
       "motion": "Her eyes count the streams one by one, ending on her counting gaze",
       "link": "컷",
       "link_ko": "떠드는 쪽에서 조용한 쪽으로.",
-      "motion_ref": "Her eyes count the streams one by one, ending on her counting gaze",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 아무 말 없이 벌들의 갈래를 하나하나 눈으로 센다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -733,7 +733,7 @@
       "motion": "He tilts his head, puzzled, ending on his tilted puzzled head",
       "link": "컷",
       "link_ko": "관찰이 질문으로 모인다.",
-      "motion_ref": "He tilts his head, puzzled, ending on his tilted puzzled head",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 고개를 갸웃한다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"다들 다른 일 하는데, 어떻게 안 싸워?\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -756,7 +756,7 @@
       "motion": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt",
       "link": "연속",
       "link_ko": "질문에 답이 나온다.",
-      "motion_ref": "Her staff draws seven circles in the dirt, ending on the seven circles in the dirt",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 지팡이로 땅에 동그라미를 일곱 개 그린다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"자기 일이 뭔지 다 알거든. 그게 다야.\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -777,7 +777,7 @@
       "motion": "Wilted flowers hang over cracked soil, ending on the dry cracked patch",
       "link": "전환",
       "link_ko": "벌통에서 시든 꽃밭으로.",
-      "motion_ref": "Wilted flowers hang over cracked soil, ending on the dry cracked patch",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 갈라진 흙 위에서 시든 꽃들이 축 늘어져 있다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -800,7 +800,7 @@
       "motion": "She cups a wilted flower in her hand, ending with the flower drooping in her hand",
       "link": "연속",
       "link_ko": "시든 꽃 앞에서 말이 나온다.",
-      "motion_ref": "She cups a wilted flower in her hand, ending with the flower drooping in her hand",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 시든 꽃 하나를 손으로 받쳐 든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"여기까지 시들면 벌들도 갈 데가 없어져.\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -823,7 +823,7 @@
       "motion": "He points to the stream and sets off, ending with him already moving away",
       "link": "컷",
       "link_ko": "문제에서 해결책으로.",
-      "motion_ref": "He points to the stream and sets off, ending with him already moving away",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 개울 쪽을 가리키며 앞장선다.\n[대사] 호랑이가 입을 크게 벌려 또박또박 한국어로 말한다: \"물 주면 되잖아! 다 같이 물 떠 오자!\" 여덟 살 남자아이 목소리, 또렷하고 시원한 중음으로, 말끝을 끝까지 맺어서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -844,7 +844,7 @@
       "motion": "All seven run and all grab buckets, ending with seven buckets in seven hands",
       "link": "연속",
       "link_ko": "제안대로 다 같이 움직인다.",
-      "motion_ref": "All seven run and all grab buckets, ending with seven buckets in seven hands",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 일곱이 전부 개울로 달려가 물통을 든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -867,7 +867,7 @@
       "motion": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets",
       "link": "연속",
       "link_ko": "다 같이 하니 부딪힌다.",
-      "motion_ref": "They collide and water slops everywhere, ending with soaked ground and half-empty buckets",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 일곱이 좁은 물가에서 서로 부딪히고 물이 쏟아진다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 부딪히거나 넘어지는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "충돌_쿵"
@@ -890,7 +890,7 @@
       "motion": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket",
       "link": "연속",
       "link_ko": "부딪힌 결과다.",
-      "motion_ref": "Only a shallow puddle sits in the bucket, ending on the nearly empty bucket",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 물통 바닥에 물이 조금밖에 남지 않았다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 물에 발이 들어가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "물_첨벙"
@@ -915,7 +915,7 @@
       "motion": "She stands soaked, shoulders down, ending on her drooping soaked figure",
       "link": "컷",
       "link_ko": "빈 통에서 지친 얼굴로.",
-      "motion_ref": "She stands soaked, shoulders down, ending on her drooping soaked figure",
+      "motion_ref": "[외형] 황금빛 아기 강아지, 길게 늘어진 귀, 목에 꽃무늬 반다나. 늘어진 귀·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 강아지가 젖은 채 어깨를 늘어뜨린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -938,7 +938,7 @@
       "motion": "He turns his head back toward the hive, ending with him looking back at the tree",
       "link": "컷",
       "link_ko": "실패에서 아까 본 것으로.",
-      "motion_ref": "He turns his head back toward the hive, ending with him looking back at the tree",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 벌통 쪽으로 고개를 돌린다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"…벌들은 안 부딪혔는데.\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -961,7 +961,7 @@
       "motion": "She redraws the seven circles in the dirt, ending on the seven fresh circles",
       "link": "연속",
       "link_ko": "깨달음이 계획이 된다.",
-      "motion_ref": "She redraws the seven circles in the dirt, ending on the seven fresh circles",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프. 금테 안경·보라 조끼·목스카프는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 땅에 동그라미 일곱 개를 다시 그린다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"맞아. 우리 일을 나누자.\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -986,7 +986,7 @@
       "motion": "Each works a different job without colliding, ending with the line of work running smoothly",
       "link": "컷",
       "link_ko": "계획이 실행된다.",
-      "motion_ref": "Each works a different job without colliding, ending with the line of work running smoothly",
+      "motion_ref": "[외형] 주황 아기 호랑이, 빨간 모자 아기 펭귄, 황금빛 아기 강아지. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 각자 다른 자리에서 다른 동작으로 쉬지 않고 움직인다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1012,7 +1012,7 @@
       "motion": "She marks the patches; she counts the order, ending with both at their own stations",
       "link": "연속",
       "link_ko": "다른 자리의 다른 일이다.",
-      "motion_ref": "She marks the patches; she counts the order, ending with both at their own stations",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프, 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 금테 안경·보라 조끼·목스카프·귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 자리를 정하고 토끼가 순서를 센다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1035,7 +1035,7 @@
       "motion": "He hoists two heavy buckets at once, ending with both buckets clear of the ground",
       "link": "연속",
       "link_ko": "각자의 몫이 이어진다.",
-      "motion_ref": "He hoists two heavy buckets at once, ending with both buckets clear of the ground",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 무거운 물통을 한 번에 두 개씩 들어 올린다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1056,7 +1056,7 @@
       "motion": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright",
       "link": "연속",
       "link_ko": "일이 결과로 나타난다.",
-      "motion_ref": "The soil darkens and the stems begin to lift, ending with the patch dark and the flowers upright",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 마른 흙이 물을 먹어 색이 짙어지고 꽃대가 조금씩 선다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1079,7 +1079,7 @@
       "motion": "He wipes his face and laughs, ending on his laughing sweaty face",
       "link": "컷",
       "link_ko": "결과에서 그걸 본 얼굴로.",
-      "motion_ref": "He wipes his face and laughs, ending on his laughing sweaty face",
+      "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 땀을 닦으며 크게 웃는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 아이들 환호 · 웃음. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "환호"
@@ -1102,7 +1102,7 @@
       "motion": "Six work; one station stands empty, ending on the one empty place",
       "link": "컷",
       "link_ko": "웃음 뒤에 빈자리가 보인다.",
-      "motion_ref": "Six work; one station stands empty, ending on the one empty place",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 여섯이 각자 자리에서 움직이고 한 자리만 비어 있다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1125,7 +1125,7 @@
       "motion": "She stands at the edge holding a bucket, ending on her motionless at the edge",
       "link": "전환",
       "link_ko": "일하는 여섯에서 서 있는 하나로.",
-      "motion_ref": "She stands at the edge holding a bucket, ending on her motionless at the edge",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 물통을 든 채 가장자리에 서서 움직이지 않는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1148,7 +1148,7 @@
       "motion": "She speaks quietly to herself, ending on her quiet uncertain face",
       "link": "연속",
       "link_ko": "선 자리에서 혼잣말이 나온다.",
-      "motion_ref": "She speaks quietly to herself, ending on her quiet uncertain face",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 아주 작게 혼잣말하듯 입을 움직인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 여우가 입을 크게 벌려 또박또박 한국어로 말한다: \"…나는 어디 있어야 하지.\" 여덟 살 여자아이 목소리, 낮고 건조하고 평평하게, 감정을 싣지 않고.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1171,7 +1171,7 @@
       "motion": "He puts the buckets down and walks over, ending with him arriving beside her",
       "link": "컷",
       "link_ko": "혼잣말을 누군가 듣는다.",
-      "motion_ref": "He puts the buckets down and walks over, ending with him arriving beside her",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 물통을 내려놓고 그쪽으로 걸어온다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "발소리_자갈"
@@ -1196,7 +1196,7 @@
       "motion": "He points from the stream to the meadow, ending with his arm pointing at the meadow",
       "link": "연속",
       "link_ko": "옆에 서서 말한다.",
-      "motion_ref": "He points from the stream to the meadow, ending with his arm pointing at the meadow",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 개울 쪽과 꽃밭 쪽을 번갈아 가리킨다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"누나는 아까 물길 알려 줬잖아. 그게 누나 일이야.\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1219,7 +1219,7 @@
       "motion": "She blinks; her face wavers a little, ending on her wavering expression",
       "link": "연속",
       "link_ko": "말이 닿는다.",
-      "motion_ref": "She blinks; her face wavers a little, ending on her wavering expression",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 눈을 깜빡이며 표정이 조금 흔들린다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1243,7 +1243,7 @@
       "motion": "She raises a hand and calls across, ending with her hand still raised",
       "link": "컷",
       "link_ko": "한 사람이 부르니 다른 쪽에서도 부른다.",
-      "motion_ref": "She raises a hand and calls across, ending with her hand still raised",
+      "motion_ref": "[외형] 회색 아기 코알라, 동그란 금테 안경, 보라색 조끼, 꽃무늬 목스카프, 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 금테 안경·보라 조끼·목스카프·초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 코알라가 꽃밭 저편에서 손을 들어 노을을 부른다.\n[대사] 코알라가 입을 크게 벌려 또박또박 한국어로 말한다: \"노을아, 다음은 어디 줘야 해?\" 일곱 살 여자아이 목소리, 낮고 차분하게 또박또박, 천천히.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1266,7 +1266,7 @@
       "motion": "She scans the meadow and points at one patch, ending with her arm out toward the patch",
       "link": "연속",
       "link_ko": "부름에 답이 나온다.",
-      "motion_ref": "She scans the meadow and points at one patch, ending with her arm out toward the patch",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 물통을 내려놓고 꽃밭을 훑은 뒤 한 곳을 가리킨다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1294,7 +1294,7 @@
       "motion": "All six move at once toward the spot, ending with the six converging on the patch",
       "link": "연속",
       "link_ko": "가리킨 곳으로 전부 움직인다.",
-      "motion_ref": "All six move at once toward the spot, ending with the six converging on the patch",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 여섯이 그 손끝을 따라 한꺼번에 그쪽으로 움직인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1320,7 +1320,7 @@
         "sec": 0.6,
         "why": "낮에서 저녁으로 시간이 넘어간다"
       },
-      "motion_ref": "The wet soil darkens and the flowers stand, ending on the revived evening meadow",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 저녁빛 속에서 흙이 짙게 젖고 꽃이 다시 서 있다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1349,7 +1349,7 @@
       "motion": "The seven sit in a row, filthy, ending with the seven seated in a row",
       "link": "연속",
       "link_ko": "일이 끝나고 앉는다.",
-      "motion_ref": "The seven sit in a row, filthy, ending with the seven seated in a row",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼, 적갈색 아기 여우. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 일곱이 나란히 앉아 있고 모두 흙투성이다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1372,7 +1372,7 @@
       "motion": "The staff taps each circle in turn, ending with the staff on the seventh circle",
       "link": "연속",
       "link_ko": "앉은 자리에서 말이 나온다.",
-      "motion_ref": "The staff taps each circle in turn, ending with the staff on the seventh circle",
+      "motion_ref": "[외형] 연분홍 아기 토끼, 한쪽 귀에 분홍 리본, 목에 분홍 나비넥타이, 손에 별 지팡이. 귀의 리본·나비넥타이·별 지팡이는 처음부터 끝까지 그대로 유지된다.\n[동작] 토끼가 땅의 동그라미 일곱 개를 지팡이로 톡톡 짚는다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 토끼가 입을 크게 벌려 또박또박 한국어로 말한다: \"벌통이랑 똑같아졌네. 일곱 마리 벌.\" 여섯 살 여자아이 목소리, 맑고 높게 노래하듯.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1395,7 +1395,7 @@
       "motion": "He puffs up his chest and beams, ending on his beaming face",
       "link": "컷",
       "link_ko": "대화가 쿵쿵의 한마디로 모인다.",
-      "motion_ref": "He puffs up his chest and beams, ending on his beaming face",
+      "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 가슴을 펴고 활짝 웃는다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"각자의 자리에서 부지런히 일하는 친구들을 지켜줄게, 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1418,7 +1418,7 @@
       "motion": "Her foot widens the seventh circle, ending on the widened seventh circle",
       "link": "컷",
       "link_ko": "한마디 뒤에 노을의 손이 움직인다.",
-      "motion_ref": "Her foot widens the seventh circle, ending on the widened seventh circle",
+      "motion_ref": "[외형] 적갈색 아기 여우, 짧은 숲빛 초록 후드 조끼(후드는 내린 상태), 허리에 작은 가죽 가방. 초록 후드 조끼·허리 가죽 가방은 처음부터 끝까지 그대로 유지된다.\n[동작] 노을이 일곱 번째 동그라미를 발끝으로 조금 넓게 다시 그린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     },
@@ -1439,7 +1439,7 @@
       "motion": "Bees still come and go in the evening light, ending on the still-busy hive",
       "link": "컷",
       "link_ko": "사람에서 벌로 돌아간다.",
-      "motion_ref": "Bees still come and go in the evening light, ending on the still-busy hive",
+      "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 저녁빛 속에서 벌들이 아직 구멍을 드나든다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": [
         "작은동물"
@@ -1470,7 +1470,7 @@
       "motion": "The evening light deepens as the camera eases back",
       "link": "컷",
       "link_ko": "엔딩 카드로 마무리한다.",
-      "motion_ref": "The evening light deepens as the camera eases back",
+      "motion_ref": "[외형] 민트색 아기 공룡, 주황 아기 호랑이, 빨간 모자 아기 펭귄, 안경 쓴 아기 코알라, 황금빛 아기 강아지, 분홍 아기 토끼, 적갈색 아기 여우. 각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다.\n[동작] 저녁빛이 짙어지고 화면이 아주 느리게 물러난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
       "sfx": []
     }
