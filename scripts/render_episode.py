@@ -161,6 +161,8 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--episode", required=True)
     p.add_argument("--clips", required=True, help="컷 클립이 들어있는 폴더")
+    p.add_argument("--speech", help="measure_speech.py 가 만든 말 구간 JSON. "
+                                    "주면 자막이 눈대중이 아니라 말에 붙는다")
     p.add_argument("--audio", help="배경음악 한 곡 (반복 재생). 간단히 볼 때만 쓰세요")
     p.add_argument("--audio-track",
                    help="scripts/mix_audio.py 로 만든 완성 오디오. 그대로 붙입니다 "
@@ -271,8 +273,13 @@ def main():
             print(f"  이어붙인 결과 {real_merged:.2f}초 · 계산값과 {gap:+.2f}초 차이 → 자막을 실측에 맞춤")
     sub_path = work / "durations_render.json"
     sub_path.write_text(json.dumps(adj, ensure_ascii=False, indent=2), encoding="utf-8")
-    ass, srt, n, total = build_subtitles.build(ep, durations=sub_path)
-    print(f"자막 {n}줄 재생성 (완성본 실측 기준, 전체 {total:.1f}초) → {ass.name}, {srt.name}")
+    speech = a.speech
+    if not speech and (ep / "work" / "speech.json").exists():
+        speech = ep / "work" / "speech.json"      # 재 두었으면 알아서 쓴다
+        print("  말 구간 실측 파일을 찾았습니다 → 자막을 거기에 맞춥니다")
+    ass, srt, n, total, ns, ne = build_subtitles.build(ep, durations=sub_path, speech=speech)
+    print(f"자막 재생성 (완성본 실측 기준, 전체 {total:.1f}초) — "
+          f"굽는 자막 {n}줄, 유튜브 CC {ns}줄 → {ass.name}, {srt.name}")
 
     # 6) 자막 굽기 + 음악
     out = Path(a.out) if a.out else ep / f"{ep.name}.mp4"

@@ -1,14 +1,14 @@
 {
-  "_comment": "자막 스타일. 색은 #RRGGBB 로 쓰면 build_subtitles.py 가 ASS 형식(&HAABBGGRR)으로 변환한다.",
+  "_comment": "쇼츠(9:16) 자막 스타일. 본편은 subtitle_style.json.",
   "video": {
-    "width": 1920,
-    "height": 1080
+    "width": 1080,
+    "height": 1920
   },
   "fonts_dir": "fonts",
   "styles": {
     "대사": {
       "font": "NanumGothic",
-      "size": 62,
+      "size": 68,
       "bold": true,
       "fill": "#FFFFFF",
       "outline": "#3B2314",
@@ -17,14 +17,14 @@
       "shadow_color": "#000000",
       "shadow_alpha": 128,
       "align": 2,
-      "margin_v": 78,
-      "margin_h": 120,
-      "max_chars_per_line": 20,
+      "margin_v": 260,
+      "margin_h": 70,
+      "max_chars_per_line": 13,
       "max_lines": 2
     },
     "나레이션": {
       "font": "NanumGothic",
-      "size": 56,
+      "size": 62,
       "bold": true,
       "italic": true,
       "fill": "#FFF6DC",
@@ -34,14 +34,14 @@
       "shadow_color": "#000000",
       "shadow_alpha": 128,
       "align": 2,
-      "margin_v": 78,
-      "margin_h": 120,
-      "max_chars_per_line": 22,
+      "margin_v": 260,
+      "margin_h": 70,
+      "max_chars_per_line": 14,
       "max_lines": 2
     },
     "효과": {
       "font": "NanumGothic",
-      "size": 96,
+      "size": 104,
       "bold": true,
       "fill": "#FFE9A8",
       "outline": "#3B2314",
@@ -50,9 +50,9 @@
       "shadow_color": "#000000",
       "shadow_alpha": 120,
       "align": 8,
-      "margin_v": 120,
-      "margin_h": 80,
-      "max_chars_per_line": 8,
+      "margin_v": 240,
+      "margin_h": 60,
+      "max_chars_per_line": 7,
       "max_lines": 1
     }
   },
@@ -66,8 +66,8 @@
     "_comment": "true 로 하면 「쿵쿵: 대사」 형태로 이름을 앞에 붙인다. 나레이션은 항상 제외."
   },
   "effect_caption": {
-    "enabled": false,
+    "enabled": true,
     "duration_sec": 1.0,
-    "_comment": "쇼츠에서만 기본으로 켠다. 본편은 --effects 로 켤 수 있지만 4분 내내 나오면 시끄럽다."
+    "_comment": "쇼츠는 소리를 끄고 보는 사람이 대부분이라 기본으로 켠다."
   }
 }

@@ -1,0 +1,19 @@
+[Script Info]
+; 쿵쿵이와 친구들 — scripts/build_subtitles.py 가 생성함. 직접 고치지 말 것.
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: 대사,NanumGothic,68,&H00FFFFFF,&H00FFFFFF,&H0014233B,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,70,70,260,1
+Style: 나레이션,NanumGothic,62,&H00DCF6FF,&H00DCF6FF,&H00122E4A,&H80000000,-1,-1,0,0,100,100,0,0,1,5,2,2,70,70,260,1
+Style: 효과,NanumGothic,104,&H00A8E9FF,&H00A8E9FF,&H0014233B,&H78000000,-1,0,0,0,100,100,0,0,1,7,3,8,60,60,240,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.00,0:00:09.00,효과,,0,0,0,,쿵!
+Dialogue: 0,0:00:13.00,0:00:14.00,효과,,0,0,0,,데굴데굴
+Dialogue: 0,0:00:18.08,0:00:22.88,대사,쿵쿵,0,0,0,,헤헤, 내가 지켜줄게.\N쿵쿵!

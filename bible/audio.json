@@ -302,7 +302,8 @@
       ],
       "소리": "물에 발이 들어가는 소리",
       "검색어": "water splash footsteps",
-      "en": "water splashing"
+      "en": "water splashing",
+      "효과자막": "첨벙!"
     },
     "물_흐름_변화": {
       "match": [
@@ -322,7 +323,8 @@
       ],
       "소리": "나무 문 여닫는 소리",
       "검색어": "wooden door open close",
-      "en": "a wooden door opening"
+      "en": "a wooden door opening",
+      "효과자막": "끼익—"
     },
     "바람_돌풍": {
       "match": [
@@ -331,7 +333,8 @@
       ],
       "소리": "훅 지나가는 바람",
       "검색어": "wind gust whoosh",
-      "en": "a gust of wind"
+      "en": "a gust of wind",
+      "효과자막": "휘잉—"
     },
     "나뭇잎": {
       "match": [
@@ -342,7 +345,8 @@
       ],
       "소리": "잎이 스치거나 떨어지는 소리",
       "검색어": "leaves rustle fall",
-      "en": "leaves rustling"
+      "en": "leaves rustling",
+      "효과자막": "사르르"
     },
     "천둥": {
       "match": [
@@ -352,7 +356,8 @@
       ],
       "소리": "먼 천둥",
       "검색어": "distant thunder rumble",
-      "en": "distant thunder"
+      "en": "distant thunder",
+      "효과자막": "우르릉—"
     },
     "나무_삐걱": {
       "match": [
@@ -364,7 +369,8 @@
       ],
       "소리": "나무가 갈라지거나 삐걱대는 소리",
       "검색어": "wood creak crack",
-      "en": "wood creaking"
+      "en": "wood creaking",
+      "효과자막": "삐걱—"
     },
     "돌_굴림": {
       "match": [
@@ -374,7 +380,8 @@
       ],
       "소리": "돌이나 덩어리가 굴러가는 소리",
       "검색어": "rock rolling ground",
-      "en": "a heavy object rolling on the ground"
+      "en": "a heavy object rolling on the ground",
+      "효과자막": "데굴데굴"
     },
     "충돌_쿵": {
       "match": [
@@ -389,7 +396,8 @@
       ],
       "소리": "부딪히거나 넘어지는 소리",
       "검색어": "body fall thud soft",
-      "en": "a soft thud of something falling"
+      "en": "a soft thud of something falling",
+      "효과자막": "쿵!"
     },
     "종이": {
       "match": [
@@ -401,7 +409,8 @@
       ],
       "소리": "종이 넘기거나 찢는 소리",
       "검색어": "paper page turn tear",
-      "en": "paper rustling"
+      "en": "paper rustling",
+      "효과자막": "사각사각"
     },
     "금속_도구": {
       "match": [
@@ -412,7 +421,8 @@
       ],
       "소리": "공구 소리",
       "검색어": "metal wrench tool",
-      "en": "a metal tool clinking"
+      "en": "a metal tool clinking",
+      "효과자막": "챙그랑"
     },
     "유리_병": {
       "match": [
@@ -422,7 +432,8 @@
       ],
       "소리": "유리병 · 뚜껑 소리",
       "검색어": "glass jar lid",
-      "en": "a glass jar and lid"
+      "en": "a glass jar and lid",
+      "효과자막": "쨍그랑!"
     },
     "불_등불": {
       "match": [
@@ -451,7 +462,8 @@
       ],
       "소리": "그 동물의 소리 또는 움직임",
       "검색어": "small animal movement squeak",
-      "en": "a small animal squeaking and moving"
+      "en": "a small animal squeaking and moving",
+      "효과자막": "포르르"
     },
     "환호": {
       "match": [
@@ -464,7 +476,8 @@
       ],
       "소리": "아이들 환호 · 웃음",
       "검색어": "children cheer laugh group",
-      "en": "children cheering and laughing"
+      "en": "children cheering and laughing",
+      "효과자막": "와아—!"
     },
     "손뼉": {
       "match": [
@@ -473,7 +486,8 @@
       ],
       "소리": "손뼉",
       "검색어": "hand clap single",
-      "en": "a hand clap"
+      "en": "a hand clap",
+      "효과자막": "짝짝짝"
     },
     "삽_흙": {
       "match": [
@@ -495,7 +509,8 @@
       ],
       "소리": "물방울",
       "검색어": "water drip single",
-      "en": "a single water drop"
+      "en": "a single water drop",
+      "효과자막": "똑, 똑"
     },
     "얼음_미끄럼": {
       "match": [
@@ -507,7 +522,8 @@
       ],
       "소리": "얼음 위 미끄러지는 소리",
       "검색어": "ice skate glide",
-      "en": "skates gliding on ice"
+      "en": "skates gliding on ice",
+      "효과자막": "주르륵—"
     },
     "호루라기": {
       "match": [
@@ -515,7 +531,8 @@
       ],
       "소리": "호루라기",
       "검색어": "sports whistle",
-      "en": "a sports whistle"
+      "en": "a sports whistle",
+      "효과자막": "삑—!"
     },
     "_floor_comment": "발소리는 «바닥»을 따라간다. match 가 빈 것들은 낱말로 찾지 않고, 그 장면의 환경음을 보고 build_audio.py 가 골라 준다 — 동굴에서 풀밭 발소리가 나면 바로 티가 난다.",
     "_match_comment": "match 는 영문 모션 프롬프트에서 **낱말 앞머리**로 찾는다. 가운데를 찾으면 voice 의 ice, window glass 의 glass 처럼 엉뚱한 데 붙는다.",
@@ -528,42 +545,48 @@
       "타이밍": "앞발이 땅에 닿는 프레임에 ①. 빛이 퍼지기 시작할 때 ②. 고리가 화면 밖으로 나갈 때까지 ③",
       "레벨": "-10 dBFS. 이 시리즈에서 가장 큰 효과음",
       "검색어": "deep impact boom + riser sweep + ground rumble",
-      "소리": "땅이 울리는 낮은 «쿵» 소리와 위로 올라가는 빛 소리"
+      "소리": "땅이 울리는 낮은 «쿵» 소리와 위로 올라가는 빛 소리",
+      "효과자막": "쿵!"
     },
     "쿵쿵_온기": {
       "구성": "① 어택 없는 벨 패드 스웰 2초 ② 아주 가는 shimmer",
       "타이밍": "«쿵» 하는 순간이 없다. 빛이 차오르는 것과 같은 속도로 소리도 차오른다",
       "레벨": "-16 dBFS. 조용해야 따뜻하게 들린다",
       "검색어": "warm bell pad swell soft shimmer",
-      "소리": "따뜻하게 차오르는 종소리"
+      "소리": "따뜻하게 차오르는 종소리",
+      "효과자막": "포근—"
     },
     "쿵쿵_바람": {
       "구성": "① 위로 올라가는 휘슬 ② 공기가 도는 소리(루프) ③ 끝날 때 아래로 풀리는 한 번",
       "타이밍": "②는 능력이 유지되는 내내 깔린다. 능력이 끝나는 컷에서 ③",
       "레벨": "-13 dBFS",
       "검색어": "rising whistle updraft air swirl loop",
-      "소리": "위로 올라가는 휘파람 같은 바람 소리"
+      "소리": "위로 올라가는 휘파람 같은 바람 소리",
+      "효과자막": "휘이잉—"
     },
     "쿵쿵_자장가": {
       "구성": "① 글로켄슈필 아르페지오(느리게 내려가는) ② 아주 낮은 패드",
       "타이밍": "빛이 벽을 훑는 속도에 맞춰 아르페지오를 느리게",
       "레벨": "-18 dBFS. 재우는 소리이므로 가장 작다",
       "검색어": "glockenspiel lullaby descending soft pad",
-      "소리": "느리게 내려가는 실로폰 자장가 소리"
+      "소리": "느리게 내려가는 실로폰 자장가 소리",
+      "효과자막": "새근새근"
     },
     "쿵쿵_방어막": {
       "구성": "① 저음 붐 ② 돔이 닫히는 «후웁» ③ 유리 같은 지속 shimmer(유지되는 동안)",
       "타이밍": "③은 돔이 서 있는 내내. 돔이 꺼지는 컷에서 shimmer 가 한 번에 끊긴다",
       "레벨": "-11 dBFS",
       "검색어": "low boom + energy dome close + glass shimmer sustain",
-      "소리": "«후웁» 하고 돔이 닫히는 소리와 유리 같은 울림"
+      "소리": "«후웁» 하고 돔이 닫히는 소리와 유리 같은 울림",
+      "효과자막": "후웁!"
     },
     "뿔_반응": {
       "구성": "아주 낮은 사인 스웰 하나. **임팩트가 없다.**",
       "타이밍": "36화 SC4-02 · 40화 SC4-06 두 컷에만. 쿵쿵이 쓰는 게 아니라 저절로 반응하는 것이므로 «시작»하는 소리가 있으면 안 된다",
       "레벨": "-20 dBFS. 있는지 없는지 헷갈릴 만큼 작게",
       "검색어": "very low sine swell subsonic no attack",
-      "소리": "뿔에서 나는 아주 작은 «띵» 소리"
+      "소리": "뿔에서 나는 아주 작은 «띵» 소리",
+      "효과자막": "반짝!"
     }
   },
   "rules": {
@@ -575,5 +598,6 @@
     "5_엔딩_한마디는_무음에_가깝게": "쿵쿵의 «지켜줄게» 한마디 컷은 효과음 없이, BGM 도 아주 작게. 그 말만 들리게 한다.",
     "6_타이틀_카드는_엔딩_타이틀만": "마지막 컷에는 환경음도 효과음도 넣지 않는다.",
     "7_무료_음원_출처": "유튜브 오디오 보관함(가장 안전) · Pixabay Audio(CC0) · Freesound(라이선스 확인 필수 — CC0 만 쓸 것). 저작자 표시가 필요한 것은 쓰지 말 것. 나중에 화가 늘면 표시를 관리할 수 없다."
-  }
+  },
+  "_효과자막_comment": "쇼츠에 큼직하게 띄우는 소리 글자. 소리를 끄고 보는 사람이 대부분이라 «무슨 소리가 났는지» 를 글자로 보여 줘야 한다. 컷 시작에 1초 정도, 대사 자막과 겹치지 않게 화면 위쪽에 띄운다. 능력 소리는 항상 띄우고, 효과음은 여기 적힌 것만 띄운다 — 발소리까지 띄우면 화면이 시끄럽다."
 }
