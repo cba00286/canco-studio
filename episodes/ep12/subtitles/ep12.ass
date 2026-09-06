@@ -11,10 +11,11 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: 대사,NanumGothic,62,&H00FFFFFF,&H00FFFFFF,&H0014233B,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,120,120,78,1
 Style: 나레이션,NanumGothic,56,&H00DCF6FF,&H00DCF6FF,&H00122E4A,&H80000000,-1,-1,0,0,100,100,0,0,1,5,2,2,120,120,78,1
 Style: 효과,NanumGothic,96,&H00A8E9FF,&H00A8E9FF,&H0014233B,&H78000000,-1,0,0,0,100,100,0,0,1,7,3,8,80,80,120,1
+Style: 권리,NanumGothic,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2,0,2,60,60,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.80,0:00:12.65,대사,미미,0,0,0,,여기서부터는 지도에도 안 나와.
+Dialogue: 0,0:00:09.08,0:00:13.88,대사,미미,0,0,0,,여기서부터는 지도에도 안 나와.
 Dialogue: 0,0:00:27.08,0:00:30.88,대사,티니,0,0,0,,얘들아! 여기 구멍이 있어!
 Dialogue: 0,0:00:40.08,0:00:44.88,대사,루카,0,0,0,,들어가 보자! 안에 뭐가 있는지\N궁금하지 않아?
 Dialogue: 0,0:00:45.08,0:00:48.88,대사,후안,0,0,0,,나, 나는… 밝은 데가 좋은데.

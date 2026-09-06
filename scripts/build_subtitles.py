@@ -25,6 +25,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 AUDIO = json.loads((ROOT / "bible" / "audio.json").read_text(encoding="utf-8"))
+RIGHTS_PATH = ROOT / "bible" / "rights.json"
+RIGHTS = json.loads(RIGHTS_PATH.read_text(encoding="utf-8")) if RIGHTS_PATH.exists() else {}
+
+
+def rights_line():
+    """엔딩 카드에 얹을 권리 표기. 권리자명이 안 채워져 있으면 None.
+
+    생성기로 글자를 만들면 한글이 깨지므로 여기서 자막으로 얹는다.
+    """
+    who = RIGHTS.get("권리자", "")
+    if not who or "<" in who:
+        return None
+    return RIGHTS.get("표기", "© {연도} {권리자}. All rights reserved.").format(
+        연도=RIGHTS.get("연도", ""), 권리자=who)
 
 
 def effect_caption(shot):
@@ -166,7 +180,7 @@ def build(episode_dir, durations=None, out_dir=None, style_path=None,
         spans = json.loads(Path(speech).read_text(encoding="utf-8"))
 
     events, srt, t = [], [], 0.0
-    n = n_eff = 0
+    n = n_eff = n_rights = 0
     prev_cap = None
     for sh in shots:
         dur = float(measured.get(sh["id"], sh.get("duration", 0)))
@@ -209,6 +223,16 @@ def build(episode_dir, durations=None, out_dir=None, style_path=None,
                 )
                 n += 1
             srt.append(f"{n}\n{ts_srt(st)} --> {ts_srt(en)}\n" + "\n".join(wrapped) + "\n")
+        # 엔딩 타이틀 카드 위에 권리 표기. 마지막 컷 끝에 붙인다.
+        if sh.get("shot_ko") == "타이틀" and "권리" in styles:
+            line_r = rights_line()
+            if line_r:
+                hold = float(RIGHTS.get("표기_노출초", 3.0))
+                rs = t + max(0.0, dur - hold)
+                events.append(
+                    f"Dialogue: 0,{ts_ass(rs)},{ts_ass(t + dur)},권리,,0,0,0,,"
+                    + escape_ass(line_r))
+                n_rights += 1
         t += dur
 
     W, H = cfg["video"]["width"], cfg["video"]["height"]
@@ -232,7 +256,7 @@ def build(episode_dir, durations=None, out_dir=None, style_path=None,
     name = ep.name
     (od / f"{name}.ass").write_text(ass, encoding="utf-8")
     (od / f"{name}.srt").write_text("\n".join(srt), encoding="utf-8")
-    return od / f"{name}.ass", od / f"{name}.srt", n, t, len(srt), n_eff
+    return od / f"{name}.ass", od / f"{name}.srt", n, t, len(srt), n_eff, n_rights
 
 
 def main():
@@ -251,9 +275,9 @@ def main():
     g.add_argument("--no-effects", dest="effects", action="store_false",
                    help="소리 글자를 끈다")
     a = p.parse_args()
-    ass, srt, n, total, ns, ne = build(a.episode, a.durations, a.out,
+    ass, srt, n, total, ns, ne, nr = build(a.episode, a.durations, a.out,
                                        Path(a.style) if a.style else None,
-                                       a.narration_burn, a.effects, a.speech)
+                                          a.narration_burn, a.effects, a.speech)
     src = "실측" if a.durations else "규격(duration)"
     if a.speech:
         src += " · 자막 위치는 말 실측"
@@ -261,6 +285,8 @@ def main():
           f"({int(total//60)}분 {total%60:.0f}초) · 길이 기준: {src}")
     if not a.narration_burn:
         print("  나레이션은 화면에 굽지 않습니다 (.srt 에는 들어 있음). --narration-burn 으로 켭니다.")
+    if not nr:
+        print("  ! 권리 표기가 안 들어갔습니다 — bible/rights.json 의 «권리자» 를 채우세요.")
     print(f"  {ass}")
     print(f"  {srt}")
 

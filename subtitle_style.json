@@ -54,6 +54,22 @@
       "margin_h": 80,
       "max_chars_per_line": 8,
       "max_lines": 1
+    },
+    "권리": {
+      "font": "NanumGothic",
+      "size": 30,
+      "bold": false,
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outline_width": 2,
+      "shadow": 0,
+      "shadow_color": "#000000",
+      "shadow_alpha": 160,
+      "align": 2,
+      "margin_v": 30,
+      "margin_h": 60,
+      "max_chars_per_line": 60,
+      "max_lines": 1
     }
   },
   "timing": {

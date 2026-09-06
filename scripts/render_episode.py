@@ -277,7 +277,7 @@ def main():
     if not speech and (ep / "work" / "speech.json").exists():
         speech = ep / "work" / "speech.json"      # 재 두었으면 알아서 쓴다
         print("  말 구간 실측 파일을 찾았습니다 → 자막을 거기에 맞춥니다")
-    ass, srt, n, total, ns, ne = build_subtitles.build(ep, durations=sub_path, speech=speech)
+    ass, srt, n, total, ns, ne, nr = build_subtitles.build(ep, durations=sub_path, speech=speech)
     print(f"자막 재생성 (완성본 실측 기준, 전체 {total:.1f}초) — "
           f"굽는 자막 {n}줄, 유튜브 CC {ns}줄 → {ass.name}, {srt.name}")
 
