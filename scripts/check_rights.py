@@ -32,6 +32,17 @@ def main():
         for 이름, v in 항목들.items():
             if 이름.startswith("_") or not isinstance(v, dict):
                 continue
+            # 완성본에 안 들어가는 내부 레퍼런스는 상업 이용권이 필요 없다.
+            레퍼런스 = "레퍼런스" in (v.get("용도") or "")
+            if 레퍼런스:
+                if v.get("상업이용") is True:
+                    문제.append("%s / %s — 레퍼런스 전용인데 상업이용이 true 입니다. "
+                              "완성본에 쓸 생각이면 용도를 고치세요" % (갈래, 이름))
+                continue
+            if v.get("상태") == "미착수":
+                경고.append("%s / %s — 아직 만들지 않았습니다%s"
+                          % (갈래, 이름, ": " + v["확인필요"] if v.get("확인필요") else ""))
+                continue
             if v.get("상업이용") is None:
                 문제.append("%s / %s — 상업적 이용 가능 여부가 확인되지 않았습니다%s"
                           % (갈래, 이름, ": " + v["확인필요"] if v.get("확인필요") else ""))
