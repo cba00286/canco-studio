@@ -11,7 +11,9 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: 대사,NanumGothic,68,&H00FFFFFF,&H00FFFFFF,&H0014233B,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,70,70,260,1
 Style: 나레이션,NanumGothic,62,&H00DCF6FF,&H00DCF6FF,&H00122E4A,&H80000000,-1,-1,0,0,100,100,0,0,1,5,2,2,70,70,260,1
 Style: 효과,NanumGothic,104,&H00A8E9FF,&H00A8E9FF,&H0014233B,&H78000000,-1,0,0,0,100,100,0,0,1,7,3,8,60,60,240,1
+Style: 권리,NanumGothic,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2,0,2,60,60,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.00,효과,,0,0,0,,사각사각
+Dialogue: 0,0:00:20.00,0:00:23.00,권리,,0,0,0,,© 2026 김성한. All rights reserved.
