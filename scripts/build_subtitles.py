@@ -223,12 +223,14 @@ def build(episode_dir, durations=None, out_dir=None, style_path=None,
                 )
                 n += 1
             srt.append(f"{n}\n{ts_srt(st)} --> {ts_srt(en)}\n" + "\n".join(wrapped) + "\n")
-        # 엔딩 타이틀 카드 위에 권리 표기. 마지막 컷 끝에 붙인다.
-        if sh.get("shot_ko") == "타이틀" and "권리" in styles:
+        # 엔딩 타이틀 카드 위에 권리 표기. 쇼츠처럼 타이틀 컷이 없는 편은
+        # 마지막 컷에 붙인다 — 유튜브에 올라가는 것은 본편이나 쇼츠나 같다.
+        last = sh is shots[-1]
+        if (sh.get("shot_ko") == "타이틀" or (last and not n_rights)) and "권리" in styles:
             line_r = rights_line()
             if line_r:
-                hold = float(RIGHTS.get("표기_노출초", 3.0))
-                rs = t + max(0.0, dur - hold)
+                hold = min(float(RIGHTS.get("표기_노출초", 3.0)), dur)
+                rs = t + dur - hold
                 events.append(
                     f"Dialogue: 0,{ts_ass(rs)},{ts_ass(t + dur)},권리,,0,0,0,,"
                     + escape_ass(line_r))
