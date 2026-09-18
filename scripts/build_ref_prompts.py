@@ -24,6 +24,7 @@ import json
 import re
 from pathlib import Path
 import bible
+from build_previz import move_of
 
 ROOT = Path(__file__).resolve().parent.parent
 FIVE = ["루카", "후안", "미미", "티니", "루비"]
@@ -136,6 +137,18 @@ def motion_ref(chars: dict, shot: dict, cast: list[str], mode: str = "auto") -> 
              안 붙이면 생성기가 자기 음악을 깔아서 클립끼리 안 맞는다.
       [화풍] 픽사 스타일. 컷마다 빠짐없이 들어가야 한다.
     """
+    look, say, sound, style = _parts(chars, shot, cast)
+    move = shot.get("ko_motion", "").rstrip(" .") + "."
+    if shot.get("link") == "연속":
+        move += " 마지막에 동작을 멈추고 그 자세로 화면을 마친다."
+    return "\n".join([
+        "[외형] " + look, "[동작] " + move, "[대사] " + say,
+        "[소리] " + sound, "[화풍] " + style,
+    ])
+
+
+def _parts(chars: dict, shot: dict, cast: list[str]) -> tuple[str, str, str, str]:
+    """[외형] [대사] [소리] [화풍] 네 조각. motion_ref 와 previz_ref 가 같이 쓴다."""
     ent = chars["characters"]
 
     # [외형] — 한두 명이면 전체 외형 + 소품 고정, 셋 이상이면 짧은 외형만.
@@ -148,11 +161,6 @@ def motion_ref(chars: dict, shot: dict, cast: list[str], mode: str = "auto") -> 
     else:
         look = ", ".join(ent[k]["look_ko_short"] for k in cast) + ". "
         look += "각자의 옷과 소품은 처음부터 끝까지 그대로 유지된다."
-
-    # [동작] — 연속 컷은 끝 자세를 멈춰야 다음 컷이 그 프레임에서 이어진다.
-    move = shot.get("ko_motion", "").rstrip(" .") + "."
-    if shot.get("link") == "연속":
-        move += " 마지막에 동작을 멈추고 그 자세로 화면을 마친다."
 
     # [대사] — 화자 이름이 성경과 어긋나면 여기서 잡는다.
     speaker, line = shot.get("speaker", ""), shot.get("dialogue", "")
@@ -176,13 +184,116 @@ def motion_ref(chars: dict, shot: dict, cast: list[str], mode: str = "auto") -> 
     sound = (", ".join(heard) + ". " if heard else "그 장면의 자연스러운 환경음만. ")
     sound += chars.get("sound_ko", "배경음악 없이 목소리와 효과음만") + "."
 
-    return "\n".join([
-        "[외형] " + look,
-        "[동작] " + move,
-        "[대사] " + say,
-        "[소리] " + sound,
-        "[화풍] " + chars["style_ko"].rstrip(" .") + ".",
-    ])
+    return look, say, sound, chars["style_ko"].rstrip(" .") + "."
+
+
+# ── 프리비즈 기준 프롬프트 ────────────────────────────────────────────────────
+#
+# 구도·카메라·타이밍을 블렌더가 잡고, 확정된 프리비즈 프레임을 레퍼런스로 넣는
+# 방식이다. 그래서 프롬프트는 카메라를 두 번 말하면 안 된다 — 프레임 두 장이나
+# 프리비즈 영상을 넣으면 카메라는 이미 거기 있고, 문장까지 주면 두 번 움직인다.
+#
+#   i2v        첫 프레임 한 장.  카메라를 문장으로 말해 준다.
+#   start_end  첫·끝 두 장.      카메라 문장을 빼고 구도만 지킨다.
+
+PREVIZ = json.loads((ROOT / "bible" / "previz.json").read_text(encoding="utf-8"))
+ENGINES = json.loads((ROOT / "bible" / "engines.json").read_text(encoding="utf-8"))
+
+# «카메라가 미끄러진다» 처럼 카메라가 주어인 구절만 걷어낸다. «파편이 카메라 옆으로
+# 스쳐 간다» 는 카메라를 기준점으로만 쓴 연기 묘사라서 남겨야 한다.
+CAM_KO = re.compile(r"(?:카메라|앵글|화면)(?:가|는|이|은|도)")
+# 영어는 «카메라가 움직인다» 는 말만 걷어낸다. "sparks streaming past camera" 처럼
+# 카메라를 기준점으로만 쓰는 말은 연기 묘사라서 남겨야 한다.
+CAM_EN = re.compile(
+    r"\bcamera\s+\w+(?:ing|s|ed)\b"
+    r"|\bcamera\s+(?:slowly|slightly|gently)\b"
+    r"|\b(?:push(?:es|ing)?\s+in|pull(?:s|ing)?\s+back|zoom(?:s|ing)?\s+(?:in|out)"
+    r"|the\s+shot\s+wide(?:n|ns|ning)|cran(?:e|es|ing)\s+(?:up|down))\b", re.I)
+
+# 물·불·연기처럼 물리가 무거운 컷은 대사가 없으면 클링으로 보낸다.
+HEAVY = ("급류", "물살", "파도", "소용돌이", "폭포", "불", "불꽃", "연기", "먼지",
+         "눈보라", "폭우", "번개", "파장", "충격파", "무너", "쏟아", "터진")
+
+
+def _split_ko(text: str) -> tuple[str, str]:
+    """한국어 묘사를 «인물 연기» 와 «카메라» 로 가른다.
+
+    문장으로 한 번, 쉼표와 «~고» 로 한 번 더 자른다. 한 문장 안에서
+    «다섯이 처마 밑으로 뛰어들고 카메라는 집에 머문다» 처럼 붙어 있는 일이 잦다.
+    """
+    parts = []
+    for sent in re.split(r"(?<=[.!?])\s+", text.strip()):
+        parts += [x.strip(" ,") for x in re.split(r",\s*|(?<=고)\s+", sent) if x.strip(" ,")]
+    act = [x for x in parts if not CAM_KO.search(x)]
+    cam = [x for x in parts if CAM_KO.search(x)]
+    return " ".join(act), " ".join(cam)
+
+
+def _split_en(text: str) -> str:
+    """영어 묘사에서 카메라 움직임 구절만 걷어낸다. 쉼표 단위로 자른다."""
+    kept = [x.strip() for x in re.split(r",\s*", text.strip())
+            if x.strip() and not CAM_EN.search(x)]
+    out = ", ".join(kept)
+    return re.sub(r"\s+", " ", out).strip(" ,.")
+
+
+def engine_for(shot: dict, move: str) -> str:
+    """이 컷을 어느 엔진으로 보낼지. bible/engines.json 의 «고르는_법» 그대로."""
+    speaker = shot.get("speaker")
+    if shot.get("dialogue") and speaker and speaker != "나레이션":
+        return "hailuo"                            # 대사 컷은 선택지가 없다
+    text = (shot.get("ko", "") + shot.get("ko_motion", ""))
+    if any(w in text for w in HEAVY):
+        return "kling"
+    if move != "정지":
+        return "higgsfield"
+    return ENGINES["기본"]
+
+
+def previz_ref(chars: dict, shot: dict, cast: list[str], move: str,
+               mode: str = "auto", style: str = "style_tag") -> dict:
+    """프리비즈 프레임을 레퍼런스로 넣을 때 쓰는 컷 프롬프트."""
+    eng = engine_for(shot, move)
+    prof = ENGINES["엔진"][eng]
+    m = PREVIZ["카메라_움직임"][move]
+
+    if prof["프롬프트_언어"] == "한국어":
+        look, say, sound, st = _parts(chars, shot, cast)
+        act, cam_said = _split_ko(shot.get("ko_motion", ""))
+        # 컷 전체가 카메라 묘사뿐이면 연기 줄을 비워 두지 말고 중립문을 쓴다.
+        # 원문으로 되돌리면 걷어낸 카메라 지시가 그대로 다시 들어온다.
+        act = (act or "인물은 크게 움직이지 않는다. 숨결과 옷·풀·물처럼 "
+                      "화면 안의 것들만 자연스럽게 움직인다").rstrip(" .")
+        if act.endswith("고"):
+            act += " 이어서 동작을 마친다"       # «~고» 로 끊긴 채 끝나지 않게
+        act += "."
+        if shot.get("link") == "연속":
+            act += " 마지막에 동작을 멈추고 그 자세로 화면을 마친다."
+        body = ["[외형] " + look, "[연기] " + act]
+        tail = ["[대사] " + say, "[소리] " + sound, "[화풍] " + st]
+        i2v = "\n".join(
+            ["[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. "
+             "인물의 자리와 화면 안 크기를 바꾸지 않는다."]
+            + body + ["[카메라] " + (cam_said or m["문장"])] + tail)
+        se = "\n".join(
+            ["[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. "
+             "인물의 자리와 화면 안 크기를 바꾸지 않는다."] + body + tail)
+    else:
+        act = (_split_en(shot.get("motion", ""))
+               or "The scene continues with gentle natural motion in the light, "
+                  "air and small details")
+        # 정지 이미지용 프롬프트를 영상용으로 돌린다 — «film still» 이 남으면 안 움직인다.
+        scene = shot["image_ref"].replace("animated film still", "animated film")
+        base = scene.rstrip(" .") + ". " + act.rstrip(" .") + "."
+        keep = (" Follow the composition of the attached previz frame exactly — "
+                "do not move, resize or reframe the characters. "
+                "No background music; diegetic sound effects only.")
+        i2v = base + " " + m["문장_en"] + keep
+        se = (base + " The two attached frames are the first and last frame; "
+              "all movement happens between them." + keep)
+
+    return {"엔진": eng, "엔진_이름": prof["이름"], "카메라": move,
+            "언어": prof["프롬프트_언어"], "i2v": i2v, "start_end": se}
 
 
 def main() -> None:
@@ -220,6 +331,8 @@ def main() -> None:
         shot["cast"] = cast
         shot["image_ref"] = ref_prompt(chars, shot, cast, args.mode, args.style)
         shot["motion_ref"] = motion_ref(chars, shot, cast, args.mode)
+        shot["previz_ref"] = previz_ref(chars, shot, cast,
+                                        move_of(shot, PREVIZ), args.mode, args.style)
 
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     n_cast = sum(1 for s in data["shots"] if s["cast"])
@@ -227,8 +340,12 @@ def main() -> None:
     left = [s["id"] for s in data["shots"]
             if re.search(r"[{\[][^}\]]+[}\]]", s["image_ref"])
             or re.search(r"\{[^}]+\}", s["motion_ref"])]
-    print("%s 갱신 — 캐릭터 등장 %d컷 / 배경 %d컷"
-          % (args.shots, n_cast, len(data["shots"]) - n_cast))
+    eng = {}
+    for sh in data["shots"]:
+        eng[sh["previz_ref"]["엔진"]] = eng.get(sh["previz_ref"]["엔진"], 0) + 1
+    print("%s 갱신 — 캐릭터 등장 %d컷 / 배경 %d컷 / 엔진 %s"
+          % (args.shots, n_cast, len(data["shots"]) - n_cast,
+             ", ".join("%s %d" % kv for kv in sorted(eng.items()))))
     if left:
         print("! 채워지지 않은 이름 자리가 남았습니다: %s" % ", ".join(left))
 

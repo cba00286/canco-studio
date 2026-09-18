@@ -3,6 +3,25 @@
 「쿵쿵이와 친구들」 3D 애니메이션(유튜브)의 대본·컷·캐릭터 설정과 사이트 소스.
 **이 저장소의 JSON이 유일한 원본이다.** 문서와 웹 페이지는 전부 여기서 만들어진다.
 
+## 생성 방식 — 2026-09 변경
+
+**프리비즈를 먼저 만들고, 그다음 생성한다.**
+
+```
+대본 → 프리비즈(블렌더) → 편집 → 확정 프레임 → 매핑 → 힉스필드 생성
+```
+
+구도·카메라·타이밍은 **블렌더가 정한다.** 생성기는 그 구도 위에 그림을 입히는 일만
+한다. 컷 하나를 열 번 다시 뽑아도 구도는 그대로다. 자세한 것은 `docs/21`.
+
+- 영상 엔진은 **컷마다 고른다** — 대사 있으면 하이루(미니맥스), 물·불이면 클링,
+  카메라가 움직이면 힉스필드 내장 (`bible/engines.json`)
+- 이미지 매핑(캐릭터 마스터 시트 · 프리비즈 프레임)은 **사람이 직접 건다**
+- **지시가 있을 때까지 자동 생성하지 않는다.** 크레딧이 나가는 일은 사람이 누른다.
+  블렌더 MCP 로 장면을 세우는 것도, 힉스필드 생성도 마찬가지다
+- 프롬프트의 `[동작]` 이 **`[연기]` 와 `[카메라]` 로 갈라졌다.** 프레임을 두 장
+  넣을 때는 `[카메라]` 줄이 없는 쪽을 쓴다 — 두 번 말하면 두 번 움직인다
+
 ## 지금 상태
 
 - **40화 전부 컷 확정** — 2,402컷 · 완성본 기준 약 2시간 50분. 화당 4분 10~30초
@@ -18,10 +37,14 @@
 - **쇼츠 22편** 컷 확정 — 9:16 세로. 본편 컷을 잘라 쓸 수 없다 (`docs/16`)
   - 비율은 프롬프트가 아니라 **생성 화면의 설정**이다. 이미지를 9:16 으로 뽑으면 image2video 가 그 비율을 따라간다
 - 사이트 3페이지 빌드 가능, 컷 시트는 화별로 나온다
+- **프리비즈가 화마다 있다** — `episodes/<ep>/previz/`. `블렌더_<ep>.py` 를 블렌더
+  Scripting 탭에서 실행하면 한 타임라인에 전 컷이 카메라 마커로 깔린다. 카메라는
+  샷 크기와 캐릭터 키로 계산해 잡아 두지만, **최종은 블렌더에서 사람이 고친 값**이다
 - **제작 작업지**가 화마다 있다 — `episodes/<ep>/prompts/제작_작업지.md`.
-  `scripts/build_worklist.py --episode ep1` 로 다시 만든다. 한 파일에 컷 순서대로
-  캐릭터 지정 · ① 이미지 프롬프트(영어) · ② 영상 프롬프트(한국어) · 대사 · 소리 · 시드가
-  다 들어 있다. 끝에 대사표와 나레이션표가 붙는다. **내려받아 쓰는 것은 이 파일이다**
+  `scripts/build_worklist.py --episode ep1` 로 다시 만든다. 컷마다 프리비즈(카메라·렌즈·
+  배치) · 매핑(걸 시트와 프레임) · 엔진 · ① 키프레임 프롬프트 · ② 영상 프롬프트 두 벌 ·
+  대사 · 소리 · 시드가 다 들어 있다. 끝에 대사표와 나레이션표가 붙는다.
+  **내려받아 쓰는 것은 이 파일이다**
 - **지식재산 보호 자료 준비됨** (`docs/19`) — `scripts/build_ip_pack.py --pdf` 로 저작권 등록용 창작 이력 증빙 PDF 생성. 상표 출원 준비는 `ip/상표출원_준비.md`.
   **git 히스토리를 절대 다시 쓰지 않는다** — 커밋 시각이 창작 시점의 증거다
 
@@ -83,7 +106,8 @@
    image2video 라도 다시 적어 준다 — 안 적으면 실사 쪽으로 흐르는 경우가 있다.
 7. **영상 프롬프트는 통째로 한국어로 쓴다.** 영어 설명에 한글 대사만 끼워 넣으면
    그 컷의 대사를 건너뛴다. 위 «영상 프롬프트는 통째로 한국어로 쓴다» 참고.
-8. **소리 배정을 먼저, 프롬프트를 나중에.** `build_audio.py` → `build_ref_prompts.py`
+8. **소리 배정을 먼저, 프리비즈를 그다음, 프롬프트를 나중에.**
+   `build_audio.py` → `build_previz.py` → `build_ref_prompts.py` → `build_worklist.py`
    순서다. 반대로 하면 영상 프롬프트에 효과음이 안 들어간다.
 
 ## 확정된 설정
@@ -122,7 +146,10 @@ OpenArt는 **생성만** 쓴다. 이어붙이기·자막·음악·최종 출력�
 
 ```bash
 python3 scripts/build_audio.py --episode ep1          # 소리 배정 (프롬프트보다 먼저)
-python3 scripts/build_ref_prompts.py --episode ep1   # 프롬프트 재생성 (소리가 영상 쪽에 들어간다)
+python3 scripts/build_previz.py --episode ep1         # 프리비즈 (프롬프트보다 먼저)
+python3 scripts/build_previz.py --all                # 40화 + 쇼츠 22편 한꺼번에
+python3 scripts/build_ref_prompts.py --episode ep1   # 프롬프트 재생성 (소리·프리비즈가 반영된다)
+python3 scripts/build_worklist.py --episode ep1      # 제작 작업지 (프리비즈가 있어야 돈다)
 python3 scripts/mix_audio.py --episode ep1 --list     # 로컬에서 받을 BGM·환경음 목록
 python3 scripts/check_episode.py ep1                 # 규격 검사 (생성 전 필수)
 python3 scripts/check_ost.py ep1                     # OST 확보 현황
@@ -155,7 +182,9 @@ CLAUDE.md                       이 파일 — 새 세션은 여기부터
 .claude/hooks/session-start.sh  세션 시작 시 진행 상황·규격 검사·미결정 사항 출력
 format.json                     시리즈 공통 에피소드 규격
 scripts/
-  build_ref_prompts.py          image → cast + image_ref
+  build_previz.py               컷 → 카메라·배치·프레임 구간 + 블렌더 스크립트
+  build_ref_prompts.py          image → cast + image_ref + previz_ref
+  build_worklist.py             한 화를 만드는 데 필요한 전부 → 제작_작업지.md
   check_episode.py              format.json 대조 검사
   check_ost.py                  OST 확보 현황
   sync_from_page.py             페이지에서 고친 내용 → JSON

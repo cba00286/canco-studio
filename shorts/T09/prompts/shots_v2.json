@@ -37,7 +37,15 @@
       "sig": null,
       "sfx": [
         "작은동물"
-      ]
+      ],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 등장인물 없이 배경만 보인다.\n[연기] 꽃잎이 내려앉는다.\n[카메라] 카메라가 눌린 풀 자국 위를 천천히 지나가고\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 등장인물 없이 배경만 보인다.\n[연기] 꽃잎이 내려앉는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 동물의 소리 또는 움직임. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "T09-02",
@@ -60,7 +68,15 @@
       "link_ko": "훅에서 그대로 이어진다. 무슨 상황인지 드러난다.",
       "motion_ref": "[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[동작] 호랑이가 헐떡이며 멈춰 서고 붉은 노을이 빈 꽃밭을 물들인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
-      "sfx": []
+      "sfx": [],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[연기] 호랑이가 헐떡이며 멈춰 서고 붉은 노을이 빈 꽃밭을 물들인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[연기] 호랑이가 헐떡이며 멈춰 서고 붉은 노을이 빈 꽃밭을 물들인다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "T09-03",
@@ -85,7 +101,15 @@
       "sig": null,
       "sfx": [
         "발소리_풀"
-      ]
+      ],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[연기] 세 실루엣이 점점 작아지고 호랑이가 천천히 무릎을 꿇는다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 풀밭 위 발소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[연기] 세 실루엣이 점점 작아지고 호랑이가 천천히 무릎을 꿇는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 풀밭 위 발소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "T09-04",
@@ -111,7 +135,15 @@
       "sfx": [
         "문_열림",
         "종이"
-      ]
+      ],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[연기] 호랑이가 문 앞에서 종이를 손에서 이리저리 돌리며 기다린다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 나무 문 여닫는 소리, 종이 넘기거나 찢는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 주황 털에 갈색 줄무늬 아기 호랑이, 청데님 오버올. 비행 고글은 쓰지 않고 앞주머니에 넣고 있다. 데님 오버올·앞주머니의 고글은 처음부터 끝까지 그대로 유지된다.\n[연기] 호랑이가 문 앞에서 종이를 손에서 이리저리 돌리며 기다린다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 나무 문 여닫는 소리, 종이 넘기거나 찢는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "T09-05",
@@ -137,7 +169,15 @@
       },
       "motion_ref": "[외형] 등장인물 없이 배경만 보인다.\n[동작] 제목이 천천히 떠오르고 화면이 아주 느리게 물러난다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
-      "sfx": []
+      "sfx": [],
+      "previz_ref": {
+        "엔진": "higgsfield",
+        "엔진_이름": "힉스필드 내장",
+        "카메라": "상승",
+        "언어": "영어",
+        "i2v": "3D Pixar/DreamWorks style animated film, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, a picnic mat on a blossom hilltop with a closed comic book lying on it and a petal resting on the cover, clean empty space along the bottom for a title. The frame settles and holds, ending with the lower third completely clear. The camera cranes slowly upward from a low position. Follow the composition of the attached previz frame exactly — do not move, resize or reframe the characters. No background music; diegetic sound effects only.",
+        "start_end": "3D Pixar/DreamWorks style animated film, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical end card, a picnic mat on a blossom hilltop with a closed comic book lying on it and a petal resting on the cover, clean empty space along the bottom for a title. The frame settles and holds, ending with the lower third completely clear. The two attached frames are the first and last frame; all movement happens between them. Follow the composition of the attached previz frame exactly — do not move, resize or reframe the characters. No background music; diegetic sound effects only."
+      }
     }
   ]
 }

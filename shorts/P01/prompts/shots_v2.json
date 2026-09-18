@@ -37,7 +37,15 @@
       "link_ko": "첫 컷. 표정만으로 무언가 온다는 걸 알린다.",
       "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 턱을 당기며 결심한 표정을 짓는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
-      "sfx": []
+      "sfx": [],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[연기] 아기 공룡이 턱을 당기며 결심한 표정을 짓는다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[연기] 아기 공룡이 턱을 당기며 결심한 표정을 짓는다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "P01-02",
@@ -60,7 +68,15 @@
       "link_ko": "결심한 그 얼굴에서 그대로 자세로 들어간다.",
       "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 아기 공룡이 뒷다리에 힘을 주고 앞발을 최대한 높이 든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
-      "sfx": []
+      "sfx": [],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[연기] 아기 공룡이 뒷다리에 힘을 주고 앞발을 최대한 높이 든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[연기] 아기 공룡이 뒷다리에 힘을 주고 앞발을 최대한 높이 든다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "P01-03",
@@ -90,7 +106,15 @@
       "sig": "쿵쿵_파워",
       "sfx": [
         "충돌_쿵"
-      ]
+      ],
+      "previz_ref": {
+        "엔진": "kling",
+        "엔진_이름": "클링",
+        "카메라": "정지",
+        "언어": "영어",
+        "i2v": "3D Pixar/DreamWorks style animated film, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of golden-teal aurora light running up over 쿵쿵's three small horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck. 쿵쿵's three horns stay exactly the size, shape and proportion of his registered character design — small baby horns. Only the light on them changes; the horns themselves do not grow, lengthen, thicken or become more prominent. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them. The paws crash down and the ring races outward, ending with it passing beyond the frame edge. The camera holds nearly still, creeping forward almost imperceptibly. Follow the composition of the attached previz frame exactly — do not move, resize or reframe the characters. No background music; diegetic sound effects only.",
+        "start_end": "3D Pixar/DreamWorks style animated film, high detail fur and scale texture, cinematic lighting, family animation movie quality, vertical 9:16 composition, subject centred and framed head to toe with generous headroom, clean uncluttered background, nothing important in the outer edges, vertical wide shot of golden-teal aurora light running up over 쿵쿵's three small horns while a visible shockwave ring of the same light spreads outward across the ground from where his front paws struck. 쿵쿵's three horns stay exactly the size, shape and proportion of his registered character design — small baby horns. Only the light on them changes; the horns themselves do not grow, lengthen, thicken or become more prominent. Render every named character exactly as their registered character design — same face, head shape, proportions, colors, markings and outfit. Do not redesign, restyle or age them. The paws crash down and the ring races outward, ending with it passing beyond the frame edge. The two attached frames are the first and last frame; all movement happens between them. Follow the composition of the attached previz frame exactly — do not move, resize or reframe the characters. No background music; diegetic sound effects only."
+      }
     },
     {
       "id": "P01-04",
@@ -114,7 +138,15 @@
       "sfx": [
         "발소리_자갈",
         "돌_굴림"
-      ]
+      ],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 등장인물 없이 배경만 보인다.\n[연기] 돌들이 진동하며 한곳으로 굴러 모이고 층층이 쌓여 계단 모양이 된다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 돌이나 덩어리가 굴러가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 등장인물 없이 배경만 보인다.\n[연기] 돌들이 진동하며 한곳으로 굴러 모이고 층층이 쌓여 계단 모양이 된다. 마지막에 동작을 멈추고 그 자세로 화면을 마친다.\n[대사] 아무도 말하지 않는다. 입을 움직이지 않는다.\n[소리] 자갈 밟는 소리, 돌이나 덩어리가 굴러가는 소리. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     },
     {
       "id": "P01-05",
@@ -137,7 +169,15 @@
       "link_ko": "마무리. 시그니처 포즈로 끝낸다.",
       "motion_ref": "[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[동작] 먼지가 내려앉는 사이 아기 공룡이 자세를 잡고 가슴을 편다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"헤헤, 내가 지켜줄게. 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
       "sig": null,
-      "sfx": []
+      "sfx": [],
+      "previz_ref": {
+        "엔진": "hailuo",
+        "엔진_이름": "하이루(미니맥스)",
+        "카메라": "정지",
+        "언어": "한국어",
+        "i2v": "[구도] 첨부한 프리비즈 프레임의 구도를 그대로 따른다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[연기] 먼지가 내려앉는 사이 아기 공룡이 자세를 잡고 가슴을 편다.\n[카메라] 카메라는 거의 고정이다. 아주 미세하게만 앞으로 다가간다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"헤헤, 내가 지켜줄게. 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질.",
+        "start_end": "[구도] 첨부한 두 프레임이 첫 화면과 끝 화면이다. 그 사이만 움직인다. 인물의 자리와 화면 안 크기를 바꾸지 않는다.\n[외형] 민트색 아기 트리케라톱스, 복숭아빛 작은 뿔 세 개, 베이지 목 프릴, 목에 꽃무늬 아이보리 반다나. 뿔 세 개·목 프릴·꽃무늬 반다나는 처음부터 끝까지 그대로 유지된다.\n[연기] 먼지가 내려앉는 사이 아기 공룡이 자세를 잡고 가슴을 편다.\n[대사] 아기 공룡이 입을 크게 벌려 또박또박 한국어로 말한다: \"헤헤, 내가 지켜줄게. 쿵쿵!\" 다섯 살 남자아이 목소리, 높고 둥글고 살짝 허스키하게, 문장 끝을 올려서.\n[소리] 그 장면의 자연스러운 환경음만. 배경음악 없이 목소리와 효과음만.\n[화풍] 픽사 스타일 3D 애니메이션, 부드러운 서브서피스 산란과 따뜻한 시네마틱 조명, 둥글고 친근한 캐릭터 조형, 얕은 피사계 심도, 고급스러운 극장용 렌더링 품질."
+      }
     }
   ]
 }
